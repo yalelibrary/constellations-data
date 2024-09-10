@@ -12,7 +12,7 @@ These files can be edited to exclude images, exclude properties, and rename prop
 
 ## Biographies
 The biographies are in [biographies/](biographies).<br />
-(e.g. [biographies/Q1766103.md](biographies/Q1766103.md))
+(e.g. [biographies/Q102293564.md](biographies/Q102293564.md))
 
 (They are set up as markdown files, but we can change the format to whatever makes sense.)
 
