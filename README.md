@@ -15,3 +15,10 @@ The biographies are in [biographies/](biographies).<br />
 (e.g. [biographies/Q1766103.md](biographies/Q1766103.md))
 
 (They are set up as markdown files, but we can change the format to whatever makes sense.)
+
+## Property Value Overrides
+The property value overrides are in [property-value-override/](property-value-override).<br />
+
+(e.g. [property-value-override/Q102293564.json](property-value-override/Q102293564.json))
+
+This will override the data in wikidata for a property.  If a value in wikidata is not wanted or needs to be edited it can be overridden using these files. To suppress a value for a specific entity, set the property to `null`. (You can suppress a property for all entities by removing it from the [include_properties_list.csv](wikidata-lists/include_properties_list.csv).)

@@ -1,0 +1,16 @@
+{
+    "P735": {
+        "key": "P735",
+        "property": {
+            "label": "given name"
+        },
+        "values": [
+            {
+                "value-type": "string",
+                "text": "Thomas (test)"
+            }
+        ]
+    },
+
+    "P4955": null
+}
