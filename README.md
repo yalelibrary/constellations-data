@@ -14,7 +14,17 @@ These files can be edited to exclude images, exclude properties, and rename prop
 The biographies are in [biographies/](biographies).<br />
 (e.g. [biographies/Q102293564.md](biographies/Q102293564.md))
 
-(They are set up as markdown files, but we can change the format to whatever makes sense.)
+They are in markdown format for easy and safe convertion to HTML.
+
+## Publication Lists
+The publication lists are in [publications/](publications).<br />
+(e.g. [publications/Q102293564.tsv](publications/Q102293564.tsv))
+
+The publications tab separated files are named with the ID of the person.<br />
+The columns are `title`, `date`, `link`, `journal`, `role`, `authors`, in that order. Title is required. Columns may be ommitted.
+
+Example roles: editor, co-author.<br />
+`authors` is for other contributors to the publication.
 
 ## Property Value Overrides
 The property value overrides are in [property-value-override/](property-value-override).<br />
