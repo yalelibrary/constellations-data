@@ -5,9 +5,11 @@ P18	image
 P19	place of birth
 P21	sex or gender
 P22	father
+P25	mother
 P26	spouse
 P3373	sibling
 P485	archives at
+P53	family
 P551	residence
 P569	date of birth
 P570	date of death

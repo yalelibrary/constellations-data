@@ -59,6 +59,7 @@ P217	inventory number
 P22	father
 P227	GND ID
 P244	Library of Congress authority ID
+P25	mother
 P26	spouse
 P2600	Geni.com profile ID
 P2671	Google Knowledge Graph ID
@@ -94,10 +95,10 @@ P463	member of
 P4823	American National Biography ID
 P485	archives at
 P4903	New Georgia Encyclopedia ID
-P4955	MR Author ID
 P5008	on focus list of Wikimedia project
 P5034	National Library of Korea ID
 P509	cause of death
+P53	family
 P535	Find a Grave memorial ID
 P5361	BNB person ID
 P549	Mathematics Genealogy Project ID
