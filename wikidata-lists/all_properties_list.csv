@@ -80,6 +80,7 @@ P3368	Prabook ID
 P3373	sibling
 P3417	Quora topic ID
 P3430	SNAC ARK ID
+P3560	College Football Data Warehouse ID
 P3716	social classification
 P373	Commons category
 P3762	openMLOL author ID
@@ -101,6 +102,7 @@ P509	cause of death
 P53	family
 P535	Find a Grave memorial ID
 P5361	BNB person ID
+P54	member of sports team
 P549	Mathematics Genealogy Project ID
 P551	residence
 P5587	Libris-URI
@@ -111,6 +113,7 @@ P6104	maintained by WikiProject
 P625	coordinate location
 P6284	NCpedia ID
 P6371	Archives of Maryland Biographical Series ID
+P641	sport
 P646	Freebase ID
 P648	Open Library ID
 P6594	Guggenheim fellows ID
