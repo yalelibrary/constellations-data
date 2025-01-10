@@ -6,6 +6,7 @@
 See: [schemaorg.rdf](schemaorg.rdf)
 
 ## Omeka installation
+Download the schemaorg.rdf file to you computer.<br />
 Import into Omeka with the following settings:
 - Label: `Schema.org`
 - Namespace URI: `http://schema.org/`
