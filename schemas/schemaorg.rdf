@@ -117,4 +117,10 @@
   <rdfs:label>Relative</rdfs:label>
   <schema:rangeIncludes rdf:resource="http://schema.org/Person"/>
 </rdf:Property>
+<rdf:Property rdf:about="http://schema.org/familyName"> 
+  <rdfs:label>Family Name</rdfs:label>
+  <schema:rangeIncludes rdf:resource="http://schema.org/Text"/>
+  <rdfs:comment>Family name. In the U.S., the last name of a Person.</rdfs:comment>
+  <schema:domainIncludes rdf:resource="http://schema.org/Person"/>
+</rdf:Property>
 </rdf:RDF>
