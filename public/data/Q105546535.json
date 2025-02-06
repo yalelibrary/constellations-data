@@ -1,0 +1,264 @@
+{
+    "id": "Q105546535",
+    "label": "Buford Franklin Gordon",
+    "biographyMarkdown": "# Buford Franklin Gordon\n## Attended Yale Divinity School, 1917-1918\nBuford F. Gordon was born in 1893 in Pulaski, Tennessee to Aaron and Matilda Gordon. He attended Fisk University, where he studied chemistry and was mentored by Yale alumnus George Edmund Haynes. After graduating from Fisk in 1917, he attended Yale Divinity School for a year before entering the Army and serving in World War I. \n\nUpon his return from the war, he continued his divinity studies at the University of Chicago and also opened a cosmetics business, Chemical Manufacturing Company. He completed a master\u2019s of divinity in 1920. Around this time, he married his wife, Thelma Pierce.\n\nThe couple moved to South Bend, Indiana, where Gordon worked to establish an African Methodist Episcopal Church. He also studied Black life in South Bend, publishing The Negro of South Bend in 1922. Once the church was established, he left to become minister at another AME church in Akron, Ohio. While pastor there, he wrote Pastor and People (1930). In 1931, he ended his pastorship in Akron and took a position as Editor of Church School Literature for the AME Church. During this time, he also wrote Teaching for Abundant Living (1936). He served as a bishop for the AME Church, with appointments starting in 1936 and in 1944. He served on the executive committee of the NAACP.\n\nGordon died in 1952.\n",
+    "description": "Attended Yale Divinity School, 1917-1918",
+    "publicationsMarkdown": "*Reflections in Prose and Poetry.* Nashville, TN: A.M.E. Sunday School Union, 1917. \n\n\"A Comparative Study of the Doctrines of the Efficacy of Baptism.\" PhD diss., University of Chicago, 1921.\n\n*The Quest of Restless Souls.* South Bend, IN: Self-published, 1922. \n\n*The Negro in South Bend: A Social Study.* South Bend, IN: Self-Published, 1922. \n\n*Pastor and People: Dealing with The Problems of Church Administration.* Akron, OH: Superior Printing & Litho. Co., 1930.\n\n*Teaching for Abundant Living; Teaching Through Sharing and Guiding Experiences.* Boston, MA: The Christopher Publishing House, 1936. \n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1893"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1952"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1410885",
+                    "data": {
+                        "label": "Pulaski, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.195833333333,
+                                        "longitude": -87.034444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pulaski, Tennessee, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q131252",
+                    "data": {
+                        "label": "University of Chicago",
+                        "instance_of": [
+                            "private university",
+                            "private not-for-profit educational institution",
+                            "research university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.789722222222,
+                                        "longitude": -87.599722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Chicago"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "point in time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1917"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q486877",
+                    "data": {
+                        "label": "South Bend, Indiana, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.676388888889,
+                                        "longitude": -86.250277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "South Bend, Indiana, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q163132",
+                    "data": {
+                        "label": "Akron, Ohio, United States",
+                        "instance_of": [
+                            "county seat",
+                            "city in the United States",
+                            "big city",
+                            "city of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.073055555556,
+                                        "longitude": -81.517777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Akron, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1410885",
+                    "data": {
+                        "label": "Pulaski, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.195833333333,
+                                        "longitude": -87.034444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pulaski, Tennessee, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Gordon"
+                }
+            ]
+        }
+    }
+}

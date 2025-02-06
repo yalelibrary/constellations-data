@@ -1,0 +1,238 @@
+{
+    "id": "Q51551851",
+    "label": "Henry Floyd Gamble",
+    "biographyMarkdown": "# Henry Floyd Gamble\n## Graduate of Yale School of Medicine, 1891\nBorn in 1862 in North Garden, Virginia, Henry Floyd Gamble grew up near Charlottesville, Virginia, where his family settled after the Civil War. As a boy, he worked on the estate of John Staige Davis, a professor of medicine at the University of Virginia and former surgeon in the Confederate Army. Davis\u2019 son gave Gamble lessons secretly, but when the doctor found out he ended the schooling. Gamble then paid a tutor to teach him at night. \n\nGamble graduated from the preparatory department and the undergraduate program at Lincoln University, earning his BA in 1888. He then graduated from the Yale School of Medicine in 1891. While a student, Gamble worked as a janitor and a waiter to pay expenses. \n\nGamble briefly practiced medicine in Charlottesville before moving to Charleston, West Virginia. There he established a medical practice and served as president of the National Medical Association, an organization of Black physicians, and helped establish a state chapter in West Virginia. Deeply involved in civic and church affairs, Gamble was a member of the Kappa Alpha Psi Fraternity, Inc. Gamble married twice and had four children. He died in 1932 in Charleston, West Virginia.\n\nImage citation: *The National Cyclopedia of the Colored Race* (1919), edited by Clement Richardson. (Via Wikimedia Commons)\n",
+    "description": "Graduate of Yale School of Medicine, 1891",
+    "publicationsMarkdown": "\"Control of Epidemics.\" M.D. diss., Yale University, 1891.\n\n\"Infant Mortality,\" *Colored American Magazine*, October 1, 1904.\n\n\"Clinical Notes, Report of a Case of Puerperal Eclampsia-Placenta Praevia-Caesarian Section,\" *Yale Medical Journal 15* (1908). \n\n\"Report of Committee On Medical Education And Negro Medical Schools,\" *Journal National Medical Association 1*, no. 4 (1909). \n\n\"Report on Medical Education,\" *Journal National Medical Association 2*, no. 1 (1910).\n\n\"Obstetrics and some Obstetrical Problems,\" *Journal National Medical Association 2*, no. 1 (1910).\n\n\"The Physician and the Community,\" *Journal National Medical Association 4*, no. 4 (1912).\n\n\"Case Reports: Thoracic Aneurysms,\" *Journal National Medical Association 12*, no. 3 (1920).\n\n\"Thrombus of the Pelvis and Lower Extremities,\" *Journal National Medical Association 15*, no. 2 (1923).\n\n\"Caesarean Section,\" *Journal National Medical Association 16*, no. 3 (1924).\n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1961140",
+                    "data": {
+                        "label": "Yale School of Medicine",
+                        "instance_of": [
+                            "medical school",
+                            "faculty"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.303245363975,
+                                        "longitude": -72.933871811889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Medicine",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1891"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1862"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1932"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7055464",
+                    "data": {
+                        "label": "North Garden, Virginia, United States",
+                        "instance_of": [
+                            "census-designated place in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.9408,
+                                        "longitude": -78.6367
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "North Garden, Virginia, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q123766",
+                    "data": {
+                        "label": "Charlottesville, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.0299,
+                                        "longitude": -78.479
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Charlottesville, Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q44564",
+                    "data": {
+                        "label": "Charleston, West Virginia, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.347222222222,
+                                        "longitude": -81.633333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Charleston, West Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7055464",
+                    "data": {
+                        "label": "North Garden, Virginia, United States",
+                        "instance_of": [
+                            "census-designated place in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.9408,
+                                        "longitude": -78.6367
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "North Garden, Virginia, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Henry Floyd Gamble",
+                    "image-info": [
+                        {
+                            "url": "/data/Q51551851.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Gamble"
+                }
+            ]
+        }
+    }
+}

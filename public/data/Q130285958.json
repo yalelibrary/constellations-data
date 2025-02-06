@@ -1,0 +1,272 @@
+{
+    "id": "Q130285958",
+    "label": "Alfred E. Dyett",
+    "biographyMarkdown": "# Alfred E. Dyett\n## Graduate of Yale Divinity School, 1912\nBorn in Montserrat, British West Indies in 1879, Alfred Ernest Dyett received a BD from Lincoln University in 1911. He attended Yale Divinity School from 1911 to 1912, receiving a BD in 1912. After his ordination in the Methodist Episcopal Church in New Bedford, Massachusetts in 1912, Dyett served as a minister of a Presbyterian church in Trinidad from 1912 to 1918. From 1918 to 1920, he was minister in Wakenaam, British Guiana (now Guyana). In 1920, he moved to pastor a church in St. Saviour, Berbice, British Guiana. A 1934 newspaper article identified him as a \u201cmissionary of the Church of Scotland in British Guiana and South America, who is making a special study of agricultural problems and their solution in the southern states, especially among our people.\u201d A 1934 article said, \u201cThe Rev. Mr. Dyett has served in many West Indian colonies. He was moderator of the Scotch Church in British Guiana and a member of the Executive Committee of the Negro Progress Convention there.\u201d In 1935, a piece in the New York Age discussed his visit to New York, where he would be speaking at a Black church on \"The Future of the Negro in the British West Indies.\u201d It noted that Dyett had visited Tuskegee, Hampton, and other Black industrial schools and had studied agricultural and vocational education methods.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1912",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1879"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q13353",
+                    "data": {
+                        "label": "Montserrat, British overseas territories, United Kingdom",
+                        "instance_of": [
+                            "British overseas territories",
+                            "island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 16.75,
+                                        "longitude": -62.2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Montserrat, British overseas territories, United Kingdom"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1912"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49147",
+                    "data": {
+                        "label": "New Bedford, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.636111111111,
+                                        "longitude": -70.934722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Bedford, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q128323",
+                    "data": {
+                        "label": "Trinidad, Trinidad and Tobago",
+                        "instance_of": [
+                            "island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 10.460555555556,
+                                        "longitude": -61.248611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Trinidad, Trinidad and Tobago"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7961123",
+                    "data": {
+                        "label": "Wakenaam, Guyana",
+                        "instance_of": [
+                            "island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 6.97005,
+                                        "longitude": -58.450011111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wakenaam, Guyana"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q675322",
+                    "data": {
+                        "label": "Berbice",
+                        "instance_of": [
+                            "colony"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 6.23369,
+                                        "longitude": -57.543
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Berbice"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q13353",
+                    "data": {
+                        "label": "Montserrat, British overseas territories, United Kingdom",
+                        "instance_of": [
+                            "British overseas territories",
+                            "island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 16.75,
+                                        "longitude": -62.2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Montserrat, British overseas territories, United Kingdom"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Alfred E. Dyett",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130285958.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Dyett"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,333 @@
+{
+    "id": "Q130309665",
+    "label": "Henry Edward Manning",
+    "biographyMarkdown": "# Henry Edward Manning\n## Received Certificate of Art, 1883\nBorn in 1858 in Edenton, North Carolina, Henry Edward Manning was one of four siblings born to Alfred and Eliza (Allston) Manning. He moved with his family to New Haven as a child. Manning attended public school in Fair Haven and studied art with a private tutor. Several maternal uncles worked as custodians at Yale, including Osborn and Isom Allston. His brother, John Wesley Manning, graduated from Yale College in 1881. A nephew, William Edward Beardsley Manning, attended the Yale School of Art from 1912 to 1914.\n\nAfter receiving his certificate from Yale Art School in 1883, Henry Edward Manning taught drawing in a public school in Knoxville, Tennessee, and at Allen University in Columbia, South Carolina. In 1887, he began working as a sign painter in Knoxville. Around 1890, he returned to New Haven and continued in the sign painting business. Sometime around 1904, he married Allie M. Warwick; she died in 1917. As of that year, Manning lived at 550 Orchard Street in New Haven and was employed independently as a sign painter. He died in 1925 in New Haven.\n",
+    "description": "Received Certificate of Art, 1883",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047422",
+                    "data": {
+                        "label": "Yale School of Art",
+                        "instance_of": [
+                            "educational institution",
+                            "arts educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3086,
+                                        "longitude": -72.9319
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Art",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1883"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1858"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1925"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49041",
+                    "data": {
+                        "label": "Allen University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.010556,
+                                        "longitude": -81.020556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Allen University"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2028258",
+                    "data": {
+                        "label": "Edenton, North Carolina, Kingdom of Great Britain",
+                        "instance_of": [
+                            "port settlement",
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.060833333333335,
+                                        "longitude": -76.60833333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Edenton, North Carolina, Kingdom of Great Britain"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309664",
+                    "data": {
+                        "label": "John Wesley Manning",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "John Wesley Manning",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q10861465",
+                                    "data": {
+                                        "label": "brother",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "brother"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309647",
+                    "data": {
+                        "label": "William Edward Beardsley Manning",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "William Edward Beardsley Manning",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q15224724",
+                                    "data": {
+                                        "label": "nephew",
+                                        "instance_of": [
+                                            "kinship",
+                                            "kinship relation"
+                                        ]
+                                    },
+                                    "text": "nephew"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q185582",
+                    "data": {
+                        "label": "Knoxville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.961666666666666,
+                                        "longitude": -83.92333333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Knoxville, Tennessee, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2028258",
+                    "data": {
+                        "label": "Edenton, North Carolina, Kingdom of Great Britain",
+                        "instance_of": [
+                            "port settlement",
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.060833333333335,
+                                        "longitude": -76.60833333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Edenton, North Carolina, Kingdom of Great Britain"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q38453",
+                    "data": {
+                        "label": "Columbia, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.000555555556,
+                                        "longitude": -81.044166666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbia, South Carolina, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Manning"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,243 @@
+{
+    "id": "Q130309689",
+    "label": "Abner Gideon Nkosi",
+    "biographyMarkdown": "# Abner Gideon Nkosi\n## Received master's degree, 1940\nAbner Gideon Nksoi was born in Zombodze, Swaziland (now Eswatini) in 1908. Zombodze is a village associated with Swazi royalty, and Nkosi may himself have been a part of Swazi royalty, with his father Dhlamini II recorded as a chief. He received his bachelor's from the University of South Africa in 1936 and a master\u2019s in race relations from Yale in 1940, with an essay on \u201cEducation and Culture Change Among the Swazi of the Protectorate, South Africa.\u201d During his time at Yale he was hosted by Lida Clanton Broner, an African-American activist with ties to South Africa. In 1941 he married Gladys Thsabalala, with whom he had at least two children, and in 1946 he received a master\u2019s in education from the University of South Africa. Nkosi continued working in education from then on, working variously as a teacher and a principal in schools throughout South Africa, including as a teacher at St. Chad\u2019s College, Payneville Secondary School, Payneville Springs, and as principal of the Swazi National School in Mbabane, Swaziland (Eswatini). He was also the president of the Swaziland African Teachers Association. Nkosi died in 1956.\n",
+    "description": "Received master's degree, 1940",
+    "publicationsMarkdown": "\"The Development of the Native Primary School Code in the Transvaal.\" M.A. thesis, University of South Africa, 1946. \n\n\"Education and Culture Change Among the Swazi of the Protectorate, South Africa.\" M.A. thesis, Yale University, 1950.\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1940"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q677993",
+                    "data": {
+                        "label": "University of South Africa",
+                        "instance_of": [
+                            "public university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -25.767222222222,
+                                        "longitude": 28.199444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of South Africa"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1908"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1956"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2003377",
+                    "data": {
+                        "label": "Zombodze",
+                        "instance_of": [
+                            "inkhundla"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -27.1836,
+                                        "longitude": 31.3192
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -27.22746,
+                                        "longitude": 31.33799
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Zombodze"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q258",
+                    "data": {
+                        "label": "South Africa",
+                        "instance_of": [
+                            "sovereign state",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -29,
+                                        "longitude": 24
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "South Africa"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3904",
+                    "data": {
+                        "label": "Mbabane, Eswatini",
+                        "instance_of": [
+                            "city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -26.316666666666666,
+                                        "longitude": 31.133333333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Mbabane, Eswatini"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2003377",
+                    "data": {
+                        "label": "Zombodze",
+                        "instance_of": [
+                            "inkhundla"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -27.1836,
+                                        "longitude": 31.3192
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -27.22746,
+                                        "longitude": 31.33799
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Zombodze"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Nkosi"
+                }
+            ]
+        }
+    }
+}

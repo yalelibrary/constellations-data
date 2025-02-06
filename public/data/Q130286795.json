@@ -1,0 +1,252 @@
+{
+    "id": "Q130286795",
+    "label": "Viola White Goin",
+    "biographyMarkdown": "# Viola White Goin\n## Attended English classes in Yale Graduate School, 1902-1903\nBorn in 1877, Viola White Goin received her bachelor's degree from Oberlin College in 1901. She studied English at the Yale Graduate School from 1902-1903. In 1902, she married fellow Oberlin and Yale student Edward Franklin Goin. They had two children: Viola Goin Palmer and Edward H. Goin (Yale College, 1924). Viola W. Goin served as acting dean of women at Fisk University in the early 1930s. She spent most of her adult life in New Haven, where her husband served as pastor of the Dixwell Congregational UCC. She died in 1955 and is buried in Evergreen Cemetery, New Haven.\n",
+    "description": "Attended English classes in Yale Graduate School, 1902-1903",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1877"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1955"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1902"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1903"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q616591",
+                    "data": {
+                        "label": "Oberlin College",
+                        "instance_of": [
+                            "college",
+                            "liberal arts college",
+                            "private not-for-profit educational institution",
+                            "private university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.293055555555554,
+                                        "longitude": -82.22166666666666
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Oberlin College"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23197",
+                    "data": {
+                        "label": "Nashville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "consolidated city-county",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.16222222222222,
+                                        "longitude": -86.77444444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Nashville, Tennessee, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581072",
+                    "data": {
+                        "label": "female",
+                        "instance_of": [
+                            "sex of humans",
+                            "gender"
+                        ]
+                    },
+                    "text": "female"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q126369056",
+                    "data": {
+                        "label": "Edward F. Goin",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Edward F. Goin",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "spouse"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Goin"
+                }
+            ]
+        }
+    }
+}

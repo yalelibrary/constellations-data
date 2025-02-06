@@ -1,0 +1,211 @@
+{
+    "id": "Q130299070",
+    "label": "Edward Gaylord Howell",
+    "biographyMarkdown": "# Edward Gaylord Howell\n## Graduate of Yale College, 1920\nEdward Gaylord Howell was born in 1898 to Edward Brodie Howell, an automotive engineer with I.N. Neumann & Sons in New Haven, and Mary Frances Bibby Howell. Both his parents were from North Carolina. Howell graduated from New Haven High School (now Hillhouse High School), then entered Yale College. At Yale, he was a member of ROTC and the Field Artillery Corps of the Yale Student Army Training Corps (SATC) during World War I. He lived with his family at 8 Garden Street in New Haven. \n\nHowell went on to receive a medical degree from Howard University and began a long career as a physician in New Brunswick, New Jersey. He was noted for his role as \u201cfamily doctor\u201d to many New Brunswick families, and for his skill in treating patients with alcoholism, informed by his personal experience of alcoholism and long-term recovery.\n\nIn 1924, Howell married Christine Moore, an entrepreneur, cosmetic scientist, and founder of the company Christine Cosmetics. He was a member of Beta Chapter of Alpha Phi Alpha at Howard, and in 1926, he was a founding member of the Alpha Alpha Lambda chapter. Howell died in 1971 in New Jersey.\n\nImage citation: Yale College Class of 1920 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1920",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q14714934",
+                    "data": {
+                        "label": "Hillhouse High School",
+                        "instance_of": [
+                            "high school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.322,
+                                        "longitude": -72.9397
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hillhouse High School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1920"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1898"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1971"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q138338",
+                    "data": {
+                        "label": "New Brunswick, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.486666666667,
+                                        "longitude": -74.444444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Brunswick, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Edward Gaylord Howell",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130299070.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Howell"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,431 @@
+{
+    "id": "Q130314887",
+    "label": "John McLinn Ross",
+    "biographyMarkdown": "# John McLinn Ross\n## Attended Yale College, 1912-1914; Received Master's of Fine Arts, Yale School of Drama, 1935\nBorn in New Haven in 1895, John McLinn Ross (\u201cMac\u201d) was born to parents John, a clerk, and Ernestine Ross. His grandfather, Charles McLinn, was a longtime carpenter and employee at Yale and civic figure in New Haven. Ross attended New Haven High School (now Hillhouse High School) before enrolling at Yale, where he was a member of Alpha Phi Alpha Fraternity. Ross left Yale and enrolled at the University of Illinois. During World War I, he served as a captain of field artillery. Later, in New Haven, he was a member of the Dixwell Players at the Dixwell Community House, begun in 1924.\n\nRoss returned to Yale and was a student in the School of Drama from 1931 to 1934. However, Yale withheld his master's degree until he completed an undergraduate degree. He spent one year at Morehouse College to complete the required credits. In 1935, he was awarded both a BA from Morehouse and an M.F.A. from the Yale School of Drama. He is the first Black person known to have received an M.F.A. from Yale.\n\nFrom 1934 to 1939, Ross served as assistant professor of drama at Spelman College, while serving as technical director of the summer theater program at Atlanta University. Along with Yale alumni Ann Margaret Cooke and Owen Dodson, he helped direct the Atlanta University Players. From 1939 to 1942, he was director of Fisk University\u2019s Little Theater.\n\nIn 1943, Ross became the director of Dillard University\u2019s drama program, which included the New Orleans Little Theater Guild and the Paul Robeson Children\u2019s Theater. In the 1940s, he was the first head of speech and drama at Arkansas Agricultural, Mechanical and Normal College (now the University of Arkansas at Pine Bluffs). The John McLinn Ross Theatre and the John McLinn Ross Players at the UAPB are named for him. \n\nA playwright, Ross wrote *Strivin\u2019*, *One Clear Call*, *Rho Kappa Epsilon*, and *Delta Power*, as well as a number of one-act plays. He studied folklore in Mississippi for the Library of Congress, and he gave lectures at Yale, Carnegie Tech, and the University of Pittsburgh about this work. \n\nRoss was known for his expertise concerning stage lighting. Stanley McCandless, professor at Yale, was quoted in a 1943 newspaper article saying of Ross, \u201cHe is not only a capable technician, but he brings with him a sense of the theater that few of any race have.\u201d Family members who attended Yale include Nerissa Whittington Tyler, Hubert Heaton Washington Ross, and Hubert Barnes Ross (MA, 1942).\n",
+    "description": "Attended Yale College, 1912-1914; Received Master's of Fine Arts, Yale School of Drama, 1935",
+    "properties": {
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4359655",
+                    "data": {
+                        "label": "Dillard University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 29.995,
+                                        "longitude": -90.0653
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Dillard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2495825",
+                    "data": {
+                        "label": "University of Arkansas at Pine Bluff",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.2423,
+                                        "longitude": -92.0203
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Arkansas at Pine Bluff"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7575916",
+                    "data": {
+                        "label": "Spelman College",
+                        "instance_of": [
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution",
+                            "women's college in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.746,
+                                        "longitude": -84.411
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Spelman College"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1524124",
+                    "data": {
+                        "label": "Morehouse College",
+                        "instance_of": [
+                            "college",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.746666666667,
+                                        "longitude": -84.415277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morehouse College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q14714934",
+                    "data": {
+                        "label": "Hillhouse High School",
+                        "instance_of": [
+                            "high school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.322,
+                                        "longitude": -72.9397
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hillhouse High School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1912"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1914"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047423",
+                    "data": {
+                        "label": "Yale School of Drama",
+                        "instance_of": [
+                            "drama school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3096,
+                                        "longitude": -72.931
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.309638888888884,
+                                        "longitude": -72.93102777777779
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Drama",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1932"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1935"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "sourcing circumstances",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q5727902",
+                                    "data": {
+                                        "label": "circa",
+                                        "instance_of": [
+                                            "sourcing circumstance"
+                                        ]
+                                    },
+                                    "text": "circa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1895"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q34404",
+                    "data": {
+                        "label": "New Orleans, Louisiana, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 29.976111111111113,
+                                        "longitude": -90.07833333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Orleans, Louisiana, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q80012",
+                    "data": {
+                        "label": "Pine Bluff, Arkansas, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.22844444444444,
+                                        "longitude": -92.00319444444445
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pine Bluff, Arkansas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23556",
+                    "data": {
+                        "label": "Atlanta, Georgia, United States",
+                        "instance_of": [
+                            "county seat",
+                            "big city",
+                            "city in the United States",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.756944444444,
+                                        "longitude": -84.390277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Atlanta, Georgia, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Ross"
+                }
+            ]
+        }
+    }
+}

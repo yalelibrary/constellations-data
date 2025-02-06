@@ -1,0 +1,231 @@
+{
+    "id": "Q130309654",
+    "label": "Robert Haywood Johnson, Jr.",
+    "biographyMarkdown": "# Robert Haywood Johnson, Jr.\n## Graduate of Sheffield Scientific School, 1928\nRobert Haywood Johnson, Jr. was born in 1905 in Louisburg, North Carolina to Robert Haywood and Cornelia Althea Toole Johnson. His mother attended Kittrell College in North Carolina. In 1908, his family moved to Norwich, Connecticut. His father was a gardener for Nancy and Mary Lucas, and the family lived on their property. Haywood, Jr. attended the Norwich Free Academy and entered Yale with the class of 1927. He left Yale for the 1924-1925 academic year, then returned. While at Yale, he lived off-campus at 9 Garden Street and at 318 York Street. He was a member of Omega Psi Phi Fraternity. In New Haven, he was a member of the Dixwell Community Dramatic Club committee, Community Chorus, and Book Club, and played first violin in the Little Symphony Orchestra. He wrote in a survey for the senior class book that he intended to pursue a career as a writer, teacher, author and/or playwright. He graduated with the class of 1928, receiving a bachelor's of philosophy (PhB) degree. After graduating from Yale, he taught math for a time in the high school department of Wilberforce University. As of the 1930 census, he was teaching at Wilberforce and was unmarried.\n\nLittle has yet been found on Johnson\u2019s later life. Records indicate that at some point in the 1930s, he was hospitalized at the Norwich State Hospital and was residing there as of 1955.\n\nImage citation: Sheffield Scientific School Class of 1928 class book, Yale University Library\n",
+    "description": "Graduate of Sheffield Scientific School, 1928",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1928"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1905"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2026010",
+                    "data": {
+                        "label": "Louisburg, North Carolina, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1003,
+                                        "longitude": -78.2989
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Louisburg, North Carolina, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q631402",
+                    "data": {
+                        "label": "Norwich, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.550277777778,
+                                        "longitude": -72.0875
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Norwich, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2026010",
+                    "data": {
+                        "label": "Louisburg, North Carolina, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1003,
+                                        "longitude": -78.2989
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Louisburg, North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1866955",
+                    "data": {
+                        "label": "Wilberforce, Ohio, United States",
+                        "instance_of": [
+                            "census-designated place in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7158,
+                                        "longitude": -83.88
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce, Ohio, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Robert Haywood Johnson, Jr.",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309654.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Johnson,"
+                }
+            ]
+        }
+    }
+}

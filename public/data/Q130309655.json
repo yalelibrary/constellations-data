@@ -1,0 +1,256 @@
+{
+    "id": "Q130309655",
+    "label": "Alexander Henry Jones",
+    "biographyMarkdown": "# Alexander Henry Jones\n## Attended Yale Divinity School 1913-1914\nAlexander Henry Jones was born in Orangeburg, South Carolina in 1883 to Rev. Joshua H. Jones and Elizabeth Martin Jones. His father was president of Wilberforce University from 1900 to 1908 and later a bishop in the AME Church.\n\nJones received a bachelor's degree from Wilberforce in 1905. He attended Yale Divinity School in the 1913-1914 academic year and, while at Yale, led a young men\u2019s Sunday school class at St. Luke\u2019s Episcopal Church. His classmates at the Divinity School included William Ashby, Beal Elliot, Alexander J. Allen, Nimrod Booker Allen, John Wesley Anderson, Aiken Pope, and Edward Nichols. He went on to receive a bachelor's of divinity from Drew Theological Seminary in 1916 and a doctorate of theology and a master's degree from the University of Kansas in 1922. He had a career in ministry and in higher education, serving churches in New Jersey and becoming a professor and dean at Western University in Kansas.\n\nImage citation: Courtesy Drew University Archives.\n",
+    "description": "Attended Yale Divinity School 1913-1914",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1883"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q93290445",
+                    "data": {
+                        "label": "Drew Theological School",
+                        "instance_of": [
+                            "seminary"
+                        ]
+                    },
+                    "text": "Drew Theological School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130267301",
+                    "data": {
+                        "label": "Wilberforce Institute",
+                        "instance_of": [
+                            "educational institution"
+                        ]
+                    },
+                    "text": "Wilberforce Institute"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1913"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1914"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2276157",
+                    "data": {
+                        "label": "Orangeburg, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.496944444444,
+                                        "longitude": -80.862222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Orangeburg, South Carolina, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1408",
+                    "data": {
+                        "label": "New Jersey, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40,
+                                        "longitude": -74.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2276157",
+                    "data": {
+                        "label": "Orangeburg, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.496944444444,
+                                        "longitude": -80.862222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Orangeburg, South Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q100251925",
+                    "data": {
+                        "label": "Quindaro",
+                        "instance_of": [
+                            "human settlement"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.12945,
+                                        "longitude": -94.67274
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Quindaro"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130314929",
+                    "data": {
+                        "label": "Joshua H. Jones, Jr.",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Joshua H. Jones, Jr.",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Alexander Henry Jones",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309655.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Jones"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "id": "Q130309732",
+    "label": "Van Sylvester Whitted",
+    "biographyMarkdown": "# Van Sylvester Whitted\n## Attended Yale School of Music 1916-1917\nVan Sylvester Whitted was born in 1894 in Philadelphia. An accomplished musician, he attended the Yale School of Music from 1916-1917. He went on to graduate from Howard University with a degree in music in 1922. In 1926 he married Cora Louise Redmond. He worked as a music teacher and as an organist and choir director, including for the St. Mark\u2019s Methodist Episcopal Church in New York. He was a member of Alpha Phi Alpha Fraternity. He died in New York in 1976.\n",
+    "description": "Attended Yale School of Music 1916-1917",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1894"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1976"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2784420",
+                    "data": {
+                        "label": "Yale School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3099,
+                                        "longitude": -72.9264
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Music",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1916"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1917"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Whitted"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,231 @@
+{
+    "id": "Q130309613",
+    "label": "Arthur Edward Johnson",
+    "biographyMarkdown": "# Arthur Edward Johnson\n## Attended Yale School of Medicine 1907-1909\nBorn in 1888 in Ansonia, Connecticut, Arthur E. Johnson attended the Yale School of Medicine from 1907 to 1909. While at Yale, Johnson was a founding member of Zeta Chapter of Alpha Phi Alpha Fraternity. He then attended the Howard University College of Medicine in Washington, DC in 1913, and the Temple University School of Medicine in Philadelphia in 1914. In 1914, he was licensed to practice medicine in Massachusetts, and he set up a practice in Cambridge, where he lived with his wife, Estelle M. Johnson, and son, William. Johnson died in 1921.\n",
+    "description": "Attended Yale School of Medicine 1907-1909",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1961140",
+                    "data": {
+                        "label": "Yale School of Medicine",
+                        "instance_of": [
+                            "medical school",
+                            "faculty"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.303245363975,
+                                        "longitude": -72.933871811889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Medicine",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1907"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1909"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4120361",
+                    "data": {
+                        "label": "Temple University School of Medicine",
+                        "instance_of": [
+                            "medical school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.0047,
+                                        "longitude": -75.1522
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Temple University School of Medicine"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q85127706",
+                    "data": {
+                        "label": "Howard University School of Medicine",
+                        "instance_of": [
+                            "scholarly article"
+                        ]
+                    },
+                    "text": "Howard University School of Medicine"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1888"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q570044",
+                    "data": {
+                        "label": "Ansonia, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.343333333333,
+                                        "longitude": -73.068611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ansonia, Connecticut, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1921"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49111",
+                    "data": {
+                        "label": "Cambridge, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.375,
+                                        "longitude": -71.106111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cambridge, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q570044",
+                    "data": {
+                        "label": "Ansonia, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.343333333333,
+                                        "longitude": -73.068611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ansonia, Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Johnson"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,295 @@
+{
+    "id": "Q130286776",
+    "label": "William Marvin Gibson",
+    "biographyMarkdown": "# William Marvin Gibson\n## Graduate of Yale Divinity School, 1922\nBorn in 1894 in Henderson, Kentucky, William Marvin Gibson graduated from Howard University in 1920 and was ordained in the Baptist ministry. After graduating from Yale Divinity School, he moved to Worcester, Massachusetts and served as pastor of the John Street Baptist Church. In the 1930s, he served as a professor in the Division of the Liberal Arts and Sciences at Florida A&M College. He later served as pastor of the Union Baptist Church in Cambridge, Massachusetts. In 1955, at Gibson\u2019s invitation, Rev. Martin Luther King, Jr. preached at Union Baptist. In 1956, a newspaper article in the Chicago newspaper, the *Daily Defender*, said he was studying for a doctorate of divinity at Yale. Gibson died in 1957 and is buried in Chicago.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1922",
+    "publicationsMarkdown": "\"The Social Element in Negro Education, 1865-1935.\" M.A. thesis, Clark University, 1936.\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1894"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q734134",
+                    "data": {
+                        "label": "Henderson, Kentucky, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.8356,
+                                        "longitude": -87.5808
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Henderson, Kentucky, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1957"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1922"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1430048",
+                    "data": {
+                        "label": "Florida A&M University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.4178,
+                                        "longitude": -84.2845
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Florida A&M University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49179",
+                    "data": {
+                        "label": "Worcester, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.271388888889,
+                                        "longitude": -71.798888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Worcester, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49111",
+                    "data": {
+                        "label": "Cambridge, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.375,
+                                        "longitude": -71.106111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cambridge, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q734134",
+                    "data": {
+                        "label": "Henderson, Kentucky, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.8356,
+                                        "longitude": -87.5808
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Henderson, Kentucky, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q37043",
+                    "data": {
+                        "label": "Tallahassee, Florida, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.438333333333333,
+                                        "longitude": -84.28055555555555
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tallahassee, Florida, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "William Marvin Gibson",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130286776.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Gibson"
+                }
+            ]
+        }
+    }
+}

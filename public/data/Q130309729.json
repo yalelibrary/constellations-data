@@ -1,0 +1,230 @@
+{
+    "id": "Q130309729",
+    "label": "Nerissa Whittington Tyler",
+    "biographyMarkdown": "# Nerissa Whittington Tyler\n## Attended Yale School of Music 1916-1919\nNerissa Whittington Tyler was born in New Haven in 1898 to Lillian D. Ross Whittington and John Washington Whittington. Her father died the same year she was born, and she and her mother lived with her grandparents, John and Mary Jackson Ross. \n\nShe was a student of Yale School of Music graduate Helen Hagan, and went on to attend the Yale School of Music from 1916 to 1919. She had a long career as a music teacher and as organist for the Dixwell Congregational Church, taking over the position from Helen Hagan when she left New Haven to study music in Europe.\n\nShe married Eben A. Tyler, and had three children: Whittington Aleric Tyler, Nerissa Diana Tyler, and Ebena Sims. Hubert Barnes Ross, her cousin who later graduated from Yale, also grew up in the Ross and Tyler households. Her cousin John McLinn Ross and uncle Hubert H.W. Ross both also attended Yale.\n\nNerissa Whittington Tyler died in 1987 in New Haven.\n\nImage citation: New Haven High School senior class book, 1916, New Haven Free Public Library Local History Room\n",
+    "description": "Attended Yale School of Music 1916-1919",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1898"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1987"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2784420",
+                    "data": {
+                        "label": "Yale School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3099,
+                                        "longitude": -72.9264
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Music",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1916"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1919"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q14714934",
+                    "data": {
+                        "label": "Hillhouse High School",
+                        "instance_of": [
+                            "high school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.322,
+                                        "longitude": -72.9397
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hillhouse High School"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130314887",
+                    "data": {
+                        "label": "John McLinn Ross",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "John McLinn Ross",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q76557",
+                                    "data": {
+                                        "label": "uncle",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "uncle"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581072",
+                    "data": {
+                        "label": "female",
+                        "instance_of": [
+                            "sex of humans",
+                            "gender"
+                        ]
+                    },
+                    "text": "female"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Nerissa Whittington Tyler",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309729.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Tyler"
+                }
+            ]
+        }
+    }
+}

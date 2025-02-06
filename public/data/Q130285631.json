@@ -1,0 +1,257 @@
+{
+    "id": "Q130285631",
+    "label": "Everett Frederick Samuel Davies",
+    "biographyMarkdown": "# Everett Frederick Samuel Davies\n## Received master\u2019s degree, 1930; Attended Yale Divinity School circa 1930-1933\nEverett Frederick Samuel Davies was born in 1900, in Freetown, Sierra Leone, to Frederick Davies and Elizabeth Bright Davies. From 1919-1924, he was a teacher, then went to Talladega College. There he completed a bachelor of arts degree in 1927 and a bachelor of divinity degree in 1928. In the summers of 1925 and 1926, he preached. He was ordained in 1928.\nHe completed a master\u2019s degree at Yale in 1930, affiliated with the Yale Divinity School, then continued at Yale to pursue a PhD in Religious Education. He left Yale around 1933. He later received a doctorate of education from Columbia University in 1946.\n\nHe was married to Marguerite Buckner in 1931. He was a minister and a professor of philosophy and sociology at Virginia State College, where he also served as director of religious education. He was active in his community, serving as a member of the Ettrick, Virginia town council in the 1950s and as vice president of the Petersburg Council of Human Relations in the 1960s. He was the author of \u201cThe Negro Protest Movement: A Religious Way Historical Orientation\u201d in the Journal of Religious Thought in 1968. Davies died in 1977.\n",
+    "description": "Received master\u2019s degree, 1930; Attended Yale Divinity School circa 1930-1933",
+    "publicationsMarkdown": "\"Negro Protest Movement: The Religious Way,\" *The Journal of Religious Thought 24*, no. 2 (1968). \n\n\"A Curriculum of Christian Religious Education for West Africa.\" M.A. thesis, Yale University, 1930. \n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1900"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3780",
+                    "data": {
+                        "label": "Freetown, Western Area, Sierra Leone",
+                        "instance_of": [
+                            "city",
+                            "port settlement",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 8.4833333333333,
+                                        "longitude": -13.233055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Freetown, Western Area, Sierra Leone"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1977"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1930"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7680006",
+                    "data": {
+                        "label": "Talladega College",
+                        "instance_of": [
+                            "school",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.4321,
+                                        "longitude": -86.1133
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Talladega College"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7934591",
+                    "data": {
+                        "label": "Virginia State University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ]
+                    },
+                    "text": "Virginia State University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1376943",
+                    "data": {
+                        "label": "Ettrick, Virginia, United States",
+                        "instance_of": [
+                            "census-designated place in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.2428,
+                                        "longitude": -77.4256
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ettrick, Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3780",
+                    "data": {
+                        "label": "Freetown, Western Area, Sierra Leone",
+                        "instance_of": [
+                            "city",
+                            "port settlement",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 8.4833333333333,
+                                        "longitude": -13.233055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Freetown, Western Area, Sierra Leone"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q511964",
+                    "data": {
+                        "label": "Petersburg, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.21295,
+                                        "longitude": -77.400417
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Petersburg, Virginia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Davies"
+                }
+            ]
+        }
+    }
+}

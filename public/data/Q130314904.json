@@ -1,0 +1,205 @@
+{
+    "id": "Q130314904",
+    "label": "John Burns Williams",
+    "biographyMarkdown": "# John Burns Williams\n## Graduate of Yale School of Medicine, 1860\nJohn Burns Williams was born in Pennsylvania in 1828 or 1829. He also lived in Danbury, Connecticut. He graduated from the Yale School of Medicine in the spring of 1860, writing a thesis about head injuries. Sadly, he died shortly after finishing his degree in October 1860. He was survived by his wife, Henrietta Williams, and his children Caroline and William.\n",
+    "description": "Graduate of Yale School of Medicine, 1860",
+    "publicationsMarkdown": "\"Dissertation on Injuries of the Head.\" M.D. diss., Yale University, 1860. \n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1961140",
+                    "data": {
+                        "label": "Yale School of Medicine",
+                        "instance_of": [
+                            "medical school",
+                            "faculty"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.303245363975,
+                                        "longitude": -72.933871811889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Medicine",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1860"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1860"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1828",
+                    "qualifiers": [
+                        {
+                            "label": "sourcing circumstances",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q5727902",
+                                    "data": {
+                                        "label": "circa",
+                                        "instance_of": [
+                                            "sourcing circumstance"
+                                        ]
+                                    },
+                                    "text": "circa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1400",
+                    "data": {
+                        "label": "Pennsylvania, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41,
+                                        "longitude": -77.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pennsylvania, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49198",
+                    "data": {
+                        "label": "Danbury, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.402222222222,
+                                        "longitude": -73.471111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Danbury, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1400",
+                    "data": {
+                        "label": "Pennsylvania, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41,
+                                        "longitude": -77.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pennsylvania, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Williams"
+                }
+            ]
+        }
+    }
+}

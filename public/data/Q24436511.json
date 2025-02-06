@@ -1,0 +1,337 @@
+{
+    "id": "Q24436511",
+    "label": "Orishatukeh Faduma",
+    "biographyMarkdown": "# Orishatukeh Faduma\n## Graduate of Yale Divinity School, 1895\nBorn 1857 in Demerara, Guyana (then British Guiana), Orishatukeh Faduma was named William J. Davis at birth. His parents were formerly enslaved and from Yorubaland (now part of Nigeria); they were freed by the British antislavery squadrons and became indentured servants in Guyana. When he was about eight years old, Faduma\u2019s family moved to Sierra Leone. \n\nFaduma received his early education in local schools and then at Wesleyan Boys High School in Freetown, Sierra Leone. He next traveled to England to attend Wesley College and the University of London, from which he graduated in 1885. From 1885 to 1891, he taught at the Methodist Boys High School in Sierra Leone. Involved with the Dress Reform movement in Sierra Leone, Faduma encouraged the preservation of African cultural heritage and the wearing of African styles of clothing rather than European fashions imposed by colonizers. In 1887, influenced by and influential in the growing pan-African movement, he changed his name to Orishatukeh Faduma. \n\nFaduma came to the United States in 1891 and received his bachelor of divinity degree from Yale in 1895. In the 1890s, he became affiliated with the American Missionary Association and connected with the AME church. A member of the Advisory Council in African Ethnology for the World\u2019s Fair in Chicago (1892), he was Yale\u2019s delegate to the Inter-Seminary Missionary Alliance at Rochester, N.Y. in 1894. Unable to secure a position as a missionary in Africa, from 1895 to 1914, Faduma served as principal and pastor of Peabody Academy in Troy, North Carolina. In 1895, he married Henrietta Adams, a teacher at Peabody Academy, with whom he had two children.\n\nIn 1913, Faduma moved to Oklahoma and became involved with the nascent Back-to-Africa movement. Supporting the movement\u2019s leader, Alfred C. \"Chief\" Sam, Faduma wrote numerous articles in the Black press uplifting the effort to repatriate African Americans to West Africa. In 1914, they purchased a ship and set sail from Texas. The ship, along with Sam, Faduma, and approximately 60 migrants, was detained by British authorities. When they ultimately arrived at their destination on the Gold Coast, the group faced many challenges; most ultimately returned to the U.S., but Faduma eventually settled in Sierra Leone. \n\nFaduma served as principal of the United Methodist Collegiate School until 1918. From 1918-1923, he was inspector of schools in Sierra Leone, and instructor and \u201cofficer-in-charge\u201d of the Model School. In 1918, he helped found the West Africa Congress and served as a leader and delegate to future meetings. Eventually, Faduma returned to North Carolina, where he taught from 1924 to 1939. In 1939, he took a position at the Virginia Theological Seminary and College in Lynchburg. The recipient of an honorary doctorate from Livingston College in North Carolina, he was a writer and a member of the American Negro Academy. His publications include \"Religious Beliefs of the Yoruba People in West Africa,\" \"Success and Drawbacks of Missionary Work in Africa by an Eye-Witness,\" \"Africa the Unknown,\u201d \u201cAn African Background: My Pagan Origin and Inheritance,\u201d \"The Defects of the Negro Church,\u201d and multiple pieces in the AME Church Review. Faduma died in 1946 in North Carolina.\n\nImage citation: *Africa and the American Negro: Addresses and Proceedings of the Congress on Africa*, 1895\n",
+    "description": "Graduate of Yale Divinity School, 1895",
+    "publicationsMarkdown": "\"A Visit to Sierra Leone, West Africa,\" *American Missionary Association* (188?). \n\n\"In Memoriam The Centenary of Sierra Leone,\" *Christian Recorder*, October 17, 1889. \n\n\"The Coming Days,\" *Christian Recorder*, June 12, 1890.\n\n\"The Academy At Franklintown, N.C.,\" *New York Evangelist*, February 12, 1891. \n\n\"The A.M.E. Church and Kittrell Normal Institute,\" *Christian Recorder*, April 16, 1891.\n\n\"News From New Haven,\" *Christian Recorder*, June 8, 1893.\n\n\"Religious Beliefs of the Yoruba People in West Africa,\" in *Africa and the American Negro... Addresses and Proceedings of the Congress on Africa*. Atlanta, GA: Gammon Theological Seminary, 1896.\n\n\"Success and Drawbacks of Missionary Work in Africa by an Eye-Witness\" in *Africa and the American Negro... Addresses and Proceedings of the Congress on Africa*. Atlanta, GA: Gammon Theological Seminary, 1896.\n\n\"How to Make Reading Profitable,\" *Christian Recorder*, April 8, 1897. \n\n\"A Negro Upon Self-Help And Self--Suport,\" *The American Missionary 50*, no. 9 (1896).\n\n*The Defects of the Negro Church*. Washington, DC: The Academy, 1904.\n\n\"Africa the Unknown,\" *The Mission Herald 43* (1939).\n\n\"An African Background: My Pagan Origin and Inheritance,\" *The Mission Herald 43* (1940).\n",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1946"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1185346",
+                    "data": {
+                        "label": "Demerara",
+                        "instance_of": [
+                            "historical region"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 6.8121,
+                                        "longitude": -58.1701
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Demerara"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1855"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1895"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q170027",
+                    "data": {
+                        "label": "University of London",
+                        "instance_of": [
+                            "university",
+                            "higher education institution",
+                            "open-access publisher",
+                            "educational organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 51.521111111111,
+                                        "longitude": -0.12888888888889
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 51.5229378,
+                                        "longitude": -0.1308206
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of London"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q73094",
+                    "data": {
+                        "label": "The Queen's College",
+                        "instance_of": [
+                            "college of the University of Oxford",
+                            "university building"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 51.75333333333333,
+                                        "longitude": -1.251111111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "The Queen's College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7934641",
+                    "data": {
+                        "label": "Virginia University of Lynchburg",
+                        "instance_of": [
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution",
+                            "university campus"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.3952,
+                                        "longitude": -79.1517
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Virginia University of Lynchburg"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3780",
+                    "data": {
+                        "label": "Freetown, Western Area, Sierra Leone",
+                        "instance_of": [
+                            "city",
+                            "port settlement",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 8.4833333333333,
+                                        "longitude": -13.233055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Freetown, Western Area, Sierra Leone"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1649",
+                    "data": {
+                        "label": "Oklahoma, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.5,
+                                        "longitude": -98
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Oklahoma, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1883853",
+                    "data": {
+                        "label": "Troy, North Carolina, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.360555555556,
+                                        "longitude": -79.896388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Troy, North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1742139",
+                    "data": {
+                        "label": "Kings Mountain, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.244166666667,
+                                        "longitude": -81.3425
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kings Mountain, North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1185346",
+                    "data": {
+                        "label": "Demerara",
+                        "instance_of": [
+                            "historical region"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 6.8121,
+                                        "longitude": -58.1701
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Demerara"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Orishatukeh Faduma",
+                    "image-info": [
+                        {
+                            "url": "/data/Q24436511.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Faduma"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "id": "Q130314903",
+    "label": "William Henry Williams",
+    "biographyMarkdown": "# William Henry Williams\n## Attended Yale Divinity School 1912-1913\nWilliam Henry Williams was born in Harford County, Maryland, circa 1875, to William Williams and Georgiana Johnson Williams. In 1910, he married Grace Elizabeth Johnston, and they had one child. \n\nAfter attending Yale Divinity School as a special (non-degree) student in the 1912-1913 academic year, he pastored AME churches in the New England, Philadelphia, and New York conferences. Williams died in Chester, Pennsylvania in 1920.\n",
+    "description": "Attended Yale Divinity School 1912-1913",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1920"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1875",
+                    "qualifiers": [
+                        {
+                            "label": "sourcing circumstances",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q5727902",
+                                    "data": {
+                                        "label": "circa",
+                                        "instance_of": [
+                                            "sourcing circumstance"
+                                        ]
+                                    },
+                                    "text": "circa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q501284",
+                    "data": {
+                        "label": "Harford County, Maryland, United States",
+                        "instance_of": [
+                            "county of Maryland"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.54,
+                                        "longitude": -76.3
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harford County, Maryland, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18389",
+                    "data": {
+                        "label": "New England",
+                        "instance_of": [
+                            "cultural area",
+                            "U.S. region"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 44.205555555556,
+                                        "longitude": -70.306425
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New England"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1384",
+                    "data": {
+                        "label": "New York, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43,
+                                        "longitude": -75
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q368045",
+                    "data": {
+                        "label": "Chester, Pennsylvania, United States",
+                        "instance_of": [
+                            "city",
+                            "home rule municipality of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.847222222222,
+                                        "longitude": -75.372777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chester, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q54236",
+                    "data": {
+                        "label": "Hartford County, Connecticut, United States",
+                        "instance_of": [
+                            "county of Connecticut"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.81,
+                                        "longitude": -72.73
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford County, Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Williams"
+                }
+            ]
+        }
+    }
+}

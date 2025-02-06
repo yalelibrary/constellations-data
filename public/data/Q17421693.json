@@ -1,0 +1,298 @@
+{
+    "id": "Q17421693",
+    "label": "Roger Demosthenes O'Kelly",
+    "biographyMarkdown": "# Roger Demosthenes O'Kelly\n## Graduate of Yale Law School, 1912\nRoger Demosthenes O\u2019Kelly was born in Raleigh, North Carolina in 1880 and also spent some of his early life in South Carolina. When he was nine years old, he became deaf as a result of scarlet fever. Later, his vision was impaired due to a football injury. He communicated primarily through sign language and through writing. He graduated from the North Carolina State School for the Deaf and Blind, then completed a bachelor of laws degree from Shaw University in 1909. After working briefly on a tunnel drilling project in New York City, he entered the Yale Law School. He was only the second deaf student to attend Yale. He later described the way he navigated lecture-based law classes: \n>Some of my classmates had been newspaper reporters and they took down the lecture verbatim, transcribed them, and loaned me their copies. I recopied them and have them today. So I had no trouble in keeping up. The examinations were conducted by writing as are those given by our state Supreme Court.\n\nWhile a student at Yale, he worked through the Yale student employment bureau. He graduated from Yale in 1912 and briefly worked on another tunnel-drilling project in Montreal, Canada, before returning to North Carolina. \n\nThere, he briefly worked as a teacher and opened his legal practice. He married Goldie Euzelia Weaver in 1920. He was a founding member of the Negro State Bar Association of North Carolina in 1922. He had a long and successful career as an attorney, particularly serving the Black community of Raleigh. O\u2019Kelly died in 1962.\n\nImage citation: Yale Law *Shingle*, 1912, Yale University Library\n",
+    "description": "Graduate of Yale Law School, 1912",
+    "publicationsMarkdown": "\"A Fight With A Highwayman,\" *The Silent Worker 39*, no. 6 (1927).\n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1912"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3443493",
+                    "data": {
+                        "label": "Shaw University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.7712,
+                                        "longitude": -78.6361
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Shaw University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1880"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1962"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q41087",
+                    "data": {
+                        "label": "Raleigh, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.78,
+                                        "longitude": -78.64
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Raleigh, North Carolina, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1456",
+                    "data": {
+                        "label": "South Carolina, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34,
+                                        "longitude": -81
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "South Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q340",
+                    "data": {
+                        "label": "Montreal, Urban agglomeration of Montreal, Canada",
+                        "instance_of": [
+                            "city or town",
+                            "metropolis",
+                            "territory outside RCM",
+                            "college town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 45.5033426,
+                                        "longitude": -73.5868411
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Montreal, Urban agglomeration of Montreal, Canada"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1454",
+                    "data": {
+                        "label": "North Carolina, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.5,
+                                        "longitude": -80
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q41087",
+                    "data": {
+                        "label": "Raleigh, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.78,
+                                        "longitude": -78.64
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Raleigh, North Carolina, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Roger Demosthenes O'Kelly",
+                    "image-info": [
+                        {
+                            "url": "/data/Q17421693.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "O'Kelly"
+                }
+            ]
+        }
+    }
+}

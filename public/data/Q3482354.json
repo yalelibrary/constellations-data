@@ -1,0 +1,862 @@
+{
+    "id": "Q3482354",
+    "label": "Shirley Graham Du Bois",
+    "biographyMarkdown": "# Shirley Graham Du Bois\n## Attended Yale School of Drama, 1938-1941\nShirley Graham Du Bois was born in 1896. Before attending Yale, she studied at the Sorbonne in Paris and earned a B.A. and an M.A. in music from Oberlin College in Ohio. While there she composed and wrote the libretto for the opera *Tom-Tom*, which drew on West African music, which she had first encountered while in France, as well as jazz, blues, and traditional European opera. She was the director of the Federal Theatre Project (FTP) Negro Unit in Chicago before enrolling at the Yale Drama School in 1938. Although she was unable to finish her Ph.D. and left in 1940, she wrote a number of significant plays while at Yale, including *It\u2019s Morning*, *Dust to Earth*, and *Elijah\u2019s Ravens*, focusing largely on themes of the African-American experience.\n\nIn 1943, she began working for the National Association for the Advancement of Colored People (NAACP) as a field secretary, writing biographies of famous African-American figures. Through W.E.B. Du Bois, the civil rights activist and public intellectual and a longtime friend of her father\u2019s, she became increasingly involved in civil rights activism and joined the Communist Party. She and Du Bois married in 1951; however, they were harassed due to their leftist political leanings. Both were forced out of the NAACP, and Du Bois was placed under federal investigation. In 1961, they gave up their American citizenship and moved to Ghana, where they were involved in the pan-African movement. \n\nFollowing her husband\u2019s death in 1963, Du Bois continued working under President Kwame Nkrumah\u2019s administration until a 1966 coup forced her into exile in Cairo. After extensive petitioning she was able to return to the United States in the early 1970s, where she continued to write biographies and taught at the University of Massachusetts in Amherst. \n\nGraham died of cancer while on one of her frequent trips to China on March 27, 1977. \n\nImage citation: Carl Van Vechten Papers Relating to African American Arts and Letters (JWJ MSS 1050), Beinecke Rare Book and Manuscript Library, Yale University\n",
+    "description": "Attended Yale School of Drama, 1938-1941",
+    "publicationsMarkdown": "*Tom-Tom*. Self-published, 1932.\n\n\"The Survival of Africanism in Modern Music.\" M.A thesis, Oberlin University, 1932. \n\n*I promise*. New York, NY: W.C. Handy Music, 1934.\n\n*Coal Dust*. Self-published, 1939.\n\n*Track Thirteen*. Self-published, 1939.\n\n*Elijah's Ravens*. Self-published, 1940.\n\n*It's Mornin'*. Self-published, 1940.\n\n*Dust to Earth*. Self-published, 1940.\n\n*I Gotta Home*. Self-published, 1940.\n\n*Dr. George Washington Carver, Scientist*. New York, NY: Julian Messner, 1944. \n\n*There was Once a Slave ... The Heroic Story of Frederick Douglass*. New York, NY: Julian Messner, 1947. \n\n*The Story of Phillis Wheatley*. New York, NY: Julian Messner, 1949.\n\n*Your Most Humble Servant: Benjamin Banneker*. New York, NY: Julian Messner, 1949. \n\n*The Story of Pocahontas*. New York, NY: Grosset & Dunlap, 1953.\n\n*Booker T. Washington: Educator of Hand, Head and Heart*. New York, NY: Julian Messner, 1955.\n\n*Jean Baptiste Pointe: Founder of Chicago*. New York, NY: Julian Messner, 1958. \n\n\"What Happened In Ghana? The Inside Story,\" *Freedomways* 6*, no. 3 (1966).\n\n*His Day Is Marching On: A Memoir of W.E.B. DuBois*. Philadelphia, PA: J.B. Lippincott Company, 1971.\n\n*Paul Robeson, Citizen of the World*. Westport, CT: Greenwood Press, 1971.\n\n\"The Liberation Of Africa: Power, Peace and Justice,\" *The Black Scholar* 2, no. 6 (1971).\n\n*Gamal Abdel Nasser, Son of the Nile*. New York, NY: Third Press, 1972.\n\n\"Review of *Destroy This Temple*,\" *The Black Scholar* 3, no. 3 (1972).\n\n\"Confrontation In The Middle East,\" *The Black Scholar* 5, no. 3 (1973).\n\n*Zulu Heart: A Novel*. New York, NY: Third Press, 1974.\n\n\"Middle East Report: Where To From Here,\" *The Black Scholar* 5, no. 6 (1974).\n\n*Julius K. Nyerere: Teacher of Africa*. New York, NY: Julian Messner, 1975. \n\n\"Together We Struggle; Togeher We Win,\" *The Black Scholar* 6, no. 7 (1975). \n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581072",
+                    "data": {
+                        "label": "female",
+                        "instance_of": [
+                            "sex of humans",
+                            "gender"
+                        ]
+                    },
+                    "text": "female"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1896"
+                },
+                {
+                    "value-type": "time",
+                    "text": "1906"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1977"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6346",
+                    "data": {
+                        "label": "Indianapolis, Indiana, United States",
+                        "instance_of": [
+                            "county seat",
+                            "city in the United States",
+                            "planned community",
+                            "big city",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.768611111111,
+                                        "longitude": -86.158055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Indianapolis, Indiana, United States",
+                    "qualifiers": [
+                        {
+                            "label": "located in the administrative territorial entity",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q1415",
+                                    "data": {
+                                        "label": "Indiana, United States",
+                                        "instance_of": [
+                                            "U.S. state"
+                                        ],
+                                        "properties": {
+                                            "coordinate location": {
+                                                "label": "coordinate location",
+                                                "values": [
+                                                    {
+                                                        "value-type": "globe-coordinate",
+                                                        "latitude": 39.933333333333,
+                                                        "longitude": -86.216666666667
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "text": "Indiana, United States"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "country",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q30",
+                                    "data": {
+                                        "label": "United States",
+                                        "instance_of": [
+                                            "sovereign state",
+                                            "constitutional republic",
+                                            "democratic republic",
+                                            "federal republic",
+                                            "superpower",
+                                            "country",
+                                            "historical unrecognized state"
+                                        ],
+                                        "properties": {
+                                            "coordinate location": {
+                                                "label": "coordinate location",
+                                                "values": [
+                                                    {
+                                                        "value-type": "globe-coordinate",
+                                                        "latitude": 39.828175,
+                                                        "longitude": -98.5795
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "text": "United States"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6537210",
+                    "data": {
+                        "label": "Lewis and Clark High School",
+                        "instance_of": [
+                            "high school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 47.6522,
+                                        "longitude": -117.42
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lewis and Clark High School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1915"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q209842",
+                    "data": {
+                        "label": "University of Paris",
+                        "instance_of": [
+                            "university in France",
+                            "former entity",
+                            "university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 48.84861111111111,
+                                        "longitude": 2.343611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Paris",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1930"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q616591",
+                    "data": {
+                        "label": "Oberlin College",
+                        "instance_of": [
+                            "college",
+                            "liberal arts college",
+                            "private not-for-profit educational institution",
+                            "private university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.293055555555554,
+                                        "longitude": -82.22166666666666
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Oberlin College",
+                    "qualifiers": [
+                        {
+                            "label": "academic degree",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q1765120",
+                                    "data": {
+                                        "label": "Bachelor of Arts",
+                                        "instance_of": [
+                                            "bachelor's degree"
+                                        ]
+                                    },
+                                    "text": "Bachelor of Arts"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1934"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q616591",
+                    "data": {
+                        "label": "Oberlin College",
+                        "instance_of": [
+                            "college",
+                            "liberal arts college",
+                            "private not-for-profit educational institution",
+                            "private university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.293055555555554,
+                                        "longitude": -82.22166666666666
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Oberlin College",
+                    "qualifiers": [
+                        {
+                            "label": "academic degree",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q183816",
+                                    "data": {
+                                        "label": "master's degree",
+                                        "instance_of": [
+                                            "qualification",
+                                            "educational stage",
+                                            "degree of difficulty"
+                                        ]
+                                    },
+                                    "text": "master's degree"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1935"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1928"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q503246",
+                    "data": {
+                        "label": "Juilliard School",
+                        "instance_of": [
+                            "conservatory",
+                            "drama school",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.773871,
+                                        "longitude": -73.983178
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Juilliard School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1929"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047423",
+                    "data": {
+                        "label": "Yale School of Drama",
+                        "instance_of": [
+                            "drama school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3096,
+                                        "longitude": -72.931
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.309638888888884,
+                                        "longitude": -72.93102777777779
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Drama",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1938"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1941"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5440463",
+                    "data": {
+                        "label": "Federal Theatre Project",
+                        "instance_of": [
+                            "government agency"
+                        ]
+                    },
+                    "text": "Federal Theatre Project"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q15142",
+                    "data": {
+                        "label": "University of Massachusetts Amherst",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.388888888888886,
+                                        "longitude": -72.52777777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Massachusetts Amherst"
+                }
+            ]
+        },
+        "work location": {
+            "label": "work location",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.85003,
+                                        "longitude": -87.65005
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3761",
+                    "data": {
+                        "label": "Accra, Ghana",
+                        "instance_of": [
+                            "city",
+                            "port settlement",
+                            "big city",
+                            "national capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 5.546111111111111,
+                                        "longitude": -0.20666666666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Accra, Ghana"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1960",
+                    "data": {
+                        "label": "Dar es Salaam, Tanzania",
+                        "instance_of": [
+                            "city",
+                            "port settlement",
+                            "largest city",
+                            "national capital",
+                            "former national capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -6.816111111111111,
+                                        "longitude": 39.280277777777776
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Dar es Salaam, Tanzania"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q85",
+                    "data": {
+                        "label": "Cairo, Cairo Governorate, Egypt",
+                        "instance_of": [
+                            "big city",
+                            "megacity",
+                            "largest city",
+                            "metropolis",
+                            "ancient city",
+                            "tourist destination",
+                            "national capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.044444444444444,
+                                        "longitude": 31.235833333333332
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cairo, Cairo Governorate, Egypt"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.85003,
+                                        "longitude": -87.65005
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q117",
+                    "data": {
+                        "label": "Ghana, Portuguese Empire",
+                        "instance_of": [
+                            "sovereign state",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 8.03,
+                                        "longitude": -1.08
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ghana, Portuguese Empire"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q85",
+                    "data": {
+                        "label": "Cairo, Cairo Governorate, Egypt",
+                        "instance_of": [
+                            "big city",
+                            "megacity",
+                            "largest city",
+                            "metropolis",
+                            "ancient city",
+                            "tourist destination",
+                            "national capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.044444444444444,
+                                        "longitude": 31.235833333333332
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cairo, Cairo Governorate, Egypt"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6346",
+                    "data": {
+                        "label": "Indianapolis, Indiana, United States",
+                        "instance_of": [
+                            "county seat",
+                            "city in the United States",
+                            "planned community",
+                            "big city",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.768611111111,
+                                        "longitude": -86.158055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Indianapolis, Indiana, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5092",
+                    "data": {
+                        "label": "Baltimore, Maryland, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.286388888889,
+                                        "longitude": -76.615
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Baltimore, Maryland, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49164",
+                    "data": {
+                        "label": "Amherst, Massachusetts, United States",
+                        "instance_of": [
+                            "New England town",
+                            "college town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.366667,
+                                        "longitude": -72.516667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Amherst, Massachusetts, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q158060",
+                    "data": {
+                        "label": "W. E. B. Du Bois",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "W. E. B. Du Bois",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "spouse"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Shirley Graham Du Bois",
+                    "image-info": [
+                        {
+                            "url": "/data/Q3482354.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Bois"
+                }
+            ]
+        }
+    }
+}

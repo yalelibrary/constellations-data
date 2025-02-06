@@ -1,0 +1,333 @@
+{
+    "id": "Q130314891",
+    "label": "James Hathaway Robinson",
+    "biographyMarkdown": "# James Hathaway Robinson\n## Graduate of Yale College, 1912; Received master's degree in Economics, 1914; Received Ph.D. in Sociology, 1934\nJames Hathaway Robinson was born in 1887 in Sharpsburg, Kentucky to Nathaniel Robinson and Martha Summers Robinson. He graduated from Fisk University in 1911, and joined the Yale class of 1912. He was a recipient of the University Scholarship. After graduating from Yale College in 1912, he received a Larned Fellowship at Yale and completed a master's degree in economics. He was the first Black student to receive a Yale fellowship. \n\nIn 1916, he married Neola Estella Woodson, with whom he had two children.\n\nReceiving a fellowship from the Urban League, he studied sociology and social service at Columbia University, then taught for a few years at Douglass High School in Cincinnati and at the Hampton Institute (now Hampton University) in Virginia. Starting in 1917, he was executive secretary of Cincinnati\u2019s Negro Civic Welfare Association, an organization that served to coordinate and support social work efforts across the city. His work included establishing two childcare centers, developing a recreational and industrial program, and supporting Black social agencies. He helped found the Shoemaker Health and Welfare Center and served as its superintendent. \n\nIn 1929, he returned to Nashville, serving as the supervisor of a Black social services department within the Tennessee State Department of Welfare and teaching at Fisk University. \n\nHe began pursuing a PhD in sociology at Yale, graduating in 1934. While finishing his degree, he began teaching sociology at Wilberforce University. He served as dean of the College of Liberal Arts at Wilberforce from 1939 to 1949, and was also the Ohio state supervisor for the National Youth Administration.\n\nHe began teaching at Morris Brown College in 1949, where he also served as a dean and as chair of the Department of Sociology.\nRobinson was a member of Alpha Phi Alpha Fraternity, numerous academic and professional organizations in the fields of sociology, history, social work, and political science, and Fisk and Yale alumni organizations. In the 1920s, he served as national president of the Fisk Alumni Association.\n\nRobinson died in Atlanta in 1963. One of his grandsons, Dr. Forrester \u201cWoody\u201d Lee, is a 1979 graduate and longtime faculty member of the Yale School of Medicine.\n\nImage citation: Yale College Class of 1912 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1912; Received master's degree in Economics, 1914; Received Ph.D. in Sociology, 1934",
+    "publicationsMarkdown": "\"The Cincinnati Negro Survey and Program,\" in *Proceedings of the National Conference of Social Work*. Chicago, IL: Rogers & Hall Co., Printers, 1919.\n\n\"Address of Mr. James H. Robinson,\" in *Toward Interracial Cooperation*. New York, NY: J. J. Little and Ives Company, 1926.\n\n\"A Social History of the Negro in Memphis and in Shelby County.\" PhD diss., Yale University, 1934.\n",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1963"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1797817",
+                    "data": {
+                        "label": "Hampton University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.0225,
+                                        "longitude": -76.33472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hampton University"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49088",
+                    "data": {
+                        "label": "Columbia University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.8075,
+                                        "longitude": -73.961944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbia University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1887"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2026888",
+                    "data": {
+                        "label": "Sharpsburg, Kentucky, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.2014,
+                                        "longitude": -83.9303
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Sharpsburg, Kentucky, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q43196",
+                    "data": {
+                        "label": "Cincinnati, Ohio, United States",
+                        "instance_of": [
+                            "big city",
+                            "city in the United States",
+                            "county seat",
+                            "city of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.1,
+                                        "longitude": -84.5125
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cincinnati, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23197",
+                    "data": {
+                        "label": "Nashville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "consolidated city-county",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.16222222222222,
+                                        "longitude": -86.77444444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Nashville, Tennessee, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2026888",
+                    "data": {
+                        "label": "Sharpsburg, Kentucky, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.2014,
+                                        "longitude": -83.9303
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Sharpsburg, Kentucky, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q342043",
+                    "data": {
+                        "label": "Hampton, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.02638888888889,
+                                        "longitude": -76.34444444444445
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hampton, Virginia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "James Hathaway Robinson",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130314891.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Robinson"
+                }
+            ]
+        }
+    }
+}

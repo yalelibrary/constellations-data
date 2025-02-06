@@ -1,0 +1,356 @@
+{
+    "id": "Q130309661",
+    "label": "Warner T. Lawson",
+    "biographyMarkdown": "# Warner T. Lawson\n## Graduate of Yale School of Music, 1929\nWarner T. Lawson was a musician and educator born in 1903 in Hartford, Connecticut. His parents were also musicians\u2014his father, Raymond Augustus Lawson, was a pianist, and his mother was a vocalist with the Fisk Jubilee Singers. He attended Fisk University on a Juilliard scholarship before returning to Connecticut to study at the Yale School of Music. He received a BA in music from Yale in 1929. Following his graduation from Yale, he returned to Fisk University and was head of its music department. In 1936, he became head of the music department at North Carolina A&T University in Greensboro, North Carolina, and in 1942 was appointed Dean of the School of Music at Howard University. Lawson died in 1971.\n",
+    "description": "Graduate of Yale School of Music, 1929",
+    "publicationsMarkdown": "\"American Troubadour,\" *The Journal of Negro Education 6*, no. 4 (1937).\n\n\"Review of *Angel Mo' and Her Son, Roland Haynes*,\" *The Journal of Negro Education 12*, no. 2 (1943).\n\n\"Review of *Negro Slave Songs*,\" *The Journal of Negro History 39*, no. 2 (1954).\n\n\"Some Comments by a Choral Conductor,\" *Music Educators Journal 45*, no. 3 (1959).\n",
+    "properties": {
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1476484",
+                    "data": {
+                        "label": "North Carolina Agricultural and Technical State University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.075352,
+                                        "longitude": -79.773628
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "North Carolina Agricultural and Technical State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2784420",
+                    "data": {
+                        "label": "Yale School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3099,
+                                        "longitude": -72.9264
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Music",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1929"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1903"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33486",
+                    "data": {
+                        "label": "Hartford, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "municipality seat",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.763333333333,
+                                        "longitude": -72.685
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford, Connecticut, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1971"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33486",
+                    "data": {
+                        "label": "Hartford, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "municipality seat",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.763333333333,
+                                        "longitude": -72.685
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23197",
+                    "data": {
+                        "label": "Nashville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "consolidated city-county",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.16222222222222,
+                                        "longitude": -86.77444444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Nashville, Tennessee, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49238",
+                    "data": {
+                        "label": "Greensboro, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.08,
+                                        "longitude": -79.819444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Greensboro, North Carolina, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Lawson"
+                }
+            ]
+        }
+    }
+}

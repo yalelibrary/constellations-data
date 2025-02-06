@@ -1,0 +1,166 @@
+{
+    "id": "Q130309714",
+    "label": "Bayard Thomas Smith",
+    "biographyMarkdown": "# Bayard Thomas Smith\n## Graduate of Yale School of Medicine, 1875\nBorn in 1847 in Wilmington, Delaware, Bayard Thomas Smith began his medical training at Lincoln University, where he was in a class of six students. When Lincoln suspended medical instruction in 1874, he transferred to Yale along with his schoolmate from Lincoln, George Robinson Henderson. He received his MD from Yale in 1875. Smith was a member of the Odd Fellows and a member of Zion M.E. Church.\nSmith returned to his home state after graduation and began practicing medicine. He died of tuberculosis in 1880 at the age of 34.\n",
+    "description": "Graduate of Yale School of Medicine, 1875",
+    "publicationsMarkdown": "\"Hydrargyri Proto Chloridii.\" M.D. diss., Yale University, 1876. \n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1961140",
+                    "data": {
+                        "label": "Yale School of Medicine",
+                        "instance_of": [
+                            "medical school",
+                            "faculty"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.303245363975,
+                                        "longitude": -72.933871811889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Medicine",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1875"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1847"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1880"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q174224",
+                    "data": {
+                        "label": "Wilmington, Delaware, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.748333333333,
+                                        "longitude": -75.551388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilmington, Delaware, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q174224",
+                    "data": {
+                        "label": "Wilmington, Delaware, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.748333333333,
+                                        "longitude": -75.551388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilmington, Delaware, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Smith"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,316 @@
+{
+    "id": "Q130309656",
+    "label": "James Upshure King",
+    "biographyMarkdown": "# James Upshure King\n## Attended Yale Divinity School 1902-1903\nJames Upshure King was born in Allen, Maryland in 1876. He attended Howard University from 1899-1902, then Yale Divinity School from 1902-1903. He then earned his bachelor's of philosophy at Chicago Seminary of Science in 1906. He later returned to Howard and received a bachelor's of divinity in 1910. Some time prior to 1917, he married Anna R. King. He had a long career as a minister, serving churches in Pennsylvania, New Jersey, Maryland, Delaware, and Washington, DC. There, he was leader for the Washington conference of the Methodist Episcopal Church.\n\nIn 1923, King, along with James Weldon Johnson and three other men, received an honorary degree from Howard University. In 1924, King married his second wife, Esther Butler, who was a musician and educator. He was a member of the Masons and Knights of Pythias. King died in 1931 in Delaware.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Attended Yale Divinity School 1902-1903",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1902"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1903"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1876"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3885855",
+                    "data": {
+                        "label": "Allen, Maryland, United States",
+                        "instance_of": [
+                            "census-designated place in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.2872,
+                                        "longitude": -75.6881
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Allen, Maryland, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1931"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1400",
+                    "data": {
+                        "label": "Pennsylvania, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41,
+                                        "longitude": -77.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1408",
+                    "data": {
+                        "label": "New Jersey, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40,
+                                        "longitude": -74.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1391",
+                    "data": {
+                        "label": "Maryland, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39,
+                                        "longitude": -76.7
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Maryland, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1393",
+                    "data": {
+                        "label": "Delaware, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39,
+                                        "longitude": -75.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Delaware, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3885855",
+                    "data": {
+                        "label": "Allen, Maryland, United States",
+                        "instance_of": [
+                            "census-designated place in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.2872,
+                                        "longitude": -75.6881
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Allen, Maryland, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "James Upshure King",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309656.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "King"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "id": "Q130267250",
+    "label": "Cortlandt Van Rensselaer Creed",
+    "biographyMarkdown": "# Cortlandt Van Rensselaer Creed\n## Graduate of Yale School of Medicine, 1857\nCortlandt Van Rensselaer Creed is the first Black person known to have graduated from the Yale School of Medicine. He was born and raised in New Haven, where his parents were pillars of the Black community. His mother, Vashti, was the city\u2019s first Black teacher; she taught at the school established at the Temple Street Congregational Church, the first independent Black congregation in New Haven. His father, John, was an immigrant from St. Croix who worked as a business owner and a custodian at Yale, including for the Calliopean Society and Skull and Bones; he catered the commencement dinners for many years. John was also an abolitionist who sold The Liberator, the influential antislavery newspaper. A grandfather, Prince Duplex, Sr., had fought in the Revolutionary War. \n\nCortlandt Creed graduated from New Haven\u2019s Lancasterian School, a preparatory school, and then from Yale\u2019s medical school in 1857. He graduated from Yale in the same year Richard Henry Greene, another Black student from New Haven, received his bachelor\u2019s degree from Yale College.\n\nWith the outbreak of the Civil War, Creed longed to join the fight for freedom. He wrote to the governor of Connecticut: \u201cThe hour has come, and \u2018Old Connecticut\u2019 God bless Her has spoken, and on every side we behold her colored sons rallying to the sounds of \u2018Liberty and the Union.\u2019\u201d In January 1864, Dr. Creed received his commission as a surgeon in Thirtieth Connecticut Volunteers, the second Black regiment organized in the state. He served for the duration of the war and in the Connecticut National Guard during peacetime. \n\nDuring the Civil War, Creed led local efforts to celebrate and advance Black freedom and rights. In 1862, he participated in a \u201cJubilee Meeting\u201d \u201cof the colored people of New Haven\u2026in commemoration of the Emancipation of Slavery in the District of Columbia.\u201d He was an organizer of a Freedmen\u2019s Aid Society in New Haven, dedicated to \u201cextending relief to the liberated and in providing aid toward such other improvements in their condition as circumstances may demand.\u201d After the Civil War, Dr. Creed practiced medicine in New Haven and New York. He died in 1900 and is buried in Grove Street Cemetery.\n",
+    "description": "Graduate of Yale School of Medicine, 1857",
+    "publicationsMarkdown": "\"Dissertation on the Blood.\" M.D. diss., Yale University, 1857.\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1833"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1900"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1961140",
+                    "data": {
+                        "label": "Yale School of Medicine",
+                        "instance_of": [
+                            "medical school",
+                            "faculty"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.303245363975,
+                                        "longitude": -72.933871811889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Medicine",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1857"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Creed"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,262 @@
+{
+    "id": "Q130309735",
+    "label": "Gonsalvo Cotobus Williams, Jr.",
+    "biographyMarkdown": "# Gonsalvo Cotobus Williams, Jr.\n## Graduate of Yale School of Medicine, 1900\nGonsalvo Cotobus Williams, Jr. was born in 1896 in Newberry, South Carolina. He completed degrees at Benedict College in 1916 and Harvard in 1918 before serving in the military during World War I. Upon returning to the US in 1919, he began medical school at Harvard University. In 1921, he left Harvard for the Yale School of Medicine, where he received his MD in 1925. He was an intern and resident at Grasslands Hospital in Westchester County, New York, and later went into private medical practice in nearby Dobbs Ferry. He was a member of Gamma Chapter of Omega Psi Phi Fraternity. Williams died in 1986.\n\nImage citation: Gonsalvo Cotobus Williams, circa 1918. HUD 318.25. Harvard University Archives. Courtesy of the Harvard University Archives.\n",
+    "description": "Graduate of Yale School of Medicine, 1900",
+    "publicationsMarkdown": "\"The Influence of the Intravenous Injection of Protein on Blood Sugar Content.\" M.D. diss., Yale University, 1925.\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1961140",
+                    "data": {
+                        "label": "Yale School of Medicine",
+                        "instance_of": [
+                            "medical school",
+                            "faculty"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.303245363975,
+                                        "longitude": -72.933871811889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Medicine",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1925"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q13371",
+                    "data": {
+                        "label": "Harvard University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.374443888889,
+                                        "longitude": -71.116943888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harvard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4887262",
+                    "data": {
+                        "label": "Benedict College",
+                        "instance_of": [
+                            "liberal arts college",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.0129,
+                                        "longitude": -81.0203
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Benedict College"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1896"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1986"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2610042",
+                    "data": {
+                        "label": "Newberry, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.277655,
+                                        "longitude": -81.61656
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newberry, South Carolina, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1233173",
+                    "data": {
+                        "label": "Dobbs Ferry",
+                        "instance_of": [
+                            "village in the United States",
+                            "village of New York"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.012777777778,
+                                        "longitude": -73.866111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Dobbs Ferry"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q54066",
+                    "data": {
+                        "label": "Westchester County, New York, United States",
+                        "instance_of": [
+                            "county of New York"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.15,
+                                        "longitude": -73.775
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Westchester County, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2610042",
+                    "data": {
+                        "label": "Newberry, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.277655,
+                                        "longitude": -81.61656
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newberry, South Carolina, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Gonsalvo Cotobus Williams, Jr.",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309735.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Williams,"
+                }
+            ]
+        }
+    }
+}

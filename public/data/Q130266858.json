@@ -1,0 +1,440 @@
+{
+    "id": "Q130266858",
+    "label": "Earley Emmett Caple",
+    "biographyMarkdown": "# Earley Emmett Caple\n## Attended Yale College 1912-1917 and 1919-1920; Attended Yale School of Music 1918-1919; Graduate of Yale Law School, 1924\nBorn 1893 in Portsmouth, Virginia, the son of a minister and a machinist, Earley Emmett Caple lived in Virginia, Boston, and Stratford and New Haven, Connecticut  prior to enrolling at Yale. He attended Webster Street and Cedar Street Schools and graduated from New Haven High School (now Hillhouse High School) in 1912. Caple received a Yale New Haven Scholarship and attended Yale College from 1912 to 1917 and from 1919 to 1920. In the intervening year, from 1918 to 1919, he attended the Yale School of Music. He roomed at home, was an honors student, and was president of the Zeta Chapter of Alpha Phi Alpha Fraternity. \n\nEarley worked at the Remington Arms plant in Bridgeport and the Bayliss shipyard until 1920, when he entered Yale Law School. He received his JD from Yale in 1924, was admitted to the Connecticut bar, and opened an office in New Haven. According to a 1930 history of New Haven by Mary Mitchell Hewitt, Earley was one of only two Black attorneys in New Haven at the time.\n\nActive in local Republican politics, Earley was elected justice of the peace in the 1920s. In 1924, he married Romietta Hatcher, previously married to Theodore William Hatcher. Caple died in 1944.\n\nImage citation: Yale University class book, Yale University Library\n",
+    "description": "Attended Yale College 1912-1917 and 1919-1920; Attended Yale School of Music 1918-1919; Graduate of Yale Law School, 1924",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1893"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q342803",
+                    "data": {
+                        "label": "Portsmouth, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.83543,
+                                        "longitude": -76.29827
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Portsmouth, Virginia, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1944"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1912"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1917"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1924"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2784420",
+                    "data": {
+                        "label": "Yale School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3099,
+                                        "longitude": -72.9264
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Music",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1918"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1919"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49112",
+                    "data": {
+                        "label": "Yale University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "academic publisher",
+                            "production company"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311111111111,
+                                        "longitude": -72.926666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale University",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1919"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1920"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q14714934",
+                    "data": {
+                        "label": "Hillhouse High School",
+                        "instance_of": [
+                            "high school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.322,
+                                        "longitude": -72.9397
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hillhouse High School"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1370",
+                    "data": {
+                        "label": "Virginia, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.5,
+                                        "longitude": -79
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q100",
+                    "data": {
+                        "label": "Boston, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.360277777777775,
+                                        "longitude": -71.05777777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Boston, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q755140",
+                    "data": {
+                        "label": "Stratford, Connecticut, United States",
+                        "instance_of": [
+                            "New England town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.18454,
+                                        "longitude": -73.13317
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Stratford, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49174",
+                    "data": {
+                        "label": "Bridgeport, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.183333333333,
+                                        "longitude": -73.2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bridgeport, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q342803",
+                    "data": {
+                        "label": "Portsmouth, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.83543,
+                                        "longitude": -76.29827
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Portsmouth, Virginia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Earley Emmett Caple",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130266858.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Caple"
+                }
+            ]
+        }
+    }
+}

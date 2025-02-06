@@ -1,0 +1,240 @@
+{
+    "id": "Q130309691",
+    "label": "James Austin Norris",
+    "biographyMarkdown": "# James Austin Norris\n## Graduate of Yale Law School, 1917\nJames Austin Norris was born in Chambersburg, Pennsylvania in 1893 and spent much of his early life in Pittsburgh. He received a bachelor's degree from Lincoln University in 1912 and graduated from the Yale Law School in 1917. He served in the military during WWI, and in 1919, he moved to Philadelphia, where he worked as an attorney and founded and edited the Black newspaper the Philadelphia American.\n\nHe was active in Philadelphia politics and government, campaigning for Franklin D. Roosevelt and becoming Philadelphia\u2019s first Black ward leader. In 1937, he was the first Black appointee to the Board of Revision of Taxes, a position he held for 30 years.\n\nIn the 1920s, he was chief counsel for Marcus Garvey. In 1955, he became a partner in the Philadelphia law firm of Norris, Schmidt, Green, Harris, Higginbotham, and Associates, which focused in part on civil rights cases. Norris was known as a national expert in eminent domain law.\nHe was married to Marie Norris and had two children. His daughter, Jetta Norris Jones, graduated from Yale Law School in 1950. James Austin Norris died in 1976.\n",
+    "description": "Graduate of Yale Law School, 1917",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1917"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1893"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1976"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1133562",
+                    "data": {
+                        "label": "Chambersburg, Pennsylvania, United States",
+                        "instance_of": [
+                            "borough of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.93472,
+                                        "longitude": -77.65611
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chambersburg, Pennsylvania, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1342",
+                    "data": {
+                        "label": "Pittsburgh, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "big city",
+                            "home rule municipality of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.44166666666667,
+                                        "longitude": -80
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pittsburgh, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1133562",
+                    "data": {
+                        "label": "Chambersburg, Pennsylvania, United States",
+                        "instance_of": [
+                            "borough of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.93472,
+                                        "longitude": -77.65611
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chambersburg, Pennsylvania, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Norris"
+                }
+            ]
+        }
+    }
+}

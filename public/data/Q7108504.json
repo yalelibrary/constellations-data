@@ -1,0 +1,301 @@
+{
+    "id": "Q7108504",
+    "label": "Otelia Cromwell",
+    "biographyMarkdown": "# Otelia Cromwell\n## Received Ph.D. in English, 1926\nOtelia Cromwell was born in 1874 in Washington, DC to Lucy McGuinn and John Wesley Cromwell. After graduating from the Miner Normal School in DC, she began taking courses at Howard University while working as a teacher. She later transferred to Smith College and graduated in 1900, the first Black graduate of Smith.\n\nShe then returned to teaching, continuing her own education with classes at Columbia University and the University of Chicago. She received an MA in English from Columbia in 1910. In 1922, at age 48, Cromwell entered a PhD program in English at Yale. In 1926, she was the first Black woman to receive a doctorate from Yale. She became a professor of English Language and Literature at Miner Teachers College. Her dissertation, *Thomas Heywood, Dramatist: A Study in Elizabethan Drama of Everyday Life*, was published by Yale University Press two years later.\n\nShe was an accomplished editor and author, editing Readings from Negro Authors for Schools and Colleges and serving on the board of directors for The Encyclopedia of the Negro alongside W. E. B. Du Bois. In 1958 she wrote a biography of the suffragist and abolitionist Lucretia Mott. \n\nCromwell died in 1972 at age 98.\n\nImage citation: *The Crisis*, August 1926\n",
+    "description": "Received Ph.D. in English, 1926",
+    "publicationsMarkdown": "\"Addison and Doctor Johnson as Writers of the Short Essay.\" M.A. thesis, Columbia University, 1911.\n\n\"A Question of Motive,\" *The English Journal 9*, no. 9 (1920).\n\n\"Thomas Heywood, A Study in the Elizabethan Drama of Everyday Life.\" PhD diss., Yale University, 1928.\n\n*Thomas Heywood, A Study in the Elizabethan Drama of Everyday Life*. New Haven, CT: Yale University Press, 1928.\n\n*Readings from Negro Authors, for Schools and Colleges, with a Bibliography of Negro Literature*. New York, NY: Harcourt, Brace and Company, 1931.\n\n\"Preparation for Freshman Composition,\" *The English Journal 25*, no. 7 (1936). \n\n\"Democracy and the Negro,\" *The American Scholar 13*, no. 2 (1944). \n\n\"Review of *Embattled Maiden: The Life of Anna Dickinson*,\" *Bulletin of Friends Historical Association 41*, no. 1 (1952).\n\n\"Teachers College,\" *The Washington Post*, November 12, 1956.\n\n*Lucretia Mott: The Story of One of America's Greatest Women*. Cambridge, MA: Harvard University Press, 1958.\n\n\"Review of *Thomas Heywood et le Drame Domestique Elizab\u00e9thain*,\" *Shakespeare Quarterly 10*, no. 1 (1959). \n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581072",
+                    "data": {
+                        "label": "female",
+                        "instance_of": [
+                            "sex of humans",
+                            "gender"
+                        ]
+                    },
+                    "text": "female"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1972"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1874"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49204",
+                    "data": {
+                        "label": "Smith College",
+                        "instance_of": [
+                            "university",
+                            "private not-for-profit educational institution",
+                            "women's college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.3175,
+                                        "longitude": -72.6375
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Smith College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q131252",
+                    "data": {
+                        "label": "University of Chicago",
+                        "instance_of": [
+                            "private university",
+                            "private not-for-profit educational institution",
+                            "research university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.789722222222,
+                                        "longitude": -87.599722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Chicago"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49088",
+                    "data": {
+                        "label": "Columbia University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.8075,
+                                        "longitude": -73.961944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbia University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1926"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q26254460",
+                    "data": {
+                        "label": "John Wesley Cromwell",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "John Wesley Cromwell",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "father"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Otelia Cromwell",
+                    "image-info": [
+                        {
+                            "url": "/data/Q7108504.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Cromwell"
+                }
+            ]
+        }
+    }
+}

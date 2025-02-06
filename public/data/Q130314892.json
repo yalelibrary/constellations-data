@@ -1,0 +1,300 @@
+{
+    "id": "Q130314892",
+    "label": "Harry Walter Roberts",
+    "biographyMarkdown": "# Harry Walter Roberts\n## Graduate of Yale Divinity School, 1932; Received Ph.D. in Race Relations, 1943\nHarry Walter Roberts was born in Philadelphia and grew up in Berlin, New Jersey. He graduated from Wilberforce University before coming to the Yale Divinity School, where he received a bachelor's of divinity in 1932. After receiving a master's degree from the London School of Economics in 1935, he returned to Yale and completed a PhD in Race Relations in 1943. He was a scholar of Black life and culture in rural Virginia, publishing works such as \u201cDisadvantaging Factors in the Life of Rural Virginia Negroes\u201d (1945), \u201cThe Rural Negro Minister: His Work and Salary\u201d (1947),  \u201cThe Rural Negro Minister: His Educational Status\u201d (1948), and \u201cThe Rural Negro Minister: His Personal and Social Characteristics\u201d (1949). He was a professor at Virginia State University from 1935 to 1968, where he established the Department of Sociology, the Alpha Chapter of Alpha Kappa Delta, and the National Sociology Honor Society.\n\nImage citation: Detail from Yale Divinity School class photographs, Yale University Divinity School Memorabilia Collection (RG 53), Yale Divinity Library\n",
+    "description": "Graduate of Yale Divinity School, 1932; Received Ph.D. in Race Relations, 1943",
+    "publicationsMarkdown": "\"The Influence of External Relations Upon the Inner Life of Social Groups.\" M.A. thesis, London School of Economics, 1932. \n\n\"Review of *Pro-Slavery Thought in the Old South*,\" *American Journal of Sociology 42*, no. 1 (1936).\n\n\"Effects of Farm Ownership on Rural Family Life,\" *Social Forces 24*, no. 2 (1945).\n\n*Disadvantaging Factors in the Life of Rural Virginia Negroes*. Ettrick, VA: Virginia State College for Negroes, 1945.\n\n\"The Rural Negro Minister: His Educational Status,\" *The Journal of Negro Education 17*, no. 4 (1948).\n\n\"The Rural Negro Minister: His Personal and Social Characteristics,\" *Social Forces 27*, no. 3 (1949).\n\n\"Prior-Service Attitudes Toward Whites of 219 Negro Veterans,\" *The Journal of Negro Education*, no. 4 (1953). \n\n\"Responsibilities and Opportunities,\" *The Phi Delta Kappan 37*, no. 8 (1956).\n\n\"Review of *Neighbor and Kin: Life in a Tennessee Ridge Community*,\" *American Sociological Review 35*, no. 3 (1970).\n",
+    "properties": {
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7934591",
+                    "data": {
+                        "label": "Virginia State University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ]
+                    },
+                    "text": "Virginia State University"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q174570",
+                    "data": {
+                        "label": "London School of Economics and Political Science",
+                        "instance_of": [
+                            "public research university",
+                            "higher education institution",
+                            "educational organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 51.513888888889,
+                                        "longitude": -0.11666666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "London School of Economics and Political Science"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q27865418",
+                    "data": {
+                        "label": "Yale Divinity Library",
+                        "instance_of": [
+                            "library"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.323425,
+                                        "longitude": -72.921253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity Library",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1932"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1943"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1086827",
+                    "data": {
+                        "label": "Berlin, New Jersey, United States",
+                        "instance_of": [
+                            "borough of New Jersey"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.79123,
+                                        "longitude": -74.92905
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Berlin, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q511964",
+                    "data": {
+                        "label": "Petersburg, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.21295,
+                                        "longitude": -77.400417
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Petersburg, Virginia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Harry Walter Roberts",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130314892.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Roberts"
+                }
+            ]
+        }
+    }
+}

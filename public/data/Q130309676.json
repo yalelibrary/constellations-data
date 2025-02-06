@@ -1,0 +1,347 @@
+{
+    "id": "Q130309676",
+    "label": "Walter Scott Miller",
+    "biographyMarkdown": "# Walter Scott Miller\n## Graduate of Yale Law School, 1897\nBorn in Nashville in 1870, Walter Scott Miller spent most of his early life in New Haven. He graduated from Hillhouse High School and received an LLB. from the Law Department of Shaw University in 1895 before enrolling in Yale. His brother, Albert President Miller, had graduated from Yale Divinity School in 1885. \n\nAfter being admitted to the bar in 1897, Walter S. Miller began practicing law in New Haven but gave up the law to become a minister. In 1921, he served as pastor of First Congregational Church of King\u2019s Mountain in Lowell, North Carolina briefly, under the auspices of the American Missionary Association. He then organized the Church of the Redeemer, a Congregational church in Baltimore, in fall 1921. From 1924 to 1926, Miller served as minister of Bethany Presbyterian Church in Norfolk, Virginia. He died in 1926 in Norfolk.\n\nImage citation: Yale Law *Shingle* yearbook, 1897, Yale University Library\n",
+    "description": "Graduate of Yale Law School, 1897",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1897"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3443493",
+                    "data": {
+                        "label": "Shaw University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.7712,
+                                        "longitude": -78.6361
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Shaw University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q14714934",
+                    "data": {
+                        "label": "Hillhouse High School",
+                        "instance_of": [
+                            "high school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.322,
+                                        "longitude": -72.9397
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hillhouse High School"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1870"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1926"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23197",
+                    "data": {
+                        "label": "Nashville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "consolidated city-county",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.16222222222222,
+                                        "longitude": -86.77444444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Nashville, Tennessee, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309677",
+                    "data": {
+                        "label": "Albert President Miller",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Albert President Miller",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q10861465",
+                                    "data": {
+                                        "label": "brother",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "brother"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2025666",
+                    "data": {
+                        "label": "Lowell, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.267222222222,
+                                        "longitude": -81.101111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lowell, North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5092",
+                    "data": {
+                        "label": "Baltimore, Maryland, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.286388888889,
+                                        "longitude": -76.615
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Baltimore, Maryland, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49231",
+                    "data": {
+                        "label": "Norfolk, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.846944444444446,
+                                        "longitude": -76.28527777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Norfolk, Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23197",
+                    "data": {
+                        "label": "Nashville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "consolidated city-county",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.16222222222222,
+                                        "longitude": -86.77444444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Nashville, Tennessee, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Walter Scott Miller",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309676.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Miller"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,349 @@
+{
+    "id": "Q130285655",
+    "label": "Henderson Hamilton Donald",
+    "biographyMarkdown": "# Henderson Hamilton Donald\n## Attended Yale Divinity School 1916-1918; Received master's degree, 1920; Received Ph.D., 1926\nBorn in Convent, Louisiana in 1885, Henderson Hamilton Donald received his BA from Howard University in 1915, followed by three years of study at the Yale Divinity School. He received his master's degree from Yale in 1920 and his PhD from the graduate school in 1926. \n\nFrom 1960 until his retirement in 1973, Donald taught at Lane College, a Black college in Jackson, Tennessee, where he was professor of sociology. From 1961 to 1969, he was chair of the division of social science. In earlier years, he had taught at Livingstone College in North Carolina and Howard University, where he was chair of the sociology department, and done scholarly research in New York. Professional memberships included the American Sociological Association and the American Association of University Professors.  \n\nIn 1952, Donald published *The Negro Freedman: Life Conditions of the American Negro in the Early Years*, a work that was controversial for its treatment of Reconstruction and African American life. Other publications included an article, \u201cThe Effects of the Negro Migration on the North.\u201d Donald died in 1980.\n",
+    "description": "Attended Yale Divinity School 1916-1918; Received master's degree, 1920; Received Ph.D., 1926",
+    "publicationsMarkdown": "*The Negro Migration of 1916-1918*. Washington, D.C.: The Association for the Study of Negro Life and History, 1921.\n\n\"The Negro In Industry.\" PhD diss., Yale University, 1926. \n\n*The Negro Freedman: Life Conditions of the American Negro in the Early Years After Emancipation*. New York, NY: H. Schuman, 1952.\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1885"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2996218",
+                    "data": {
+                        "label": "Convent, Louisiana, United States",
+                        "instance_of": [
+                            "unincorporated community in the United States",
+                            "census-designated place in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.020833333333,
+                                        "longitude": -90.829722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Convent, Louisiana, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1980"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1920"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1926"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7621045",
+                    "data": {
+                        "label": "Straight University",
+                        "instance_of": [
+                            "university"
+                        ]
+                    },
+                    "text": "Straight University"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6659715",
+                    "data": {
+                        "label": "Livingstone College",
+                        "instance_of": [
+                            "school",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.6709,
+                                        "longitude": -80.4834
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Livingstone College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6485360",
+                    "data": {
+                        "label": "Lane College",
+                        "instance_of": [
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution",
+                            "historic district"
+                        ]
+                    },
+                    "text": "Lane College"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2996218",
+                    "data": {
+                        "label": "Convent, Louisiana, United States",
+                        "instance_of": [
+                            "unincorporated community in the United States",
+                            "census-designated place in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.020833333333,
+                                        "longitude": -90.829722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Convent, Louisiana, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q34404",
+                    "data": {
+                        "label": "New Orleans, Louisiana, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 29.976111111111113,
+                                        "longitude": -90.07833333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Orleans, Louisiana, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2028813",
+                    "data": {
+                        "label": "Salisbury, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.668333333333,
+                                        "longitude": -80.478611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Salisbury, North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q985409",
+                    "data": {
+                        "label": "Jackson, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.614444444444445,
+                                        "longitude": -88.81775
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Jackson, Tennessee, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Donald"
+                }
+            ]
+        }
+    }
+}

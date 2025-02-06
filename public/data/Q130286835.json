@@ -1,0 +1,348 @@
+{
+    "id": "Q130286835",
+    "label": "Maurice Nathaniel Greene",
+    "biographyMarkdown": "# Maurice Nathaniel Greene\n## Graduate of Yale Divinity School, 1905\nMaurice Nathaniel Greene was born in 1877 in Fairfax County, Virginia. He received his bachelor's from Howard University in 1901, during which time he was a member of the Asbury Methodist Epispocal Church in Washington, DC. He graduated from the Yale Divinity School in 1905 and was ordained a minister in 1906. He subsequently ministered in Selma, Alabama (1905-1906) and at Hope Church in Amherst, Massachusetts (1906-1912) before becoming the principal of the Washburn Seminary in Beaufort, North Carolina in 1912. After leaving the seminary, he was briefly a missionary in Trinity, Georgia in 1916, and then became pastor of the Zion Congregational Church in Haverhill, Massachusetts (1916-1921). He returned to Hope Church in Amherst for the end of his career (1921-1928) before retiring and settling in Haverhill, Massachusetts. Greene died in 1940.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1905",
+    "properties": {
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130286848",
+                    "data": {
+                        "label": "Washburn Seminary",
+                        "instance_of": [
+                            "school"
+                        ]
+                    },
+                    "text": "Washburn Seminary"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1877"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q341915",
+                    "data": {
+                        "label": "Fairfax County, Virginia, United States",
+                        "instance_of": [
+                            "county of Virginia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.83,
+                                        "longitude": -77.28
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fairfax County, Virginia, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1940"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1905"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79941",
+                    "data": {
+                        "label": "Selma, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.41,
+                                        "longitude": -87.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Selma, Alabama, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49164",
+                    "data": {
+                        "label": "Amherst, Massachusetts, United States",
+                        "instance_of": [
+                            "New England town",
+                            "college town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.366667,
+                                        "longitude": -72.516667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Amherst, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q813374",
+                    "data": {
+                        "label": "Beaufort, North Carolina, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.71822,
+                                        "longitude": -76.66382
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Beaufort, North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q54132",
+                    "data": {
+                        "label": "Haverhill, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.783333333333,
+                                        "longitude": -71.083333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Haverhill, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q487692",
+                    "data": {
+                        "label": "Liberty County, Georgia, United States",
+                        "instance_of": [
+                            "county of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 31.8,
+                                        "longitude": -81.46
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Liberty County, Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q341915",
+                    "data": {
+                        "label": "Fairfax County, Virginia, United States",
+                        "instance_of": [
+                            "county of Virginia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.83,
+                                        "longitude": -77.28
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fairfax County, Virginia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Maurice Nathaniel Greene",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130286835.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Greene"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "id": "Q130314885",
+    "label": "Charles Edward Moss",
+    "biographyMarkdown": "# Charles Edward Moss\n## Graduate of Yale Divinity School, 1931\nBorn in Birmingham, Alabama about 1904, Charles Edward Moss married Patricia Elizabeth Wilson, a native of North Carolina, in 1926. Together they had children named Gabrielle, James, and Charles, Jr. Sometime after 1920 he moved north from Alabama with his mother, Gabrielle. In 1930 he was living in Milford, Connecticut, and his occupation was student. In the 1931 Milford city directory, he was listed as a student and pastor of the First Baptist Church of Milford on Governors Avenue. It is likely that Moss died sometime between 1931, when he graduated from the Yale Divinity School, and 1940. In the 1940 census, Patricia and their three children were living in Philadelphia, where she died in 1970.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1931",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1931"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1904",
+                    "qualifiers": [
+                        {
+                            "label": "sourcing circumstances",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q5727902",
+                                    "data": {
+                                        "label": "circa",
+                                        "instance_of": [
+                                            "sourcing circumstance"
+                                        ]
+                                    },
+                                    "text": "circa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79867",
+                    "data": {
+                        "label": "Birmingham, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.5175,
+                                        "longitude": -86.80944444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Birmingham, Alabama, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q755798",
+                    "data": {
+                        "label": "Milford, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.224166666667,
+                                        "longitude": -73.059722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Milford, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79867",
+                    "data": {
+                        "label": "Birmingham, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.5175,
+                                        "longitude": -86.80944444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Birmingham, Alabama, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Charles Edward Moss",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130314885.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Moss"
+                }
+            ]
+        }
+    }
+}

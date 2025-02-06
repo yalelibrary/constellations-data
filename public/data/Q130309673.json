@@ -1,0 +1,282 @@
+{
+    "id": "Q130309673",
+    "label": "Rufus Monroe Meroney",
+    "biographyMarkdown": "# Rufus Monroe Meroney\n## Graduate of Yale College, 1909\nRufus Monroe Meroney was born in 1880 in Austin, Texas to Oliver Hazzard Meroney and Alice Cleveland Meroney. Before entering Yale, he attended Tillotson College and taught for five years in Austin. He excelled as a student at Yale, and was also a Sunday School teacher and organist while living in New Haven. After graduating in 1909, he became head of the college department of Samuel Huston College in Austin, where he also taught English, German, and Spanish. In May, 1911, he was called from his position at Samuel Houston College to do work with the YMCA for the Tenth Cavalry, a Black U.S. army regiment, stationed in San Antonio. This led to other positions with the YMCA, and from 1911 until his death in 1922, he served as executive secretary of the Carlton Avenue Branch of the Brooklyn YMCA in New York. Under his leadership, the branch raised funds for and built a new building. *The Crisis*, remembering Meroney\u2019s tireless work, described the branch as \u201ca Temple\u201d providing a wide range of needed resources for the local community, from \u201ca gym, a pool, a floor for dancing, a stage for theatricals, billiards and pool, a library, periodicals, pictures\u201d to sports teams, educational support, and employment aid. He was a well-known figure in Brooklyn\u2019s Black community. Meroney died in Brooklyn in 1922 at the age of 43, following complications from a surgery for appendicitis.\n\nImage citation: Yale College Class of 1909 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1909",
+    "publicationsMarkdown": "\"Rufus M. Meroney Letter to Tillotson Tidings,\" *The American Missionary 62*, no. 1 (1908).\n\n\"Announcement,\" *The Chicago Defender*, September 27, 1919. \n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1909"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q117583599",
+                    "data": {
+                        "label": "Tillotson College",
+                        "instance_of": [
+                            "college"
+                        ]
+                    },
+                    "text": "Tillotson College"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1880"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1922"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3143507",
+                    "data": {
+                        "label": "Huston\u2013Tillotson University",
+                        "instance_of": [
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.264794,
+                                        "longitude": -97.722447
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Huston\u2013Tillotson University"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16559",
+                    "data": {
+                        "label": "Austin, Texas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.3,
+                                        "longitude": -97.733333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Austin, Texas, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16559",
+                    "data": {
+                        "label": "Austin, Texas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.3,
+                                        "longitude": -97.733333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Austin, Texas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q975",
+                    "data": {
+                        "label": "San Antonio, Texas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 29.425,
+                                        "longitude": -98.49388888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "San Antonio, Texas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18419",
+                    "data": {
+                        "label": "Brooklyn, New York City, United States",
+                        "instance_of": [
+                            "borough of New York City",
+                            "city in the United States",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.65083,
+                                        "longitude": -73.94972
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brooklyn, New York City, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16559",
+                    "data": {
+                        "label": "Austin, Texas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.3,
+                                        "longitude": -97.733333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Austin, Texas, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Rufus Monroe Meroney",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309673.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Meroney"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,347 @@
+{
+    "id": "Q130266883",
+    "label": "Ellis Alvin Christian",
+    "biographyMarkdown": "# Ellis Alvin Christian\n## Graduate of Yale Divinity School, 1931\nEllis Alvin Christian was born in Richmond, Virginia, in 1890, to Wallace Christian and Josephine Wyatt Christian. He attended Shaw University in Raleigh, North Carolina, then went to Lincoln University, where he completed a BA in 1912 and a bachelor\u2019s of sacred theology in 1915. He was ordained in 1916 and served churches in Oklahoma City, Oklahoma and San Antonio, Texas. He then worked as a chaplain for the US Army during WWI. He lived in Grand Rapids, Michigan from 1920-1929, then moved to New Haven. \n\nHe was married to Esther Caruthers Christian, and the couple had two children. \n\nHe completed a bachelor\u2019s of divinity at Yale Divinity School in 1931. While in New Haven, he attended St. Luke\u2019s Episcopal Church. Shortly after graduating from Yale, he became the rector of St. Mary\u2019s Episcopal Church in Washington, DC. He held this position for many years. He was also chaplain of St. Anna\u2019s Home for the Aged in Washington. He died in 1973.\n",
+    "description": "Graduate of Yale Divinity School, 1931",
+    "publicationsMarkdown": "\"We Think We Quoted Correctly, Did We Not?,\" *The Chicago Defender*, November 10, 1928.\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1890"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q43421",
+                    "data": {
+                        "label": "Richmond, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "state or insular area capital of the United States",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.54083333333333,
+                                        "longitude": -77.43666666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Richmond, Virginia, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1973"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1931"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3443493",
+                    "data": {
+                        "label": "Shaw University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.7712,
+                                        "longitude": -78.6361
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Shaw University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q34863",
+                    "data": {
+                        "label": "Oklahoma City, Oklahoma, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.48222222222222,
+                                        "longitude": -97.53527777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Oklahoma City, Oklahoma, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q975",
+                    "data": {
+                        "label": "San Antonio, Texas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 29.425,
+                                        "longitude": -98.49388888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "San Antonio, Texas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q184587",
+                    "data": {
+                        "label": "Grand Rapids, Michigan, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.96336,
+                                        "longitude": -85.66809
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Grand Rapids, Michigan, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q43421",
+                    "data": {
+                        "label": "Richmond, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "state or insular area capital of the United States",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.54083333333333,
+                                        "longitude": -77.43666666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Richmond, Virginia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Christian"
+                }
+            ]
+        }
+    }
+}

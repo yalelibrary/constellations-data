@@ -1,0 +1,410 @@
+{
+    "id": "Q1766103",
+    "label": "Alexander Crummell",
+    "biographyMarkdown": "# Alexander Crummell\n## Attended classes at Yale Divinity School, 1840-1841; Received master's degree 2023\nAlexander Crummell was born in New York City in 1819 to Boston Crummell and Charity Hicks. Both of Crummell\u2019s parents were free, though his father had been born into West African royalty, enslaved, and subsequently freed in adulthood. Crummell\u2019s early education was at a Quaker school, and he later attended the Canal Street High School where he was able to learn Greek and Latin. He also briefly attended the Noyes Academy, a racially integrated school in New Hampshire founded by abolitionists, before the school was destroyed in an act of racist violence. Crummell then relocated to another abolitionist school, the Oneida Institute in Whitesboro, New York. From 1840-41 Crummell attended the Yale Divinity School, although he was barred from formal enrollment or participation in class. He was also denied entry to the General Theological Seminary in New York, but managed to study on his own to be ordained an Episcopal deacon in 1842 and later a priest in 1844. His first positions as deacon and priest were in Providence, Rhode Island and Philadelphia, Pennsylvania. While in Philadelphia, he became actively involved in the abolitionist and Black suffrage movements. \n\nIn 1848 Crummell moved to the UK, where he obtained his bachelor's, becoming the first Black graduate of Cambridge. In 1853 he moved to Liberia and worked there as an Episcopal missionary for the next twenty years. While there he was also a professor at the College of Liberia. Crummell believed strongly in the back-to-Africa movement, and endorsed a vision of African-American colonization in Liberia to enlighten and civilize Africans and create a republic based on Christian morals. He published *The Future of Africa: Being Addresses, Sermons, etc. Delivered in the Republic of Liberia* on this topic while living in Liberia.\n\nImage citation: *The Greatness of Christ: And Other Sermons* by Alexander Crummell, 1882 (via Wikimedia Commons)\n\nIn 1873 Crummell moved to Washington, DC, where he founded St. Luke\u2019s church and served as its rector for roughly twenty years. In 1883 he also founded the Conference of Church Workers Among Colored People in response to institutional endorsement of segregation. Following his retirement from St. Luke\u2019s, he taught briefly at Howard University before founding the American Negro Academy, an elite institution for Black education, in 1897.\n\nCrummell died in Point Pleasant, New Jersey in 1898. In 2023 he was awarded, along with James W. C. Pennington, an MA privatim degree from Yale.\n",
+    "description": "Attended classes at Yale Divinity School, 1840-1841; Received master's degree 2023",
+    "publicationsMarkdown": "*The Negro Race Under a Curse: an Examination of Genesis IX, 25*. London, UK: Wertheim, Macintosh & Hunt, 1852. \n\n*The Duty of a Rising Christian State to Contribute to the World's Well being and Civilization, and the Means by wWhich it may Perform the Same*. London, UK: Werteim and Macintosh, 1856.\n\n*The Relations and Duties of Free Colored Men in America to Africa : a Letter to Charles B. Dunbar, M.D., Esq., of New York City* Hartford, CT: Press of Case, Lockwood and Co., 1861.\n\n*The Future of Africa: Being Addresses, Sermons, Etc., Etc., Delivered in the Republic of Liberia*. New York, NY: C. Scribner, 1862. \n\n*Emigration, an Aid to the Evangelization of Africa: a Sermon*. Boston, MA: Press of T.R. Marvin & Son, 1865. \n\n*The Social Principle among a People and its Bearing on their Progress and Development*. Washington DC: n.p., 1875. \n\n*Our National Mistakes and Remedy for Them*. Preston, UK: H. Oakey, 1870.\n\n*Marriage and Divorce: A Sermon*. Washington, DC: C. W. Brown, 1881. \n\n*The Greatness of Christ: And Other Sermons*. New York, NY: T. Whittaker, 1882. \n\n*The Eulogy on Henry Highland Garnet, D.D. Presbyterian minister, Late Minister Resident of the U.S. to the Republic of Liberia*. Washington, DC: n.p., 1882.\n\n*The Black Woman of the South , Her Neglects and Her Needs*. Cincinnati, OH: Woman's Home Missionary Society of the Methodist Episcopal Church, 1883.\n\n*A Defence of the Negro Race in America : from the Assaults and Charges of Rev. J.L. Tucker, D.D., of Jackson, Miss.* Washington, DC: Judd & Detweiler, 1883. \n\n*Common Sense in Common Schooling: A Sermon*. Washington, DC: n.p., 1886.\n\n*The Race Problem in America*. Washington, DC: William R. Morrison, 1889. \n\n*Africa and America: Addresses and Discourses*. Springfield, MA: Willey & Co., 1891. \n\n*Look Within*. Springfield, MA: Willey & Co., 1891. \n\n*Charitable Institutions in Colored Churches*. Washington, DC: Press of R. L. Pendleton, 1892. \n\n*The Shades and the Lights of a Fifty Years' Ministry*. Washington, DC: Press of R. L. Pendleton, 1894. \n\n*Incidents of Hope for the Negro Race in America*. Washington, DC: Press of R. L. Pendleton, 1895. \n\n*The Solution of Problems: The Duty and Destiny of Man*. Philadelphia, PA: Recorder Printers, 1898. \n\n*Civilization The Primal Need of the Race: The annual sermon at the Commencement of Wilberforce University*. Washington, DC: The Academy, 1898. \n\n*Euology on the Life and Services of Hon. Frederick Douglass*. s.l.: n.p., 189?.\n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q100",
+                    "data": {
+                        "label": "Boston, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.360277777777775,
+                                        "longitude": -71.05777777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Boston, Massachusetts, United States"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1819"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1898"
+                },
+                {
+                    "value-type": "time",
+                    "text": "1898"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q765642",
+                    "data": {
+                        "label": "Queens' College",
+                        "instance_of": [
+                            "college of the University of Cambridge",
+                            "university building"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 52.202222222222,
+                                        "longitude": 0.11472222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Queens' College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4689768",
+                    "data": {
+                        "label": "African Free School",
+                        "instance_of": [
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71861111111111,
+                                        "longitude": -73.99777777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "African Free School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q17053489",
+                    "data": {
+                        "label": "Whitestown Seminary",
+                        "instance_of": [],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.118,
+                                        "longitude": -75.28651
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Whitestown Seminary"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q35794",
+                    "data": {
+                        "label": "University of Cambridge",
+                        "instance_of": [
+                            "collegiate university",
+                            "public research university",
+                            "educational organization",
+                            "organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 52.205355979757925,
+                                        "longitude": 0.11315726963968827
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Cambridge"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1840"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "earliest end date",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1841"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "2023"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18383",
+                    "data": {
+                        "label": "Providence, Rhode Island, United States",
+                        "instance_of": [
+                            "big city",
+                            "county seat",
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.82399,
+                                        "longitude": -71.41283
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Providence, Rhode Island, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1014",
+                    "data": {
+                        "label": "Liberia",
+                        "instance_of": [
+                            "republic",
+                            "sovereign state",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 6.533333,
+                                        "longitude": -9.75
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Liberia"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1014591",
+                    "data": {
+                        "label": "Point Pleasant, New Jersey, United States",
+                        "instance_of": [
+                            "borough of New Jersey"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.0831714,
+                                        "longitude": -74.0681931
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Point Pleasant, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q100",
+                    "data": {
+                        "label": "Boston, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.360277777777775,
+                                        "longitude": -71.05777777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Boston, Massachusetts, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Alexander Crummell",
+                    "image-info": [
+                        {
+                            "url": "/data/Q1766103.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Crummell"
+                }
+            ]
+        }
+    }
+}

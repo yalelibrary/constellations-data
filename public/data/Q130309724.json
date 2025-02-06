@@ -1,0 +1,263 @@
+{
+    "id": "Q130309724",
+    "label": "Francis A. Thomas",
+    "biographyMarkdown": "# Francis A. Thomas\n## Graduate of Yale Divinity School, 1939\nBorn in 1913 in Wilberforce, Ohio, Francis A. Thomas became a respected philosopher, scholar, and higher education administrator. He was a grandson of Wilberforce University President Benjamin F. Lee, and his family had deep ties to the AME church. Thomas received a BA from Wesleyan College (now University) and a BD from Yale. He went on to earn a doctorate from Indiana University and an MA from Miami University. Early in his career, Thomas taught at Payne Theological Seminary (associated with Wilberforce University). From 1948 to 1978, he was a faculty member at Central State University, where he chaired the philosophy department, among other roles. From 1979 to 1997, he served as dean of Payne Theological Seminary. In 1981, Thomas was appointed professor emeritus of philosophy at Central State. In a 2003 tribute, former students and colleagues praised Thomas' legacy as an influential teacher and mentor. Thomas also advocated for greater Black representation in the philosophy profession at American Philosophical Association meetings. Thomas died in 2001.\n\nImage citation: Yale Divinity School student composite photographs, Yale Divinity School.\n",
+    "description": "Graduate of Yale Divinity School, 1939",
+    "publicationsMarkdown": "\"Brotherhood - Utopia of the ages,\" *Wilberforce University Quarterly 2* (1941). \n\n\"Philosophies of Audio-Visual Education as Conceived in a University Center and by Selected Leaders.\" PhD diss., Indiana University, 1960.\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1939"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q590643",
+                    "data": {
+                        "label": "Miami University",
+                        "instance_of": [
+                            "public research university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.511905,
+                                        "longitude": -84.734674
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Miami University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6608367",
+                    "data": {
+                        "label": "Indiana University, Indiana, United States",
+                        "instance_of": [
+                            "state university system",
+                            "educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.166666666666664,
+                                        "longitude": -86.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Indiana University, Indiana, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3446272",
+                    "data": {
+                        "label": "Wesleyan College",
+                        "instance_of": [
+                            "liberal arts college in the United States",
+                            "women's college in the United States",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.8746,
+                                        "longitude": -83.7125
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wesleyan College"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1913"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "2001"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5061855",
+                    "data": {
+                        "label": "Central State University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7153,
+                                        "longitude": -83.878
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Central State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1866955",
+                    "data": {
+                        "label": "Wilberforce, Ohio, United States",
+                        "instance_of": [
+                            "census-designated place in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7158,
+                                        "longitude": -83.88
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce, Ohio, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Francis A. Thomas",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309724.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Thomas"
+                }
+            ]
+        }
+    }
+}

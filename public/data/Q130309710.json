@@ -1,0 +1,201 @@
+{
+    "id": "Q130309710",
+    "label": "Lawrence Abraham Simmons",
+    "biographyMarkdown": "# Lawrence Abraham Simmons\n## Graduate of Sheffield Scientific School, 1906\nLawrence Abraham Simmons was born on April 15, 1883 in Lincolnville, South Carolina to Rev. Abraham Simmons and Maria DeWitt Simmons. His father was educated at Talladega College in Alabama. Simmons also received his bachelor's from Talladega in 1903 before attending Yale\u2019s Sheffield Scientific School, where he graduated in 1906 with a degree in mechanical engineering and was a member of the Yale Engineering Association. In 1906 he began working at the General Electric Company, where he did research on turbines. In 1913 he married Margaret H. Williams, with whom he had three children. He died on November 10, 1949 in Clifton Park, New York of a cerebral embolism, and was buried in Schenectady.\n",
+    "description": "Graduate of Sheffield Scientific School, 1906",
+    "publicationsMarkdown": "Flow-Meter.  US Patent 811,853, filed October 12, 1915.\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7492742",
+                    "data": {
+                        "label": "Sheffield Scientific School",
+                        "instance_of": [
+                            "college"
+                        ]
+                    },
+                    "text": "Sheffield Scientific School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1906"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7680006",
+                    "data": {
+                        "label": "Talladega College",
+                        "instance_of": [
+                            "school",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.4321,
+                                        "longitude": -86.1133
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Talladega College"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1883"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1949"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2184519",
+                    "data": {
+                        "label": "Lincolnville, South Carolina, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "human settlement"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.008611111111,
+                                        "longitude": -80.157777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincolnville, South Carolina, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3709610",
+                    "data": {
+                        "label": "Clifton Park, New York, United States",
+                        "instance_of": [
+                            "town of New York"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.866666666667,
+                                        "longitude": -73.816666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Clifton Park, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2184519",
+                    "data": {
+                        "label": "Lincolnville, South Carolina, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "human settlement"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.008611111111,
+                                        "longitude": -80.157777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincolnville, South Carolina, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Simmons"
+                }
+            ]
+        }
+    }
+}

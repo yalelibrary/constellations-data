@@ -1,0 +1,278 @@
+{
+    "id": "Q117222261",
+    "label": "Akiki Hosea K. Nyabongo",
+    "biographyMarkdown": "# Akiki Hosea K. Nyabongo\n## Attended Yale Graduate School 1931-1934\nBorn in 1907 in Fort Portal, West Uganda, Akiki K. Nyabongo was a hereditary prince from the Toro Kingdom who became a scholar, author, pan-Africanist, and political activist. He received his early education at King's College, Budo, East Africa, before coming to the United States. He earned an undergraduate degree from Howard University before enrolling at Yale, followed by a master's degree from Harvard University. Nyabongo received a PhD from Oxford University in 1939, where he was supported by a Rhodes Scholarship. His thesis in anthropology was entitled, \u201cThe Religious Practices and Beliefs of Ugandans.\u201d \n\nA noted author and intellectual, Nyabongo published the novel *Africa Answers Back* (1936), originally published as *The Story of an African Chief* (1935), based on his own life. The editor of The African Magazine, he was also the author of *Bisoro Stories I*, *Bisoro Stories II*, and *Wind and Lights: African Fairy Tales*, as well as other unpublished works. \n\nAn advocate for decolonization and the independence movement in Uganda, Nyabongo collaborated with American civil rights leaders W. E. B. Du Bois and Paul and Eslanda Goode Robeson. His papers are at Queen\u2019s College, Oxford. Nyabongo died in Brooklyn in 1975.\n\nImage citation: *The Story of an African Chief* by Akiki Hosea K. Nyabongo (1935)\n",
+    "description": "Attended Yale Graduate School 1931-1934",
+    "publicationsMarkdown": "*The Story Of An African Chief*. New York, NY: Charles Scribner's Sons, 1935.\n\n*Africa Answers Back*. London: George Routledge & Sons, 1936. \n\n*Lebensgeschichte eines Negerha\u0308uptlings*. Leipzig: P. List, 1937.\n\n*The Education of the African.* Oberlin, OH: 1939: Self-Published, 1939. \n\n*Winds and Lights: African Fiary Tales.* New York, NY: Voice: Voice of Ethiopia, 1939.\n\n*The Bisoro Stories.* Oxford: Basil Blackwell, 1937.\n\n\"African Life and Ideals,\" *The Journal of Negro History 26*, no. 3 (1941).\n\n\"Know Thyself,\" *Negro History Bulletin* 6, no. 5 (1943).\n\n\"The Development of Iron,\" *Negro Histroy Bulletin* 6, no. 7 (1943). \n\n*Royal Charter: Customs, Norms, Traditions and Proceedings of Toro Kingdom.* Oxford: Oxford University Press, 1945.\n\n*Oruhenda : obukama bwa toro : [Dialect of the palace].* Ganda\n\n*Hadithi za wanyama. Animal stories ... Swahili.* London: Sheldon Press, 1961.\n\n*Hadithi za wabisoro: Kitabu cha kwanz.* London: Sheldon Press, 1964.  \n\n*Hadithi za wabisoro: zimeandikwa.* London: Sheldon Press, 1966.\n\n*Ebiremberro.* Nairobi: East African Literature Bureau, 1969.\n\n*Upepo na mwangaza : hadithi za kizimwi za Kiafrika.* Nairobi: East African Literature Bureau, 1974. \n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1907"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1975"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q13371",
+                    "data": {
+                        "label": "Harvard University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.374443888889,
+                                        "longitude": -71.116943888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harvard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q34433",
+                    "data": {
+                        "label": "University of Oxford",
+                        "instance_of": [
+                            "collegiate university",
+                            "exempt charity",
+                            "public university",
+                            "higher education institution",
+                            "educational organization",
+                            "organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 51.755,
+                                        "longitude": -1.255
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Oxford"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1931"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1934"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q500107",
+                    "data": {
+                        "label": "Fort Portal, Uganda",
+                        "instance_of": [
+                            "town",
+                            "district"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 0.65638888888889,
+                                        "longitude": 30.279722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fort Portal, Uganda"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18419",
+                    "data": {
+                        "label": "Brooklyn, New York City, United States",
+                        "instance_of": [
+                            "borough of New York City",
+                            "city in the United States",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.65083,
+                                        "longitude": -73.94972
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brooklyn, New York City, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q500107",
+                    "data": {
+                        "label": "Fort Portal, Uganda",
+                        "instance_of": [
+                            "town",
+                            "district"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 0.65638888888889,
+                                        "longitude": 30.279722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fort Portal, Uganda"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Akiki Hosea K. Nyabongo",
+                    "image-info": [
+                        {
+                            "url": "/data/Q117222261.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Nyabongo"
+                }
+            ]
+        }
+    }
+}

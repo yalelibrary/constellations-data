@@ -1,0 +1,287 @@
+{
+    "id": "Q130309726",
+    "label": "William Miller Thorne, Jr.",
+    "biographyMarkdown": "# William Miller Thorne, Jr.\n## Graduate of Sheffield Scientific School, 1906\nWilliam Miller Thorne, Jr. was born in Summerville, South Carolina in 1880. He graduated from Mt. Hermon School and attended the Hampton Institute (now Hampton University) in Virginia before attending Yale\u2019s Sheffield Scientific School, where he graduated in 1906. While at Yale he roomed with Walter Dyson his second year and with Lawrence Simmons and Earl Patterson his third year. Thorne subsequently received his medical degree from the University of Michigan Medical School in 1910. At the University of Michigan, he was a founding member of the Epsilon chapter of Alpha Phi Alpha Fraternity. He briefly moved to Washington, DC, where he interned at Freedmen\u2019s Hospital (later Howard University Hospital) from 1910-1911. He then moved to Charleston, South Carolina, where he practiced medicine from 1911 until his death. There he married Florence Elise Scanlan, with whom he had three children, and attended the Plymouth Congregational Church. Thorne was also a member of the Palmetto and National Medical associations as well as the Masons, and from 1933-1938 he served as VP of the Charleston Mutual Savings Bank. Thorne died in Charleston in 1942.\n\nImage citation: Sheffield Scientific School Class of 1906 class book, Yale University Library\n",
+    "description": "Graduate of Sheffield Scientific School, 1906",
+    "publicationsMarkdown": "\"Factors Fundamental in the Growth and Development of a People,\" *Journal of the National Medical Association 16*, no. 3 (1924).\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7492742",
+                    "data": {
+                        "label": "Sheffield Scientific School",
+                        "instance_of": [
+                            "college"
+                        ]
+                    },
+                    "text": "Sheffield Scientific School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1906"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q230492",
+                    "data": {
+                        "label": "University of Michigan",
+                        "instance_of": [
+                            "public research university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.276944444444446,
+                                        "longitude": -83.73805555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Michigan"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1797817",
+                    "data": {
+                        "label": "Hampton University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.0225,
+                                        "longitude": -76.33472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hampton University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1880"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1942"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q947304",
+                    "data": {
+                        "label": "Summerville, South Carolina, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.0185,
+                                        "longitude": -80.17565
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Summerville, South Carolina, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309725",
+                    "data": {
+                        "label": "Philip Manual Thorne",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Philip Manual Thorne",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q23009870",
+                                    "data": {
+                                        "label": "cousin",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "cousin"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q47716",
+                    "data": {
+                        "label": "Charleston, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.78333333333333,
+                                        "longitude": -79.93194444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Charleston, South Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q947304",
+                    "data": {
+                        "label": "Summerville, South Carolina, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.0185,
+                                        "longitude": -80.17565
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Summerville, South Carolina, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "William Miller Thorne, Jr.",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309726.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Thorne,"
+                }
+            ]
+        }
+    }
+}

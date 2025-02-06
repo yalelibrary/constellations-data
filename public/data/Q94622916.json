@@ -1,0 +1,451 @@
+{
+    "id": "Q94622916",
+    "label": "Alexander Joseph Allen",
+    "biographyMarkdown": "# Alexander Joseph Allen\n## Attended Yale Divinity School 1912-1914\nBorn in 1884 in Columbus, Georgia, Alexander Joseph Allen, Sr. had deep family roots in the AME Church. He received his BA from Clark College in 1910 and was licensed to preach the following year. From 1912 to 1914, he studied at the Yale Divinity School. In 1915, he was ordained as a deacon in Boston and, in 1917, as an elder in Newport Rhode Island. \n\nIn 1915, Allen married Jewett Washington of Montgomery, Alabama, and they had four sons, including Alexander Joseph Allen, Jr., who graduated from Yale Divinity School in 1940. Allen\u2019s brother, Nimrod Allen, graduated from Yale Divinity School in 1915.\n\nAllen served as a pastor of churches in Boston and Northampton, Massachusetts; Jamestown, Rhode Island; Connellsville, Pennsylvania; and Columbus, Portsmouth, and Dayton, Ohio. In 1931, he became the divisional secretary of the American Bible Society. \n\nIn 1940, Allen was elected bishop of the AME Church for the 16th Episcopal District. In 1948, he was appointed to the third district, and, in 1956, to the fourth district. He served as chancellor and chair of the board of trustees of Wilberforce University and on the board of Payne Theological Seminary (associated with Wilberforce). \n\nThe recipient of many honorary doctorates of divinity, Allen was a member of the Women\u2019s Missionary Board of the AME Church; a delegate to the First Assembly of the World Council of Churches (held in 1958 in Amsterdam); a delegate to the World Council of Methodism (held in 1951 in Oxford, England); and a delegate to the Third Faith and Order Assembly (held in 1952 in Lund, Sweden). He was a Mason and a member of the NAACP, Frontiers of America, Knights of Pythias, and Alpha Phi Alpha Fraternity. Allen died in Cleveland in 1956. \nhelpful work in the selection of appropriate sites for the war housing projects; his cooperation\nwith groups fighting to maintain the democratic policy at the Western Electric Company; for\nsponsorship of the Hold-Your-Job campaign; and for giving his time as instructor at War\nVocational School No. 453.\n\nAllen later worked for the AME Church and, from 1964 to 1966, he served as director of the\nNew York Urban League. He then served, from 1966-1979, as director of the Eastern Regional\nOffice of the National Urban League. In 1979, he was named vice president of the National\nUrban League. Allen had three children with his wife Elizabeth. He died in Jamaica, Queens, in\n1984.\n\nImage citation: *Encyclopedia of the African Methodist Episcopal Church*, 1947 (via HathiTrust)\n",
+    "description": "Attended Yale Divinity School 1912-1914",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1884"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1956"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4572296",
+                    "data": {
+                        "label": "Clark Atlanta University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.750833333333,
+                                        "longitude": -84.410277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Clark Atlanta University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "point in time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1912"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1914"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q239870",
+                    "data": {
+                        "label": "Columbus, Georgia, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "municipality of Georgia",
+                            "consolidated city-county",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.492222222222,
+                                        "longitude": -84.940277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbus, Georgia, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q100",
+                    "data": {
+                        "label": "Boston, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.360277777777775,
+                                        "longitude": -71.05777777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Boston, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q54264",
+                    "data": {
+                        "label": "Newport, Rhode Island, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.488002,
+                                        "longitude": -71.312622
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newport, Rhode Island, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49186",
+                    "data": {
+                        "label": "Northampton, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "gay village",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.325,
+                                        "longitude": -72.641666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Northampton, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1378580",
+                    "data": {
+                        "label": "Jamestown, Rhode Island, United States",
+                        "instance_of": [
+                            "town of Rhode Island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.4970465,
+                                        "longitude": -71.3672755
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Jamestown, Rhode Island, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1126267",
+                    "data": {
+                        "label": "Connellsville, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.016111111111,
+                                        "longitude": -79.59
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Connellsville, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16567",
+                    "data": {
+                        "label": "Columbus, Ohio, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "city of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.96222222222222,
+                                        "longitude": -83.00055555555555
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbus, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q685335",
+                    "data": {
+                        "label": "Portsmouth, Ohio, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.743055555556,
+                                        "longitude": -82.965555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Portsmouth, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q34739",
+                    "data": {
+                        "label": "Dayton, Ohio, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "city of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.766666666667,
+                                        "longitude": -84.2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Dayton, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q37320",
+                    "data": {
+                        "label": "Cleveland, Ohio, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "city of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.49916666666667,
+                                        "longitude": -81.69472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cleveland, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q239870",
+                    "data": {
+                        "label": "Columbus, Georgia, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "municipality of Georgia",
+                            "consolidated city-county",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.492222222222,
+                                        "longitude": -84.940277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbus, Georgia, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q94622912",
+                    "data": {
+                        "label": "Nimrod Booker Allen",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Nimrod Booker Allen",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Alexander Joseph Allen",
+                    "image-info": [
+                        {
+                            "url": "/data/Q94622916.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Allen"
+                }
+            ]
+        }
+    }
+}

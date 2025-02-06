@@ -1,0 +1,380 @@
+{
+    "id": "Q130314897",
+    "label": "Donald G. S. Mtimkulu",
+    "biographyMarkdown": "# Donald G. S. Mtimkulu\n## Attended Yale Graduate School, circa 1937\nDonald Mtimkulu was born circa 1908 in South Africa. His father was a Methodist minister. He studied race relations in the Yale Graduate School in the 1930s and also attended the London School of Economics. He had a long career in higher education, serving as head of Adams College, then taking a professorship in education at the University of Fort Hare in the 1950s. In 1959, when the Extension of University Education Act fully segregated higher education in South Africa by race and barred Black students from attending white universities, Mtimkulu left the university. He lived in Zambia for a time, then in Ontario, where he taught at the University of Waterloo. He was married to Clytie Mtimkulu and the couple had three children. He died in 2000.\n\nImage citation: University of Waterloo Archives. Graphic Services fonds. Dr. M'Timkulu, Renison College. Reference code: 75-04-28.\n",
+    "description": "Attended Yale Graduate School, circa 1937",
+    "publicationsMarkdown": "\"African View of Indigenous African Religions,\" *The Missionary Review of the World 59* (1936). \n\n*A Positive Christianity for Africa*. New York, NY: Agricultural Missions Foundation, 1937. \n\n\"The All Africa Church Conference,\" *The Jouranl of Modern African Studies 1*, no. 1 (1963). \n\n*The Mission of the Church in Africa Today*. Toronto, CN: The Board of World Mission, the United Church of Canada, 1962. \n\n*Beyond Independence: The Face of the New Africa*. New York, NY: Friendship Press, 1971. \n\n\"Some Aspects of Zulu religion\" in *African Religions: A Symposium*. New York, NY: Nok Publishers International, 1977. \n",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "2000"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1049470",
+                    "data": {
+                        "label": "University of Waterloo",
+                        "instance_of": [
+                            "public research university",
+                            "open-access publisher",
+                            "university in Ontario"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.468888888889,
+                                        "longitude": -80.54
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Waterloo"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2005511",
+                    "data": {
+                        "label": "University of Fort Hare",
+                        "instance_of": [
+                            "public university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -32.7875,
+                                        "longitude": 26.8475
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Fort Hare"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q14979254",
+                    "data": {
+                        "label": "Adams College",
+                        "instance_of": [
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -30.0334,
+                                        "longitude": 30.8166
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Adams College"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q15721872",
+                    "data": {
+                        "label": "London School of Economics",
+                        "instance_of": [
+                            "educational organization",
+                            "higher education institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 51.51388889,
+                                        "longitude": -0.11666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "London School of Economics"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1937"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "sourcing circumstances",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q5727902",
+                                    "data": {
+                                        "label": "circa",
+                                        "instance_of": [
+                                            "sourcing circumstance"
+                                        ]
+                                    },
+                                    "text": "circa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1908"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q258",
+                    "data": {
+                        "label": "South Africa",
+                        "instance_of": [
+                            "sovereign state",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -29,
+                                        "longitude": 24
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "South Africa"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q953",
+                    "data": {
+                        "label": "Zambia",
+                        "instance_of": [
+                            "sovereign state",
+                            "republic",
+                            "landlocked country",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -14,
+                                        "longitude": 28
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Zambia"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q258",
+                    "data": {
+                        "label": "South Africa",
+                        "instance_of": [
+                            "sovereign state",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -29,
+                                        "longitude": 24
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "South Africa"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q639408",
+                    "data": {
+                        "label": "Waterloo, Ontario, Canada",
+                        "instance_of": [
+                            "city",
+                            "lower-tier municipality",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.466666666667,
+                                        "longitude": -80.516666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Waterloo, Ontario, Canada"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2003910",
+                    "data": {
+                        "label": "Alice, Nkonkobe Local Municipality, South Africa",
+                        "instance_of": [
+                            "town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -32.789166666667,
+                                        "longitude": 26.835
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Alice, Nkonkobe Local Municipality, South Africa"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5468",
+                    "data": {
+                        "label": "Durban, eThekwini Metropolitan Municipality, South Africa",
+                        "instance_of": [
+                            "city",
+                            "port settlement",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -29.858333333333,
+                                        "longitude": 31.025
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Durban, eThekwini Metropolitan Municipality, South Africa"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Donald G. S. Mtimkulu",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130314897.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Mtimkulu"
+                }
+            ]
+        }
+    }
+}

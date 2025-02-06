@@ -1,0 +1,211 @@
+{
+    "id": "Q130309687",
+    "label": "Selby Bangani Ngcabo",
+    "biographyMarkdown": "# Selby Bangani Ngcabo\n## Received master's degree, 1940\nSelby Bangani Ngcabo was born in 1908 in Pietermaritzburg, South Africa. He received several degrees in South Africa before studying at Yale, graduating with a junior certificate from Adams College in Adams Mission in 1926, a bachelor's from South African Native College at Fort Hare (now University of Fort Hare) in 1932, and a degree in economics from Natal University College in Durban (now University of Natal) in 1937. In 1937 he also married Lizzie Ntombi Kayise Mntyali, with whom he had at least one child, Grace Joyce LIndiwe Ngcobo. In between studies, he worked as a teacher from 1932-1939 and in 1935 participated in the All African Convention, a conference formed in response to three pieces of racist legislation proposed by South African President JBM Herzog. In the 1930s and 1940s, he was active in the African National Congress (ANC). Ngcabo continued in his anti-discrimination work while completing his master\u2019s at Yale (he graduated in 1940), which focused on race relations. While at Yale he wrote an essay on \u201cThe Native Representative Council in South Africa,\u201d a legislative body designed to further disenfranchise Black South Africans which had been an object of opposition by the All African Convention.\n",
+    "description": "Received master's degree, 1940",
+    "publicationsMarkdown": "\"The Bantu Peoples,\" in *The South African Way of Life*. New York, NY: Columbia University Press, 1953. \n\n\"Review of *Africans on the Land*,\" *The Journal of Modern African Studies 2*, no. 4 (1964).\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1940"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2021166",
+                    "data": {
+                        "label": "University of Natal",
+                        "instance_of": [
+                            "university"
+                        ]
+                    },
+                    "text": "University of Natal"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2005511",
+                    "data": {
+                        "label": "University of Fort Hare",
+                        "instance_of": [
+                            "public university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -32.7875,
+                                        "longitude": 26.8475
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Fort Hare"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q14979254",
+                    "data": {
+                        "label": "Adams College",
+                        "instance_of": [
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -30.0334,
+                                        "longitude": 30.8166
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Adams College"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1908"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q185591",
+                    "data": {
+                        "label": "Pietermaritzburg, Msunduzi Local Municipality, South Africa",
+                        "instance_of": [
+                            "town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -29.6009,
+                                        "longitude": 30.3796
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pietermaritzburg, Msunduzi Local Municipality, South Africa"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q185591",
+                    "data": {
+                        "label": "Pietermaritzburg, Msunduzi Local Municipality, South Africa",
+                        "instance_of": [
+                            "town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -29.6009,
+                                        "longitude": 30.3796
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pietermaritzburg, Msunduzi Local Municipality, South Africa"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Ngcabo"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,369 @@
+{
+    "id": "Q130309686",
+    "label": "Harold L. Nevers",
+    "biographyMarkdown": "# Harold L. Nevers\n## Attended Yale Divinity School 1927-1928\nHarold L. Nevers was born in Panama, in 1892, to Havilah Nevers and Anna Maria Rivers. His education included attending Panama Academy, College LaSalle, Durham State Normal School, and Howard University. Nevers completed a bachelor\u2019s of divinity at Talladega College in 1927, and was ordained in Montgomery the same year. He went on to earn a master's degree from Drew University in Madison, New Jersey. Nevers married the former Lena Ruth Honesty. \n\nIn 1927, Nevers was an assistant minister at Dixwell Avenue Congregational Church. While in New Haven, he attended Yale Divinity School during the 1927-1928 academic year. In the 1930s, Nevers served a number of churches throughout the South, including Gregory Community Church, a Congregational Church in Wilmington, North Carolina. In 1939, he was appointed minister of the Second Congregational Church in Pittsfield, Massachusetts. Nevers was active in community organizations and was a charter member of the advisory board of Berkshire Community College, a member of the Pittsfield Area Council of Churches, a member of the Monday Evening Club, and the Alpha Phi Alpha Fraternity. Nevers was a past president of the Berkshire chapter of the NAACP and the Pittsfield Ministerial Association.\n",
+    "description": "Attended Yale Divinity School 1927-1928",
+    "publicationsMarkdown": "\"Some Creative Contributions of the Negro to American Civilization.\" M.A. thesis, Drew University, 1934.\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1892"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1795487",
+                    "data": {
+                        "label": "Drew University",
+                        "instance_of": [
+                            "university",
+                            "botanical garden",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.761,
+                                        "longitude": -74.427
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Drew University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7680006",
+                    "data": {
+                        "label": "Talladega College",
+                        "instance_of": [
+                            "school",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.4321,
+                                        "longitude": -86.1133
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Talladega College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1518804",
+                    "data": {
+                        "label": "North Carolina Central University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.97645,
+                                        "longitude": -78.90092
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.974167,
+                                        "longitude": -78.898611
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "North Carolina Central University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6460865",
+                    "data": {
+                        "label": "LaSalle College",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 45.4916,
+                                        "longitude": -73.584
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "LaSalle College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1927"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1928"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q804",
+                    "data": {
+                        "label": "Panama",
+                        "instance_of": [
+                            "sovereign state",
+                            "republic",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 8.616667,
+                                        "longitude": -80.366667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Panama"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q29364",
+                    "data": {
+                        "label": "Montgomery, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.3675,
+                                        "longitude": -86.3
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Montgomery, Alabama, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q659400",
+                    "data": {
+                        "label": "Wilmington, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.223333333333,
+                                        "longitude": -77.912222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilmington, North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49184",
+                    "data": {
+                        "label": "Pittsfield, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.45,
+                                        "longitude": -73.25
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pittsfield, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q804",
+                    "data": {
+                        "label": "Panama",
+                        "instance_of": [
+                            "sovereign state",
+                            "republic",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 8.616667,
+                                        "longitude": -80.366667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Panama"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Nevers"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "id": "Q130309688",
+    "label": "Edward K. Nichols",
+    "biographyMarkdown": "# Edward K. Nichols\n## Graduate of Yale Divinity School, 1914\nBorn in Atlanta in 1879, Edward Kingston Nichols graduated with a BA from Morris Brown College in Georgia in 1899. He then received his bachelor of divinity degree from Yale in 1914, followed by graduate work at Harvard. Ordained in the AME Church in 1902, he held various ministerial positions in New York and Georgia. During World War I, he served as secretary of the YMCA at Camp Gordon from 1918 to 1919. After serving in other ministerial capacities, he moved to Philadelphia, where he became a well-known pastor. Most notably, Nichols served as pastor of the Mt. Pisgah AME Church in West Philadelphia, retiring in 1956. He was married to Laura Nichols, a noted social worker, and they had several children. A son, Edward K. Nichols, Jr., also became a well known attorney and pastor in Philadelphia. The elder Nichols died in 1965.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1914",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1914"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q13371",
+                    "data": {
+                        "label": "Harvard University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.374443888889,
+                                        "longitude": -71.116943888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harvard University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1879"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1965"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23556",
+                    "data": {
+                        "label": "Atlanta, Georgia, United States",
+                        "instance_of": [
+                            "county seat",
+                            "big city",
+                            "city in the United States",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.756944444444,
+                                        "longitude": -84.390277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Atlanta, Georgia, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1384",
+                    "data": {
+                        "label": "New York, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43,
+                                        "longitude": -75
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1428",
+                    "data": {
+                        "label": "Georgia, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33,
+                                        "longitude": -83.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23556",
+                    "data": {
+                        "label": "Atlanta, Georgia, United States",
+                        "instance_of": [
+                            "county seat",
+                            "big city",
+                            "city in the United States",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.756944444444,
+                                        "longitude": -84.390277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Atlanta, Georgia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Edward K. Nichols",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309688.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Nichols"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "id": "Q130314894",
+    "label": "Roy E. Norris",
+    "biographyMarkdown": "# Roy E. Norris\n## Attended Yale Divinity School circa 1938-1939\nRoy E. Norris was born in 1915. After graduating from Morehouse College in 1937, he attended the Howard University Graduate School of Religion and the Yale Divinity School. While at Yale, he met poet and playwright Owen Dodson, then studying in the School of Drama. One summer while students, they worked together at a resort on Long Island. They remained friends and later lived near each other in Brooklyn. Norris left Yale before finishing his degree due to illness.\n\nIn 1942, he married his wife, Elizabeth Norris, an archivist. Their son, Donald, was born in 1945. Norris served as industrial secretary for the New Jersey Urban League, based in Newark, from 1944 to 1948. In this role, he was instrumental in the desegregation of several industries that had previously excluded Black workers. In 1946, he was part of the Committee on Household Employment Standards, which focused on issues facing domestic workers. He also created a machinists training program for Black workers in New Jersey and advocated for employment of Black veterans. \n\nNorris died in 1984. His papers are held by the Newark Public Library. \n\nImage citation: Roy E. Norris Papers at the Newark Public Library, Charles F. Cummings New Jersey Information Center. Used under a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.\n",
+    "description": "Attended Yale Divinity School circa 1938-1939",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1984"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1938"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1939"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "sourcing circumstances",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q5727902",
+                                    "data": {
+                                        "label": "circa",
+                                        "instance_of": [
+                                            "sourcing circumstance"
+                                        ]
+                                    },
+                                    "text": "circa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1915"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q25395",
+                    "data": {
+                        "label": "Newark, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey",
+                            "largest city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.73555555555556,
+                                        "longitude": -74.17222222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newark, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18419",
+                    "data": {
+                        "label": "Brooklyn, New York City, United States",
+                        "instance_of": [
+                            "borough of New York City",
+                            "city in the United States",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.65083,
+                                        "longitude": -73.94972
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brooklyn, New York City, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Roy E. Norris",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130314894.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Norris"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,306 @@
+{
+    "id": "Q130314909",
+    "label": "William Cornelius Brown",
+    "biographyMarkdown": "# William Cornelius Brown\n## Attended  Yale Divinity School 1911-1912\nWilliam \u201cWillie\u201d Cornelius Brown was born in 1877 in Cowan County, North Carolina on a farm to Whitmel and Fanny Brown. According to the 1900 census, he continued to live with his parents on the farm while also teaching locally before becoming a preacher at the AME Church in Cowan County.[^1] He attended the State Normal School in Elizabeth City, North Carolina and Westbrook Seminary in Portland, Maine, from 1900 to 1904. He ministered in Massachusetts, Virginia, North Carolina, and Connecticut. In 1901, he married Gertrude Capehart.[^2] During the 1911-1912 academic school year, he took graduate-level courses at the Yale Divinity School as a special (non-degree) student.[^3]  \n\nIn the 1930s, during Hitler\u2019s rise in Europe, Brown, together with the Reverend Adam Clayton Powell, Sr. (YSD special student 1895-1896) sought dialogue with the Jewish community and preached against antisemitism to their parishioners in Brooklyn and Harlem. He also joined together with Powell, as well as other Black clergy members in New York, to form the Committee for Ethiopia to condemn the Italian invasion of Ethiopia and lobby the United States for arbitration.[^4]  \n\nIn 1920, Brown was sent to minister the First Church in Brooklyn, and became active in the community, serving as a leader in the Brooklyn Urban League, the Ministerial Alliance, the Order of the Elks, Pythias Grand Lodge, Zion Ministers Council, and the Kings County Republican Committee. He was known as well as a great administrator, increasing membership in the church as well as getting the church out of debt, and he was expected to become a bishop as early as 1927.[^5] He was elected to become a bishop in 1936 and rotated bishoprics, serving Texas, the Pacific Coast, Missouri and Kentucky. He returned to Brooklyn before retiring in 1960.[^6] He died in 1964 at the age of 87 and was buried in Edenton, N.C.[^7]  \n\n[^1]: United States Census, 1900, FamilySearch, Entry for Whitman Brown and Fannie Brown, 1900. \n[^2]: North Carolina Marriages, 1759-1979, FamilySearch, Gertrude C. Capehart in entry for Willie C. Brown, 1901.\n[^3]: Yale University, *Catalogue of Yale University, 1911-12* (1912): 806. \n[^4]: \u201cBlack Hitlerism is Dead -- What Now?\u201d *The New Amsterdam News*, December 29, 1934; \u201cRace Churchdom Protests Aggression by Italians,\u201d *Chicago Defender*, August 3, 1935.\n[^5]: \u201cClergymen Here Honor Brown: Friends Hail Brooklyn Minister as Future Bishop,\u201d *New York Amsterdam News*, June 8, 1927; \u201cHonor Deserved,\u201d *New York Amsterdam News*, July 6, 1935; \u201cAMEZ\u2019s Pick Three Bishops; AME's Select Two; ME\u2019s One: Zionites in Joyous Mood over Results; New Bishops Carried Bodily To Platform Amid Cheers,\u201d *Chicago Defender*, May 23, 1936.\n[^6]: \u201cBrown, William Cornelius,\u201d in *Encyclopedia of African American Religions*, eds. Larry G. Murphy, J. Gordon Melton, Gary L. Ward (New York: Routledge, 2013), 127-128.\n[^7]: \u201cBishop Brown, 84, dies in Brooklyn,\u201d *Afro-American*, January 18, 1964. \n",
+    "description": "Attended  Yale Divinity School 1911-1912",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1964"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1911"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1912"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1877"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q771",
+                    "data": {
+                        "label": "Massachusetts, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.3,
+                                        "longitude": -71.8
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1370",
+                    "data": {
+                        "label": "Virginia, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.5,
+                                        "longitude": -79
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1454",
+                    "data": {
+                        "label": "North Carolina, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.5,
+                                        "longitude": -80
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q779",
+                    "data": {
+                        "label": "Connecticut, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.6,
+                                        "longitude": -72.7
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18419",
+                    "data": {
+                        "label": "Brooklyn, New York City, United States",
+                        "instance_of": [
+                            "borough of New York City",
+                            "city in the United States",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.65083,
+                                        "longitude": -73.94972
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brooklyn, New York City, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1439",
+                    "data": {
+                        "label": "Texas, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 31,
+                                        "longitude": -100
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Texas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1581",
+                    "data": {
+                        "label": "Missouri, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.5,
+                                        "longitude": -92.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Missouri, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1603",
+                    "data": {
+                        "label": "Kentucky, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.5,
+                                        "longitude": -85
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kentucky, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Brown"
+                }
+            ]
+        }
+    }
+}

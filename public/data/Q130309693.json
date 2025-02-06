@@ -1,0 +1,209 @@
+{
+    "id": "Q130309693",
+    "label": "Earl Lieber Patterson",
+    "biographyMarkdown": "# Earl Lieber Patterson\n## Graduate of Yale College, 1906\nBorn in Selma, Alabama in 1888, Earl Lieber Patterson graduated from Geneva College in 1905 before joining the Yale College class of 1906 in the fall of 1905. In a history of his class published in 1911, Patterson reported to his classmates that he had spent the year after graduation studying social conditions in New York City. He returned to his hometown, where he worked as a private tutor. He then joined Selma University, where he had been teaching for three years. He also managed a business, the Patterson Gas Company. Census records and city directories indicate that Patterson remained in Selma, where he owned and operated a grocery business.\n\nImage citation: Yale College Class of 1906 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1906",
+    "publicationsMarkdown": "Driving Mechanism For Washing Machines. US Patent 753,909, filed October 7, 1903.  \n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1906"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5532987",
+                    "data": {
+                        "label": "Geneva College",
+                        "instance_of": [
+                            "private not-for-profit educational institution",
+                            "church college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.771,
+                                        "longitude": -80.321
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Geneva College"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1888"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79941",
+                    "data": {
+                        "label": "Selma, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.41,
+                                        "longitude": -87.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Selma, Alabama, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79941",
+                    "data": {
+                        "label": "Selma, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.41,
+                                        "longitude": -87.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Selma, Alabama, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Earl Lieber Patterson",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309693.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Patterson"
+                }
+            ]
+        }
+    }
+}

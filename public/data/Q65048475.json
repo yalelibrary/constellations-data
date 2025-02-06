@@ -1,0 +1,364 @@
+{
+    "id": "Q65048475",
+    "label": "George Henry Jackson",
+    "biographyMarkdown": "# George Henry Jackson\n## Graduate of Yale Divinity School, 1889; Graduate of Yale School of Medicine, 1892\nGeorge Henry Jackson was born in Natick, Massachusetts in 1863. He received his undergraduate degree from Madison (now Colgate) University, then went on to earn two graduate degrees at Yale.\n\nWhile pastoring New Haven\u2019s Immanuel Baptist Church, Jackson studied at Yale Medical School. After graduating with his MD, he served as a medical missionary in what was then the Congo Free State for two years. He then returned to Yale as an assistant instructor at the Yale School of Medicine for two years before starting work with the US Consular Service, a division of the State Department.\n\nHe was appointed by President William McKinley as US Consul in western France for 17 years and was celebrated for his work there. He also served as president of a sports club, Stade Rochelais in La Rochelle, France, and started its rugby team.\n\nIn 1888, he married Grace Lillie, and the couple had five children. He later married Alice Brouillard, and the couple had one child, Christiane Jackson.\n\nHe was dismissed from his position as Consul in 1914 and went into business. He lived in Paris for 20 years before moving to Los Angeles in 1935, where he was involved in community aid work. He died in 1943.\n\nImage citation: *\"Our Baptist Ministers and Schools* (1892)\n",
+    "description": "Graduate of Yale Divinity School, 1889; Graduate of Yale School of Medicine, 1892",
+    "publicationsMarkdown": "\"The Daily Use of Quinine in Malaria,\" *Medical Record*, March 7, 1896. \n\n\"Facts and Fallacies Concerning Brandy,\" *Daily Consular Reports*, June 8, 1905. \n\n\"Manufacture of Cognac Brandy,\" *Daily Consular Reports*, June 19, 1905.\n\n\"Cognac Brandy: Locality and Extent of Manufacture Quality and Value,\" *Bonfort's Wine and Spirit Circular*, June 25, 1906.\n\n\"French Sea Foods\" *The New-York Tribune*, March 29, 1908.\n\n*The Medicinal Value of French Brandy*. Montreal, CA: Thereien Freres Limitee, 1928.\n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1863"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q367070",
+                    "data": {
+                        "label": "Natick, Massachusetts, United States",
+                        "instance_of": [
+                            "New England town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.283333333333,
+                                        "longitude": -71.35
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Natick, Massachusetts, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6970015",
+                    "data": {
+                        "label": "Natick High School",
+                        "instance_of": [
+                            "high school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.2747,
+                                        "longitude": -71.3618
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Natick High School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1191335",
+                    "data": {
+                        "label": "Colgate University",
+                        "instance_of": [
+                            "private university",
+                            "private not-for-profit educational institution",
+                            "liberal arts college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.819444444444,
+                                        "longitude": -75.536388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Colgate University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1889"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1961140",
+                    "data": {
+                        "label": "Yale School of Medicine",
+                        "instance_of": [
+                            "medical school",
+                            "faculty"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.303245363975,
+                                        "longitude": -72.933871811889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Medicine",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1892"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1961140",
+                    "data": {
+                        "label": "Yale School of Medicine",
+                        "instance_of": [
+                            "medical school",
+                            "faculty"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.303245363975,
+                                        "longitude": -72.933871811889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Medicine"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1943"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q76048",
+                    "data": {
+                        "label": "Congo Free State",
+                        "instance_of": [
+                            "historical country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -5.854722222222222,
+                                        "longitude": 13.056666666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Congo Free State"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q90",
+                    "data": {
+                        "label": "Paris, Grand Paris, France",
+                        "instance_of": [
+                            "commune of France",
+                            "department of France",
+                            "territorial collectivity of France with special status",
+                            "metropolis",
+                            "tourist destination",
+                            "global city",
+                            "megacity",
+                            "largest city",
+                            "college town",
+                            "big city",
+                            "primate city",
+                            "department of France",
+                            "national capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 48.85666666666667,
+                                        "longitude": 2.352222222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Paris, Grand Paris, France"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q65",
+                    "data": {
+                        "label": "Los Angeles, California, United States",
+                        "instance_of": [
+                            "charter city",
+                            "city in the United States",
+                            "city",
+                            "global city",
+                            "metropolis",
+                            "megacity",
+                            "business cluster",
+                            "big city",
+                            "LGBT sanctuary city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.05223,
+                                        "longitude": -118.24368
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Los Angeles, California, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q367070",
+                    "data": {
+                        "label": "Natick, Massachusetts, United States",
+                        "instance_of": [
+                            "New England town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.283333333333,
+                                        "longitude": -71.35
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Natick, Massachusetts, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "George Henry Jackson",
+                    "image-info": [
+                        {
+                            "url": "/data/Q65048475.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Jackson"
+                }
+            ]
+        }
+    }
+}

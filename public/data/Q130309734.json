@@ -1,0 +1,190 @@
+{
+    "id": "Q130309734",
+    "label": "John Francis Williams",
+    "biographyMarkdown": "# John Francis Williams\n## Graduate of Yale Law School, 1922\nJohn Francis Williams was born in 1896. He received a bachelor of laws degree from Yale Law School in 1922, and was a member of Zeta Chapter of Alpha Phi Alpha Fraternity. He began practicing law in Philadelphia in 1925. Two years later, he joined the Raymond Pace Alexander Law Office, considered the largest Black law firm at the time. He served as a deputy attorney general, and later practiced with the firm of Williams, Spaulding, Tucker, Watson, and Baker. \n\nIn 1934, he was quoted by a newspaper as saying that a \u201cbattle to the finish\u201d was needed against segregation and that: \n>Negroes who passively accept segregation are not being fair to their race \u2026 a movement is growing to cut us off socially from the rest of the world. Such a movement is undemocratic and un-American. As soon as that fact is realized by white people, segregation will be at an end. We must, by all resources at our command, make them realize it. All changes will be gradual, however, and only time will completely solve the race problem.\n\nHe was married to Irene B. Williams. He was a member of the Elks, the Pyramid Club of Philadelphia, and the Masons, and served as president of a Black law club in Philadelphia. He died in Philadelphia in 1950.\n\nImage citation: Group photo of members of the Zeta Chapter of Alpha Phi Alpha Fraternity, 1915, from the *Yale Alumni Magazine,* June 1970.\n",
+    "description": "Graduate of Yale Law School, 1922",
+    "publicationsMarkdown": "\"Advises Against Blind Republicanism,\" *Philadelphia Tribune*, July 27, 1933. \n\n\"Offers to Debate,\" *The Pittsburgh Courrier*, February 3, 1934. \n\n\"'No Segregated Jr. Hi Schools' Says Board; --So Williams Replies,\" *Philadelphia Tribune*, April 11, 1935.\n\n\"Inconsistent, 'Friend' Of Roosevelt Says,\" *Philadelphia Tribune*, September 19, 1940. \n\n\"Explaining Connecticut Law: Could Spell Have Been Tried Again?,\" *Philadelphia Tribune*, February 13, 1941. \n\n\"Defends New Group To Fight For Jobs In Defense Industries,\" *Philadelphia Tribune*, July 17, 1941. \n\n\"Praise For Tribune From Local Attorney,\" *Philadelphia Tribune*, March 10, 1945. \n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1922"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1896"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1950"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q779",
+                    "data": {
+                        "label": "Connecticut, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.6,
+                                        "longitude": -72.7
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Connecticut, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q779",
+                    "data": {
+                        "label": "Connecticut, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.6,
+                                        "longitude": -72.7
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "John Francis Williams",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309734.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Williams"
+                }
+            ]
+        }
+    }
+}

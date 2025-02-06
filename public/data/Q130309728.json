@@ -1,0 +1,250 @@
+{
+    "id": "Q130309728",
+    "label": "Charles Tribbett",
+    "biographyMarkdown": "# Charles Tribbett\n## Graduate of Sheffield Scientific School, 1916\nBorn in 1892 in New Haven, Connecticut, Charles Alexander Tribbett graduated from the Sheffield Scientific School in 1916. He was a member of Zeta Chapter of Alpha Phi Alpha Fraternity, and served as the national fraternity\u2019s general treasurer. He was affiliated with Dixwell Congregational Church in New Haven. In 1918, while serving in World War I, Tribbett became involved in an effort to challenge Jim Crow. After graduating from the Officers\u2019 Training Camp in Des Moines, Lieutenant Tribbett was assigned to duty at a military installation with Black troops in Long Island. Ordered to travel by train from New York to Fort Sill, Tribbett was on board a Pullman car in Oklahoma when he was arrested by local law enforcement for being in a train car with white passengers. He was imprisoned and fined and ultimately released and allowed to travel to Fort Sill, but Black lawyers, including Yale Law School graduate George W. Crawford of New Haven, took up his case in an effort to draw attention to the unfair treatment of Black Americans, including soldiers. \n\nAfter the war, Tribbett worked for the United Electric Company in Waterbury, Connecticut. Soon, however, he set up his own company, Standard Electric Company, based in New Haven. According to a 2005 interview with his grandson, Tribbett set up his own electrical company because opportunities were limited for him as a Black man in the private sector. He moved to Chicago a few years before his death in 1974.\n\nImage citation: Sheffield Scientific School Class of 1916 class book, Yale University Library\n",
+    "description": "Graduate of Sheffield Scientific School, 1916",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7492742",
+                    "data": {
+                        "label": "Sheffield Scientific School",
+                        "instance_of": [
+                            "college"
+                        ]
+                    },
+                    "text": "Sheffield Scientific School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1916"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1892"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1974"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q39709",
+                    "data": {
+                        "label": "Des Moines, Iowa, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.590833333333,
+                                        "longitude": -93.620833333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Des Moines, Iowa, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18438",
+                    "data": {
+                        "label": "Long Island, New York, United States",
+                        "instance_of": [
+                            "island",
+                            "moraine"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.805805,
+                                        "longitude": -73.253616
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Long Island, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49178",
+                    "data": {
+                        "label": "Waterbury, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.558333333333,
+                                        "longitude": -73.036944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Waterbury, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.85003,
+                                        "longitude": -87.65005
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Charles Tribbett",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309728.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Tribbett"
+                }
+            ]
+        }
+    }
+}

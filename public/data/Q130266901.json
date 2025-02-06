@@ -1,0 +1,197 @@
+{
+    "id": "Q130266901",
+    "label": "Quesnel Albunyan Connolly",
+    "biographyMarkdown": "# Quesnel Albunyan Connolly\n## Attended Yale Divinity School 1917-1918\nQuesnel Albunyan Connolly was born in Eastland, Grand Cayman Island, in 1887. He received a bachelor's degree from Howard in 1917, then attended Yale Divinity School from 1917 to 1918. He may have returned to live in Grand Cayman Island for a time, but according to census records, he later worked as an instructor at Bluefields Teachers College in Mercer County, West Virginia. Connolly died in West Virginia in 1947.\n",
+    "description": "Attended Yale Divinity School 1917-1918",
+    "publicationsMarkdown": "\"A Geographical Survey of Grand Cayman Island, British West Indies.\" M.A. thesis, Ohio State University, 1940.\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1887"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q737765",
+                    "data": {
+                        "label": "Grand Cayman, Cayman Islands, United Kingdom",
+                        "instance_of": [
+                            "island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 19.33,
+                                        "longitude": -81.24
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Grand Cayman, Cayman Islands, United Kingdom"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1947"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1917"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1918"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q737765",
+                    "data": {
+                        "label": "Grand Cayman, Cayman Islands, United Kingdom",
+                        "instance_of": [
+                            "island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 19.33,
+                                        "longitude": -81.24
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Grand Cayman, Cayman Islands, United Kingdom"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Connolly"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,336 @@
+{
+    "id": "Q130286025",
+    "label": "Walter Dyson",
+    "biographyMarkdown": "# Walter Dyson\n## Graduate of Yale College, 1905\nBorn in Paris, Illinois in 1882, Walter Dyson was the son of Nathaniel Dyson, a laborer, and Elvira Mitchem Dyson, who died in 1892. He graduated from Fisk University before receiving a second bachelor's degree from Yale in 1905. Dyson had studied at the University of Pennsylvania in 1911 and, in 1913, received his master's in history from the University of Chicago; he also completed postgraduate work at Columbia University. \n\nDyson joined the history faculty of Howard University in 1905, the same year he graduated from Yale. He taught European history, civics, and ancient history in the Academy, which was a preparatory school within Howard. He was the author of several works about Howard: *The Founding of Howard University*, published in 1921; *Founding the School of Medicine of Howard University, 1868-1873*, published in 1929, and *Howard University, the Capstone of Negro Education: A History, 1867-1940*, published in 1941. He was one of the co-editors of the *Journal of Negro History* from its founding in 1916. Fellow Yale graduate and historian Charles H. Wesley was his colleague and collaborator at Howard. \n\nDyson died in 1958, and his wife, Mary, survived him.\n\nImage citation: Yale College Class of 1905 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1905",
+    "publicationsMarkdown": "\"The District of Columbia in the Civil War.\" M.A. thesis, University of Chicago, 1913.\n\n\"Review of *Negro Culture in West Africa*,\" *The Journal of Negro History 1*, no. 1 (1916).\n\n\"Review of *Gouldtown*,\" *The Journal of Negro History 1*, no. 2 (1916).\n\n\"The Founding of Howard University,\" *Howard University Studies in History 1*, no. 1 (1921).\n\n*The Founding of Howard University*. Washington, D.C.: Howard University Press, 1922.\n\n\"Connecticut Normal School, Established at New Britain in 1850,\" *Howard University Studies in History 6*, no. 1 (1925).\n\n\"Founding The School of Medicine of Howard University,\" *Howard University Studies in History 10*, no. 1 (1929).\n\n\"A History of the Federal Appropriation of Howard University 1867-1926,\" *Howard University Studies in History 8*, no. 1 (1927).\n\n*Howard University, the Capstone of Negro Education, a History: 1867-1940*. Washington, D.C.: Graduate School, 1941.\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1882"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q576584",
+                    "data": {
+                        "label": "Paris, Illinois, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.6111,
+                                        "longitude": -87.6961
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Paris, Illinois, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1958"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1905"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49117",
+                    "data": {
+                        "label": "University of Pennsylvania",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.95388888888889,
+                                        "longitude": -75.19305555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Pennsylvania"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q131252",
+                    "data": {
+                        "label": "University of Chicago",
+                        "instance_of": [
+                            "private university",
+                            "private not-for-profit educational institution",
+                            "research university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.789722222222,
+                                        "longitude": -87.599722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Chicago"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49088",
+                    "data": {
+                        "label": "Columbia University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.8075,
+                                        "longitude": -73.961944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbia University"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q90",
+                    "data": {
+                        "label": "Paris, Grand Paris, France",
+                        "instance_of": [
+                            "commune of France",
+                            "department of France",
+                            "territorial collectivity of France with special status",
+                            "metropolis",
+                            "tourist destination",
+                            "global city",
+                            "megacity",
+                            "largest city",
+                            "college town",
+                            "big city",
+                            "primate city",
+                            "department of France",
+                            "national capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 48.85666666666667,
+                                        "longitude": 2.352222222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Paris, Grand Paris, France"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Walter Dyson",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130286025.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Dyson"
+                }
+            ]
+        }
+    }
+}

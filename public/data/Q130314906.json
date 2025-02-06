@@ -1,0 +1,298 @@
+{
+    "id": "Q130314906",
+    "label": "Matthew Anderson",
+    "biographyMarkdown": "# Matthew Anderson\n## Attended Yale Divinity School circa 1877-1879\nMatthew Anderson was born in 1845 in Greencastle, Pennsylvania to free parents, Mary and Timothy Anderson. The family owned a lumber mill and farm. He attended Oberlin College, where he met his future wife, Caroline Still. Still was a medical pioneer, becoming one of the first Black women doctors after graduating from the Women's Medical College in Philadelphia. She was also the daughter of famed abolitionist William Still.\n\nAnderson continued his education at Princeton Theological Seminary in 1874. In 1877, he then came to New Haven to serve as a minister of the Temple Street Congregational Church (now Dixwell Avenue UCC), and attended classes at the Yale Divinity School. He later earned his doctorate of divinity from Lincoln University in 1904.\n\nHe moved to Philadelphia in 1879, and began a long career establishing and leading Black community institutions. In 1880, he  founded the Berean Presbyterian Church, where he was minister. The church was home to a medical dispensary, run by Dr. Caroline Still Anderson.  A few years later, he founded the Berean Building and Loan Association. In 1899, he founded the Berean Manual Training and Industrial School (later the Berean Institute), where he served as principal and Dr. Caroline Still Anderson served as assistant principal and an instructor. \n\nDr. Caroline Still Anderson died in 1919. Matthew Anderson married Blanche Williams in 1920.\n\nMatthew Anderson died in 1928.\n",
+    "description": "Attended Yale Divinity School circa 1877-1879",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1928"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1185633",
+                    "data": {
+                        "label": "Greencastle, Pennsylvania, United States",
+                        "instance_of": [
+                            "borough of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7894,
+                                        "longitude": -77.7267
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.79037,
+                                        "longitude": -77.72777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Greencastle, Pennsylvania, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1185633",
+                    "data": {
+                        "label": "Greencastle, Pennsylvania, United States",
+                        "instance_of": [
+                            "borough of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7894,
+                                        "longitude": -77.7267
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.79037,
+                                        "longitude": -77.72777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Greencastle, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1845"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q616591",
+                    "data": {
+                        "label": "Oberlin College",
+                        "instance_of": [
+                            "college",
+                            "liberal arts college",
+                            "private not-for-profit educational institution",
+                            "private university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.293055555555554,
+                                        "longitude": -82.22166666666666
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Oberlin College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1877"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1879"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q909696",
+                    "data": {
+                        "label": "Princeton Theological Seminary",
+                        "instance_of": [
+                            "seminary",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.344444444444,
+                                        "longitude": -74.664444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Princeton Theological Seminary"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q126203810",
+                    "data": {
+                        "label": "Berean Institute",
+                        "instance_of": [
+                            "school"
+                        ]
+                    },
+                    "text": "Berean Institute"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Anderson"
+                }
+            ]
+        }
+    }
+}

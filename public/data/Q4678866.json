@@ -1,0 +1,258 @@
+{
+    "id": "Q4678866",
+    "label": "Adam Clayton Powell, Sr.",
+    "biographyMarkdown": "# Adam Clayton Powell, Sr.\n## Attended Yale Divinity School, 1895-1896\nAdam Clayton Powell, Sr. was born on May 5, 1865 in Franklin County, Virginia to Sally Dunning, a free woman of color. He was of mixed ancestry, allegedly including both European and Native American in addition to African-American descent, and was very fair-skinned. Powell experienced a religious awakening at the age of nineteen, converting to Christianity and pursuing a religious education at Wayland Seminary and College in Washington, DC in 1888. He married Mattie Fletcher Buster in 1889, with whom he had two children: Blanche Powell and Adam Clayton Powell, Jr., who would go on to become a notable politician and the first Black US Congressman from the Northeast.\n\nFollowing his graduation from Wayland in 1892, Powell pastored at the Ebenezer Baptist Church in Philadelphia, where he showed great charismatic ability. In 1893 Powell moved to New Haven to succeed Yale Graduate George H. Jackson as pastor of the Immanuel Baptist Church. In 1908 he relocated to the Abyssinian Baptist Church, and his preaching took on a more anti-racist character, particularly after the church relocated to Harlem in 1923. It became the largest church congregation in the country, numbering roughly 14,000 worshippers. In addition to the activist nature of his preaching, Powell was a founding member of the Urban League, which offered aid and services to recent Black migrants to the North, and was a member of the NAACP. He helped to organize a silent protest against racist mob violence in 1917. During the Great Depression he also led relief campaigns for the urban poor. \n\nIn 1936 Powell retired and was replaced by his son, Adam Clayton Powell, Jr. (later New York State\u2019s first Black representative in Congress). He died on June 12, 1953.\n\nImage citation: Wikimedia Commons\n",
+    "description": "Attended Yale Divinity School, 1895-1896",
+    "publicationsMarkdown": "*A Souvenir of the Immanuel Baptist Church, its Pastors and Its Members*. New Haven, CN: Press of C. H. Ryder, 1895.\n\n*Some Rights Not Denied the Colored Race: An Address by Rev. A. Clayton Powell, D. D.*, New York, NY: n.p, 1912.\n\n*The Valley of Dry Bones*. New York, NY: Beehvie Print. Co., 1916.\n\n*Patriotism and the Negro*. New York, NY: Beehvie Print. Co., 1918.\n\n*The Colored Man's Contribution to Christianity: And When will it be Made.* New York, NY: McLean's Quick Printery, 1919. \n\n*The Bible More than Literature*. New York: NY: Negro Pulpit Opinion, 1927. \n\n*Against the Tide: An Autobiography: An Autobiography*. New York, NY: R. R. Smith, 1938.\n\n*Palestine and Saints in Caesar's Household*. New York, NY: R. R. Smith, 1939. \n\n*What is a Growing Church?: A Ten Point Program of the Pastor of the Abyssinian Baptist Church and the Yardsticks by Which to Measure a Growing Church.* New York: NY, n.p, 1941. \n\n*Picketing Hell: A Fictious Narrative*. New York, NY: Wendell Mallliet and Co., 1942. \n\n*Riots and Ruins*. New York, NY: R. R. Smith, 1945. \n\n*Upon This Rock*. New York, NY: Abyssinian Baptist Church, 1949.\n",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1953",
+                    "qualifiers": [
+                        {
+                            "label": "age of subject at event",
+                            "values": [
+                                {
+                                    "value-type": "quantity",
+                                    "amount": "+88",
+                                    "unit": {
+                                        "label": "years old",
+                                        "instance_of": [
+                                            "unit of time",
+                                            "unit without standard conversion to SI"
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1865"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1895"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1896"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7975929",
+                    "data": {
+                        "label": "Wayland Seminary",
+                        "instance_of": [
+                            "seminary"
+                        ]
+                    },
+                    "text": "Wayland Seminary"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q502036",
+                    "data": {
+                        "label": "Franklin County, Virginia, United States",
+                        "instance_of": [
+                            "county of Virginia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.99,
+                                        "longitude": -79.88
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Franklin County, Virginia, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q502036",
+                    "data": {
+                        "label": "Franklin County, Virginia, United States",
+                        "instance_of": [
+                            "county of Virginia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.99,
+                                        "longitude": -79.88
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Franklin County, Virginia, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Adam Clayton Powell, Sr.",
+                    "image-info": [
+                        {
+                            "url": "/data/Q4678866.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Powell,"
+                }
+            ]
+        }
+    }
+}

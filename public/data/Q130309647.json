@@ -1,0 +1,307 @@
+{
+    "id": "Q130309647",
+    "label": "William Edward Beardsley Manning",
+    "biographyMarkdown": "# William Edward Beardsley Manning\n## Attended Yale School of Art 1912-1914\nWilliam Edward Beardsley (or Beardsleigh) Manning was born in 1878 in Connecticut to William Carnes Manning and Josephine Scott Manning. He grew up in Fair Haven and on Ashmun Street in New Haven. According to the 1900 census, he was then working as a janitor in New Haven. By 1910, he was working as a sign painter in Providence, Rhode Island. At that time, he was married to Minnie Manning and had one young child, Edna. He returned to New Haven, where he continued in the sign painting business and attended the Yale School of Art from 1912 to 1914. In 1919 he married Grace Webster. He managed Atlas Display Company, which was first located on Chapel Street and then moved to State Street, and lived on Ashmun Street with his wife, children Edna, Mabel, Dorothy May, Edwina Josephine, and Edward, and his parents. He died in 1928.\n\nImage citation: Courtesy of Denise Manning Keyes Page\n",
+    "description": "Attended Yale School of Art 1912-1914",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047422",
+                    "data": {
+                        "label": "Yale School of Art",
+                        "instance_of": [
+                            "educational institution",
+                            "arts educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3086,
+                                        "longitude": -72.9319
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Art",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1912"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1914"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1878"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q779",
+                    "data": {
+                        "label": "Connecticut, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.6,
+                                        "longitude": -72.7
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Connecticut, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1928"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309664",
+                    "data": {
+                        "label": "John Wesley Manning",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "John Wesley Manning",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q76557",
+                                    "data": {
+                                        "label": "uncle",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "uncle"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q464946",
+                    "data": {
+                        "label": "Henry Edward Manning",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Henry Edward Manning",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q76557",
+                                    "data": {
+                                        "label": "uncle",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "uncle"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5429819",
+                    "data": {
+                        "label": "Fair Haven, Connecticut, United States",
+                        "instance_of": [
+                            "neighborhood"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311111111111,
+                                        "longitude": -72.895555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fair Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18383",
+                    "data": {
+                        "label": "Providence, Rhode Island, United States",
+                        "instance_of": [
+                            "big city",
+                            "county seat",
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.82399,
+                                        "longitude": -71.41283
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Providence, Rhode Island, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q779",
+                    "data": {
+                        "label": "Connecticut, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.6,
+                                        "longitude": -72.7
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "William Edward Beardsley Manning",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309647.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Manning"
+                }
+            ]
+        }
+    }
+}

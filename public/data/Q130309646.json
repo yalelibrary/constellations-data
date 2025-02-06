@@ -1,0 +1,342 @@
+{
+    "id": "Q130309646",
+    "label": "David Simpson Klugh",
+    "biographyMarkdown": "# David Simpson Klugh\n## Attended Yale Divinity School 1912-1913\nDavid Simpson Klugh was born in Greenwood, South Carolina, in 1868. He attended Atlanta Baptist College (now Morehouse) from 1888 to 1890, and the seminary there from 1890 to 1892. He was ordained as a Baptist minister in 1889. In 1897, he married Adella L. Plyman in Georgia.\nKlugh completed a master's degree at Virginia Seminary and College in Lynchburg (now Virginia University of Lynchburg), and attended Princeton Theological Seminary from 1906 to 1907. In 1909, Klugh was appointed minister of Immanuel Baptist Church in New Haven. According to the census, in 1910 Klugh, his wife, their children, and a nurse were living on Park Street. He attended Yale Divinity School as a \u201cspecial\u201d (or non-degree) student during the 1912-1913 academic year.\nIn addition to Immanuel Baptist, Klugh was minister of churches in Greenwood and Vendery, South Carolina; Princeton, New Jersey; and Boston, Massachusetts. He was active with the National Baptist Convention. Klugh died in 1934 in Boston.\n",
+    "description": "Attended Yale Divinity School 1912-1913",
+    "publicationsMarkdown": "\"Southern Registry Laws: And How They Are Used Against Republican Voters,\" *New-York Tribune*, July 28, 1890. \n\n\"Rev Dr Klugh's Address,\" *Boston Daily Globe*, March 20, 1925. \n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1912"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1913"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q21578",
+                    "data": {
+                        "label": "Princeton University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.345277777778,
+                                        "longitude": -74.656111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Princeton University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7934641",
+                    "data": {
+                        "label": "Virginia University of Lynchburg",
+                        "instance_of": [
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution",
+                            "university campus"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.3952,
+                                        "longitude": -79.1517
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Virginia University of Lynchburg"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1868"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q520251",
+                    "data": {
+                        "label": "Greenwood, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.189722222222,
+                                        "longitude": -82.154722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Greenwood, South Carolina, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1934"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q520251",
+                    "data": {
+                        "label": "Greenwood, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.189722222222,
+                                        "longitude": -82.154722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Greenwood, South Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1456",
+                    "data": {
+                        "label": "South Carolina, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34,
+                                        "longitude": -81
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "South Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q138518",
+                    "data": {
+                        "label": "Princeton, New Jersey, United States",
+                        "instance_of": [
+                            "borough of New Jersey"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.352222222222,
+                                        "longitude": -74.656944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Princeton, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q100",
+                    "data": {
+                        "label": "Boston, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.360277777777775,
+                                        "longitude": -71.05777777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Boston, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q520251",
+                    "data": {
+                        "label": "Greenwood, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.189722222222,
+                                        "longitude": -82.154722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Greenwood, South Carolina, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Klugh"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "id": "Q130298928",
+    "label": "William Emanuel Hendricks",
+    "biographyMarkdown": "# William Emanuel Hendricks\n## Graduate of Yale College, 1908\nWilliam Emanuel Hendricks was born in St. Croix, then a part of the Danish West Indies (now U.S. Virgin Islands), on August 1, 1879. He attended Lincoln University in Oxford, Pennsylvania before attending Yale College, where he was involved with Dwight Hall and the Berkeley Association, an Episcopalian student organization. His senior year, he was a finalist for the DeForest Prize for oratory, speaking on \u201cThe Ideal of the Rhodes Scholarship.\u201d He graduated from Yale in 1908 and subsequently entered the General Theological Seminary in New York. In 1911 he became an ordained minister in the Protestant Episcopal Church and moved to Puerto Rico as a missionary. The same year he married Laura Virginia Highgate, and in 1912 his son Guillermo Manuel Hendricks was born. In 1914 he moved to Philadelphia, where he became rector of St. Thomas\u2019 Church, and in 1918 became chaplain of the Philadelphia City Mission. Hendricks died in Philadelphia on February 10, 1922.\n\nImage citation: Yale College Class of 1908 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1908",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1501676",
+                    "data": {
+                        "label": "General Theological Seminary",
+                        "instance_of": [
+                            "seminary",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.745152777778,
+                                        "longitude": -74.003755555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "General Theological Seminary"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1908"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1879"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q642481",
+                    "data": {
+                        "label": "Saint Croix, United States Virgin Islands, United States",
+                        "instance_of": [
+                            "island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 17.732,
+                                        "longitude": -64.748
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Saint Croix, United States Virgin Islands, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1922"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1183",
+                    "data": {
+                        "label": "Puerto Rico",
+                        "instance_of": [
+                            "unincorporated territory of the United States",
+                            "insular area of the United States",
+                            "political territorial entity",
+                            "province of Spanish America",
+                            "cultural region",
+                            "territory of the United States",
+                            "commonwealth"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 18.25,
+                                        "longitude": -66.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Puerto Rico"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q642481",
+                    "data": {
+                        "label": "Saint Croix, United States Virgin Islands, United States",
+                        "instance_of": [
+                            "island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 17.732,
+                                        "longitude": -64.748
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Saint Croix, United States Virgin Islands, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "William Emanuel Hendricks",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130298928.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Hendricks"
+                }
+            ]
+        }
+    }
+}

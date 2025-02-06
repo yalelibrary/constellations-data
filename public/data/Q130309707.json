@@ -1,0 +1,260 @@
+{
+    "id": "Q130309707",
+    "label": "Garrett Augustus Hobart Sheppard",
+    "biographyMarkdown": "# Garrett Augustus Hobart Sheppard\n## Graduate of Yale Divinity School, 1934\nGarrett Augustus Hobart Sheppard was born in 1897 in Greenville, Texas, the son of David and Susie. In 1930, he received a BA from Bishop College in Texas, graduating with highest honors. The next year, 1931, he completed a BA in religious education at Hartford Seminary before earning a doctorate in theology from Yale Divinity School in 1934. His 1965 obituary stated that he pastored churches in Mexia and Texarkana before settling in 1948 in Dallas, where he lived for 25 years. Sheppard served as pastor of the Greater Bethlehem Baptist Church for many years. He also served as president of the Sunday School and Baptist Training Union Congress of the Baptist, Missionary, and Educational Convention of Texas. In addition to honorary degrees from Bishop College and Arkansas Baptist College, he received the Bookman Award for distinguished community service and the Silver Beaver Award from the Boy Scouts of America. He was a trustee of Bishop College. His wife Bertha survived him, and she died in 1998. They are buried in Dallas. \n\nImage citation: Detail of Yale Divinity School class photograph in the Yale University Divinity School Memorabilia Collection (RG 53), Yale Divinity Library\n",
+    "description": "Graduate of Yale Divinity School, 1934",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1934"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4496116",
+                    "data": {
+                        "label": "Hartford International University for Religion and Peace",
+                        "instance_of": [
+                            "university",
+                            "private not-for-profit educational institution",
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.7699,
+                                        "longitude": -72.7076
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford International University for Religion and Peace"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4917518",
+                    "data": {
+                        "label": "Bishop College",
+                        "instance_of": [
+                            "higher education institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.6781,
+                                        "longitude": -96.7552
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bishop College"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1897"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1965"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q976490",
+                    "data": {
+                        "label": "Greenville, Texas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "human settlement"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.1261,
+                                        "longitude": -96.1097
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Greenville, Texas, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q973900",
+                    "data": {
+                        "label": "Mexia, Texas, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 31.681666666667,
+                                        "longitude": -96.481111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Mexia, Texas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q844020",
+                    "data": {
+                        "label": "Texarkana, Texas, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.4372,
+                                        "longitude": -94.0675
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Texarkana, Texas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q976490",
+                    "data": {
+                        "label": "Greenville, Texas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "human settlement"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.1261,
+                                        "longitude": -96.1097
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Greenville, Texas, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Garrett Augustus Hobart Sheppard",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309707.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Sheppard"
+                }
+            ]
+        }
+    }
+}

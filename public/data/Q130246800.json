@@ -1,0 +1,250 @@
+{
+    "id": "Q130246800",
+    "label": "Frederick Douglass Bonner",
+    "biographyMarkdown": "# Frederick Douglass Bonner\n## Graduate of Yale College, 1901\nFrederick Douglass Bonner was born in New Haven in 1878 to Willis M. Bonner, a prominent Connecticut Republican politician, and Elizabeth Young Bonner. He was a graduate of New Haven High School (now Hillhouse High School). His brother, Robert Bonner, graduated from the Yale School of Art in 1896. In 1897, Frederick Bonner married Charlotte Drucilla Stokes. He graduated with a bachelor's degree from Yale College in 1901. The following year he and his wife moved to Subic, Philippines, when he was appointed by the Philippine Commission to be an educator there. Charlotte Bonner was also an educator and taught in the same school. The couple had four children.\n\nAccording to the *Springfield Republican* in 1902:\n>The best school in the Phillippine Islands is taught by a negro graduate of Yale, according to Superintendent Atkinson\u2019s judgment, as quoted by Captain Lowe, of New York City, who is stationed at Subi[c]. Frederick Douglass Bonner had a high standing in his class, and his school in Subi[c] not only reflects his ability, but the acceptance given the man because of his color. Captain Lowe says that \u201ca colored teacher with an American college education is found to meet with great success in the islands.\u201d Mr. Bonner writes interesting letters to his folks in New York, telling of his 120 pupils\u2026he has also a normal school class evenings, and twice a week has visits from the chief native dignitaries who want to learn English.\n\nIn addition to his role as a school administrator and educator, Bonner served as postmaster for several towns in the area. The family returned to the United States around 1917 and lived in Massachusetts. Bonner worked as an accountant. It is not yet known when he died; he was listed in the 1950 federal census. His son, Frederick Willis Bonner, graduated from Yale College in 1929. \n\nImage citation: Yale College Class of 1901 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1901",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1878"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q14714934",
+                    "data": {
+                        "label": "Hillhouse High School",
+                        "instance_of": [
+                            "high school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.322,
+                                        "longitude": -72.9397
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hillhouse High School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1901"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q56663",
+                    "data": {
+                        "label": "Subic",
+                        "instance_of": [
+                            "municipality of the Philippines"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 14.876944444444444,
+                                        "longitude": 120.23277777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Subic"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q771",
+                    "data": {
+                        "label": "Massachusetts, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.3,
+                                        "longitude": -71.8
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130246794",
+                    "data": {
+                        "label": "Robert H. Bonner",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Robert H. Bonner",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Frederick Douglass Bonner",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130246800.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Bonner"
+                }
+            ]
+        }
+    }
+}

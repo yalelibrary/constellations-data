@@ -1,0 +1,393 @@
+{
+    "id": "Q3161465",
+    "label": "James W.C. Pennington",
+    "biographyMarkdown": "# James W.C. Pennington\n## Attended classes at Yale Divinity School, 1834-1837; Received master's degree 2023\nJames W. C. Pennington was born into slavery in Maryland in 1807. At the age of 19 he escaped to Pennsylvania, where he was taught to read and write by Quakers. He subsequently moved to New York, where he attended night schools and paid his own way with tutors, quickly becoming a teacher himself. It was also at this time that he became a Christian. In 1834 Pennington attempted to enroll at the Yale Divinity School, but he was denied formal entry. He was allowed to sit in on classes on the condition that he not speak or be put on any student ledgers. It was in this informal way that Pennington became the first known Black student at Yale. Although he was barred from receiving a degree, around 1836, Pennington became the first Black minister of the Temple Street Congregational Church (today known as Dixwell Avenue Congregational United Church of Christ). There are no official church documents from the period 1834-1838, and the approximate dates of Pennington\u2019s involvement at Temple Street have been pieced together from a variety of sources. By October 1837, Pennington was pastoring a new Black church in Newtown, Long Island. In 1840 he became pastor of the Talcott Street Church in Hartford. In 1848, Pennington received an honorary doctor of divinity degree from the University of Heidelberg in Germany. From 1848 to 1858, Pennington served as pastor of Shiloh Presbyterian Church in New York.\n\nIn addition to his work as a minister, Pennington was a leader in the abolitionist and early civil rights movements and active in the Black convention movement. He provided fundraising and support for the Amistad captives as they were held in New Haven and underwent trial. He gave speaking tours on abolition in both the US and the UK, and wrote extensively on the topic. Most notably, his autobiography *The Fugitive Blacksmith* (1859) was immensely popular, and his *Textbook of the Origin and History of the Colored People* (1841) was one of the first African-American history books and an important defense of Black racial equality. A delegate to national and international antislavery and peace conferences, Pennington also worked for Black suffrage in Connecticut and founded the Legal Rights Association in New York, which advocated for the integration of New York streetcars and would go on to win a case in the New York Supreme Court. He recruited Black soldiers to fight in the Civil War, and during Reconstruction he moved to Florida to teach and minister to those recently freed from slavery. Pennington died in Jacksonville, Florida in 1870. In 2023, he was awarded, along with Alexander Crummell, an MA privatim degree in recognition of his study at Yale.\n\nImage citation: Detail from portrait by John Robert Dicksee, circa 1840-1850, National Portrait Gallery, London, United Kingdom\n",
+    "description": "Attended classes at Yale Divinity School, 1834-1837; Received master's degree 2023",
+    "publicationsMarkdown": "*An Address Delivered at Newark, N.J. : at the First Anniversary of West India Emancipation, August 1, 1839*. Newark, NJ: Aaron Guest, 1839. \n\n*A Text Book of the Origin and History, &c. &c. of the Colored People*. Hartford, CT: L. Skinner, Printer., 1841.  \n\n*Covenants Involving Moral Wrong Are Not Obligatory Upon Man*. Hartford, CT: John C. Wells, 1842. \n\n*Two Years' Absence, Or A Farewell Sermon, Preached In The Fifth Congregational Church.* Hartford, CT: H. T. Wells, 1845.\n\n*A lecture delivered before the Glasgow Young Men's Christian Association: and also before the St. George's Biblical, Literary, & Scientific Institute, London*. London, UK: n.p., 185[?]. \n\n*The Fugitive Blacksmith; or, Events in the History of James W.C. Pennington, Pastor of a Presbyterian Church, New York, Formely a Slave in the State of Maryland, United States*. Lonodn, UK: Charles Gilpin, 1850. \n\n*Christian Zeal. A Sermon Preached Before The Third Presbytery of New-York In Thirteenth-St. Presbyterian Church, July 3, 1853*. New York, NY: Zuille & Leonard, 1854. \n\n*The Reasonableness of the Abolition of Slavery at the South, a Legitimate Inference from the Success of British Emancipation*. Hartford, CT: Press of Case, Tiffany and Company, 1856. \n\n*I am a Witness Against American Slavery and All its Horrors: A Narrative of the Life of J.H. Banks, an Escaped Slave, from the Cotton State, Alabama, in America*. Liverpool, UK: M. Rourke, 1861. \n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1809"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1870"
+                },
+                {
+                    "value-type": "time",
+                    "text": "1870"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1830"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "earliest end date",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1839"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "sourcing circumstances",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q5727902",
+                                    "data": {
+                                        "label": "circa",
+                                        "instance_of": [
+                                            "sourcing circumstance"
+                                        ]
+                                    },
+                                    "text": "circa"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "2023"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q511150",
+                    "data": {
+                        "label": "Queen Anne's County, Maryland, United States",
+                        "instance_of": [
+                            "county of Maryland"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.03,
+                                        "longitude": -76.08
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Queen Anne's County, Maryland, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1391",
+                    "data": {
+                        "label": "Maryland, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39,
+                                        "longitude": -76.7
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Maryland, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1400",
+                    "data": {
+                        "label": "Pennsylvania, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41,
+                                        "longitude": -77.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1384",
+                    "data": {
+                        "label": "New York, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43,
+                                        "longitude": -75
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q738356",
+                    "data": {
+                        "label": "Newtown, Connecticut, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.413333333333334,
+                                        "longitude": -73.30888888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newtown, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18438",
+                    "data": {
+                        "label": "Long Island, New York, United States",
+                        "instance_of": [
+                            "island",
+                            "moraine"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.805805,
+                                        "longitude": -73.253616
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Long Island, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33486",
+                    "data": {
+                        "label": "Hartford, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "municipality seat",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.763333333333,
+                                        "longitude": -72.685
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16568",
+                    "data": {
+                        "label": "Jacksonville, Florida, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.316666666667,
+                                        "longitude": -81.65
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Jacksonville, Florida, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q511150",
+                    "data": {
+                        "label": "Queen Anne's County, Maryland, United States",
+                        "instance_of": [
+                            "county of Maryland"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.03,
+                                        "longitude": -76.08
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Queen Anne's County, Maryland, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "James W.C. Pennington",
+                    "image-info": [
+                        {
+                            "url": "/data/Q3161465.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Pennington"
+                }
+            ]
+        }
+    }
+}

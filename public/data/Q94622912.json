@@ -1,0 +1,270 @@
+{
+    "id": "Q94622912",
+    "label": "Nimrod Booker Allen",
+    "biographyMarkdown": "# Nimrod Booker Allen\n## Graduate of Yale Divinity School, 1915\nA native of Girard, Alabama, Nimrod Booker Allen received his undergraduate degree from\nWilberforce University in Ohio before attending the Yale Divinity School and graduating with a\nbachelor\u2019s of divinity in 1915. At Yale, he was a member of Zeta Chapter of the Alpha Phi Alpha\nFraternity. Allen lived much of his life in Columbus, Ohio, where he was active in social services,\nserving as the Columbus Urban League\u2019s executive secretary for nearly 40 years. The\norganization provided support for Black residents of Columbus\u2014particularly recent migrants\nfrom the South\u2014throughout the Great Migration and into the early Civil Rights era. Allen\nfounded two other social services organizations: Frontiers of America (now known as Frontiers\nInternational, Inc., founded 1936), and the Ohio Conference of Social Work Among Negroes. He\nwas also a member of the NAACP. In addition to his social service work, Allen was locally\ninvolved as a high layman in the African Methodist Episcopal Church, as well as being an\nexecutive secretary in the local YMCA.\n\nNimrod Booker Allen died in Columbus in 1977 at the age of 91.\n\nHis brother, Alexander Joseph Allen, attended Yale Divinity School in the same period. A\nnephew, Alexander Joseph Allen, Jr., graduated in 1940.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1915",
+    "publicationsMarkdown": "\"East Long Street,\" *The Crisis 25*, no. 1 (1922).\n\n\"Doing His Bit,\" *Opportunity 4*, no. 48 (1926).  \n\n\"The Labor Situation: Compiled By Special Arrangement With The National Urban League,\" *Pittsburgh Courier*, May 8, 1926.\n\n\"Interracial Relations in Columbus, Ohio,\" *The Southern Workman 55*, no. 4 (1926).\n\n\"He Built His Own Resort (Robert Goode)\" *Opportunity [?}*, no. [?] (1939).\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1886"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1977"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5564134",
+                    "data": {
+                        "label": "Girard, Alabama, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.4567,
+                                        "longitude": -85.0044
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Girard, Alabama, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1915"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130226193",
+                    "data": {
+                        "label": "Alexander Joseph Allen, Jr.",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Alexander Joseph Allen, Jr.",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q15224724",
+                                    "data": {
+                                        "label": "nephew",
+                                        "instance_of": [
+                                            "kinship",
+                                            "kinship relation"
+                                        ]
+                                    },
+                                    "text": "nephew"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q94622916",
+                    "data": {
+                        "label": "Alexander Joseph Allen",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Alexander Joseph Allen",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16567",
+                    "data": {
+                        "label": "Columbus, Ohio, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "city of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.96222222222222,
+                                        "longitude": -83.00055555555555
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbus, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5564134",
+                    "data": {
+                        "label": "Girard, Alabama, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.4567,
+                                        "longitude": -85.0044
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Girard, Alabama, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Nimrod Booker Allen",
+                    "image-info": [
+                        {
+                            "url": "/data/Q94622912.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Allen"
+                }
+            ]
+        }
+    }
+}

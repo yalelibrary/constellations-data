@@ -1,0 +1,224 @@
+{
+    "id": "Q130309720",
+    "label": "James E. Stamps",
+    "biographyMarkdown": "# James E. Stamps\n## Attended Yale Graduate School 1911-1912\nJames E. Stamps was born in 1890 in Marlin, Texas. He graduated from Fisk University in 1911, and then attended the Yale Graduate School for a year. \n\nHe worked as an accountant in Chicago for a few years after leaving Yale. Along with Carter G. Woodson, he was a founding member of the Association for the Study of Negro Life and History in 1915, and began publishing *The Journal of Negro History* in 1916. \n\nIn 1916, he married Georgia Morrow, and they had two children together. They divorced in 1920, and he later married Maurice Williams. \n\nIn the 1920s, he managed the Chicago Metropolitan Assurance Company and was secretary for the Black YMCA. He went on to be Director of Agencies for Victory Life Insurance Company and the vice president of the Illinois Service Federal Savings and Loan Bank, retiring in 1940. He died in 1972 in Chicago.\n\nImage citation: Via BlackPast.org\n",
+    "description": "Attended Yale Graduate School 1911-1912",
+    "publicationsMarkdown": "\"What We Should Know About Social Security,\" *The Call*, October 23, 1953.\n\n\"Know Your Social Security Rights,\" *The Call*, November 13, 1953. \n\n\"The People Speak: 'We Came Through',\" *Daily Defender*, February 16, 1956. \n\n\"Social Security Is Base For Retirement,\" *The Chicago Defender*, June 8, 1957. \n\n\"Negro Charity,\" *Chicago Daily Tribune*, July 21, 1959.\n\n\"Voice of the People: Community Fund's Weakness,\" *Chicago Daily Tribune*, November 11, 1959.\n\n\"When Factories Move,\" *Chicago Daily Tribune*, December 19, 1959.\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1890"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1972"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1911"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1912"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q982441",
+                    "data": {
+                        "label": "Marlin, Texas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 31.30778,
+                                        "longitude": -96.89278
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Marlin, Texas, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.85003,
+                                        "longitude": -87.65005
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q982441",
+                    "data": {
+                        "label": "Marlin, Texas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 31.30778,
+                                        "longitude": -96.89278
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Marlin, Texas, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "James E. Stamps",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309720.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Stamps"
+                }
+            ]
+        }
+    }
+}

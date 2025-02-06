@@ -1,0 +1,342 @@
+{
+    "id": "Q130309672",
+    "label": "Booker Taliaferro Charles Medford",
+    "biographyMarkdown": "# Booker Taliaferro Charles Medford\n## Attended Yale Divinity School, 1931-1933\nBooker Taliaferro Charles Medford was born in Rutherfordton, North Carolina, in 1906, to the Reverend H. T. Medford, a bishop in the AME Zion Church, and M. E. Medford. He attended high school in Knoxville, Tennessee, and at Dunbar Hill High School in Washington, DC. While in high school in DC, he managed circulation of a local Black weekly publication. Medford attended Livingstone College, where he studied sociology and education and was first tenor in a college vocal quartet, graduating in 1930. In 1931, he was minister at St. Paul\u2019s AME Zion Church in Branford, Connecticut, and entered the Yale Divinity School. In a 1932 note in Medford\u2019s student file, Dean Luther Weigle lauded Medford\u2019s singing: \n>I have heard Mr. Medford sing the negro spirituals on a number of occassions - in Dwight Memorial Chapel of Yale College, in the Chapel of the Divinity School, and public worship at Church of the Redeemer, and elsewhere. His rendition is admirable. He has a voice well suited to the songs and interprets them with reverence and depth of feeling.\n\nMedford left Yale Divinity School in 1933. He continued his career as a minister in Massachusetts, New York, Virginia, North Carolina, and Alabama, and was noted throughout his career for his musical and dramatic performances. He was married to Eunice Clarissa Medford, and they had four daughters. During World War II, he attended the Army Chaplain School at Harvard University. During the period that his father was a bishop in the AME Zion Church, he was appointed Episcopal Director of Christian Education for the Fifth Episcopal District.\n\nIn 1942, serving as a minister in Attleboro, Massachusetts, Medford denounced local white ministers who sought to prevent Black soldiers stationed nearby from attending their churches. In 1949, Medford wrote a letter to the editor of the New York Times about the civil rights legislation proposed by President Truman, reflecting that the freedoms affirmed by such legislation also required civic responsibilities.\n\nWhile serving a church in Staunton, Virginia, Medford was appointed president of the Staunton NAACP. He also was a Mason, a member of the Elks, and a member of Phi Beta Sigma Fraternity. He died in 1970.\n\nImage citation: Detail from Yale Divinity School class photograph from the Yale University Divinity School Memorabilia Collection (RG 53), Yale Divinity Library\n",
+    "description": "Attended Yale Divinity School, 1931-1933",
+    "publicationsMarkdown": "*From the Depths.* Washington, DC: n.p., 1948. \n\n\"Responsibility of Civil Rights,\" *The New York Times*, January 31, 1949.\n\n\"The Hypocrites' Game,\" *The Crisis 51*, no. 4 (1944).\n\n\"I Love Your Eyes,\" *The Crisis 51*, no. 7 (1944).\n\n\"A Child's Eyes,\" *The Crisis 51*, no. 7 (1944).\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1906"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1970"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6659715",
+                    "data": {
+                        "label": "Livingstone College",
+                        "instance_of": [
+                            "school",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.6709,
+                                        "longitude": -80.4834
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Livingstone College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1931"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1933"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2026051",
+                    "data": {
+                        "label": "Rutherfordton, North Carolina, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.366388888889,
+                                        "longitude": -81.958888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Rutherfordton, North Carolina, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q185582",
+                    "data": {
+                        "label": "Knoxville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.961666666666666,
+                                        "longitude": -83.92333333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Knoxville, Tennessee, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q898484",
+                    "data": {
+                        "label": "Branford, Connecticut, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.277777777778,
+                                        "longitude": -72.799722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Branford, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1775244",
+                    "data": {
+                        "label": "Attleboro, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.944444444444,
+                                        "longitude": -71.286111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Attleboro, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1384",
+                    "data": {
+                        "label": "New York, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43,
+                                        "longitude": -75
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q502250",
+                    "data": {
+                        "label": "Staunton, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.1581,
+                                        "longitude": -79.0764
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Staunton, Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q173",
+                    "data": {
+                        "label": "Alabama, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.7,
+                                        "longitude": -86.7
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Alabama, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Booker Taliaferro Charles Medford",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309672.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Medford"
+                }
+            ]
+        }
+    }
+}

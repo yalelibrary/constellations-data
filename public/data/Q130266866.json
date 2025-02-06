@@ -1,0 +1,349 @@
+{
+    "id": "Q130266866",
+    "label": "Virginius Nelson Carney",
+    "biographyMarkdown": "# Virginius Nelson Carney\n## Graduate of Yale Divinity School, 1904; Attended Yale College and Sheffield Scientific School 1904-1907\nVirginius Nelson Carney was born in 1879 in Portsmouth, Virginia to Nelson and Martha Carney. He attended Norfolk Mission College from 1892 to 1895 in preparation for university, and went on to attend Lincoln University, leaving in 1899. According to census records, he may have attended the University of Chicago around 1900. He earned a bachelor's of divinity from Yale Divinity School in 1904, and began pursuing another bachelor's degree at Yale College, also attending classes in the Sheffield Scientific School. He completed the coursework for a bachelor's degree in 1907, but his diploma was withheld due to non-payment of tuition.\n\nHe went on to a long career in education, serving as a school administrator and teacher in Augusta, Georgia; Newark, New Jersey; Chicago, Illinois; and Portsmouth and Richmond, Virginia. He was married to Mary Elizabeth Sullivan. He retired in the 1950s and died in 1959 in Philadelphia, where he was living with his son, James Carney.\n\nImage citation: Yale College Class of 1906 class book, Yale University Library\n",
+    "description": "Graduate of Yale Divinity School, 1904; Attended Yale College and Sheffield Scientific School 1904-1907",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1904"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q342803",
+                    "data": {
+                        "label": "Portsmouth, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.83543,
+                                        "longitude": -76.29827
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Portsmouth, Virginia, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1959"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1904"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q97356576",
+                    "data": {
+                        "label": "Norfolk Mission College",
+                        "instance_of": [
+                            "school"
+                        ]
+                    },
+                    "text": "Norfolk Mission College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q131252",
+                    "data": {
+                        "label": "University of Chicago",
+                        "instance_of": [
+                            "private university",
+                            "private not-for-profit educational institution",
+                            "research university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.789722222222,
+                                        "longitude": -87.599722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Chicago"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q181962",
+                    "data": {
+                        "label": "Augusta, Georgia, United States",
+                        "instance_of": [
+                            "consolidated city-county",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.47,
+                                        "longitude": -81.975
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Augusta, Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q25395",
+                    "data": {
+                        "label": "Newark, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey",
+                            "largest city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.73555555555556,
+                                        "longitude": -74.17222222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newark, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.85003,
+                                        "longitude": -87.65005
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q342803",
+                    "data": {
+                        "label": "Portsmouth, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.83543,
+                                        "longitude": -76.29827
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Portsmouth, Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q43421",
+                    "data": {
+                        "label": "Richmond, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "state or insular area capital of the United States",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.54083333333333,
+                                        "longitude": -77.43666666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Richmond, Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Virginius Nelson Carney",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130266866.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Carney"
+                }
+            ]
+        }
+    }
+}

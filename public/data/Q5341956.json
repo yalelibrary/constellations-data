@@ -1,0 +1,323 @@
+{
+    "id": "Q5341956",
+    "label": "Edward Alexander Bouchet",
+    "biographyMarkdown": "# Edward Alexander Bouchet\n## Graduate of Yale College, 1874; Received Ph.D. in Physics, 1876\nEdward Alexander Bouchet was born in 1852 in New Haven, the youngest of four children. His mother, Susan, was a laundress. His father, William, worked as a custodian at Yale. His family was active in the Temple Street Congregational Church (today\u2019s Dixwell Avenue UCC). Edward attended the Artisan Street School, a school for Black students, and from there went to New Haven High School, graduating in 1868. With some outside financial support, he attended the private Hopkins School, where he graduated as valedictorian. \n\nBouchet excelled academically at Yale. He graduated sixth in his class and earned acceptance into Phi Beta Kappa, the academic honor society. Two years later, he received his Ph.D. in physics from Yale. He was the first Black person to earn a doctorate in the United States and only the sixth person of any background to receive a Ph.D. in physics.  \n\nBouchet faced many professional barriers because of racism and discrimination against Black people. Although he was one of a small number of Americans with a Ph.D. at that time, he was not hired by white colleges or universities. Bouchet taught science at the Institute for Colored Youth in Philadelphia for 26 years. In 1902, he was fired when the school decided to embrace the industrial educational philosophy promoted by Booker T. Washington. In 1905, he applied for a teaching position at Yale and was heartily recommended by his former teacher, but he was not hired.  Bouchet continued to work in various roles as a teacher or administrator for the next 14 years. \n\nHealth issues pressed Bouchet to retire at age 64. He returned to New Haven, where he died two years later in 1918. In 2021, artist Kwadwo Adae completed a mural featuring Bouchet\u2019s portrait on the corner of Henry Street and Dixwell Avenue in New Haven.\n\nImage citation: Yale College Class of 1874 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1874; Received Ph.D. in Physics, 1876",
+    "publicationsMarkdown": "\"On Measuring Refractive Indices.\" PhD diss., Yale University, 1876.\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1852"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1918"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "academic degree",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q849697",
+                                    "data": {
+                                        "label": "doctorate",
+                                        "instance_of": [
+                                            "educational stage",
+                                            "academic degree",
+                                            "postgraduate degree"
+                                        ]
+                                    },
+                                    "text": "doctorate"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "academic major",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q413",
+                                    "data": {
+                                        "label": "physics",
+                                        "instance_of": [
+                                            "branch of science",
+                                            "academic discipline",
+                                            "exact science"
+                                        ]
+                                    },
+                                    "text": "physics"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1876"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5900712",
+                    "data": {
+                        "label": "Hopkins School",
+                        "instance_of": [
+                            "university-preparatory school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.31959110772107,
+                                        "longitude": -72.9725665498971
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hopkins School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q14714934",
+                    "data": {
+                        "label": "Hillhouse High School",
+                        "instance_of": [
+                            "high school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.322,
+                                        "longitude": -72.9397
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hillhouse High School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1874"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q87818370",
+                    "data": {
+                        "label": "Institute for Colored Youth",
+                        "instance_of": [
+                            "educational institution"
+                        ]
+                    },
+                    "text": "Institute for Colored Youth"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Edward Alexander Bouchet",
+                    "image-info": [
+                        {
+                            "url": "/data/Q5341956.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Bouchet"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,271 @@
+{
+    "id": "Q6163895",
+    "label": "Jasper Alston Atkins",
+    "biographyMarkdown": "# Jasper Alston Atkins\n## Graduate of Yale Law School, 1922\nBorn in 1898 in Winston-Salem, North Carolina, Jasper Alston Atkins graduated magna cum laude from Fisk University in 1919 before entering Yale Law School, where he received an LLB. degree in 1922. He also received a JD from Yale Law School. Atkins was the first Black editor of the Yale Law Journal. \n\nAfter graduation, Atkins moved to Muskogee, Oklahoma and practiced law, establishing the firm of Wesley & Atkins. Admitted to the Texas Bar in 1927, he was partner in Wesley & Atkins and Nabrit, Atkins & Wesley in Houston from 1927 to 1936, and also served as editor of the Houston Informer and Texas Freeman. He was a member of the American Bar Association for 50 years.\n\nFrom 1936 to 1960, Atkins was executive secretary of Winston-Salem Teachers College, founded by his parents. A member of the Winston-Salem Housing Authority from 1946 to 1958, he retired in 1960.\n\nAtkins tried several notable civil rights cases during his lifetime. He argued *Grovey v. Townsend* before the U.S. Supreme Court in 1935, challenging a Texas state law that barred Black people from voting in state primaries. Although the suit was unsuccessful, it was an important civil rights case upon which the NAACP built future cases. He remained engaged in civil rights work during his retirement. In 1959, he again argued before the U.S. Supreme Court, challenging Black people's exclusion from public golf courses. He filed a suit challenging segregation in Winston-Salem-Forsythe County schools in 1968 and another in 1970 alleging segregation in North Carolina higher education. Atkins died in 1982 in Winston-Salem, North Carolina, survived by his wife and two daughters.\n\nImage citation: Detail from group photograph from the Jasper Alston Atkins Papers (MS 1811), Yale University Library\n",
+    "description": "Graduate of Yale Law School, 1922",
+    "publicationsMarkdown": "\"Functions and Possibilities of Greek Letter Societies,\" *The Oracle 6*, no. 1 (1927). \n\n*The Texas Negro and His Political Rights: A History of the Fight of Negroes to Enter the Democratic Primaries of Texas*. Houston, TX: Webster Publishing Co., 1932. \n\n\"Editorially Speaking,\" *The Informer*, December 28, 1935. \n",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1982"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1898"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1922"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49227",
+                    "data": {
+                        "label": "Winston-Salem, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1025,
+                                        "longitude": -80.260555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Winston-Salem, North Carolina, United States"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8026034",
+                    "data": {
+                        "label": "Winston-Salem State University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.089455,
+                                        "longitude": -80.22516
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Winston-Salem State University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q524233",
+                    "data": {
+                        "label": "Muskogee, Oklahoma, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.7466,
+                                        "longitude": -95.368
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Muskogee, Oklahoma, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49227",
+                    "data": {
+                        "label": "Winston-Salem, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1025,
+                                        "longitude": -80.260555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Winston-Salem, North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16555",
+                    "data": {
+                        "label": "Houston, Texas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 29.762777777778,
+                                        "longitude": -95.383055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Houston, Texas, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Jasper Alston Atkins",
+                    "image-info": [
+                        {
+                            "url": "/data/Q6163895.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Atkins"
+                }
+            ]
+        }
+    }
+}

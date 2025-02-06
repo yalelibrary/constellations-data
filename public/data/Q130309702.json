@@ -1,0 +1,221 @@
+{
+    "id": "Q130309702",
+    "label": "James Wendell Queenan",
+    "biographyMarkdown": "# James Wendell Queenan\n## Graduate of Sheffield Scientific School, 1906\nJames Wendell Queenan was born in 1884 in Derby, Connecticut to James Henry Queenan and Agnes Askin Queenan. He was a graduate of Derby High School, and completed the civil engineering course at Sheffield Scientific School at Yale. While at Yale, he lived with his family. He was a member of Alpha Phi Alpha Fraternity. After graduating from Yale, he served as the caretaker of an estate in Ansonia, Connecticut for nearly 20 years before moving to Inwood, New York, where he worked as a clerk for the US Postal Service. He worked there until his retirement in 1941. He was married to Sarah Elizabeth Jackson in 1911. He died in 1942 in Mt. Vernon, New York.\n\nImage citation: Sheffield Scientific School Class of 1906 class book, Yale University Library\n",
+    "description": "Graduate of Sheffield Scientific School, 1906",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7492742",
+                    "data": {
+                        "label": "Sheffield Scientific School",
+                        "instance_of": [
+                            "college"
+                        ]
+                    },
+                    "text": "Sheffield Scientific School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1906"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1884"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1942"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q755197",
+                    "data": {
+                        "label": "Derby, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.326666666667,
+                                        "longitude": -73.082222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Derby, Connecticut, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q570044",
+                    "data": {
+                        "label": "Ansonia, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.343333333333,
+                                        "longitude": -73.068611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ansonia, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1189533",
+                    "data": {
+                        "label": "Inwood, Manhattan, United States",
+                        "instance_of": [
+                            "neighborhood of Manhattan",
+                            "gay village"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.867444444444,
+                                        "longitude": -73.921508333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Inwood, Manhattan, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q835831",
+                    "data": {
+                        "label": "Mount Vernon, New York, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "city in the state of New York"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.914166666667,
+                                        "longitude": -73.830555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Mount Vernon, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q755197",
+                    "data": {
+                        "label": "Derby, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.326666666667,
+                                        "longitude": -73.082222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Derby, Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "James Wendell Queenan",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309702.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Queenan"
+                }
+            ]
+        }
+    }
+}

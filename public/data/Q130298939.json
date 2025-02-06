@@ -1,0 +1,244 @@
+{
+    "id": "Q130298939",
+    "label": "Daniel Webster Hill",
+    "biographyMarkdown": "# Daniel Webster Hill\n## Attended Yale Divinity School 1898-1899\nDaniel Webster Hill was born in Guns Hill, Virginia in 1865, to Isaac and Nancy Bridgeport Hill.  In 1884, he married Stella Geffigen; the couple had two children. Stella Hill died in 1890. \n\nHill received a bachelor's degree in 1898 from the Virginia Normal and Collegiate Institute (now Virginia State University). He attended Yale Divinity School from 1898 to 1899, then continued his theological education at the Newton Theological Institute and Union Theological Seminary. He was ordained as a Baptist minister in Bridgeport, Connecticut, in 1901, and served as a missionary and field secretary for the New York Colored Baptist Missionary Committee for a year. He briefly served as a financial agent for the Howard Colored Orphan Asylum in Brooklyn, New York before serving as a minister at a number of churches in New York, Connecticut, and Virginia. He also served as president of the Clifton Forge Normal and Industrial Institute in Clifton Forge, Virginia, where his two daughters were teachers. He died in Virginia in 1919.\n",
+    "description": "Attended Yale Divinity School 1898-1899",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1196251",
+                    "data": {
+                        "label": "Union Theological Seminary",
+                        "instance_of": [
+                            "seminary",
+                            "university building",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.811389,
+                                        "longitude": -73.964167
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Union Theological Seminary"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q17012505",
+                    "data": {
+                        "label": "Newton Theological Institution",
+                        "instance_of": [
+                            "seminary"
+                        ]
+                    },
+                    "text": "Newton Theological Institution"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7934591",
+                    "data": {
+                        "label": "Virginia State University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ]
+                    },
+                    "text": "Virginia State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "point in time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1898"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1899"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1865"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1919"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49174",
+                    "data": {
+                        "label": "Bridgeport, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.183333333333,
+                                        "longitude": -73.2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bridgeport, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18419",
+                    "data": {
+                        "label": "Brooklyn, New York City, United States",
+                        "instance_of": [
+                            "borough of New York City",
+                            "city in the United States",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.65083,
+                                        "longitude": -73.94972
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brooklyn, New York City, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1373469",
+                    "data": {
+                        "label": "Clifton Forge, Virginia, United States",
+                        "instance_of": [
+                            "town of Virginia",
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.819801,
+                                        "longitude": -79.823584
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Clifton Forge, Virginia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Hill"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,273 @@
+{
+    "id": "Q130246794",
+    "label": "Robert H. Bonner",
+    "biographyMarkdown": "# Robert H. Bonner\n## Received Certificate of Art, 1896\nBorn in 1870 in New Haven, Connecticut, Robert H. Bonner was the son of Willis and Elizabeth Bonner. His father, a carpenter, was active in Republican politics in New Haven. A brother, Frederick Douglass Bonner, graduated from Yale College in 1901. \n\nAlong with fellow Black students Charles H. Boyer, Orishatukeh Faduma, and Henry H. Proctor, Robert H. Bonner was a member of an incarnation of the Colored Yale Quartet as a student. \n\nBonner was part of a core group of radical Black Bostonites who supported William Monroe Trotter in the founding of the Niagara Movement. Sometime after graduating from Yale, he moved to Cambridge, Massachusetts. Although some sources identify him as a lawyer, he is listed in the 1918 city directory as a steward of the Union Club of Boston. Bonner died in 1926, survived by his wife Marie and children. He is buried in Grove Street Cemetery. \n\nImage citation: Detail from photograph of Robert H. Bonner, Orishatukeh Faduma, Charles H. Boyer, and Henry H. Proctor, Schomburg Center for Research in Black Culture, Jean Blackwell Hutson Research and Reference Division, The New York Public Library. [Accessed via New York Public Library Digital Collections](https://digitalcollections.nypl.org/items/510d47de-0160-a3d9-e040-e00a18064a99).\n",
+    "description": "Received Certificate of Art, 1896",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1870"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1926"
+                },
+                {
+                    "value-type": "time",
+                    "text": "1926"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047422",
+                    "data": {
+                        "label": "Yale School of Art",
+                        "instance_of": [
+                            "educational institution",
+                            "arts educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3086,
+                                        "longitude": -72.9319
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Art",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1896"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130246804",
+                    "data": {
+                        "label": "Frederick Willis Bonner",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Frederick Willis Bonner",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q15224724",
+                                    "data": {
+                                        "label": "nephew",
+                                        "instance_of": [
+                                            "kinship",
+                                            "kinship relation"
+                                        ]
+                                    },
+                                    "text": "nephew"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130246800",
+                    "data": {
+                        "label": "Frederick Douglass Bonner",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Frederick Douglass Bonner",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49111",
+                    "data": {
+                        "label": "Cambridge, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.375,
+                                        "longitude": -71.106111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cambridge, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q54138",
+                    "data": {
+                        "label": "Beverly, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.558333333333,
+                                        "longitude": -70.88
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Beverly, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Robert H. Bonner",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130246794.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Bonner"
+                }
+            ]
+        }
+    }
+}

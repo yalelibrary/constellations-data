@@ -1,0 +1,632 @@
+{
+    "id": "Q130309669",
+    "label": "Lewis K. McMillan",
+    "biographyMarkdown": "# Lewis K. McMillan\n## Graduate of Yale Divinity School, 1925\nBorn in Allendale, South Carolina in 1897, Lewis K. McMillan did not attend school until he was eleven years old. He received his primary education from the Voorhees Institute and attended Benedict College for eighth and ninth grade. He finished his secondary schooling in Washington, DC. McMillan earned his bachelor of arts degree from Howard University, his bachelor of divinity degree from Yale, and his PhD in history and philosophy from the University of Bonn. Further graduate work was completed at the University of Pennsylvania, Ohio State University, and the University of Wisconsin. \nAfter graduating from Howard in 1922, McMillan worked as a southern regional field secretary for the YMCA and a reporter for the Afro-American newspaper of Baltimore. McMillan earned his BD from Yale in 1925. From 1929 to 1933, he studied in France and Germany.\n\nAfter earning his doctorate in 1933, McMillan was a professor at Shaw University, Virginia State, and Bishop College in Texas. From 1935 to 1945, he served on the faculty of Wilberforce University. In 1947, McMillan went to South Carolina State College, where he was the first full-time faculty member to hold a doctorate. He taught history and, occasionally, German. \nIn 1953, McMillan was fired for publishing a work critical of Black institutions in the state of South Carolina. His self-published *Negro Higher Education in the State of South Carolina* detailed the poor resources, lack of funding, and administration of the institutions. McMillan was especially critical of how Black faculty members were excluded from policy- and decision-making.\n \nAlthough McMillan appealed his termination to the American Association of University Professors, the American Civil Liberties Union, and Southern Association of Colleges and Schools, he was  not reinstated at South Carolina State. He also found himself shut out of opportunities at other Black colleges. He eventually returned with his family to Connecticut, where he taught at Bullard-Havens Technical High School, the University of Hartford, and the University of Bridgeport. From 1963 to 1965, he served on the Stratford Board of Education. He was a member of the Connecticut Safety Commission from 1963 to 1970. He was a Baptist minister and served churches in Connecticut on an interim basis at various points in his life.\n\nIn addition to his book, McMillan authored articles in academic journals on race and education. He undertook special newspaper assignments in Palestine in 1939 and in Germany in 1949. After moving to Connecticut, McMillan wrote a series of articles in 1954 for the Hartford Courant on school segregation. In 1967, he traveled to Germany and lectured at the University of Berlin and elsewhere. He wrote a series of articles about his experience, which were published in Connecticut newspapers. McMillan died in Stratford in 1974.\n",
+    "description": "Graduate of Yale Divinity School, 1925",
+    "publicationsMarkdown": "*Findings Concerning Negroes*. n.p., 1927.\n\n\"Germans Rebuke American Prejudice: Brand Views of Athletes as Barbaric Shun Tolan, Star of Cinder Path,\" *The Chicago Defender*, September 21, 1929.\n\n\"McMillan Finds German People Very Friendly,\" *The Chicago Defender*, October 5, 1929.\n\n\"American Makes Fine Record at German Capital: George Van Popular At U. S. Embassy Has Spent 30 Years in Europe,\" *The Chicago Defender*, November 2, 1929.\n\n\"Germans Left in Straits by the World War,\" *The Chicago Defender*, November 9, 1929.\n\n\"Nationality Means Little to Germany,\" *The Chicago Defender*, November 16, 1929. \n\n\"German Youngsters Much Like Americans: They Are a Fine Lot of Happy Creatures,\" *The Chicago Defender*, January 25, 1930. \n\n\"German Youngsters Much Like Americans,\" *The Chicago Defender*, February 1, 1930. \n\n\"German People Show Keen Interest in Race Problem,\" *The Chicago Defender*, April 5, 1930. \n\n\"Distorting a Speech,\" *The Washington Post*, July 19, 1934. \n\n\"Negro Higher Education as I Have Known It,\" *The Journal of Negro Education 8*, no. 1 (1939). \n\n*Carl Schnaase als Hegelianer. Kunst und Geschichtsphilosophie*. Bonn, Germany: Druck H. Ludwig, 1933.\n\n\"The Negro Forty-Ninth State in the Light of the Jewish National Home,\" *The Journal of Negro Education 9*, no. 2 (1940).\n\n\"Review of *Five North Carolina Negro Educators*,\" *The Mississippi Valley Historical Review 27*, no. 1 (1940).\n\n\"Review of *Freedom of Thought in the Old South*,\" *The Journal of Negro Education 9*, no. 4 (1940).\n\n\"Review of *The Negro in English Romantic Thought. Or a Study of Sympathy for the Oppressed*,\" *The Pennsylvania Magazine of History and Biography 67*, no. 2 (1943).\n\n\"Light Which Two World Wars Throw Upon the Plight of the American Negro,\" *The Journal of Negro Education 12*, no. 3. (1943).\n\n\"Review of *American Negro Slave Revolts*,\" *The Mississippi Valley Historical Review 30*, no. 4 (1944).\n\n\"The Role of the Social Sciences in Ordering the Post-War World,\" *The Quarterly Review of Higher Education Among Negroes 12*, no. 3 (1944).\n\n\"What The German People Think Of The Negro G I,\" *The Chicago Defender*, October 29, 1949.\n\n\"War Babies: An Intimate Story Of How These Children Are Cared For Inside Hitler's Germany Today,\" *The Chicago Defender*, November 5, 1949.\n\n*The Founding Of South Carolina's State College For Negroes*. Orangeburg, SC: Self-published, 1952.\n\n*Negro Higher Education in the State of South Carolina*. Orangeburg, SC: Self-published, 1953.\n\n\"Cold Civil War: What happened in Orangeburg, So. Carolina when a group of Negroes petitioned the School Board to discontinue segregation in the schools. The Policy of 'Keeping The Nigger in His Place',\" *The Hartford Courant*, April 22, 1956. \n\n\"Anthony Bowen and the Y.M.C.A.,\" *Negro History Bulletin 21*, no. 7 (1958).\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1925"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q309331",
+                    "data": {
+                        "label": "Ohio State University",
+                        "instance_of": [
+                            "public research university",
+                            "land-grant university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40,
+                                        "longitude": -83.0125
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ohio State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49117",
+                    "data": {
+                        "label": "University of Pennsylvania",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.95388888888889,
+                                        "longitude": -75.19305555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Pennsylvania"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q152171",
+                    "data": {
+                        "label": "University of Bonn",
+                        "instance_of": [
+                            "public research university",
+                            "local Internet registry",
+                            "comprehensive university",
+                            "University of Excellence",
+                            "public university",
+                            "publishing company"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 50.733888888889,
+                                        "longitude": 7.1022222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Bonn"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4887262",
+                    "data": {
+                        "label": "Benedict College",
+                        "instance_of": [
+                            "liberal arts college",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.0129,
+                                        "longitude": -81.0203
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Benedict College"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1897"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1974"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3443493",
+                    "data": {
+                        "label": "Shaw University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.7712,
+                                        "longitude": -78.6361
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Shaw University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7934591",
+                    "data": {
+                        "label": "Virginia State University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ]
+                    },
+                    "text": "Virginia State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4917518",
+                    "data": {
+                        "label": "Bishop College",
+                        "instance_of": [
+                            "higher education institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.6781,
+                                        "longitude": -96.7552
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bishop College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q747053",
+                    "data": {
+                        "label": "University of Hartford",
+                        "instance_of": [
+                            "university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.8009,
+                                        "longitude": -72.714
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Hartford"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1055874",
+                    "data": {
+                        "label": "University of Bridgeport",
+                        "instance_of": [
+                            "university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.16586,
+                                        "longitude": -73.19109
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Bridgeport"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1851247",
+                    "data": {
+                        "label": "Allendale, South Carolina, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.008888888889,
+                                        "longitude": -81.308611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Allendale, South Carolina, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q755140",
+                    "data": {
+                        "label": "Stratford, Connecticut, United States",
+                        "instance_of": [
+                            "New England town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.18454,
+                                        "longitude": -73.13317
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Stratford, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1851247",
+                    "data": {
+                        "label": "Allendale, South Carolina, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.008888888889,
+                                        "longitude": -81.308611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Allendale, South Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1866955",
+                    "data": {
+                        "label": "Wilberforce, Ohio, United States",
+                        "instance_of": [
+                            "census-designated place in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7158,
+                                        "longitude": -83.88
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q41087",
+                    "data": {
+                        "label": "Raleigh, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.78,
+                                        "longitude": -78.64
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Raleigh, North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q511964",
+                    "data": {
+                        "label": "Petersburg, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.21295,
+                                        "longitude": -77.400417
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Petersburg, Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q52996",
+                    "data": {
+                        "label": "Marshall, Texas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "satellite city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.55,
+                                        "longitude": -94.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Marshall, Texas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33486",
+                    "data": {
+                        "label": "Hartford, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "municipality seat",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.763333333333,
+                                        "longitude": -72.685
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49174",
+                    "data": {
+                        "label": "Bridgeport, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.183333333333,
+                                        "longitude": -73.2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bridgeport, Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "McMillan"
+                }
+            ]
+        }
+    }
+}

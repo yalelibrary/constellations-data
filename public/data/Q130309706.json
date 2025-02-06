@@ -1,0 +1,224 @@
+{
+    "id": "Q130309706",
+    "label": "Wilmer Tyson Shamborguer",
+    "biographyMarkdown": "# Wilmer Tyson Shamborguer\n## Attended Yale Law School 1921-1922\nWilmer Tyson Shamborguer was born in 1898 in Chattanooga, Tennessee, where his father, N. D. Shamborguer, was a prominent minister. He attended Fisk University, where he excelled as a student and as a member of the debating team. He graduated from Fisk with a BA in 1921 and joined Fisk classmates Jasper Alston Atkins and Charles Chandler at the Yale Law School. His address while at Yale was 178 Dixwell Avenue, the same as fellow Yale Law students Warren Westmoreland Purdy and Leslie Pinckney Hill II. The summer after his first year at Yale, Shamborguer was living in Prout\u2019s Neck, Maine, and working as a waiter at a hotel along with several other Yale students. Sadly, he drowned while swimming on July 2, 1922.\n",
+    "description": "Attended Yale Law School 1921-1922",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1898"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1922"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1921"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1922"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q186702",
+                    "data": {
+                        "label": "Chattanooga, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.045555555556,
+                                        "longitude": -85.267222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chattanooga, Tennessee, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7252270",
+                    "data": {
+                        "label": "Prouts Neck",
+                        "instance_of": [
+                            "landform"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.53333333,
+                                        "longitude": -70.31444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Prouts Neck"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q186702",
+                    "data": {
+                        "label": "Chattanooga, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.045555555556,
+                                        "longitude": -85.267222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chattanooga, Tennessee, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Shamborguer"
+                }
+            ]
+        }
+    }
+}

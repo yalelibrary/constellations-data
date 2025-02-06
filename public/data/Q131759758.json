@@ -1,0 +1,316 @@
+{
+    "id": "Q131759758",
+    "label": "Fred Wilson Wells",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1896",
+                    "qualifiers": [
+                        {
+                            "label": "earliest date",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1896"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "latest date",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1899"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q948334",
+                    "data": {
+                        "label": "Union City, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.424444444444,
+                                        "longitude": -89.050833333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Union City, Tennessee, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q309331",
+                    "data": {
+                        "label": "Ohio State University",
+                        "instance_of": [
+                            "public research university",
+                            "land-grant university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40,
+                                        "longitude": -83.0125
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ohio State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1921"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1922"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49088",
+                    "data": {
+                        "label": "Columbia University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.8075,
+                                        "longitude": -73.961944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbia University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49115",
+                    "data": {
+                        "label": "Cornell University",
+                        "instance_of": [
+                            "private university",
+                            "land-grant university",
+                            "sun grant institution",
+                            "research university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.44916666666666,
+                                        "longitude": -76.48388888888888
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cornell University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q65",
+                    "data": {
+                        "label": "Los Angeles, California, United States",
+                        "instance_of": [
+                            "charter city",
+                            "city in the United States",
+                            "city",
+                            "global city",
+                            "metropolis",
+                            "megacity",
+                            "business cluster",
+                            "big city",
+                            "LGBT sanctuary city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.05223,
+                                        "longitude": -118.24368
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Los Angeles, California, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q948334",
+                    "data": {
+                        "label": "Union City, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.424444444444,
+                                        "longitude": -89.050833333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Union City, Tennessee, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Wells"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "id": "Q130286686",
+    "label": "Beal Elliott",
+    "biographyMarkdown": "# Beal Elliott\n## Graduate of Yale Divinity School, 1915\nBorn in 1879 in Essex County, Virginia, Beal Elliott earned a BA from Virginia Union University in 1908. He married Margaret (\u201cMaggie\u201d) Reese in Richmond in 1903. He was a member of Zeta Chapter of Alpha Phi Alpha Fraternity. He graduated from Yale Divinity School in 1915, and  in 1919, he was called to pastor the Sharon Baptist Church in Baltimore, Maryland. Elliott died in 1944.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1915",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1879"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q182112",
+                    "data": {
+                        "label": "Essex County, Virginia, United States",
+                        "instance_of": [
+                            "county of Virginia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.94,
+                                        "longitude": -76.95
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Essex County, Virginia, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1944"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1915"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1814758",
+                    "data": {
+                        "label": "Virginia Union University",
+                        "instance_of": [
+                            "university",
+                            "university campus",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.5625,
+                                        "longitude": -77.45111111111112
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Virginia Union University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5092",
+                    "data": {
+                        "label": "Baltimore, Maryland, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.286388888889,
+                                        "longitude": -76.615
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Baltimore, Maryland, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q182112",
+                    "data": {
+                        "label": "Essex County, Virginia, United States",
+                        "instance_of": [
+                            "county of Virginia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.94,
+                                        "longitude": -76.95
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Essex County, Virginia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Beal Elliott",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130286686.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Elliott"
+                }
+            ]
+        }
+    }
+}

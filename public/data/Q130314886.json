@@ -1,0 +1,201 @@
+{
+    "id": "Q130314886",
+    "label": "David Wellington Moss",
+    "biographyMarkdown": "# David Wellington Moss\n## Graduate of Yale Divinity School, 1928\nBorn in 1895 or 1896, most likely in Virginia, David Wellington Moss was working as a waiter in a hotel in Prince George\u2019s County, Maryland during World War I. Not much is currently known about his life before Yale. After graduation, from 1932 to 1937, he served as pastor of Shiloh Baptist Church in New London, Connecticut. He later moved to Staten Island, where he served at various churches, including St. Phillips Baptist Church and New Hope Baptist Church. He died in 1967 and is buried in Staten Island.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1928",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1928"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1967"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1895",
+                    "qualifiers": [
+                        {
+                            "label": "sourcing circumstances",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q5727902",
+                                    "data": {
+                                        "label": "circa",
+                                        "instance_of": [
+                                            "sourcing circumstance"
+                                        ]
+                                    },
+                                    "text": "circa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q26807",
+                    "data": {
+                        "label": "Prince George's County, Maryland, United States",
+                        "instance_of": [
+                            "county of Maryland"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.83,
+                                        "longitude": -76.85
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Prince George's County, Maryland, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49146",
+                    "data": {
+                        "label": "New London, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.354069,
+                                        "longitude": -72.10104
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New London, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18432",
+                    "data": {
+                        "label": "Staten Island, New York City, United States",
+                        "instance_of": [
+                            "island",
+                            "borough of New York City",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.576280555556,
+                                        "longitude": -74.144838888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Staten Island, New York City, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "David Wellington Moss",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130314886.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Moss"
+                }
+            ]
+        }
+    }
+}

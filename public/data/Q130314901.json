@@ -1,0 +1,246 @@
+{
+    "id": "Q130314901",
+    "label": "John Harvey Wigginton",
+    "biographyMarkdown": "# John Harvey Wigginton\n## Graduate of Yale College, 1893; Graduate of Yale Law School 1897\nBorn in 1864 near Bladensburg, Maryland, John Harvey Wigginton attended Worcester Academy in Massachusetts before coming to Yale. He received his undergraduate degree in 1893, then continued to Yale Law, graduating with a bachelor of laws degree in 1897.\n\nWigginton was admitted to the bar in Maryland and practiced in Bladensburg and in Chicago. In 1898, he moved to Selma University to teach Greek and Latin. He was appointed dean and registrar of Selma\u2019s literary department in 1905. The following year, he married Mahalath Frances Jackson of Washington, DC. They had one child who died in infancy.\n\nWigginton retired in 1909 due to health issues and returned to Maryland. He died that year at the age of 45.\n\nImage citation: Yale College Class of 1893 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1893; Graduate of Yale Law School 1897",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1909"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1256922",
+                    "data": {
+                        "label": "Worcester Academy",
+                        "instance_of": [
+                            "school",
+                            "university campus"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.252778,
+                                        "longitude": -71.791667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Worcester Academy"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1864"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q174272",
+                    "data": {
+                        "label": "Bladensburg, Maryland, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.939166666666665,
+                                        "longitude": -76.93388888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bladensburg, Maryland, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q771",
+                    "data": {
+                        "label": "Massachusetts, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.3,
+                                        "longitude": -71.8
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q174272",
+                    "data": {
+                        "label": "Bladensburg, Maryland, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.939166666666665,
+                                        "longitude": -76.93388888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bladensburg, Maryland, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.85003,
+                                        "longitude": -87.65005
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q174272",
+                    "data": {
+                        "label": "Bladensburg, Maryland, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.939166666666665,
+                                        "longitude": -76.93388888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bladensburg, Maryland, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "John Harvey Wigginton",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130314901.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Wigginton"
+                }
+            ]
+        }
+    }
+}

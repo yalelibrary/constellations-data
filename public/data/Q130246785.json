@@ -1,0 +1,197 @@
+{
+    "id": "Q130246785",
+    "label": "Eli George Biddle",
+    "biographyMarkdown": "# Eli George Biddle\n## Attended Yale Divinity School 1889-1893\nBorn in 1846 in Pennsylvania, Eli George Biddle enlisted in the 54th Massachusetts in February 1863 in Boston. He was wounded in the Second Battle of Fort Wagner on July 18, 1863, and mustered out with the regiment in August 1865. \n\nBiddle attended Yale Divinity School from 1889 to 1893. During those years he was pastor of what is now Varick AME Zion Church in New Haven. Later he was chaplain of the Massachusetts Grand Army of the Republic and active until his death in veterans\u2019 affairs and both local and national veterans commemorations. He attended Blue Gray Reunions at Gettysburg and wrote and appeared frequently in many different newspapers. Toward the end of his life he achieved prominence as the last surviving member of the famed 54th, the first African American regiment in the Civil War. Biddle died in 1940, just shy of his 94th birthday. \n\nImage citation: *One Hundred years of the African Methodist Episcopal Zion Church* by James Walker Hood (1895)\n",
+    "description": "Attended Yale Divinity School 1889-1893",
+    "publicationsMarkdown": "\"Missionary Study Class-The Bible and Missions,\" *Missionary Seer 21*, no. 4 (1921).\n\n\"Jesus As A Story Teller,\" *Missionary Seer 21*, no. 10 (1921).\n\n\"Imitators of God,\" *Missionary Seer 22*, no. 8 (1922). \n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1846"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1400",
+                    "data": {
+                        "label": "Pennsylvania, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41,
+                                        "longitude": -77.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pennsylvania, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1940"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1889"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1893"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q100",
+                    "data": {
+                        "label": "Boston, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.360277777777775,
+                                        "longitude": -71.05777777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Boston, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1400",
+                    "data": {
+                        "label": "Pennsylvania, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41,
+                                        "longitude": -77.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pennsylvania, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Eli George Biddle",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130246785.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Biddle"
+                }
+            ]
+        }
+    }
+}

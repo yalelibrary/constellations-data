@@ -1,0 +1,393 @@
+{
+    "id": "Q130309730",
+    "label": "Bernard Tyrrell",
+    "biographyMarkdown": "# Bernard Tyrrell\n## Attended Yale Divinity School, 1890-1893\nBorn in 1859 in Earlysville, Virginia, Bernard Tyrrell may have been born enslaved. In 1879, Tyrrell completed the \u201cnormal course\u201d at Storer College in Harper\u2019s Ferry. He taught school and sold medicine before going to Hillsdale College, where he received his BA in 1888. While at Hillsdale, Tyrrell worked as a waiter, chopped and carried wood, and gave lectures to support himself. He then worked as a language teacher and financial agent for Storer College from 1888 to 1890.\n\nTyrrell attended Yale Divinity School from 1890 to 1893. According to a letter Tyrrell wrote to the Divinity School in 1917, he completed the coursework for a master's degree and participated in commencement, but his degree was withheld because his thesis was ruled insufficient. He asked that his degree be issued in 1917, but administrators at the Divinity School refused to overturn their predecessors\u2019 previous decision.\n\nTyrrell was a member of Zeta Chapter of the Alpha Phi Alpha Fraternity and was ordained at Immanuel Baptist Church in New Haven in 1893. Tyrrell may have received another degree (A.M.) from Hillsdale after leaving Yale. From 1893 to 1903 and 1911 to 1920, he was a professor of Hebrew, Greek, and theology at the Virginia Seminary in Lynchburg. He later served as dean of the Theological Department. From 1893 to 1920, he served as pastor of Holcomb Rock Baptist Church and Diamond Hill Baptist Church in Lynchburg, Virginia. In 1901, he was awarded the doctor of divinity degree from Guadalupe College in Texas, a Baptist institution. \n \nIn 1894, Tyrrell married Elizabeth Wilkerson. Around 1897, he became vice president from Virginia of the National Baptist Convention. He was also vice president of the Virginia Progressive National Baptist Convention for six years. In 1921, he returned briefly to Hillsdale. In 1922, he became dean of Western College in Kansas City (later Western University), a position in which he served for six years. Tyrrell died in 1932.\n\nImage citation: Detail from Yale Divinity School class photograph, Yale University Divinity School Memorabilia Collection (RG 53), Yale Divinity Library\n",
+    "description": "Attended Yale Divinity School, 1890-1893",
+    "publicationsMarkdown": "\"The Evangelization of Africa by Africans.\" PhD diss., Yale University, 1893.\n\n\"Watchman, What Of The Night?,\" *The National Baptist Magazine 1*, no. 2 (1894).\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1859"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1932"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7934628",
+                    "data": {
+                        "label": "Virginia Theological Seminary",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.8204,
+                                        "longitude": -77.0918
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Virginia Theological Seminary"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5763774",
+                    "data": {
+                        "label": "Hillsdale College",
+                        "instance_of": [
+                            "liberal arts college",
+                            "Colleges That Change Lives"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.933055555555555,
+                                        "longitude": -84.63361111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hillsdale College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1144262",
+                    "data": {
+                        "label": "Western University",
+                        "instance_of": [
+                            "public research university",
+                            "open-access publisher",
+                            "university in Ontario"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.009643504913065,
+                                        "longitude": -81.27377651628304
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Western University"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5763774",
+                    "data": {
+                        "label": "Hillsdale College",
+                        "instance_of": [
+                            "liberal arts college",
+                            "Colleges That Change Lives"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.933055555555555,
+                                        "longitude": -84.63361111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hillsdale College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7619994",
+                    "data": {
+                        "label": "Storer College",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.323788888889,
+                                        "longitude": -77.735413888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Storer College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1890"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1893"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5326912",
+                    "data": {
+                        "label": "Earlysville",
+                        "instance_of": [
+                            "unincorporated community in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.1575,
+                                        "longitude": -78.4828
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Earlysville"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q844012",
+                    "data": {
+                        "label": "Lynchburg, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.403672,
+                                        "longitude": -79.170205
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lynchburg, Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5326912",
+                    "data": {
+                        "label": "Earlysville",
+                        "instance_of": [
+                            "unincorporated community in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.1575,
+                                        "longitude": -78.4828
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Earlysville"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q88",
+                    "data": {
+                        "label": "Alexandria, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.804722222222,
+                                        "longitude": -77.047222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Alexandria, Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2373817",
+                    "data": {
+                        "label": "Hillsdale, Michigan, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.92005,
+                                        "longitude": -84.63051
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hillsdale, Michigan, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q92561",
+                    "data": {
+                        "label": "London, Ontario, Canada",
+                        "instance_of": [
+                            "separated municipality in Ontario",
+                            "single-tier municipality",
+                            "city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.9837,
+                                        "longitude": -81.2497
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "London, Ontario, Canada"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Bernard Tyrrell",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309730.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Tyrrell"
+                }
+            ]
+        }
+    }
+}

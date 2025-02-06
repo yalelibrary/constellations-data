@@ -1,0 +1,521 @@
+{
+    "id": "Q130267201",
+    "label": "George Edwin Covington",
+    "biographyMarkdown": "# George Edwin Covington\n## Graduate of Yale Divinity School, 1934\nBorn in 1904 in Loachapoka, Alabama, George Edwin Covington studied at Fisk University and graduated from Talladega College before earning his bachelor's of divinity from Yale. He studied for one year at the Princeton Seminary, and a newspaper account in 1942 noted that he was the only Black student at the seminary at that time. Covington then earned an MA from the Hartford School of Religious Education and another master's degree from Teachers College, Columbia University (nearly completing the requirements for a PhD). \n\nAfter completing officers\u2019 training at Howard University, Covington served as a chaplain in the US Army from 1943 to 1946, attaining the rank of captain. Covington\u2019s first ministerial position was in Hartford. He then served as director of religious education in the Synod of East Tennessee and helped organize dozens of Sunday School programs. For three years, he was the pastor of Bethany Presbyterian Church in Englewood, New Jersey, also serving on the executive board of the Englewood branch of the National Urban League. In 1942, Covington became the pastor of St. Mark\u2019s Presbyterian Church in Cleveland, Ohio. Following a divorce from his first wife, he moved to Florida and, in 1950, became an assistant professor of religion at Florida A & M University in Tallahassee. He had also taught at Paul Quinn College in Waco, Texas, and served as a pastor in Key West, Florida. \n\nIn 1956, Covington published a book, *What They Believe*, an analysis of young people\u2019s views on religion and ethics, based on survey responses from 800 college students to questions about God, prayer, and religious life. Published by the Philosophical Library, *What They Believe* was reviewed in the Philadelphia Tribune and other journals and newspapers. The Tribune review stated that Covington was a member of the Florida Conference of the AME Church, the Tallahassee Ministerial Alliance, Omega Psi Phi Fraternity, Tallahassee Civic League, and the American Association of University Professors. Around 1954, Covington remarried to Ann Eizabeth Floyd. With their family they resettled in Saginaw, Michigan, where Covington died in 1989.\n\nImage citation: Detail from a class photograph in the Yale University Divinity School Memorabilia Collection (RG 53), Yale Divinity Library\n",
+    "description": "Graduate of Yale Divinity School, 1934",
+    "publicationsMarkdown": "*What They Believe: A Survey of Religious Faith Among Groups of College Students*. New York, NY: Philosophical Library (1956).\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1904"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q67716",
+                    "data": {
+                        "label": "Loachapoka, Alabama, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.604844,
+                                        "longitude": -85.59689
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Loachapoka, Alabama, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1989"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1934"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7680006",
+                    "data": {
+                        "label": "Talladega College",
+                        "instance_of": [
+                            "school",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.4321,
+                                        "longitude": -86.1133
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Talladega College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q21578",
+                    "data": {
+                        "label": "Princeton University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.345277777778,
+                                        "longitude": -74.656111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Princeton University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49088",
+                    "data": {
+                        "label": "Columbia University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.8075,
+                                        "longitude": -73.961944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbia University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4496116",
+                    "data": {
+                        "label": "Hartford International University for Religion and Peace",
+                        "instance_of": [
+                            "university",
+                            "private not-for-profit educational institution",
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.7699,
+                                        "longitude": -72.7076
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford International University for Religion and Peace"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3898136",
+                    "data": {
+                        "label": "Paul Quinn College",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.677097,
+                                        "longitude": -96.754935
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Paul Quinn College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1430048",
+                    "data": {
+                        "label": "Florida A&M University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.4178,
+                                        "longitude": -84.2845
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Florida A&M University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33486",
+                    "data": {
+                        "label": "Hartford, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "municipality seat",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.763333333333,
+                                        "longitude": -72.685
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q986210",
+                    "data": {
+                        "label": "Englewood, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.893343,
+                                        "longitude": -73.975801
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Englewood, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q37320",
+                    "data": {
+                        "label": "Cleveland, Ohio, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "city of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.49916666666667,
+                                        "longitude": -81.69472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cleveland, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q485186",
+                    "data": {
+                        "label": "Key West, Florida, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 24.559722222222,
+                                        "longitude": -81.783611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Key West, Florida, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q719",
+                    "data": {
+                        "label": "Saginaw, Michigan, United States",
+                        "instance_of": [
+                            "home rule city of Michigan",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.4199247,
+                                        "longitude": -83.9500261
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Saginaw, Michigan, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q67716",
+                    "data": {
+                        "label": "Loachapoka, Alabama, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.604844,
+                                        "longitude": -85.59689
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Loachapoka, Alabama, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q37043",
+                    "data": {
+                        "label": "Tallahassee, Florida, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.438333333333333,
+                                        "longitude": -84.28055555555555
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tallahassee, Florida, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16557",
+                    "data": {
+                        "label": "Dallas, Texas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.779166666667,
+                                        "longitude": -96.808888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Dallas, Texas, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "George Edwin Covington",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130267201.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Covington"
+                }
+            ]
+        }
+    }
+}

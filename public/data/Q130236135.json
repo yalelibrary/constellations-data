@@ -1,0 +1,450 @@
+{
+    "id": "Q130236135",
+    "label": "Edward Francis Barrow",
+    "biographyMarkdown": "# Edward Francis Barrow\n## Attended Yale Divinity School 1901-1902\nEdward Francis Barrow was born in Mt. Tabor, St. John\u2019s Parish, Barbados in 1866 to George Barrow and Nancy Jane Cummins Barrow. In 1890, he married Mary Agnes McConney in Barbados. He attended Howard University School of Medicine from 1899 to 1901, then attended the Yale Divinity School from 1901-1902. He was ordained the following year while serving as  minister of a Congregational church in Haverhill, Massachusetts. He went on to serve churches in Amherst, Massachusetts; Newport, Rhode Island; Great Barrington, Massachusetts; Norwich, Connecticut; and Plainville, Connecticut; and lived in Boston for a time. In 1921, he was appointed a professor of Homiletics, Pastoral Theology, New Testament Greek and Comparative Religion at Hood Theological Seminary in Salisbury, North Carolina. From 1931 to 1944, he served as vicar of the Church of the Ascension, an Episcopal church in Kansas City, Kansas. According to records, he was living in Brooklyn, New York in 1948, and later returned to Barbados.\n\nImage citation: Yale Divinity School class composite portraits, Yale Divinity School\n",
+    "description": "Attended Yale Divinity School 1901-1902",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1866"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q244",
+                    "data": {
+                        "label": "Barbados",
+                        "instance_of": [
+                            "Commonwealth realm",
+                            "sovereign state",
+                            "island country",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 13.17,
+                                        "longitude": -59.5525
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Barbados"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5921129",
+                    "data": {
+                        "label": "Howard University College of Medicine",
+                        "instance_of": [
+                            "medical school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.9175,
+                                        "longitude": -77.02027778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University College of Medicine"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1901"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1902"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q55613931",
+                    "data": {
+                        "label": "Hood Theological Seminary",
+                        "instance_of": [
+                            "seminary"
+                        ]
+                    },
+                    "text": "Hood Theological Seminary"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q54132",
+                    "data": {
+                        "label": "Haverhill, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.783333333333,
+                                        "longitude": -71.083333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Haverhill, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49164",
+                    "data": {
+                        "label": "Amherst, Massachusetts, United States",
+                        "instance_of": [
+                            "New England town",
+                            "college town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.366667,
+                                        "longitude": -72.516667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Amherst, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q54264",
+                    "data": {
+                        "label": "Newport, Rhode Island, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.488002,
+                                        "longitude": -71.312622
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newport, Rhode Island, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1144518",
+                    "data": {
+                        "label": "Great Barrington, Massachusetts, United States",
+                        "instance_of": [
+                            "New England town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.1958,
+                                        "longitude": -73.3625
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Great Barrington, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q631402",
+                    "data": {
+                        "label": "Norwich, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.550277777778,
+                                        "longitude": -72.0875
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Norwich, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2446095",
+                    "data": {
+                        "label": "Plainville, Connecticut, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.674722222222,
+                                        "longitude": -72.856944444444
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.67454,
+                                        "longitude": -72.85816
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Plainville, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q100",
+                    "data": {
+                        "label": "Boston, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.360277777777775,
+                                        "longitude": -71.05777777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Boston, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q486472",
+                    "data": {
+                        "label": "Kansas City, Kansas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.106666666667,
+                                        "longitude": -94.676388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kansas City, Kansas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18419",
+                    "data": {
+                        "label": "Brooklyn, New York City, United States",
+                        "instance_of": [
+                            "borough of New York City",
+                            "city in the United States",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.65083,
+                                        "longitude": -73.94972
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brooklyn, New York City, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q244",
+                    "data": {
+                        "label": "Barbados",
+                        "instance_of": [
+                            "Commonwealth realm",
+                            "sovereign state",
+                            "island country",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 13.17,
+                                        "longitude": -59.5525
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Barbados"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2028813",
+                    "data": {
+                        "label": "Salisbury, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.668333333333,
+                                        "longitude": -80.478611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Salisbury, North Carolina, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Edward Francis Barrow",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130236135.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Barrow"
+                }
+            ]
+        }
+    }
+}

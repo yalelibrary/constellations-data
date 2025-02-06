@@ -1,0 +1,236 @@
+{
+    "id": "Q130298894",
+    "label": "Effie Ella Grant Hardy",
+    "biographyMarkdown": "# Effie Ella Grant Hardy\n## Attended Yale School of Music 1906-1909\nEffie Ella Grant Hardy was born in 1885. She attended the Yale School of Music from 1906 to 1909\u2014the first Black woman known to enroll at Yale. At the time, the School of Music was one of only three Yale schools to accept female students. A soprano singer, Hardy received the Lockwood Scholarship and lived with a relative (possibly her mother) in New Haven while taking classes. It is not yet known why she did not receive a degree. She was later made an honorary member of Delta Sigma Theta Sorority.\n\nAfter Yale, Grant moved to Quindaro, Kansas, where she taught at Western University (since closed), likely the first Black university in the western U.S. and an institution renowned for its musical programs. She married Arthur W. Hardy, a director with the Y.M.C.A., and together they had two children. They lived in Ohio and later New Jersey, where she continued to perform professionally and teach music. In 1928, Hardy was invited by the sociologist Herbert A. Miller to present, along with her vocal students, to his classes at Ohio State University on the history of Black music. Hardy died on December 28, 1983, at the age of 98.\n\nImage citation: *Columbus Dispatch*, 26 January 1926. Courtesy of the Columbus Metropolitan Library Local History and Genealogy Department.\n",
+    "description": "Attended Yale School of Music 1906-1909",
+    "properties": {
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1144262",
+                    "data": {
+                        "label": "Western University",
+                        "instance_of": [
+                            "public research university",
+                            "open-access publisher",
+                            "university in Ontario"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.009643504913065,
+                                        "longitude": -81.27377651628304
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Western University"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2784420",
+                    "data": {
+                        "label": "Yale School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3099,
+                                        "longitude": -72.9264
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Music",
+                    "qualifiers": [
+                        {
+                            "label": "point in time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1906"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1909"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1995"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1397",
+                    "data": {
+                        "label": "Ohio, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.5,
+                                        "longitude": -82.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1408",
+                    "data": {
+                        "label": "New Jersey, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40,
+                                        "longitude": -74.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q100251925",
+                    "data": {
+                        "label": "Quindaro",
+                        "instance_of": [
+                            "human settlement"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.12945,
+                                        "longitude": -94.67274
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Quindaro"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q92561",
+                    "data": {
+                        "label": "London, Ontario, Canada",
+                        "instance_of": [
+                            "separated municipality in Ontario",
+                            "single-tier municipality",
+                            "city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.9837,
+                                        "longitude": -81.2497
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "London, Ontario, Canada"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581072",
+                    "data": {
+                        "label": "female",
+                        "instance_of": [
+                            "sex of humans",
+                            "gender"
+                        ]
+                    },
+                    "text": "female"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Effie Ella Grant Hardy",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130298894.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Hardy"
+                }
+            ]
+        }
+    }
+}

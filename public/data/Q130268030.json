@@ -1,0 +1,346 @@
+{
+    "id": "Q130268030",
+    "label": "Jefferson Gatherford Ish, Jr.",
+    "biographyMarkdown": "# Jefferson Gatherford Ish, Jr.\n## Graduate of Yale College, 1908\nJefferson Gatherford Ish, Jr. was born in 1888 in Little Rock, Arkansas to Jefferson Ish and Marietta Georgia Kidd Ish. He graduated from Talladega College in 1907 and followed his older brother, George William Stanley Ish (Yale College,1905), to Yale. He graduated from Yale in the class of 1909 and was a founding member of the Zeta Chapter of Alpha Phi Alpha. \n\nIn 1911, he married Florence Kytte Ross, a graduate of Fisk University, and they had one daughter. \n\nFrom 1915 to 1921, he worked at the Lincoln Institute (now Lincoln University) in Jefferson City, Missouri. He also worked at Straight College in New Orleans, for the Mosaic Templars of America, and the Supreme Liberty Life Insurance Company in Chicago. He became president of the State Agricultural Mechanical and Normal College in Pine Bluff, Arkansas (now University of Arkansas at Pine Bluff), and served in that position for seven years before returning to the insurance field. He died in 1962 in Chicago.\n\nImage citation: Yale College Class of 1908 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1908",
+    "publicationsMarkdown": "\"The Aid to Dependent Children Program\u2014A Challenge to Negroes and Negro Leadership,\" *Public Aid in Illinois 26* (1959). \n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1888"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33405",
+                    "data": {
+                        "label": "Little Rock, Arkansas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "state or insular area capital of the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.74444444444445,
+                                        "longitude": -92.28805555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Little Rock, Arkansas, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1962"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1908"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7680006",
+                    "data": {
+                        "label": "Talladega College",
+                        "instance_of": [
+                            "school",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.4321,
+                                        "longitude": -86.1133
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Talladega College"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7621045",
+                    "data": {
+                        "label": "Straight University",
+                        "instance_of": [
+                            "university"
+                        ]
+                    },
+                    "text": "Straight University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2495825",
+                    "data": {
+                        "label": "University of Arkansas at Pine Bluff",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.2423,
+                                        "longitude": -92.0203
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Arkansas at Pine Bluff"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q95984315",
+                    "data": {
+                        "label": "Lincoln Institute",
+                        "instance_of": [
+                            "organization"
+                        ]
+                    },
+                    "text": "Lincoln Institute"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.85003,
+                                        "longitude": -87.65005
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33405",
+                    "data": {
+                        "label": "Little Rock, Arkansas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "state or insular area capital of the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.74444444444445,
+                                        "longitude": -92.28805555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Little Rock, Arkansas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q34404",
+                    "data": {
+                        "label": "New Orleans, Louisiana, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 29.976111111111113,
+                                        "longitude": -90.07833333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Orleans, Louisiana, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q80012",
+                    "data": {
+                        "label": "Pine Bluff, Arkansas, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.22844444444444,
+                                        "longitude": -92.00319444444445
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pine Bluff, Arkansas, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q116761668",
+                    "data": {
+                        "label": "George William Stanley Ish",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "George William Stanley Ish",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Jefferson Gatherford Ish, Jr.",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130268030.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Ish,"
+                }
+            ]
+        }
+    }
+}
