@@ -1,0 +1,241 @@
+{
+    "id": "Q130309698",
+    "label": "Lealand Enoch Richard Phillips",
+    "biographyMarkdown": "# Lealand Enoch Richard Phillips\n## Attended Yale Divinity School 1924-1925\nLealand Enoch Richard Phillips was born in Spencer, Indiana, in 1898, to Luke Phillips and Sarah Edmerson Phillips. He attended DePauw University from 1919-1922 and the Ohio State University from 1923-1924. He then came to Yale Divinity School for part of a semester in 1924-1925. He later attended Northwestern University. As of the 1930 census, he was living in Indiana with his family and employed as an AME minister. Phillips died some time before 1937, and his mother reported in a letter to Yale that at the time of his death he was away from home doing religious work.\n",
+    "description": "Attended Yale Divinity School 1924-1925",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1898"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q309350",
+                    "data": {
+                        "label": "Northwestern University",
+                        "instance_of": [
+                            "university",
+                            "private not-for-profit educational institution",
+                            "research institute"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.054853,
+                                        "longitude": -87.673945
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.05645939999999,
+                                        "longitude": -87.67526699999999
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Northwestern University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q309331",
+                    "data": {
+                        "label": "Ohio State University",
+                        "instance_of": [
+                            "public research university",
+                            "land-grant university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40,
+                                        "longitude": -83.0125
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ohio State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1179599",
+                    "data": {
+                        "label": "DePauw University",
+                        "instance_of": [
+                            "liberal arts college",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.64083333333333,
+                                        "longitude": -86.86305555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "DePauw University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1924"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1925"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1890272",
+                    "data": {
+                        "label": "Spencer, Indiana, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.2869,
+                                        "longitude": -86.7642
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Spencer, Indiana, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1890272",
+                    "data": {
+                        "label": "Spencer, Indiana, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.2869,
+                                        "longitude": -86.7642
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Spencer, Indiana, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Phillips"
+                }
+            ]
+        }
+    }
+}

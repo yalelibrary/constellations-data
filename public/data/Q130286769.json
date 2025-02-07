@@ -1,0 +1,307 @@
+{
+    "id": "Q130286769",
+    "label": "Winfred Ernest Garrick",
+    "biographyMarkdown": "# Winfred Ernest Garrick\n## Graduate of Yale Divinity School, 1921\nBorn about 1887 in Jamaica, British West Indies, Winfred Ernest Garrick graduated from Mico University in Jamaica in 1909 and Lincoln University in 1919 before enrolling at Yale. Although few details of his life are known, he lived and worked as a minister and a theologian in Philadelphia, Pennsylvania; Chattanooga, Tennessee; and Ohio. As of the 1940 federal census, he was a naturalized citizen and living in Toledo, Ohio, with no immediate family. He did not appear in the 1950 census.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1921",
+    "publicationsMarkdown": "\"Educational Correlation for Pupils of High School Age-level.\" M.A. thesis, Oberlin College, 1935. \n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1887",
+                    "qualifiers": [
+                        {
+                            "label": "sourcing circumstances",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q5727902",
+                                    "data": {
+                                        "label": "circa",
+                                        "instance_of": [
+                                            "sourcing circumstance"
+                                        ]
+                                    },
+                                    "text": "circa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q766",
+                    "data": {
+                        "label": "Jamaica",
+                        "instance_of": [
+                            "Commonwealth realm",
+                            "territorial evolution of the British Empire",
+                            "island country",
+                            "country",
+                            "sovereign state",
+                            "archipelagic state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 18.18,
+                                        "longitude": -77.4
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Jamaica"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6838941",
+                    "data": {
+                        "label": "Mico University College",
+                        "instance_of": [
+                            "university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 17.988509,
+                                        "longitude": -76.787739
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Mico University College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1921"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q186702",
+                    "data": {
+                        "label": "Chattanooga, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.045555555556,
+                                        "longitude": -85.267222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chattanooga, Tennessee, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49239",
+                    "data": {
+                        "label": "Toledo, Ohio, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "city of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.65277777777778,
+                                        "longitude": -83.53777777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Toledo, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q766",
+                    "data": {
+                        "label": "Jamaica",
+                        "instance_of": [
+                            "Commonwealth realm",
+                            "territorial evolution of the British Empire",
+                            "island country",
+                            "country",
+                            "sovereign state",
+                            "archipelagic state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 18.18,
+                                        "longitude": -77.4
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Jamaica"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Winfred Ernest Garrick",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130286769.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Garrick"
+                }
+            ]
+        }
+    }
+}

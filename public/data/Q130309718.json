@@ -1,0 +1,273 @@
+{
+    "id": "Q130309718",
+    "label": "Charles Samuel Spivey, Sr.",
+    "biographyMarkdown": "# Charles Samuel Spivey, Sr.\n## Graduate of Yale Divinity School, 1919\nBorn in Cairo, Illinois in 1886, Charles Samuel Spivey received his BA in 1916 and his BD in 1918, both from Wilberforce University. From 1937 to 1944, he served as dean of Payne Theological Seminary in Wilberforce, Ohio. From 1949 to 1960, he was minister of St. Stephen's AME Church in Detroit. Before moving to Detroit, he was pastor of St. James AME Church in Cleveland. He also pastored churches in New York and New Jersey and served as treasurer of the AME Church's Sunday School Union in Detroit. Spivey died in 1973. His son, Charles. S. Spivey, Jr. (1921-2010), also a minister in the AME Church, graduated from Yale Divinity School in 1945.\n",
+    "description": "Graduate of Yale Divinity School, 1919",
+    "publicationsMarkdown": "\"The Case Against the NAACP: The AME-NAACP Controversy,\" *Michigan Chronicle*, August 1, 1953.\n\n\"Spivey Defends NAACP Actions,\" *Michigan Chronicle*, November 12, 1955. \n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1919"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1886"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1945"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q575306",
+                    "data": {
+                        "label": "Cairo, Illinois, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.013055555556,
+                                        "longitude": -89.180277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cairo, Illinois, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q12439",
+                    "data": {
+                        "label": "Detroit, Michigan, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "border city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.331666666667,
+                                        "longitude": -83.0475
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Detroit, Michigan, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q37320",
+                    "data": {
+                        "label": "Cleveland, Ohio, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "city of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.49916666666667,
+                                        "longitude": -81.69472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cleveland, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q575306",
+                    "data": {
+                        "label": "Cairo, Illinois, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.013055555556,
+                                        "longitude": -89.180277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cairo, Illinois, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Spivey,"
+                }
+            ]
+        }
+    }
+}

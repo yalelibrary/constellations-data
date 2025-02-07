@@ -1,0 +1,267 @@
+{
+    "id": "Q130309674",
+    "label": "John Marshall Miles",
+    "biographyMarkdown": "# John Marshall Miles\n## Graduate of Yale Divinity School, 1925\nJohn Marshall Miles was born in Harrisburg, Pennsylvania, in 1887, to Giles Miles and Clara Miles. He completed a bachelor\u2019s degree at Howard University in 1922 before coming to the Yale Divinity School, from which he graduated in 1925.\n\nFrom 1926 to 1927, Miles taught social sciences at Talladega College. He was then pastor of Congregational churches in Anniston, Alabama and Chattanooga, Tennessee. From 1940 to 1950, he led a small, integrated congregation in Detroit, Michigan, where he also worked in the probate court. He was known for his work with young people, including through the Urban League of Detroit and the final church he served, Hartford Avenue Baptist Church in Detroit. He was married to Linnie M. Miles and they had one daughter. Miles died in 1959.\n",
+    "description": "Graduate of Yale Divinity School, 1925",
+    "publicationsMarkdown": "\"First Congregational Church,\" *Atlanta Daily World*, August 28, 1932.\n\n\"Rev. John M. Miles Claims Race Not Treated Right,\" *Atlanta Daily World*, October 7, 1935.\n\n\"Bapt. Union Battle is Gaining, Civic Federation And Baptist Join In Big Protest Action Sought,\" *Atlanta Daily World*, March 7, 1941.\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1925"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1887"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1959"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q25280",
+                    "data": {
+                        "label": "Harrisburg, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "optional charter municipality of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.264554871390665,
+                                        "longitude": -76.88338167672302
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harrisburg, Pennsylvania, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79474",
+                    "data": {
+                        "label": "Anniston, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.663003,
+                                        "longitude": -85.826664
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Anniston, Alabama, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q186702",
+                    "data": {
+                        "label": "Chattanooga, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.045555555556,
+                                        "longitude": -85.267222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chattanooga, Tennessee, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q12439",
+                    "data": {
+                        "label": "Detroit, Michigan, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "border city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.331666666667,
+                                        "longitude": -83.0475
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Detroit, Michigan, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q25280",
+                    "data": {
+                        "label": "Harrisburg, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "optional charter municipality of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.264554871390665,
+                                        "longitude": -76.88338167672302
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harrisburg, Pennsylvania, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Miles"
+                }
+            ]
+        }
+    }
+}

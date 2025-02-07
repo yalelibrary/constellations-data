@@ -1,0 +1,174 @@
+{
+    "id": "Q130286767",
+    "label": "Henry Williams Foster",
+    "biographyMarkdown": "# Henry Williams Foster\n## Graduate of Yale School of Medicine, 1861\nHenry Williams Foster graduated from the School of Medicine in 1861. Born in Liberia, he lived for a time with fellow medical student William Henry Ealbeck, also from Liberia, at 63 Goffe St. He also lived, in 1860, with a Black family originally from North Carolina. In 1861, Foster wrote a \u201cDissertation on Intermittent Fever of West Africa.\u201d He was listed as a physician in New Haven in the 1870 federal census. Available census records suggest Foster may have been born in 1831 and died in 1875; a Henry Williams Foster of his approximate age is buried in Evergreen Cemetery.\n",
+    "description": "Graduate of Yale School of Medicine, 1861",
+    "publicationsMarkdown": "\"Dissertation on Intermittent Fever of West Africa.\" M.D. thesis, Yale University, 1861.  \n",
+    "properties": {
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1014",
+                    "data": {
+                        "label": "Liberia",
+                        "instance_of": [
+                            "republic",
+                            "sovereign state",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 6.533333,
+                                        "longitude": -9.75
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Liberia"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1961140",
+                    "data": {
+                        "label": "Yale School of Medicine",
+                        "instance_of": [
+                            "medical school",
+                            "faculty"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.303245363975,
+                                        "longitude": -72.933871811889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Medicine",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1861"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1014",
+                    "data": {
+                        "label": "Liberia",
+                        "instance_of": [
+                            "republic",
+                            "sovereign state",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 6.533333,
+                                        "longitude": -9.75
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Liberia"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Foster"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,420 @@
+{
+    "id": "Q7114452",
+    "label": "Owen Dodson",
+    "biographyMarkdown": "# Owen Dodson\n## Graduate of Yale School of Drama, 1939\nOwen Vincent Dodson was born in Brooklyn, New York, on November 28, 1914. He attended Bates College in Lewiston, Maine, receiving a bachelor's in 1936, and Yale School of Drama, graduating with an MFA in playwriting in 1939 with his play *Divine Comedy*. Following graduation he enlisted in the Navy, writing plays and poems about the Black naval experience. The 1940s also brought Dodson several critical successes, with the performance of his play New World A-Coming (1944) and the publication of his poetry collection *Powerful Long Ladder* (1946). Other publications of note from throughout his career include several novels, including *Boy at the Window* (1951) and *Come Home Early, Child* (1977); plays, including *Garden of Time* and *Bayou Legend*; and short stories, including \u201cThe Summer Five,\u201d which won an award from the Paris Review.\n\nDodson taught at Howard University from 1947-69, and while there taught such notable students as Amiri Baraka, Ossie Davis, Earle Hyman, and Charles Brown. He also brought several well-known actors to the university as guests, including Vivien Leigh and Sidney Poitier. He briefly taught at several other colleges and universities, including Spelman College and Atlanta University in Georgia and Hampton Institute in Virginia. Dodson was also the recipient of the Rosenwald and Guggenheim Fellowships. Dodson died on June 21, 1983, in New York City.\n\nImage citation: Carl Van Vechten Papers Relating to African American Arts and Letters (JWJ MSS 1050), Beinecke Rare Book and Manuscript Library, Yale University\n",
+    "description": "Graduate of Yale School of Drama, 1939",
+    "publicationsMarkdown": "*The Shining Town*. Self-published, 1937.\n\n*Divine Comedy*. Self-published, 1938.\n\n*Amistad*. Self-published, 1939. \n\n\"Troy Is A Lost City,\" *Phylon* 1, no. 2 (1940).\n\n*The Southern Star*. Self-published, 1940. \n\n*I Stand Alone*. *Phylon* 2, no. 3 (1941).\n\n*The Midwest Mobilizes: The Negro and the War*. Chicago, IL: WBBM, 1942. \n\n*Epithalamion for Evelyn Boldes Young and Joseph Henry Jenkins, Jr*. Boston, MA: Hale, Cushman & Flint, 1942. \n\n*The Ballad of Dorie Miller*. Self-published, 1942.\n\n*Freedom the Banner*. Self-published, 1942.\n\n*Lord Nelson, Naval Hero*. Self-published, 1942.\n\n\"Review of *Shakespeare in Harlem*,\" *Phylon* 3, no. 3 (1942).\n\n*Black Mother Praying*. Self-published, 1943.\n\n*Everybody Join Hand*. Self-published, 1943.\n\n\"Samuel Chapman Armstrong,\" *Phylon* 4, no. 3 (1943).\n\n*New world a-coming; an original pageant of hope*. Self-published, 1944.\n\n*Garden of Time*. Self-published, 1945.\n\n*Bayou Legend*. Self-published, 1946.\n\n*Laughter underneath the rock*. Self-published, 1946.\n\n*Powerful Long Ladder*. New York, NY: Farrar, Sraus & Company, Inc., 1946.\n\n*The Third Fourth of July*. Self-published, 1946.\n\n\"Countee Cullen (1903-1946),\" *Phylon* 7, no. 1 (1946).\n\n\"For Edwin R. Embree,\" *Phylon* 7, no. 4 (1946).\n\n\"Carousels and Rain,\" *Poetry* 71, no. 5 (1948).\n\n*Over the mangy cities*. Washington, DC: Howard University, 1950. \n\n*Boy at the Window*. New York, NY: Farrar, Straus and Young, 1951.\n\n*When Trees Were Green*. New York, NY: Popular Library, 1951. \n\n*Christmas, 1952*. Washington, DC: Howard University, 1952. \n\n\"The Summer Fire,\" *The Paris Review*, no. 12 (1956).\n\n*The Confession Stone: Song Cycles*. Washington, DC: Paul Breman, 1960.\n\n*'Til Victory is Won*. Self-published, 1967. \n\n*Come Home Early, Child*. New York, NY: Popular Library, 1977. \n\n\"Who Has Seen the Wind?: Playwrights and the Black Experience,\" *Black American Literature Forum* 11, no. 3 (1977).\n\n*The Harlem Book of the Dead*. Dobbs Ferry, NY: Morgan & Morgan, 1978. \n\n\"Review of *Africa Where I Baked My Bread*,\" *CLA Journal* 22, no. 1 (1978).\n\n\"Who Has Seen the Wind?: Part Two,\" *Black American Literature Forum* 13, no. 1 (1979).\n\n\"Who has Seen the Wind?: Part III,\" *Black American Literature Forum* 14, no. 2 (1980).\n\n\"Review of *Black Theatre: Present Condition*\", *Black American Literature Forum* 17, no. 2 (1983).\n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1914"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1983"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047423",
+                    "data": {
+                        "label": "Yale School of Drama",
+                        "instance_of": [
+                            "drama school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3096,
+                                        "longitude": -72.931
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.309638888888884,
+                                        "longitude": -72.93102777777779
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Drama",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1939"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q810771",
+                    "data": {
+                        "label": "Bates College",
+                        "instance_of": [
+                            "liberal arts college",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 44.105555555556,
+                                        "longitude": -70.204166666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bates College"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18419",
+                    "data": {
+                        "label": "Brooklyn, New York City, United States",
+                        "instance_of": [
+                            "borough of New York City",
+                            "city in the United States",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.65083,
+                                        "longitude": -73.94972
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brooklyn, New York City, United States"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4572296",
+                    "data": {
+                        "label": "Clark Atlanta University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.750833333333,
+                                        "longitude": -84.410277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Clark Atlanta University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7575916",
+                    "data": {
+                        "label": "Spelman College",
+                        "instance_of": [
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution",
+                            "women's college in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.746,
+                                        "longitude": -84.411
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Spelman College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q63887403",
+                    "data": {
+                        "label": "Atlanta University",
+                        "instance_of": [
+                            "university"
+                        ]
+                    },
+                    "text": "Atlanta University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23933851",
+                    "data": {
+                        "label": "Hampton Institute",
+                        "instance_of": [
+                            "university campus",
+                            "historic district"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.0203,
+                                        "longitude": -76.5945
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hampton Institute"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18419",
+                    "data": {
+                        "label": "Brooklyn, New York City, United States",
+                        "instance_of": [
+                            "borough of New York City",
+                            "city in the United States",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.65083,
+                                        "longitude": -73.94972
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brooklyn, New York City, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23556",
+                    "data": {
+                        "label": "Atlanta, Georgia, United States",
+                        "instance_of": [
+                            "county seat",
+                            "big city",
+                            "city in the United States",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.756944444444,
+                                        "longitude": -84.390277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Atlanta, Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q342043",
+                    "data": {
+                        "label": "Hampton, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.02638888888889,
+                                        "longitude": -76.34444444444445
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hampton, Virginia, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Owen Dodson",
+                    "image-info": [
+                        {
+                            "url": "/data/Q7114452.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Dodson"
+                }
+            ]
+        }
+    }
+}

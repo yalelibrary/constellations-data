@@ -1,0 +1,205 @@
+{
+    "id": "Q130309683",
+    "label": "Balamu Jaberi Mukasa",
+    "biographyMarkdown": "# Balamu Jaberi Mukasa\n## Received master\u2019s degree in Race Relations, 1937\nBalamu Jaberi Mukasa was born in 1904 in Hoima, Uganda, the son of a Gombolo chief. Mukasa served as the secretary to the chief of his tribe. In 1928, Mukasa had a chance meeting with John Hope, then serving as president of Morehouse College, while both were in Jerusalem.  Hope encouraged Mukasa to come to the United States, where he spent eight years. During that time, he attended the Atlanta University Laboratory High School and graduated from Morehouse College, where he was the winner of a prize for excellence in accounting. After Morehouse, Mukasa attended Yale University, where he graduated with a master\u2019s degree in international relations in 1937. Following graduation, Mukasa planned to return home and become a teacher.  He sailed to Uganda aboard the Acquitania. Subsequently, Mukasa served as prime minister under King Tito Gafabusa Winyi, C.B.E., called the \u201cOmukama.\u201d Prime Minister Mukasa served under the hereditary ruler of Bunyaro, a 5,000 square mile territory, with a tax-paying population of 20,000. Later, Bulamu Mukasa worked as a radio commentator and information advisor for the then British Protectorate of Uganda.\n\nImage citation: *New Haven Register*, April 19, 1936.\n",
+    "description": "Received master\u2019s degree in Race Relations, 1937",
+    "publicationsMarkdown": "\"Education and Community in Uganda.\" PhD diss., Yale University, 1937. \n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1937"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1524124",
+                    "data": {
+                        "label": "Morehouse College",
+                        "instance_of": [
+                            "college",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.746666666667,
+                                        "longitude": -84.415277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morehouse College"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1904"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1624192",
+                    "data": {
+                        "label": "Hoima",
+                        "instance_of": [
+                            "human settlement"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 1.4330555555556,
+                                        "longitude": 31.352222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hoima"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23556",
+                    "data": {
+                        "label": "Atlanta, Georgia, United States",
+                        "instance_of": [
+                            "county seat",
+                            "big city",
+                            "city in the United States",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.756944444444,
+                                        "longitude": -84.390277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Atlanta, Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1624192",
+                    "data": {
+                        "label": "Hoima",
+                        "instance_of": [
+                            "human settlement"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 1.4330555555556,
+                                        "longitude": 31.352222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hoima"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Mukasa"
+                }
+            ]
+        }
+    }
+}

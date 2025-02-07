@@ -1,0 +1,269 @@
+{
+    "id": "Q130246804",
+    "label": "Frederick Willis Bonner",
+    "biographyMarkdown": "# Frederick Willis Bonner\n## Graduate of Yale College, 1929\nFrederick Willis Bonner was born in 1907 in Subic, Philippines to Frederick Douglass Bonner and Charlotte Drucilla Stokes Bonner. He moved to the United States in 1914, living in New Bedford, Massachusetts and in New Haven. His father was also a Yale graduate (Yale College, 1901) and his uncle, Robert H. Bonner, attended the Yale School of Art. The Baltimore newspaper, the Afro-American, reported in 1929 that he was the first son of a Black graduate of Yale to earn a degree. Bonner was married to Mabel D. Bonner and was a teacher. He died in 1999.\n\nImage citation: Yale College Class of 1929 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1929",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1907"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q56663",
+                    "data": {
+                        "label": "Subic",
+                        "instance_of": [
+                            "municipality of the Philippines"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 14.876944444444444,
+                                        "longitude": 120.23277777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Subic"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1999"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49112",
+                    "data": {
+                        "label": "Yale University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "academic publisher",
+                            "production company"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311111111111,
+                                        "longitude": -72.926666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale University",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1929"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130246794",
+                    "data": {
+                        "label": "Robert H. Bonner",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Robert H. Bonner",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q76557",
+                                    "data": {
+                                        "label": "uncle",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "uncle"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130246800",
+                    "data": {
+                        "label": "Frederick Douglass Bonner",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Frederick Douglass Bonner",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "father"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49147",
+                    "data": {
+                        "label": "New Bedford, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.636111111111,
+                                        "longitude": -70.934722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Bedford, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q56663",
+                    "data": {
+                        "label": "Subic",
+                        "instance_of": [
+                            "municipality of the Philippines"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 14.876944444444444,
+                                        "longitude": 120.23277777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Subic"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Frederick Willis Bonner",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130246804.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Bonner"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,310 @@
+{
+    "id": "Q130314908",
+    "label": "Andrew Jackson Allison",
+    "biographyMarkdown": "# Andrew Jackson Allison\n## Attended Yale Law School 1921-1922\nAndrew Jackson Allison was born to Lillie Allison in 1892 in Nashville, Tennessee. His mother remarried in 1903 to Boyd Wilson Ferguson. As of the 1910 census, Boyd Ferguson worked as a coachman for a private family, and Lillie Allison worked as a seamstress.  \n\nAndrew Jackson Allison graduated from Pearl High School, which was the first public school built for African Americans in Nashville in 1909. After graduation, he enrolled at Fisk University, joining Alpha Phi Alpha and graduating with a bachelor of science degree in 1913.[^1] After graduating, he became a principal of a high school in Albany, Georgia, a professor of mathematics at Savannah State University, and was employed in the Department of Labor. He first entered Harvard Law School in 1920 before transferring to Yale Law School in 1921 but did not receive a degree. He worked as an industrial secretary for the New York Urban League before joining the Hartford Council of Social Agencies where he led research efforts on the issues and needs of recent Black migrants from the South in Hartford.[^2] In Hartford, Andrew Jackson Allison married Thelma Whitaker in a wedding celebrated by the Hartford community as the \u201csocial event of season\u201d in 1925.[^3] He continued to be a community leader in Hartford, where he was named secretary of the Women\u2019s League and helped open nurseries, schools, and community centers in Hartford.[^4] \n\nIn 1927, he left Hartford and moved back home to Nashville after being offered a new position at Fisk University as alumni secretary. He traveled across the country where he toured high schools for future students, fundraised for the university, and met with Fisk alumni throughout his tenure.[^5] During his tenure, he joined Fisk professors and students in condemning the university for failing to protect the Black community after Cordie Cheek, a black teenager recently freed on charges of rape, was abducted near the university and lynched.[^6] In 1943, he left the university to accept a position as superintendent of Provident Hospital in Chicago where he was responsible for business management, public relations, and fundraising.[^7] At some point, he and his wife converted to the Baha\u2019i faith and were active members in the religion.[^8] He died from kidney failure in 1979 at the age of 86 in Durham, North Carolina where he was survived by his wife, six children, ten grandchildren, and two great-grandchildren.[^9]   \n\n[^1]: \u201cWashington to Address Fisk: Noted Educator Here for Commencement at Colored School,\u201d *Nashville Tennessean and the Nashville American*, June 4, 1913; \u201cTau Lambda News,\u201d *The Sphinx* 20, no. 2, Oct. 29, 1934. \n[^2]: \u201cNorth from the Cotton Fields: Central Council of Social Agencies Starts Study of Social and Economic Problems of Colored Residents Who Have Migrated Here,\u201d *Hartford Courant*, March 8, 1925. \n[^3]: Wellborn Victor Jenkins, \u201cWhitaker-Allison Nuptials Swell Social Event of Season,\u201d *The Sphinx* 11, no. 4, October 23, 1925.  \n[^4]: \u201cAndrew J. Allison to Be New Alumni Secretary at Fisk: Hartford Social Worker Resigns to Accept Post With University,\u201d *Hartford Courant*, September 1, 1927. \n[^5]: \u201cFisk Alumni Sec\u2019y Is Touring In North,\u201d *Pittsburgh Courier*, December 26, 1931.\n[^6]: \u201cMob Lynches Innocent Boy in Tennessee: Cordie Cheek Seized Near Fisk U. After Grand Jury Freed Him,\u201d *Kansas City Call*, December 22, 1933.  \n[^7]: \u201cSuperintendent,\u201d *New Journal and Guide*, June 5, 1943. \n[^8]: \u201cDurhamites Attend 60th Baha\u2019i Convention in Chicago,\u201d *Carolina Times*, May 10, 1969.  \n[^9]: North Carolina Deaths, 1931-1994, database, FamilySearch, Andrew Jackson Allison, 1979. \n",
+    "description": "Attended Yale Law School 1921-1922",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1979"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3474474",
+                    "data": {
+                        "label": "Savannah State University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.0224,
+                                        "longitude": -81.0551
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Savannah State University"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q13371",
+                    "data": {
+                        "label": "Harvard University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.374443888889,
+                                        "longitude": -71.116943888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harvard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1921"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1922"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1892"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23197",
+                    "data": {
+                        "label": "Nashville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "consolidated city-county",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.16222222222222,
+                                        "longitude": -86.77444444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Nashville, Tennessee, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23197",
+                    "data": {
+                        "label": "Nashville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "consolidated city-county",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.16222222222222,
+                                        "longitude": -86.77444444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Nashville, Tennessee, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q83813",
+                    "data": {
+                        "label": "Savannah, Georgia, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "municipality of Georgia",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.050833333333,
+                                        "longitude": -81.103888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Savannah, Georgia, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Allison"
+                }
+            ]
+        }
+    }
+}

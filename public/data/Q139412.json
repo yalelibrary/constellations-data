@@ -1,0 +1,370 @@
+{
+    "id": "Q139412",
+    "label": "Zachariah Keodirelang Matthews",
+    "biographyMarkdown": "# Zachariah Keodirelang Matthews\n## Received master\u2019s degree in Race Relations, 1930\nZachariah Keodirelang Matthews was born in Kimberley, South Africa, in 1901, to Peter Dinku Matthews and Martha Mooketse Matthews. He attended University of Fort Hare, receiving a BA in 1923 and a bachelor of laws in 1930. He was married in 1928 to Frieda Debora Bokwe, and as of 1933, they had three children. \n\nIn 1933, he came to Yale with a Phelps-Stokes Fellowship and completed a master\u2019s degree in race relations the following year. He then returned to South Africa with a fellowship from the International Institute of African Languages and Cultures to do anthropological research. There, he was appointed as a lecturer in social anthropology and native law at his alma mater, the University of Fort Hare. Ten years later, he was appointed head of the university\u2019s department of African studies. In 1952, he was appointed visiting professor of world Christianity at Union Theological Seminary in New York City. \n\nIn 1956 he was arrested during a \u201cmass treason inquiry\u201d targeting opponents of apartheid by the South African government. He and seven other professors at Fort Hare were dismissed due to their views opposing segregation.\n\nIn 1966, when the Republic of Botswana was created, Matthews was appointed the new country\u2019s ambassador to the United States and its representative at the United Nations. He served in that role for two years before his death in Washington, DC, in 1968.\n\nImage citation: Exhibition at the University of Fort Hare, 2016 (via Wikimedia Commons)\n",
+    "description": "Received master\u2019s degree in Race Relations, 1930",
+    "publicationsMarkdown": "*African Muisc in South Africa*. n.p., n.d.\n\n\"Bantu Law and Western Civilisation in South Africa: A Study in the Clash of Cultures.\" M.A. thesis, Yale University, 1934.\n\n*Africa Holds Her Own*. n.p., 1934.\n\n\"The Tribal Spirit Among Educated South Africans,\" *Man 35* (1935).\n\n\"An African View of Indirect Rule in Africa,\" *Journal of the Royal African Society 36*, no. 145 (1937).\n\n\"Marriage Customs among the Barlong,\" *Africa: Journal of the International African Institute 13*, no. 1 (1940).\n\n\"A Short History of the Tshidi Barolong,\" *Fort Hare Papers* (1945).\n\n\"The African Response To Racial Laws,\" *Foreign Affairs 30*, no. 1 (1951).\n \n*Africa Today and Tomorrow*. New York, NY: Union Theological Seminary, 1953.\n\n*Apartheid Forum*. New York, NY: International House, 1953.\n\n*The Crisis in South Africa*. New York, NY: Christianity and Crisis, Inc., 1953. \n\n\"Review of *The Choice Before South Africa*, *The Peoples and Policies of South Africa*, *Racial Separation in South Africa*,\" *Journal of International Affairs 7*, no. 2 (1953).\n\n\"APARTHEID--Another View,\" *Journal of International Affairs 7*, no. 2 (1953). \n\n*The University College of Fort Hare*. Alice, South Africa: 1957.\n\n\"Non-White Political Organizations,\" *Africa Today 4*, no. 6 (1957). \n\n*African Awakening and the Universities*. Cape Town, South Africa: University of Cape Town, 1961. \n\n*Social Relations in a Common South African Society*. Johannesburg, South Africa: Anglo American Corp. of South Africa, 1961.\n\n\"Christian Education in a Changing Africa,\" *International Review of Mission 52*, no. 205 (1963).\n\n*Africa Survey Report*. Geneva: World Council of Churches, Division of Inter-Church Aid, Refugee and World Service, 1964.\n\n*Responsible Government in a Revolutionary Age*. New York, NY: Association Press, 1966.\n\n\"The Ecumenical Programme for Emergency in Africa,\" *The Ecumenical Review 19*, no. 2 (1967).\n\n*Freedom For My People: The Autobiography of Z.K. Matthews, Southern Africa 1901 to 1968*. Cape Town: Africasouth Paperbacks, 1983.\n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q125905",
+                    "data": {
+                        "label": "Kimberley, Sol Plaatje Local Municipality, South Africa",
+                        "instance_of": [
+                            "town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -28.738333333333333,
+                                        "longitude": 24.76388888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kimberley, Sol Plaatje Local Municipality, South Africa"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q174570",
+                    "data": {
+                        "label": "London School of Economics and Political Science",
+                        "instance_of": [
+                            "public research university",
+                            "higher education institution",
+                            "educational organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 51.513888888889,
+                                        "longitude": -0.11666666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "London School of Economics and Political Science"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6692063",
+                    "data": {
+                        "label": "Lovedale",
+                        "instance_of": [
+                            "Christian mission",
+                            "human settlement"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -32.775,
+                                        "longitude": 26.839
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lovedale"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2005511",
+                    "data": {
+                        "label": "University of Fort Hare",
+                        "instance_of": [
+                            "public university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -32.7875,
+                                        "longitude": 26.8475
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Fort Hare"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1930"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1901"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1968"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2005511",
+                    "data": {
+                        "label": "University of Fort Hare",
+                        "instance_of": [
+                            "public university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -32.7875,
+                                        "longitude": 26.8475
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Fort Hare"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1196251",
+                    "data": {
+                        "label": "Union Theological Seminary",
+                        "instance_of": [
+                            "seminary",
+                            "university building",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.811389,
+                                        "longitude": -73.964167
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Union Theological Seminary"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q125905",
+                    "data": {
+                        "label": "Kimberley, Sol Plaatje Local Municipality, South Africa",
+                        "instance_of": [
+                            "town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -28.738333333333333,
+                                        "longitude": 24.76388888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kimberley, Sol Plaatje Local Municipality, South Africa"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2003910",
+                    "data": {
+                        "label": "Alice, Nkonkobe Local Municipality, South Africa",
+                        "instance_of": [
+                            "town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -32.789166666667,
+                                        "longitude": 26.835
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Alice, Nkonkobe Local Municipality, South Africa"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Zachariah Keodirelang Matthews",
+                    "image-info": [
+                        {
+                            "url": "/data/Q139412.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Matthews"
+                }
+            ]
+        }
+    }
+}

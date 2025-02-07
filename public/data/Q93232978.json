@@ -1,0 +1,328 @@
+{
+    "id": "Q93232978",
+    "label": "William Augustus Banner",
+    "biographyMarkdown": "# William Augustus Banner\n## Graduate of Yale Divinity School, 1938\nWilliam Augustus Banner was born on September 18, 1915, in Philadelphia, Pennsylvania, to Nannie Perry Banner and Zachariah Banner. He received his BA from Pennsylvania State University in 1935 and subsequently attended Yale Divinity School, where he graduated with a master\u2019s in divinity in 1938. He would also go on to receive an MA and a PhD in philosophy, both from Harvard University, in 1944 and 1947.\n\nBanner married Beatrice V. Suggs in 1941, and they had two children. Following his graduation from Yale, he began a long career as a philosophy professor, first at Bennett College in Greensboro, North Carolina from 1938-43, and then Howard University in Washington, DC, from 1945 to 1985. While at Howard he also served as associate dean (1971-1975) and chair of the philosophy department (1976-81). In addition to his career at Howard, Banner was a visiting professor at several universities and was the first known visiting professor at Yale Divinity School in 1954. He returned to Yale as a visiting professor from 1964-5 and also visited the University of Rochester in New York (1970), General Theological Seminary in New York (1986), Smith College in Massachusetts, University of Rhode Island, and University of Colorado.\n\nBanner was a prolific writer during his long academic career. His publications include \u201cOrigin and the Tradition of Natural Law Concepts\u201d (1954), *Ethics: An Introduction to Moral Philosophy* (1968), and *The Philosophy of Human Affairs* (1981). Banner was also involved in various academic and religious organizations, including the Mellon Fellowships in Humanities, the Anglican-Roman Catholic Commission, the American Philosophical Association, and the Guild Scholars of the Episcopal Church.\n\nBanner died on October 14, 2013, at the age of 98.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1938",
+    "publicationsMarkdown": "\"Natural Law and Human Rights: A Critical Exposition of a Theory of Just Law.\" PhD diss., Harvard University, 1946.\n\n\"School Speakers,\" *The Washington Post*, February 19, 1951.\n\n\"Powell Amendment,\" *The Washington Post*, February 27, 1956.\n\n\"An Ethical Basis for Racial Understanding,\" *Religious Education 59*, no. 1 (1964).\n\n\"Aid for Selma Negroes,\" *The New York Times*, March 14, 1965.\n\n*Origen and the Tradition of Natural Law Concepts*. Cambridge, MA: Harvard University Press, 1954.\n\n*Ethics: Introduction to Moral Philosophy*. New York, NY: Scribner, 1968.\n\n\"The Moral Philosopher Looks at Values Education,\" *New Directions for Higher Education 31* (1980).\n\n\"Distributive Justice and Welfare Claims,\" *Social Research 47*, no. 2 (1980).\n\n\"A New American Justice: Ending the White Male Monopolies,\" *The Journal of Negro Education 50*, no. 2 (1981).\n\n*Moral Norms and Moral Order: The Philosophy of Human Affairs*. Gainesville, FL: University Presses of Florida, 1981.\n\n*The Path of St. Augustine*. Lanham, MD: Rowman & Littlefield, 1996. \n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1915"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "2013"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q13371",
+                    "data": {
+                        "label": "Harvard University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.374443888889,
+                                        "longitude": -71.116943888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harvard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q739627",
+                    "data": {
+                        "label": "Pennsylvania State University",
+                        "instance_of": [
+                            "public research university",
+                            "open-access publisher",
+                            "production company"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.796111111111,
+                                        "longitude": -77.862777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pennsylvania State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1938"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4889676",
+                    "data": {
+                        "label": "Bennett College",
+                        "instance_of": [
+                            "liberal arts college",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.0675,
+                                        "longitude": -79.7785
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bennett College"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49238",
+                    "data": {
+                        "label": "Greensboro, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.08,
+                                        "longitude": -79.819444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Greensboro, North Carolina, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "William Augustus Banner",
+                    "image-info": [
+                        {
+                            "url": "/data/Q93232978.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Banner"
+                }
+            ]
+        }
+    }
+}

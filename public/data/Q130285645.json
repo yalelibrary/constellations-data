@@ -1,0 +1,417 @@
+{
+    "id": "Q130285645",
+    "label": "John Dillingham, Jr.",
+    "biographyMarkdown": "# John Dillingham, Jr.\n## Attended Yale Divinity School, 1925-1926; Received master's degree, 1931\nJohn Dillingham, Jr. was born in Leota, Mississippi, in 1896, to John Dillingham and Alice Person Dillingham. He completed a bachelor\u2019s degree at Shaw University in 1925. He married Geraldine Satchell in 1926. He attended Yale Divinity School in the 1925-1926 academic year, then took a job as head of the Department of Sociology at the State Normal School in Montgomery, Alabama (now Alabama State University). He returned to Yale Divinity School in the fall of 1929. \n\nWhile at Yale, Dillingham worked with the Dixwell Community House and was part of the 1931 seminar, \u201cWhither the Negro Church?\u201d held at the Divinity School. He completed an MA in 1931, affiliated with the divinity school, and his thesis was titled \u201cA Study of the Present Work of the Church in Tax-Supported Colleges and Universities of the United States.\u201d He was then employed as director of religious activities at Tennessee A & I State College (now Tennessee State University) in Nashville. In 1935, he was appointed by the American Missionary Association to serve as principal of Lincoln Academy in Kings Mountain, North Carolina. Shortly after, he moved to Pennsylvania. He was ordained and became minister of a church in Chester in 1938, then served Faith Presbyterian Church in Germantown. \n\nIn the early 1940s, Dillingham was a commissioner to the General Assembly of the Presbyterian Church and served on the church\u2019s Committee on Social Education and Action. He was co-chair of the Interracial Department of the Philadelphia Federation of Churches. He was recognized by a Black organization in Germantown in 1943 for his public health work\u2014he founded a clinic for babies at his church and facilitated free smallpox vaccinations for children.\n\nIn 1946, Dillingham moved to Oakland, California, where he worked as a field missionary. He organized a church and community center for the Presbyterian Board of National Missions. In Oakland, he was president of the Oakland Ministerial Fellowship and a member of the Mayor\u2019s Committee for Civic Unity, among other community positions.\n\nIn 1950, he returned to the East Coast as minister of a church in Newark, New Jersey. There, he was director of the Newark NAACP, the Church Extension Board, the Community Hospital, and the Home for the Aged in Montclair. His wife, Geraldine, died in 1952. The following year, he married Gladys Freeman. He retired in 1957 and died in 1974.\n",
+    "description": "Attended Yale Divinity School, 1925-1926; Received master's degree, 1931",
+    "publicationsMarkdown": "\"A Study of the Present Work of the Xhurch in Tax-supported Colleges and Universities of the United States.\" M.A. thesis, Yale University, 1931.\n\n*The Peace of these Mountains to You.* Kings Mountain, NC: Self-published, 1935.\n\n*Making Religious Education Effective: a New Program for the Church Today.* New York, NY: Associated Press, 1935. \n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1896"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q21074678",
+                    "data": {
+                        "label": "Leota, Mississippi, United States",
+                        "instance_of": [
+                            "ghost town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.104444444444,
+                                        "longitude": -91.076111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Leota, Mississippi, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1974"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1931"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3443493",
+                    "data": {
+                        "label": "Shaw University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.7712,
+                                        "longitude": -78.6361
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Shaw University"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1782948",
+                    "data": {
+                        "label": "Tennessee State University",
+                        "instance_of": [
+                            "public university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States",
+                            "land-grant university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.165874,
+                                        "longitude": -86.830337
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tennessee State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q941524",
+                    "data": {
+                        "label": "Alabama State University",
+                        "instance_of": [
+                            "public university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.364,
+                                        "longitude": -86.295
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Alabama State University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q368045",
+                    "data": {
+                        "label": "Chester, Pennsylvania, United States",
+                        "instance_of": [
+                            "city",
+                            "home rule municipality of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.847222222222,
+                                        "longitude": -75.372777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chester, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q17042",
+                    "data": {
+                        "label": "Oakland, California, United States",
+                        "instance_of": [
+                            "big city",
+                            "city in the United States",
+                            "sanctuary city",
+                            "charter city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.8,
+                                        "longitude": -122.25
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Oakland, California, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q25395",
+                    "data": {
+                        "label": "Newark, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey",
+                            "largest city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.73555555555556,
+                                        "longitude": -74.17222222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newark, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1742139",
+                    "data": {
+                        "label": "Kings Mountain, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.244166666667,
+                                        "longitude": -81.3425
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kings Mountain, North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q30682736",
+                    "data": {
+                        "label": "Germantown",
+                        "instance_of": [
+                            "unincorporated community in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.92055556,
+                                        "longitude": -77.54555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Germantown"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q21074678",
+                    "data": {
+                        "label": "Leota, Mississippi, United States",
+                        "instance_of": [
+                            "ghost town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.104444444444,
+                                        "longitude": -91.076111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Leota, Mississippi, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23197",
+                    "data": {
+                        "label": "Nashville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "consolidated city-county",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.16222222222222,
+                                        "longitude": -86.77444444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Nashville, Tennessee, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q29364",
+                    "data": {
+                        "label": "Montgomery, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.3675,
+                                        "longitude": -86.3
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Montgomery, Alabama, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Dillingham,"
+                }
+            ]
+        }
+    }
+}

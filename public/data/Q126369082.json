@@ -1,0 +1,323 @@
+{
+    "id": "Q126369082",
+    "label": "Edward Harold Goin",
+    "biographyMarkdown": "# Edward Harold Goin\n## Graduate of Yale College, 1924\nEdward Harold Goin was born in 1903 in New Haven to Viola White Goin and Edward Franklin Goin, the minister of Dixwell Congregational Church. As a very young child, he lost his right arm in a trolley accident in New Haven. He attended New Haven High School (Hillhouse High School), then joined the Yale class of 1924. Both of his parents also attended Yale. While a student at Yale, he lived with his family at 573 Orchard Street. He was a member of Zeta Chapter of Alpha Phi Alpha Fraternity.\n\nAfter graduating in 1924, he spent a few years teaching at historically Black universities in Georgia, Florida, and North Carolina. According to the Class of 1924\u2019s Decennial Yearbook published in 1934, he was then principal of a high school in Welch, West Virginia. Goin reported in 1955 that his time in the South \u201cwas a rather rude awakening in many ways, and [he] was determined to work [his] way back North as soon as possible.\u201d \n\nHe completed a master's degree in psychology at Columbia University in 1930. The same year, he married Marie Crawford, a graduate of South Carolina State University. According to census records, she was a social worker and, around 1940, secretary of the YWCA.\n\nUpon returning to Connecticut, Goin worked for the National Youth Administration for six years. In 1942, he began working in personnel at the Winchester Repeating Arms Company, where he was employed for eleven years. He then began a role as field representative for Connecticut\u2019s Civil Rights Commission. From 1947 to 1953, he was director of the New Haven Travelers Aid and Family Service. Around this time, he also took courses through the Yale Labor Management Institute. Goin died in 1966.\n\nImage citation: Yale College Class of 1924 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1924",
+    "properties": {
+        "family": {
+            "label": "family",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q125449957",
+                    "data": {
+                        "label": "Goin family",
+                        "instance_of": [
+                            "family"
+                        ]
+                    },
+                    "text": "Goin family"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1966"
+                },
+                {
+                    "value-type": "time",
+                    "text": "1966"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1903"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1924"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49088",
+                    "data": {
+                        "label": "Columbia University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.8075,
+                                        "longitude": -73.961944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbia University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2073798",
+                    "data": {
+                        "label": "Welch, West Virginia, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.437222222222,
+                                        "longitude": -81.578888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Welch, West Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q126369081",
+                    "data": {
+                        "label": "Viola Goin Palmer",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Viola Goin Palmer",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130286795",
+                    "data": {
+                        "label": "Viola White Goin",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Viola White Goin",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "mother"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q126369056",
+                    "data": {
+                        "label": "Edward F. Goin",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Edward F. Goin",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "father"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q126369083",
+                    "data": {
+                        "label": "Marie Crawford Goin",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Marie Crawford Goin",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "spouse"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Edward Harold Goin",
+                    "image-info": [
+                        {
+                            "url": "/data/Q126369082.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Goin"
+                }
+            ]
+        }
+    }
+}

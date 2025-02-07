@@ -1,0 +1,211 @@
+{
+    "id": "Q5702209",
+    "label": "Helen Eugenia Hagan",
+    "biographyMarkdown": "# Helen Eugenia Hagan\n## Graduate of Yale School of Music, 1912\nHelen Eugenia Hagan was born in 1891 in Portsmouth, New Hampshire, and moved to New Haven when she was young. She grew up in a musical family (both her parents were musicians) and learned piano as a child, continuing her musical education at home and in the New Haven Public Schools. She gave her first public performance at the Dixwell Avenue Congregational Church where her family attended. \n\nHagan enrolled and graduated with a bachelor\u2019s degree in 1912 from the Yale School of Music. She was the first Black woman to earn a degree from Yale and the first Black graduate of the School of Music. (Yale College did not admit women until 1969, but women were permitted in some professional schools and graduate programs earlier.)\n\nHagan was both a talented pianist and a gifted composer. While a student at Yale, she performed her work, Piano Concerto in C Minor, with the New Haven Symphony Orchestra in Woolsey Hall. The first person to receive the Samuel Simon Sanford Fellowship for foreign study from Yale, Hagan went on to attend the Schola Cantorum in Paris, graduating with honors. \n\nDuring World War I, Hagan performed for thousands of Black soldiers in France\u2014the only Black woman to entertain troops overseas during the war. (The military was segregated by race.) In addition to performing, Hagan supported herself by giving private music lessons and teaching at the college level. She taught other Black New Haven students who later attended Yale, including Nerissa Whittington Tyler. Hagan was on the music faculty at Tennessee Agricultural and Industrial State College (now Tennessee State University) and served as dean of music at Bishop College in Marshall, Texas. She earned a master of arts degree from Teachers College, Columbia University, and was a member of several professional and musical associations. She also served as an organist and music leader at churches in New Haven; Morristown, New Jersey; Chicago; and Marshall, Texas. \n\nIn 1920, Hagan married fellow Yale alum John Taylor Williams (Sheffield 1898-1900). Newspapers reported in 1925 that Hagan had asked for a divorce on the grounds Williams abused her and did not provide sufficient financial support. Newspaper reports indicated Williams had broken Hagan's hand, which affected her ability to work. It is unknown if or when the couple separated or carried out a divorce. \n\nIn December 1932, Hagan wrote to W. E. B. Du Bois about scholarship opportunities, writing that \"after the adjustment of my marital affairs last spring I jumped into my career in earnest - because it is my life, in spite of the fact that I have had to give it up more or less during the last few years.\"\n\nImage citation: Photographs of Prominent African Americans Collection (JWJ MSS 76), Beinecke Rare Book and Manuscript Library, Yale University\n\nHagan died in 1964 and is buried in Evergreen Cemetery in New Haven. \n",
+    "description": "Graduate of Yale School of Music, 1912",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1964"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1891"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581072",
+                    "data": {
+                        "label": "female",
+                        "instance_of": [
+                            "sex of humans",
+                            "gender"
+                        ]
+                    },
+                    "text": "female"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49191",
+                    "data": {
+                        "label": "Portsmouth, New Hampshire, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "human settlement"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.07572,
+                                        "longitude": -70.76075
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Portsmouth, New Hampshire, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2784420",
+                    "data": {
+                        "label": "Yale School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3099,
+                                        "longitude": -72.9264
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Music",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1912"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1407107",
+                    "data": {
+                        "label": "Schola Cantorum de Paris",
+                        "instance_of": [
+                            "college of music"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 48.84166667,
+                                        "longitude": 2.34138889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Schola Cantorum de Paris"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49191",
+                    "data": {
+                        "label": "Portsmouth, New Hampshire, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "human settlement"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.07572,
+                                        "longitude": -70.76075
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Portsmouth, New Hampshire, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Helen Eugenia Hagan",
+                    "image-info": [
+                        {
+                            "url": "/data/Q5702209.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Hagan"
+                }
+            ]
+        }
+    }
+}

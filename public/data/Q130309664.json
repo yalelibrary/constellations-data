@@ -1,0 +1,302 @@
+{
+    "id": "Q130309664",
+    "label": "John Wesley Manning",
+    "biographyMarkdown": "# John Wesley Manning\n## Graduate of Yale College, 1881\nJohn Wesley Manning was born in 1857 in Edenton, North Carolina to Alfred and Eliza Allston Manning. His mother and her family were enslaved on the Hayes plantation by James Carthcart Johnston, and Manning was himself born enslaved. His father Alfred was a ship carpenter. Manning moved with his family to New Haven as a young child, likely during the Civil War, and graduated from the Hopkins School before becoming a student at Yale.\n\nManning\u2019s maternal uncles, Osborn and Isom Allston, were employed for many years as \u201csweeps\u201d (custodians) at Yale along with other members of his family, including during the time Manning was a student. Manning\u2019s brother, Henry Edward Manning, and nephew, William Edward Beardsley Manning, also attended Yale, pursuing degrees in art.\n\nManning was an accomplished educator, writer, and a leader in his field. Following his graduation from Yale, Manning became the principal of the Austin School in Knoxville, Tennessee, a public primary school for Black children. He served as principal there until 1911, expanding the school to include a high school. In 1893, he married Leonora Jessamine Scott of Knoxville. The couple had five children, one of whom was named \u201cYale.\u201d In 1899, he earned a master's degree from Wilberforce University. In the 1910s, he was appointed to the Southern Sociological Congress, and served in leadership roles in the Tennessee Conference of Educational Workers and the East Tennessee Association of Teachers in Colored Schools. He died in Knoxville in 1922.\n\nImage citation: Yale College Class of 1881 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1881",
+    "publicationsMarkdown": "\"Not In Taft's Class,\" *Knoxville Sentinel*, August 18, 1911.\n\n\"Inhumanity of Stripes,\" *Knoxville Sentinel*, January 15, 1912.\n\n\"The African Question,\" *Knoxville Sentinel*, November 25, 1912.\n\n\"An Ode To Africa,\" *Knoxville Sentinel*, May 14, 1919. \n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1881"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5900712",
+                    "data": {
+                        "label": "Hopkins School",
+                        "instance_of": [
+                            "university-preparatory school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.31959110772107,
+                                        "longitude": -72.9725665498971
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hopkins School"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1857"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1922"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2028258",
+                    "data": {
+                        "label": "Edenton, North Carolina, Kingdom of Great Britain",
+                        "instance_of": [
+                            "port settlement",
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.060833333333335,
+                                        "longitude": -76.60833333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Edenton, North Carolina, Kingdom of Great Britain"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q464946",
+                    "data": {
+                        "label": "Henry Edward Manning",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Henry Edward Manning",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q10861465",
+                                    "data": {
+                                        "label": "brother",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "brother"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309647",
+                    "data": {
+                        "label": "William Edward Beardsley Manning",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "William Edward Beardsley Manning",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q15224724",
+                                    "data": {
+                                        "label": "nephew",
+                                        "instance_of": [
+                                            "kinship",
+                                            "kinship relation"
+                                        ]
+                                    },
+                                    "text": "nephew"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q185582",
+                    "data": {
+                        "label": "Knoxville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.961666666666666,
+                                        "longitude": -83.92333333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Knoxville, Tennessee, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2028258",
+                    "data": {
+                        "label": "Edenton, North Carolina, Kingdom of Great Britain",
+                        "instance_of": [
+                            "port settlement",
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.060833333333335,
+                                        "longitude": -76.60833333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Edenton, North Carolina, Kingdom of Great Britain"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "John Wesley Manning",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309664.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Manning"
+                }
+            ]
+        }
+    }
+}

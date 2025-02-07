@@ -1,0 +1,267 @@
+{
+    "id": "Q130298937",
+    "label": "Horatio Seymour Hill",
+    "biographyMarkdown": "# Horatio Seymour Hill\n## Received master's degree, 1923\nBorn in Anderson, South Carolina in 1892, Horatio Seymour Hill earned a BA from Benedict College in 1918 before attending Virginia Union University from 1918 to 1919. He later became a trustee of Benedict. Hill received his BD from Oberlin College in 1921. In 1923, he completed a master's degree from Yale. His thesis was entitled, \u201cThe Problem of Religious Education among American Negroes.\u201d \n\nActing on the recommendation of Professor Luther A. Weigle of Yale Divinity School, Rev. Adam Clayton Powell, Sr. hired Hill to be the director of religious education at Abyssinian Baptist Church in Harlem. He held that position from 1924 to 1930. From 1930 to 1965, Hill was director of the Baptist Educational Center in Harlem. Hill died in 1977 in New York. \n",
+    "description": "Received master's degree, 1923",
+    "publicationsMarkdown": "\"The Problem of Religious Education among American Negroes.\" M.A. thesis, Yale University, 1924. \n\n\"Set Up Community School For Religious Education,\" *New York Amsterdam Star-News*, December 13, 1941.\n\n\"A Case for the Released Time School,\" *Religious Education 40*, no. 3 (1945). \n\n*The Superintendent Takes A Job*. Nashville, TN: Townsend Press, 1961.\n\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q616591",
+                    "data": {
+                        "label": "Oberlin College",
+                        "instance_of": [
+                            "college",
+                            "liberal arts college",
+                            "private not-for-profit educational institution",
+                            "private university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.293055555555554,
+                                        "longitude": -82.22166666666666
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Oberlin College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1814758",
+                    "data": {
+                        "label": "Virginia Union University",
+                        "instance_of": [
+                            "university",
+                            "university campus",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.5625,
+                                        "longitude": -77.45111111111112
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Virginia Union University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4887262",
+                    "data": {
+                        "label": "Benedict College",
+                        "instance_of": [
+                            "liberal arts college",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.0129,
+                                        "longitude": -81.0203
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Benedict College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1923"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1892"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1150893",
+                    "data": {
+                        "label": "Anderson, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.50333333333333,
+                                        "longitude": -82.65027777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Anderson, South Carolina, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1977"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q189074",
+                    "data": {
+                        "label": "Harlem, Manhattan, United States",
+                        "instance_of": [
+                            "neighborhood of Manhattan",
+                            "unincorporated community in the United States",
+                            "village of New York"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.809033333333,
+                                        "longitude": -73.948372222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harlem, Manhattan, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1150893",
+                    "data": {
+                        "label": "Anderson, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.50333333333333,
+                                        "longitude": -82.65027777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Anderson, South Carolina, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Hill"
+                }
+            ]
+        }
+    }
+}

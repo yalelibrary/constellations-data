@@ -1,0 +1,208 @@
+{
+    "id": "Q130309736",
+    "label": "William Houston Wright",
+    "biographyMarkdown": "# William Houston Wright\n## Graduate of Yale School of Medicine, 1900\nBorn in 1874 in Wheeling, West Virginia, William Houston Wright graduated from Bridgeport High School in Connecticut before enrolling at the Yale School of Medicine. After a one-year internship at the Freedmen\u2019s Hospital in Washington, DC, he settled in Baltimore, Maryland, where he practiced medicine from 1901 until his death in 1946.\n\nWright was involved in a number of civic and community organizations. He served as treasurer of Sigma Pi Phi from 1940 to 1946 and as trustee and president of the board of Maryland School for Girls, and was a member of the National and Maryland Medical, Dental and Pharmaceutical Association. He was president of the National Medical Association from 1908-1909. He was a member of the Grand Jurors Association and active in the national and local YMCA and the national and local Urban League. Wright served as chief umpire of the National Tennis Association and was a member of the Sharon Baptist Church in Baltimore. In 1905, he married Annie Elizabeth Clay. Their daughter Mae was a graduate of Tufts University and New York University. Alumni records suggest Wright was friends with fellow Yale graduates Walter Scott Miller and Warner T. McGuinn, who also lived in Baltimore.\n",
+    "description": "Graduate of Yale School of Medicine, 1900",
+    "publicationsMarkdown": "\"Uric Acid and Xanthin Bases in Diabetes Mellitus Urine.\" M.D. diss., Yale University, 1900.\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1961140",
+                    "data": {
+                        "label": "Yale School of Medicine",
+                        "instance_of": [
+                            "medical school",
+                            "faculty"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.303245363975,
+                                        "longitude": -72.933871811889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Medicine",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1900"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1874"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q838112",
+                    "data": {
+                        "label": "Wheeling, West Virginia, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.070277777778,
+                                        "longitude": -80.698611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wheeling, West Virginia, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5092",
+                    "data": {
+                        "label": "Baltimore, Maryland, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.286388888889,
+                                        "longitude": -76.615
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Baltimore, Maryland, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q838112",
+                    "data": {
+                        "label": "Wheeling, West Virginia, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.070277777778,
+                                        "longitude": -80.698611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wheeling, West Virginia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Wright"
+                }
+            ]
+        }
+    }
+}

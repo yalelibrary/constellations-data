@@ -1,0 +1,288 @@
+{
+    "id": "Q130309690",
+    "label": "William Porter Norcom",
+    "biographyMarkdown": "# William Porter Norcom\n## Graduate of Yale College, 1911\nBorn in 1885 in Portsmouth, Virginia, Wiliam Porter Norcom earned his BA from Yale in 1911. His father, born in Edenton, North Carolina, was the principal of Black schools in Portsmouth. Norcom attended high school in New Haven. At Yale, he earned a Berkeley Premium in Latin Composition his freshman year. He also received the honor of a second dispute appointment his junior and senior years. He was one of the founding members of Zeta Chapter of Alpha Phi Alpha Fraternity.\nAfter his Yale graduation, Norcom attended medical school at the University of Michigan from 1911 to 1914. In 1914, he married Rebecca DeGraphinreid, a 1910 graduate of Fisk University, and they had two children. Norcom completed his MD at Howard University in 1917, where he was a member of Sigma Pi Phi. Norcom interned in the Freedmen's Hospital (later Howard University Hospital) in Washington, DC in 1917.\n\nFrom 1917 to 1927, Norcom was a physician and a surgeon in New Haven. He then moved to Brooklyn, where he practiced medicine from 1927 until his death in 1948. During World War II, he served as a captain of the Medical Corps, 3d Separate Battalion, Infantry, in the New York National Guard. He was a member of the Medical Society of the County of Kings and the Medical Association. Norcom was active in Black fraternal societies in both New Haven and Brooklyn, including the Prince Hall Masons and the Elks. He was a member of the Dixwell Congregational Church in New Haven and of Concord Baptist Church of Christ in Brooklyn. Norcom died in 1948 and was buried in Brooklyn.\n\nImage citation: Yale College Class of 1911 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1911",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1911"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q230492",
+                    "data": {
+                        "label": "University of Michigan",
+                        "instance_of": [
+                            "public research university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.276944444444446,
+                                        "longitude": -83.73805555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Michigan"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1885"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1948"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q342803",
+                    "data": {
+                        "label": "Portsmouth, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.83543,
+                                        "longitude": -76.29827
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Portsmouth, Virginia, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18419",
+                    "data": {
+                        "label": "Brooklyn, New York City, United States",
+                        "instance_of": [
+                            "borough of New York City",
+                            "city in the United States",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.65083,
+                                        "longitude": -73.94972
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brooklyn, New York City, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q342803",
+                    "data": {
+                        "label": "Portsmouth, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.83543,
+                                        "longitude": -76.29827
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Portsmouth, Virginia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "William Porter Norcom",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309690.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Norcom"
+                }
+            ]
+        }
+    }
+}

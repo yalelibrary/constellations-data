@@ -1,0 +1,351 @@
+{
+    "id": "Q130266892",
+    "label": "Josephus R. Coan",
+    "biographyMarkdown": "# Josephus R. Coan\n## Graduate of Yale School of Divinity, 1933\nJosephus Roosevelt Coan was born in Spartanburg, South Carolina on November 26, 1902. He graduated as valedictorian from South Carolina State College in 1924, earned a bachelor's degree from Howard University in 1930, and graduated from Yale Divinity School with a master\u2019s in Christian education in 1933. He later earned a PhD from Hartford Seminary in 1961.\n\nCoan dedicated his career to religious education and missionary work in service of the African Methodist Episcopal Church, in which he was ordained a deacon in 1932 and an elder in 1934. Immediately after graduating from Yale, he taught at Morris Brown College and Turner Theological Seminary in Atlanta, Georgia (1933-1938), before turning to missionary work in South Africa in 1938. In South Africa he was a founder of the R. R. Wright School of Religion, a part of the Wilberforce Institute, and became the Institute\u2019s first Black superintendent in 1940. That same year he also became a bishop for the AME Church in the larger southern African region, a position which he would occupy until his return to the US.\n\nIn 1948 Coan returned to his educational work at Morris Brown College, where he served as chair of the Department of Philosophy and Religion until 1974. He also worked on the faculty of the Interdenominational Theological Center in Atlanta from 1959 until the mid-1970s. Coan retired in the 1970s and lived until his death in 2004, at the age of 101.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale School of Divinity, 1933",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1902"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q773325",
+                    "data": {
+                        "label": "Spartanburg, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.948055555556,
+                                        "longitude": -81.934722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Spartanburg, South Carolina, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "2004"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1933"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4496116",
+                    "data": {
+                        "label": "Hartford International University for Religion and Peace",
+                        "instance_of": [
+                            "university",
+                            "private not-for-profit educational institution",
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.7699,
+                                        "longitude": -72.7076
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford International University for Religion and Peace"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7566644",
+                    "data": {
+                        "label": "South Carolina State University",
+                        "instance_of": [
+                            "public university",
+                            "land-grant university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.497222222222,
+                                        "longitude": -80.85
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "South Carolina State University"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6913630",
+                    "data": {
+                        "label": "Morris Brown College",
+                        "instance_of": [
+                            "college",
+                            "historically black colleges and universities"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.7548,
+                                        "longitude": -84.4089
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morris Brown College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130267301",
+                    "data": {
+                        "label": "Wilberforce Institute",
+                        "instance_of": [
+                            "educational institution"
+                        ]
+                    },
+                    "text": "Wilberforce Institute"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q258",
+                    "data": {
+                        "label": "South Africa",
+                        "instance_of": [
+                            "sovereign state",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -29,
+                                        "longitude": 24
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "South Africa"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q773325",
+                    "data": {
+                        "label": "Spartanburg, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.948055555556,
+                                        "longitude": -81.934722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Spartanburg, South Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23556",
+                    "data": {
+                        "label": "Atlanta, Georgia, United States",
+                        "instance_of": [
+                            "county seat",
+                            "big city",
+                            "city in the United States",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.756944444444,
+                                        "longitude": -84.390277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Atlanta, Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1866955",
+                    "data": {
+                        "label": "Wilberforce, Ohio, United States",
+                        "instance_of": [
+                            "census-designated place in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7158,
+                                        "longitude": -83.88
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce, Ohio, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Josephus R. Coan",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130266892.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Coan"
+                }
+            ]
+        }
+    }
+}

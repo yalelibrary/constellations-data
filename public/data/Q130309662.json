@@ -1,0 +1,393 @@
+{
+    "id": "Q130309662",
+    "label": "John Henry Lewis",
+    "biographyMarkdown": "# John Henry Lewis\n## Graduate of Yale Divinity School, 1913\nBorn in Oglethorpe, Georgia in 1882, John Henry Lewis received his BA from Morris Brown College in Georgia in 1905 and was ordained in the AME Church in 1907. After graduating from Yale with his bachelor's in divinity, Lewis received an MA from the University of Chicago in 1915. Lewis served as a pastor in Atlanta from 1904 to 1918, in Springfield, Missouri from 1918 to 1919, and in Pasadena, California. In 1920, he was appointed president of Morris Brown College, where he served from 1920 to 1928. He later returned to Morris Brown, serving as president again from 1951 to 1958. In addition, he received a doctor of divinity degree from Wilberforce University in 1921. \n\nOther positions included serving as principal of Dunbar High School and Junior College in Little Rock, Arkansas, as president of Shorter College of North Little Rock from 1943 to 1944, and as dean of Payne Theological Seminary at Wilberforce University from 1943 to 1951. He was part of the group of Black students who reactivated Zeta Chapter of Alpha Phi Alpha Fraternity at Yale. He died in 1958 in Atlanta.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity Library\n",
+    "description": "Graduate of Yale Divinity School, 1913",
+    "publicationsMarkdown": "\"The Dying Girl Unprepared to Meet Her God,\" *Modern Language Notes 28*, no. 1 (1913).\n\n\"Social Services in Negro Churches.\" M.A. thesis, University of Chicago, 1914.\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1913"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q131252",
+                    "data": {
+                        "label": "University of Chicago",
+                        "instance_of": [
+                            "private university",
+                            "private not-for-profit educational institution",
+                            "research university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.789722222222,
+                                        "longitude": -87.599722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Chicago"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6913630",
+                    "data": {
+                        "label": "Morris Brown College",
+                        "instance_of": [
+                            "college",
+                            "historically black colleges and universities"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.7548,
+                                        "longitude": -84.4089
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morris Brown College"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1882"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1958"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7502148",
+                    "data": {
+                        "label": "Shorter College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.7593,
+                                        "longitude": -92.2605
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Shorter College"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1906108",
+                    "data": {
+                        "label": "Oglethorpe, Georgia, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.2933,
+                                        "longitude": -84.0625
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Oglethorpe, Georgia, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23556",
+                    "data": {
+                        "label": "Atlanta, Georgia, United States",
+                        "instance_of": [
+                            "county seat",
+                            "big city",
+                            "city in the United States",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.756944444444,
+                                        "longitude": -84.390277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Atlanta, Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q135615",
+                    "data": {
+                        "label": "Springfield, Missouri, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.195,
+                                        "longitude": -93.286111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Springfield, Missouri, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q485176",
+                    "data": {
+                        "label": "Pasadena, California, United States",
+                        "instance_of": [
+                            "big city",
+                            "city of California",
+                            "charter city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.156111111111,
+                                        "longitude": -118.13194444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pasadena, California, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33405",
+                    "data": {
+                        "label": "Little Rock, Arkansas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "state or insular area capital of the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.74444444444445,
+                                        "longitude": -92.28805555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Little Rock, Arkansas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1906108",
+                    "data": {
+                        "label": "Oglethorpe, Georgia, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.2933,
+                                        "longitude": -84.0625
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Oglethorpe, Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1866955",
+                    "data": {
+                        "label": "Wilberforce, Ohio, United States",
+                        "instance_of": [
+                            "census-designated place in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7158,
+                                        "longitude": -83.88
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce, Ohio, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "John Henry Lewis",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309662.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Lewis"
+                }
+            ]
+        }
+    }
+}

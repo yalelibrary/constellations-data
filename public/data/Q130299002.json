@@ -1,0 +1,311 @@
+{
+    "id": "Q130299002",
+    "label": "William Harvard Holloway",
+    "biographyMarkdown": "# William Harvard Holloway\n## Graduate of Yale Divinity School, 1900\nBorn in Goldsboro, North Carolina in 1875, William Harvard Holloway graduated from the Department of Ministerial Education of Talladega College, earning his BD in 1899. He next spent one year at Yale Divinity School, earning another BD in 1900. He was ordained in the Congregationalist Church in Talladega, Alabama in 1900. Holloway served as a minister in Thomasville, Georgia from 1900 to 1911. He studied Rural Social Problems at the Massachusetts Agricultural College in 1911. From 1911 until an unknown date, Holloway was director of Extension Work and Professor of Practical Sociology at Talladega. He received an honorary doctor of divinity degree from Talladega in 1918. In 1931, he became the minister of Washington Street Presbyterian Church in Reading, Pennsylvania. In 1935, he became pastor of the Bethany Presbyterian Church in Columbus, Ohio. He and his wife Ella had at least three children. Holloway died in 1968 and is buried in Green Lawn Cemetery in Columbus.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1900",
+    "publicationsMarkdown": "\"A Black Belt County, Georgia,\" in *The Negro Church. Report of a Social Study Made under the Direction of Atlanta University*. Atlanta, GA: Atlanta University Press, 1903.\n\n\"How The Meaning Of Freedom Came To Me,\" *The American Missionary 62*, no. 1 (1909).\n\n\"Rev. W. H. Holloway's Testimony,\" in *Negro Life in the South*. New York, NY: Association Press, 1918.\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q15142",
+                    "data": {
+                        "label": "University of Massachusetts Amherst",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.388888888888886,
+                                        "longitude": -72.52777777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Massachusetts Amherst"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7680006",
+                    "data": {
+                        "label": "Talladega College",
+                        "instance_of": [
+                            "school",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.4321,
+                                        "longitude": -86.1133
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Talladega College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1900"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1875"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q367400",
+                    "data": {
+                        "label": "Goldsboro, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.381944444444,
+                                        "longitude": -77.978055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Goldsboro, North Carolina, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1968"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79975",
+                    "data": {
+                        "label": "Talladega, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.434728,
+                                        "longitude": -86.101299
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Talladega, Alabama, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1192860",
+                    "data": {
+                        "label": "Thomasville, Georgia, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.8364,
+                                        "longitude": -83.9783
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Thomasville, Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q237896",
+                    "data": {
+                        "label": "Reading, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.341666666667,
+                                        "longitude": -75.926111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Reading, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16567",
+                    "data": {
+                        "label": "Columbus, Ohio, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "city of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.96222222222222,
+                                        "longitude": -83.00055555555555
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbus, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q367400",
+                    "data": {
+                        "label": "Goldsboro, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.381944444444,
+                                        "longitude": -77.978055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Goldsboro, North Carolina, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "William Harvard Holloway",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130299002.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Holloway"
+                }
+            ]
+        }
+    }
+}

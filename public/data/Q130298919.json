@@ -1,0 +1,276 @@
+{
+    "id": "Q130298919",
+    "label": "Roland T. Heacock",
+    "biographyMarkdown": "# Roland T. Heacock\n## Graduate of Yale Divinity School, 1924\nRoland T. Heacock was born in New Milford, Connecticut in 1893. He graduated from Howard University in Washington, DC in 1921 and went on to receive a bachelor's of theology from the Yale Divinity School in 1924 and a master\u2019s from Boston University in 1926. From 1931 to 1942 he was pastor of the Lincoln Congregational Church in Springfield, Massachusetts. He then served briefly as an Army chaplain for three years during WWII. He subsequently moved to Stafford, Connecticut, where he became interim minister of the Stafford Springs Congregational Church before making national news in 1950 when he was appointed minister of the all-white Staffordville Congregational Church. Heacock was adamant that the remarkability of his appointment represented the racism and classism prevalent in Christianity. Heacock\u2019s anti-racist stance was notable enough that in 1950 he received the Chicago Defender Award, and in 1965 he wrote and published a book, Understanding the Negro Protest. He was married to Lucille LaCour, with whom he had three children. He retired in 1958 and died in 1972 in Stafford, Connecticut.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1924",
+    "publicationsMarkdown": "\"What The People Say: 'Consistency, Thou Art A Jewel',\" *The Chicago Defender*, April 16, 1927. \n\n\"Swarming,\" *Gleanings in Bee Culture 75*, no. 5 (1947).\n\n\"The South Is My Home,\" *The Pittsburgh Courrier*, January 28, 1950.\n\n\"Negro Minister Hopeful About Schools In South,\" *The Hartford Courant*, October 3, 1954.\n\n\"Jim Crow Lives On Despite Court Orders,\" *The Hartford Courant*, April 8, 1959.\n\n*Understanding the Negro Protest*. New York, NY: Pageant Press, 1965.\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49110",
+                    "data": {
+                        "label": "Boston University",
+                        "instance_of": [
+                            "university",
+                            "private not-for-profit educational institution",
+                            "open-access publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.34888888888889,
+                                        "longitude": -71.10027777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Boston University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1924"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1893"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q977989",
+                    "data": {
+                        "label": "New Milford, Connecticut, United States",
+                        "instance_of": [
+                            "New England town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.583333333333,
+                                        "longitude": -73.4
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.57704,
+                                        "longitude": -73.40845
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Milford, Connecticut, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1972"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49158",
+                    "data": {
+                        "label": "Springfield, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.112411,
+                                        "longitude": -72.547455
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Springfield, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2305713",
+                    "data": {
+                        "label": "Stafford, Connecticut, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.983333333333,
+                                        "longitude": -72.316666666667
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.98482,
+                                        "longitude": -72.28897
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Stafford, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q977989",
+                    "data": {
+                        "label": "New Milford, Connecticut, United States",
+                        "instance_of": [
+                            "New England town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.583333333333,
+                                        "longitude": -73.4
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.57704,
+                                        "longitude": -73.40845
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Milford, Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Roland T. Heacock",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130298919.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Heacock"
+                }
+            ]
+        }
+    }
+}

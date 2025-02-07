@@ -1,0 +1,247 @@
+{
+    "id": "Q130309712",
+    "label": "Emory Byington Smith",
+    "biographyMarkdown": "# Emory Byington Smith\n## Graduate of Yale Divinity School, 1915\nBorn in 1886 in Raleigh, North Carolina, Emory Byington Smith was a pastor, attorney, and judge. His father was a Congregational minister and his mother, the first female graduate of Atlanta University, was an educator. Prior to enrolling at Yale, he attended the Hampton Institute and evening school in New York. He received a bachelor's degree from Howard University in 1914, where he was a charter member of the Alpha Phi Alpha Fraternity. He then earned a bachelor's of divinity from the Yale Divinity School in 1915. \n\nFollowing his Yale graduation, Smith was selected as pastor of Lincoln Memorial Church in Washington, DC. In 1919, he earned his law degree from Howard University, and the following year he was admitted to the Washington, DC bar. In 1923, he was admitted to practice before the U.S. Supreme Court. That same year, he left the ministry to accept a position as alumni and field secretary of Howard University. He later became its publicity director and served as president of the Howard University Alumni Association. \n\nFrom 1931 to 1941, Smith was on the faculty of the Terrell Law School in Washington, DC. In 1939, he spoke to a Senate subcommittee about discrimination faced by African American graduates of law school in legal appointments and promotions. A Democrat, Smith was appointed by President Harry Truman to serve as a judge on the Municipal Court for the District of Columbia. He was confirmed and sworn in shortly before his sudden death in 1950. In addition to Alpha Phi Alpha, Smith was a member of the Tau Delta Sigma Law Fraternity, the Elks, and the Masons.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1915",
+    "publicationsMarkdown": "\"Among Our Alumni: The Aftermath,\" *The Hilltop 3*, no. 10 (1924). \n\n\"Our First Scholarship Venture,\" *The Sphinx 16*, no. 2 (1930). \n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1915"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1797817",
+                    "data": {
+                        "label": "Hampton University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.0225,
+                                        "longitude": -76.33472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hampton University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1886"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1950"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q41087",
+                    "data": {
+                        "label": "Raleigh, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.78,
+                                        "longitude": -78.64
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Raleigh, North Carolina, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q41087",
+                    "data": {
+                        "label": "Raleigh, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.78,
+                                        "longitude": -78.64
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Raleigh, North Carolina, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Emory Byington Smith",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309712.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Smith"
+                }
+            ]
+        }
+    }
+}

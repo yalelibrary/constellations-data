@@ -1,0 +1,314 @@
+{
+    "id": "Q130309696",
+    "label": "Howard Foster Percival",
+    "biographyMarkdown": "# Howard Foster Percival\n## Graduate of Yale Divinity School, 1918\nBorn in 1890 in St. John\u2019s, Antigua, West Indies, Harold Foster Percival earned a BD from Lincoln University in 1917 before enrolling at Yale and earning a BD in 1918. The next year, he earned a BA from the Ohio State University. Ordained in the Episcopal church, he served churches in Philadelphia and Ohio before being called as rector of a church in Hopkinsville, Kentucky. He was also a priest in charge at St. Matthew\u2019s Mission in Louisville, Kentucky. He died in 1925 in Louisville and was buried in New York City.\n",
+    "description": "Graduate of Yale Divinity School, 1918",
+    "publicationsMarkdown": "\"Our Weekly Sermon: Sheperdless Sheep,\" *The Chicago Defender*, January 21, 1922.\n\n\"Our Weekly Sermon: Inner Life of Jesus,\" *The Chicago Defender*, April 15, 1922.\n\n\"Our Weekly Sermon: Right Thinking,\" *The Chicago Defender*, May 27, 1922. \n\n\"Our Weekly Sermon: Doing What We Can,\" *The Chicago Defender*, June 3, 1922. \n\n\"Our Weekly Sermon: The Hearing Ear,\" *The Chicago Defender*, January 20, 1923. \n\n\"Our Weekly Sermon: The Hearing Ear,\" *The Chicago Defender*, February 3, 1923. \n\n\"Our Weekly Sermon: The Great Refusal,\" *The Chicago Defender*, March 3, 1923. \n\n\"Our Weekly Sermon: Faith in Humanity,\" *The Chicago Defender*, March 24, 1923.\n\n\"Our Weekly Sermon: Weariness in Well Doing,\" *The Chicago Defender*, May 12, 1923. \n\n\"Our Weekly Sermon: Non-Conformity,\" *The Chicago Defender*, July 28, 1923. \n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1918"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q309331",
+                    "data": {
+                        "label": "Ohio State University",
+                        "instance_of": [
+                            "public research university",
+                            "land-grant university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40,
+                                        "longitude": -83.0125
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ohio State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1890"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1925"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q36262",
+                    "data": {
+                        "label": "Saint John's, Antigua and Barbuda",
+                        "instance_of": [
+                            "city",
+                            "port"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 17.121111111111,
+                                        "longitude": -61.844722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Saint John's, Antigua and Barbuda"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1397",
+                    "data": {
+                        "label": "Ohio, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.5,
+                                        "longitude": -82.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q845461",
+                    "data": {
+                        "label": "Hopkinsville, Kentucky, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.85444,
+                                        "longitude": -87.48861
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hopkinsville, Kentucky, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q43668",
+                    "data": {
+                        "label": "Louisville, Kentucky, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.25611111111111,
+                                        "longitude": -85.75138888888888
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Louisville, Kentucky, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q36262",
+                    "data": {
+                        "label": "Saint John's, Antigua and Barbuda",
+                        "instance_of": [
+                            "city",
+                            "port"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 17.121111111111,
+                                        "longitude": -61.844722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Saint John's, Antigua and Barbuda"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Percival"
+                }
+            ]
+        }
+    }
+}

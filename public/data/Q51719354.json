@@ -1,0 +1,322 @@
+{
+    "id": "Q51719354",
+    "label": "Thomas Nelson Baker Sr.",
+    "biographyMarkdown": "# Thomas Nelson Baker Sr.\n## Graduate of Yale Divinity School, 1896; Received Ph.D. in Philosophy, 1903\nThomas Nelson Baker was born into slavery on August 11, 1860 to Thomas Chadwick and Edith Nottingham Baker in Northampton County, Virginia. Both his parents were enslaved. His father was a Civil War soldier in the Union Army. He was one of five children. \n\nBaker was only partially formally taught, having only attended public school from the ages of 8 to 12, at which point he began to work as a farm laborer. Between the ages of 12 and 21 he maintained his studies on his own, and in 1881 he enrolled in the Hampton Institute (now Hampton University) High School program, where he graduated valedictorian in 1885 as a prot\u00e9g\u00e9 of General Samuel Chapman Armstrong. He attended Mount Hermon School in Gill, Massachusetts, a predominantly white \u201copportunity\u201d school from 1886 to 1889. Baker was one of only two Black students at the school. These two periods of high school education prepared him for college, and he enrolled in Boston University 1890 at the age of 30, graduating in 1893 as the university\u2019s first Black valedictorian. He was also the first Black person to be elected to speak at BU\u2019s commencement. He subsequently attended the Yale Divinity School, earning a bachelor of divinity degree in 1896. From 1897 to 1901 he worked as minister of the Dixwell Avenue Congregational Church in New Haven while simultaneously studying at Yale\u2019s Graduate School of Arts and Sciences. In 1901, he married Elizabeth Baytop, a graduate of Hampton Institute, and they had four children. Each of their four children earned advanced degrees.  In 1903, Baker earned a PhD in philosophy from Yale, the first Black person known to have done so. \n\nBaker served as minister of the Second Congregational Church in Pittsfield, MA, from 1901 to 1939; he may have finished his Yale dissertation there. Baker was named minister emeritus of the church from 1939 to 1940. He was a member of the Pittsfield Council of Churches, the Berkshire North Conference of Congregational Churches, and Congregational Council of Churches of New England and Vicinity (Black). \n\nThe philosopher George Yancy has written extensively on Baker, studying both his personal biography and scholarly contributions. Yancy argues that Baker\u2019s writings\n>constitute an early and significant philosophical precursor to a movement which later became known as the Harlem Renaissance.\u2026 Indeed, Baker is a very early precursor (though unacknowledged) to the Black Arts Movement.\n\nBaker died in 1941, from complications of carbon monoxide poisoning from a malfunctioning heater.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1896; Received Ph.D. in Philosophy, 1903",
+    "publicationsMarkdown": "\"The Ethical Significance of the Connection Between Mind and Body.\" PhD diss., Yale University, 1903.\n\n\"Not Pity But Respect,\" *Alexander's Magazine 2*, no. 1 (1906).  \n\n\"Ideals,\" *Alexander's Magazine 2*, no. 6 (1906).\n\n\"The Negro Woman,\" *Alexander's Magazine 3*, no. 1 (1906).\n\n\"Speech of Lincoln,\" *Alexander's Magazine 7*, no. 1 (1909). \n",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1941"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1896"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7059380",
+                    "data": {
+                        "label": "Northfield Mount Hermon School",
+                        "instance_of": [
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.6675,
+                                        "longitude": -72.48555555555555
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Northfield Mount Hermon School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1903"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49110",
+                    "data": {
+                        "label": "Boston University",
+                        "instance_of": [
+                            "university",
+                            "private not-for-profit educational institution",
+                            "open-access publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.34888888888889,
+                                        "longitude": -71.10027777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Boston University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1797817",
+                    "data": {
+                        "label": "Hampton University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.0225,
+                                        "longitude": -76.33472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hampton University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1860"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49290",
+                    "data": {
+                        "label": "Northampton County, Virginia, United States",
+                        "instance_of": [
+                            "county of Virginia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.30078,
+                                        "longitude": -75.92854
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Northampton County, Virginia, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2309339",
+                    "data": {
+                        "label": "Gill, Massachusetts, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.640277777778,
+                                        "longitude": -72.5
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.64036,
+                                        "longitude": -72.49953
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Gill, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49184",
+                    "data": {
+                        "label": "Pittsfield, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.45,
+                                        "longitude": -73.25
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pittsfield, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49290",
+                    "data": {
+                        "label": "Northampton County, Virginia, United States",
+                        "instance_of": [
+                            "county of Virginia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.30078,
+                                        "longitude": -75.92854
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Northampton County, Virginia, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Thomas Nelson Baker Sr.",
+                    "image-info": [
+                        {
+                            "url": "/data/Q51719354.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Baker"
+                }
+            ]
+        }
+    }
+}

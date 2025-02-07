@@ -1,0 +1,240 @@
+{
+    "id": "Q130309727",
+    "label": "Harry Griffy Tolliver",
+    "biographyMarkdown": "# Harry Griffy Tolliver\n## Graduate of Yale Law School, 1908\nHarry Griffy Tolliver was born in Charleston, West Virginia in 1880 and lived much of his early life in New Lexington, Ohio. He attended the Ohio State University and subsequently graduated from Yale Law School in 1908.  Following his graduation he stayed in New Haven, practicing law and serving as assistant corporation counsel to the city. He was heavily involved in local politics, and was elected as Ward 19 Alder in 1921, making him the first Black person elected to the New Haven Board of Alders. He served as chair of the Aldermanic Committees on Street Lighting and Ordinances and represented his ward on the Republican Ward Committee. From 1915 until his death in 1927 he was also a Justice of the Peace. In addition to his political involvement, he was a member of the New Haven Teachers\u2019 Retirement Board and the New Haven County Bar Association, and a trustee of Immanuel Baptist Church. His wife, Ethel Jones Tolliver, with whom he had four children, was also involved in local social services, working at the Department of Charities in New Haven in the 1920s and 1930s.\n\nTolliver died of a sudden heart attack in 1927. His wife, Ethel, died in 1937.\n\nImage citation: Yale Law *Shingle*, 1908, Yale University Library\n",
+    "description": "Graduate of Yale Law School, 1908",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1908"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q309331",
+                    "data": {
+                        "label": "Ohio State University",
+                        "instance_of": [
+                            "public research university",
+                            "land-grant university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40,
+                                        "longitude": -83.0125
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ohio State University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1880"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1927"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q47716",
+                    "data": {
+                        "label": "Charleston, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.78333333333333,
+                                        "longitude": -79.93194444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Charleston, South Carolina, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1927275",
+                    "data": {
+                        "label": "New Lexington, Ohio, United States",
+                        "instance_of": [
+                            "county seat",
+                            "village of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.715833,
+                                        "longitude": -82.210556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Lexington, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q47716",
+                    "data": {
+                        "label": "Charleston, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.78333333333333,
+                                        "longitude": -79.93194444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Charleston, South Carolina, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Harry Griffy Tolliver",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309727.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Tolliver"
+                }
+            ]
+        }
+    }
+}

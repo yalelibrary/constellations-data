@@ -1,0 +1,386 @@
+{
+    "id": "Q130266903",
+    "label": "William Hilary Coston",
+    "biographyMarkdown": "# William Hilary Coston\n## Graduate of Yale Divinity School, 1886\nBorn in 1858 in Providence, Rhode Island, William Hilary Coston moved with his family to New Haven around the age of seven. After his father\u2019s death, his mother worked as a laundress. Coston also worked various jobs in New Haven, including as a waiter, in the 1870s.\n\nCoston attended public schools and then Hopkins Grammar School. (Sources are not clear, but he may have worked as a custodian at Hopkins as well.) He attended Payne Theological Seminary of Wilberforce University and earned his bachelor of divinity degree from Wilberforce in 1884. He then came to Yale and received a second bachelor of divinity degree in 1884. \n\nOrdained in the AME Church in Wilberforce, Ohio, Coston served churches in Wisconsin, Minnesota, Iowa, Ohio, Pennsylvania, and Canada. During the Spanish-American War, he was appointed by President McKinley to serve as chaplain of the 9th U.S. Volunteer Infantry. He served as chaplain of the National Guard of the State of Ohio and was a Mason. From 1898 to 1912, he worked on behalf of the AME Church in Anacostia in Washington, DC, and later in business, retiring in 1932.\n\nCoston was the author of several works: *Betrayal of the American Negroes as Citizens, as Soldiers and Sailors, by the Republican Party in Deference to the People of the Philippine Islands*; *Freeman and Yet a Slave*; and *Spanish-American War Volunteer*.  He died in 1942 and is buried in Arlington National Cemetery in Washington, DC.\n\nImage citation: *The Spanish-American War Volunteer; Ninth United States Volunteer Infantry roster and muster, biographies, Cuban sketches* (1899) by W. Hilary Coston, page 18\n",
+    "description": "Graduate of Yale Divinity School, 1886",
+    "publicationsMarkdown": "*A Freeman and Yet a Slave*. Burlington, IA: Wohlwend Bros., Printers, 1888.\n\n\"The Generous Feeling Pure and Warm,\" *The Christian Recorder*, March 18, 1897.\n\n*The Spanish-American War Volunteer: Ninth United States Volunteer Infantry Roster and Muster; Biographies; Cuban Sketches.* Middletown, PA: Self-published, 1899.\n\n\"Literary Notes,\" *The Freeman*, January 27, 1900.\n\n\"Colored Veteran Explains.; Thomas Camp Asks Military Recognition, Not Social Affiliation,\" *The Washington Post*, October 31, 1907.\n\n\"Attention of All Masons,\" *Philadelphia Tribune*, November 29, 1924. \n\n*The Betrayal of the American Negroes as Citizens, as Soldiers and Sailors, by the Republican Party in Deference to the People of the Philippine Island*. n.p., 1930.\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1858"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18383",
+                    "data": {
+                        "label": "Providence, Rhode Island, United States",
+                        "instance_of": [
+                            "big city",
+                            "county seat",
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.82399,
+                                        "longitude": -71.41283
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Providence, Rhode Island, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1942"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1886"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5900712",
+                    "data": {
+                        "label": "Hopkins School",
+                        "instance_of": [
+                            "university-preparatory school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.31959110772107,
+                                        "longitude": -72.9725665498971
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hopkins School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1537",
+                    "data": {
+                        "label": "Wisconsin, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 44.5,
+                                        "longitude": -89.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wisconsin, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1527",
+                    "data": {
+                        "label": "Minnesota, United States",
+                        "instance_of": [
+                            "U.S. state",
+                            "administrative territorial entity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 46,
+                                        "longitude": -94
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Minnesota, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1546",
+                    "data": {
+                        "label": "Iowa, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42,
+                                        "longitude": -93
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Iowa, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1397",
+                    "data": {
+                        "label": "Ohio, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.5,
+                                        "longitude": -82.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1400",
+                    "data": {
+                        "label": "Pennsylvania, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41,
+                                        "longitude": -77.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16",
+                    "data": {
+                        "label": "Canada",
+                        "instance_of": [
+                            "dominion of the British Empire",
+                            "Commonwealth realm",
+                            "sovereign state",
+                            "country",
+                            "federation"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 56,
+                                        "longitude": -109
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Canada"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18383",
+                    "data": {
+                        "label": "Providence, Rhode Island, United States",
+                        "instance_of": [
+                            "big city",
+                            "county seat",
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.82399,
+                                        "longitude": -71.41283
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Providence, Rhode Island, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "William Hilary Coston",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130266903.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Coston"
+                }
+            ]
+        }
+    }
+}

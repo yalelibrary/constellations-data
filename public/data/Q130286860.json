@@ -1,0 +1,619 @@
+{
+    "id": "Q130286860",
+    "label": "Howard Decker Gregg",
+    "biographyMarkdown": "# Howard Decker Gregg\n## Graduate of Yale Divinity School, 1919\nBorn in Manning, South Carolina in 1894, Howard Decker Gregg received a BA from Lincoln University in 1916 and a BD from Yale in 1919. He studied at Columbia University and earned a PhD from the University of Pennsylvania.\n\nEarly in his career Gregg was the industrial secretary of the New York Urban league, but he spent most of his life in higher education. In addition to being a professor of education at Howard University, he served as dean of Allen, Wilberforce, and Fisk Universities. He was president of Edward Waters College in Jacksonville, Florida; Delaware State College in Dover, Delaware; Daniel Payne College in Birmingham, Alabama; and Morris Brown College in Atlanta, Georgia. In 1954, he was appointed to the US Educational Mission in Afghanistan, under the auspices of the Department of State.\n\nThe recipient of honorary degrees from Lincoln University and Campbell College, Gregg was active in the AME Church and served in several ministerial positions. He was also a general officer of the AME Church and wrote a book, *History of the African Methodist Episcopal Church*. He was a member of the Omega Psi Phi Fraternity. Gregg died at the age of 87 in Atlantic City, New Jersey.\n",
+    "description": "Graduate of Yale Divinity School, 1919",
+    "publicationsMarkdown": "\"Observations: The Trend of Current Thought and Discussion The North Carolina System of Accrediting Schools,\" The Chicago Defender, December 31, 1927. \n\n\"The Teaching Staff,\" *The Journal of Negro Education 1*, no. 2 (1932). \n\n*Informational Test on the Negro For High Schools and Colleges*. Wilberforce, OH: Wilberforce Press, 1935. \n\n\"The Background Study of Negro High School Students in Ohio.\" PhD diss., University of Pennsylvania, 1936. \n\n\"Non-Academic and Academic Interests of Negro High School Students in Mixed and Separate Schools,\" *The Journal of Negro Education 7*, no. 1 (1938). \n\n*The A.M.E. Church and the Current Negro Revolt*. Nashville, TN: A.M.E. Sunday School Union, 1970.\n\n*Richard Allen and Present Day Social Problems. A Socio-Psychological Study of the Background, Principles of the A.M.E. Church in light of Contemporary Thought and Actions*. Nashville, TN: A.M.E. Sunday School Union, 1976. \n\n*History of the African Methodist Episcopal Church*. Nashville, TN: AMEC, 1980.\n",
+    "properties": {
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6913630",
+                    "data": {
+                        "label": "Morris Brown College",
+                        "instance_of": [
+                            "college",
+                            "historically black colleges and universities"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.7548,
+                                        "longitude": -84.4089
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morris Brown College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5218406",
+                    "data": {
+                        "label": "Daniel Payne College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.5167,
+                                        "longitude": -86.7903
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Daniel Payne College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1183967",
+                    "data": {
+                        "label": "Delaware State University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "land-grant university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.1861,
+                                        "longitude": -75.5426
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Delaware State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5345817",
+                    "data": {
+                        "label": "Edward Waters College",
+                        "instance_of": [
+                            "college",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.344444,
+                                        "longitude": -81.684444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Edward Waters College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49041",
+                    "data": {
+                        "label": "Allen University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.010556,
+                                        "longitude": -81.020556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Allen University"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49088",
+                    "data": {
+                        "label": "Columbia University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.8075,
+                                        "longitude": -73.961944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbia University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49117",
+                    "data": {
+                        "label": "University of Pennsylvania",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.95388888888889,
+                                        "longitude": -75.19305555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Pennsylvania"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1919"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1894"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2025061",
+                    "data": {
+                        "label": "Manning, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.693997222222,
+                                        "longitude": -80.215408333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Manning, South Carolina, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1982"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q139564",
+                    "data": {
+                        "label": "Atlantic City, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.3625,
+                                        "longitude": -74.425
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Atlantic City, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2025061",
+                    "data": {
+                        "label": "Manning, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.693997222222,
+                                        "longitude": -80.215408333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Manning, South Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1866955",
+                    "data": {
+                        "label": "Wilberforce, Ohio, United States",
+                        "instance_of": [
+                            "census-designated place in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7158,
+                                        "longitude": -83.88
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23556",
+                    "data": {
+                        "label": "Atlanta, Georgia, United States",
+                        "instance_of": [
+                            "county seat",
+                            "big city",
+                            "city in the United States",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.756944444444,
+                                        "longitude": -84.390277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Atlanta, Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79867",
+                    "data": {
+                        "label": "Birmingham, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.5175,
+                                        "longitude": -86.80944444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Birmingham, Alabama, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33518",
+                    "data": {
+                        "label": "Dover, Delaware, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.161662,
+                                        "longitude": -75.525709
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Dover, Delaware, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16568",
+                    "data": {
+                        "label": "Jacksonville, Florida, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.316666666667,
+                                        "longitude": -81.65
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Jacksonville, Florida, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1866955",
+                    "data": {
+                        "label": "Wilberforce, Ohio, United States",
+                        "instance_of": [
+                            "census-designated place in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7158,
+                                        "longitude": -83.88
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q38453",
+                    "data": {
+                        "label": "Columbia, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.000555555556,
+                                        "longitude": -81.044166666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbia, South Carolina, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Gregg"
+                }
+            ]
+        }
+    }
+}

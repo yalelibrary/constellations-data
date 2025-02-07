@@ -1,0 +1,216 @@
+{
+    "id": "Q130314926",
+    "label": "John Taylor Williams",
+    "biographyMarkdown": "# John Taylor Williams\n## Attended Sheffield Scientific School, 1898-1900\nJohn Taylor Williams was born in 1875 to James Williams and Harriet Ella Thompson in Frankfort, Kentucky. His father worked as a teamster and his mother stayed at home at the time of the 1880 census. Williams received his preparatory education at Phillips Academy in Andover, Massachusetts and enrolled at Harvard in 1896. In 1897, he transferred to the Sheffield Scientific School and received a bachelor of science degree in 1900 from Yale. After graduating, he taught chemistry and physics at Virginia Seminary and A&M College. He returned to school, studying psychology and economics, and received a bachelor\u2019s degree at the University of Kansas in 1905. He then pursued a medical degree at Marquette University in 1910. He taught at Atlanta Baptist College before settling down in Morristown, N. J. and opening a medical practice in 1914. From 1914 onward, he continued to run his medical practice where he also became a member of the North Jersey Medical Society.\n\nJohn Taylor Williams married fellow Yale alumna Helen Eugenia Hagan (Yale School of Music, 1912), in New Haven on August 11, 1920. Newspapers reported in 1925 that Hagan had asked for a divorce on the grounds Williams abused her and did not provide sufficient financial support. It is unknown if or when the couple separated or carried out a divorce. According to the 1930 census, John reported that he was still married, and the household consisted of himself and his sister at 155 Speedwell in Morristown, New Jersey.\n\nJohn was a respected member and leader of the African American community in New Jersey. Using his background as a physician, he helped educate African Americans throughout New Jersey by lecturing about early diagnosis of tuberculosis. He was also active politically, serving as president of the Citizens\u2019 Club and mobilizing black men and women for New Jersey Republicans in the 1924 presidential election. Williams died in 1934.",
+    "description": "Attended Sheffield Scientific School, 1898-1900",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1934"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q28603",
+                    "data": {
+                        "label": "Frankfort, Kentucky, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.197,
+                                        "longitude": -84.863
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Frankfort, Kentucky, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q962499",
+                    "data": {
+                        "label": "Morristown, New Jersey, United States",
+                        "instance_of": [
+                            "town of New Jersey",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.7966,
+                                        "longitude": -74.4773
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morristown, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1432645",
+                    "data": {
+                        "label": "Phillips Academy",
+                        "instance_of": [
+                            "high school",
+                            "school",
+                            "boarding school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.6473,
+                                        "longitude": -71.1316
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Phillips Academy"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q28603",
+                    "data": {
+                        "label": "Frankfort, Kentucky, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.197,
+                                        "longitude": -84.863
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Frankfort, Kentucky, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q37043",
+                    "data": {
+                        "label": "Tallahassee, Florida, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.438333333333333,
+                                        "longitude": -84.28055555555555
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tallahassee, Florida, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q844012",
+                    "data": {
+                        "label": "Lynchburg, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.403672,
+                                        "longitude": -79.170205
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lynchburg, Virginia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Williams"
+                }
+            ]
+        }
+    }
+}

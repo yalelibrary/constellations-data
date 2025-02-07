@@ -1,0 +1,189 @@
+{
+    "id": "Q130314911",
+    "label": "Rachel Roberta Moore Myrick",
+    "biographyMarkdown": "# Rachel Roberta Moore Myrick\n## Graduate of Yale School of Music, 1934\nRachel Roberta Moore was born in 1912 to John and Edith Moore who lived in Hartford, Connecticut. According to the 1930 census, John was working as a janitor at an automobile factory, and Edith worked at the Hartford Electric Light Company.[^1]\n\nMoore attended Hartford Public High School, graduating in 1931, and then attended the Yale School of Music. During her time at Yale, she won a \u201csecond entrance prize in piano-playing\u201d and a scholarship of $100.[^2] Upon graduating in 1934, she served as organist for several AME Zion churches and was a private piano tutor.[^3]   \n\nIn 1946, she married Lafayette Myrick, a veteran and a postman.[^4] She later married Frank P. Richardson in 1963.[^5] Throughout her life, she served as an organist for several different churches in Hartford, Manchester, and Glastonbury. She also helped found the Connecticut State Music Teachers Association, Hartford Chapter, and the National Guild of Piano Teachers. She died in 2013 at the age of 101 in Hartford.[^6]  \n\n[^1]: United States Census, 1930, FamilySearch, Entry for John R. Moore and Edith D. Moore, 1930. \n[^2]: \u201cR. G. Barrow, 1932, Wins Organ Competition Prize,\u201d *Yale Daily News*, June 1, 1932. \n[^3]:  \u201cGraduated by Yale School of Music,\u201d *Hartford Courant*, June 3, 1934.\n[^4]: \u201cLafayette Myrick, Miss Moore Wed,\u201d *Afro-American*, May 11, 1946; \u201cMyrick, Lafayette,\u201d *Hartford Courant*, April 30, 1997.\n[^5]: Connecticut Marriage Index, 1959-2001, FamilySearch), Frank P Richardson and Racha R Myrick, 19 Jan 1963; from Connecticut, Marriage Index, 1959-2001, database, Ancestry; citing Bridgeport,  Fairfield, Connecticut, United States, Connecticut Department of Public Health, Hartford. \n[^6]:\u201cRichardson, Rachel Moore,\u201d *Hartford Courant*, December 29, 2013.\n\nImage citation: Hartford Public High School yearbook, 1931 (Accessed via Connecticut Digital Archive)\n",
+    "description": "Graduate of Yale School of Music, 1934",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2784420",
+                    "data": {
+                        "label": "Yale School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3099,
+                                        "longitude": -72.9264
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Music",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1934"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "2013"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1912"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1454",
+                    "data": {
+                        "label": "North Carolina, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.5,
+                                        "longitude": -80
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "North Carolina, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33486",
+                    "data": {
+                        "label": "Hartford, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "municipality seat",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.763333333333,
+                                        "longitude": -72.685
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1454",
+                    "data": {
+                        "label": "North Carolina, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.5,
+                                        "longitude": -80
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "North Carolina, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581072",
+                    "data": {
+                        "label": "female",
+                        "instance_of": [
+                            "sex of humans",
+                            "gender"
+                        ]
+                    },
+                    "text": "female"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Rachel Roberta Moore Myrick",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130314911.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Myrick"
+                }
+            ]
+        }
+    }
+}

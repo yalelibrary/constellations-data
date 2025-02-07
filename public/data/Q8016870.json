@@ -1,0 +1,350 @@
+{
+    "id": "Q8016870",
+    "label": "William Pickens",
+    "biographyMarkdown": "# William Pickens\n## Graduate of Yale College, 1904\nWilliam Pickens was born on January 15, 1881 in Anderson County, South Carolina to formerly\nenslaved parents. He showed impressive academic achievement, graduating as valedictorian of\nUnion High School in Little Rock, Arkansas in 1899 and going on to graduate from Talladega\nCollege in Alabama in 1902 before receiving a second bachelor&#39;s degree from Yale. He\ngraduated in 1904 in the honors society Phi Beta Kappa and won prizes for his excellent\noratory. He would later also go on to receive a master\u2019s degree from Fisk University in Nashville,\nTennessee in 1908, a PhD in literature from Selma University in Alabama in 1915, and an LLD\nfrom Wiley University in Marshall, Texas in 1918, all while simultaneously pursuing a career in\nacademia.\n\nPickens married Minnie Cooper McAlpine of Meridian, Mississippi in 1905, with whom he would\nhave three children. His first post-graduate job was as a professor at Talladega College for ten\nyears, and he subsequently worked as dean of Morgan College in Baltimore, Maryland, from\n1915 to 1920. During this time he also began his prolific writing career, publishing a two-part\nautobiography under the titles of *The Heir of Slaves* (1911) and *Bursting Bonds* (1923),\nreflecting on his upbringing, education, and participation in the Harlem Renaissance. Pickens\nwas an active participant in the ongoing conversation in the 1910s and 1920s surrounding Black\ncivil rights and the \u201cNew Negro\u201d movement, publishing a collection of essays under the title *The\nNew Negro: His Political, Civil, and Mental Status* in 1916.\n\nAfter leaving academia in 1920, Pickens spent the next twenty years working for the NAACP,\nwhich he had been involved in since its founding in 1910. He helped establish the organization\u2019s\nLouisville branch and worked as a field secretary, becoming an influential public speaker and\nwriter who massively grew the organization\u2019s membership. After leaving the NAACP in 1942 he\nworked for the US Treasury Department, supporting the sale of savings bonds during WWII. He\nretired in 1951 and died while on a cruise in Jamaica on April 6, 1954.\n\nImage citation: Yale College Class of 1904 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1904",
+    "publicationsMarkdown": "*Negro Evolution*. Talladega, AL: n.p., 1900.\n\n*Abraham Lincoln, Man and Statesman (Abridged)*. Talladega, AL: Self-published, 1910.\n\n*Grounds of Hope for the American Negro*. New York, NY: American Missionary Association, 1911.\n\n*The Heir of Slaves: An Autobiography*. Boston, MA: The Pilgrim Press, 1911. \n\n*The Ultimate Effects of Segregation & Discrimination: The Seldom Thought on The Negro Problem*. n.p., 1915.\n\n*The New Negro: His Political, Civil and Mental Status and Related Essays*. New York, NY: Neale Publishing Company, 1916.\n\n*The Negro In The Light Of The Great War*. Baltimore, MD: n.p., 1918. \n\n*The Lowest Struggler in the Struggle for Democracy*. Baltimore, MD: Morgan College, 1918.\n\n*The Kind of Democracy the Negro Race Expects*. Baltimore, MD: Herald Printing Company, 1919. \n\n*Lynching and Debt-Slavery*. New York, NY: American Civil Liberties Union, 1921.\n\n*Nannie Burroughs and the School of the Three B\u2019s*. New York, NY: n.p., 1921.\n\n*The Vengeance of the Gods: And Three Other Stories of Real American Color Line Life*. Philadelphia, PA: The A.M.E. Book Concern, 1922. \n\n*Bursting Bonds*. Boston, MA: Jordan & More Press, 1923.\n\n\"The 'Colored' United States; Arkansas\u2014A Study in Suppresion,\" *The Messenger 5*, no. 1 (1923).\n\n\"Things Nobody Believes; A Lesson In Religion,\" *The Messenger 5*, no. 2 (1923).\n\n\"Intelligent Christianity; Not the Fear of Hell,\" *The Messenger 5*, no. 4 (1923).\n\n\"Review of *The Modern Ku Klux Klan*,\" *The Messenger 5*, no. 5 (1923).\n\n\"A Platform For Black and White,\" *The Messenger 5*, no. 9 (1923).\n\n\"Art and Propaganda,\" *The Messenger 6*, no. 4 (1924).\n\n*American Aesop: Negro and Other Humor*. Boston, MA: The Jordan & More Press, 1926.\n\n*Racial Segregation*. New York, NY: Fellowship of Reconciliation, 1927.\n\n*Frederick Douglass and The Spirit of Freedom (Abridged)*. New York, NY: Self-published, 1931.\n\n*Aftermath of a Lynching*. New York, NY: National Association for the Advancement of Colored People, 1931.\n\n\"Why the Negro Must Be Anti-Fascist,\" *New Masses 31*, no. 10 (1939).\n\n",
+    "properties": {
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q489420",
+                    "data": {
+                        "label": "Anderson County, South Carolina, United States",
+                        "instance_of": [
+                            "county of South Carolina"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.52,
+                                        "longitude": -82.64
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Anderson County, South Carolina, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1954"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1881"
+                },
+                {
+                    "value-type": "time",
+                    "text": "1881"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1054905",
+                    "data": {
+                        "label": "Morgan State University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.34388888888889,
+                                        "longitude": -76.58472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morgan State University"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7448737",
+                    "data": {
+                        "label": "Selma University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.42,
+                                        "longitude": -87.0321
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Selma University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1904"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33405",
+                    "data": {
+                        "label": "Little Rock, Arkansas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "state or insular area capital of the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.74444444444445,
+                                        "longitude": -92.28805555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Little Rock, Arkansas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q43668",
+                    "data": {
+                        "label": "Louisville, Kentucky, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.25611111111111,
+                                        "longitude": -85.75138888888888
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Louisville, Kentucky, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q489420",
+                    "data": {
+                        "label": "Anderson County, South Carolina, United States",
+                        "instance_of": [
+                            "county of South Carolina"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.52,
+                                        "longitude": -82.64
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Anderson County, South Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5092",
+                    "data": {
+                        "label": "Baltimore, Maryland, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.286388888889,
+                                        "longitude": -76.615
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Baltimore, Maryland, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q110591130",
+                    "data": {
+                        "label": "Minnie McAlpine Pickens",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Minnie McAlpine Pickens",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "spouse"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "William Pickens",
+                    "image-info": [
+                        {
+                            "url": "/data/Q8016870.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Pickens"
+                }
+            ]
+        }
+    }
+}

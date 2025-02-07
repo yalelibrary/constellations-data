@@ -1,0 +1,308 @@
+{
+    "id": "Q130246766",
+    "label": "Joseph Dandridge Bibb",
+    "biographyMarkdown": "# Joseph Dandridge Bibb\n## Graduate of Yale Law School, 1918\nBorn in 1895 in Montgomery, Alabama, Joseph Dandridge Bibb studied at Atlanta University, Livingstone College, and Howard University before coming to Yale, where he earned a law degree in 1918. He also studied at Harvard and Columbia. Bibb moved to Chicago, where along with fellow Yale graduate Arthur C. MacNeal (Yale College, 1916), he helped establish the *Chicago Whip*, a weekly Black newspaper with a reputation for militant politics. Bibb and MacNeal spearheaded the \u201cDon\u2019t Spend Your Money Where You Can\u2019t Work\u201d campaign, which began in 1929. The campaign encouraged Black people to boycott white businesses that would not hire them, and the organizers claimed credit for securing thousands of jobs for African Americans in Chicago due to their direct-action techniques. The Whip often featured the writings of Marcus Garvey. It reached a weekly distribution of 65,000 copies, making it second only to the Chicago Defender among Black newspapers. After the newspaper shut down in 1939, Bibb became the managing editor of the Chicago office of the *Pittsburgh Courier*. He was also a practicing lawyer. \n\nBibb served as a trustee of the Chicago Public Library and of Provident Hospital, on the South Side. He was also active in Republican politics. In 1953, when the Republican governor made Bibb the director of public safety of Illinois, he became the first Black person in the governor\u2019s cabinet and highest ranking Black person in state government. Bibb died in 1966. \n\nImage citation: Schomburg Center for Research in Black Culture, Jean Blackwell Hutson Research and Reference Division, The New York Public Library. \"Jos. D. Bibb, editor, \"The Chicago Whip\".\" New York Public Library Digital Collections.\n",
+    "description": "Graduate of Yale Law School, 1918",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1895"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q29364",
+                    "data": {
+                        "label": "Montgomery, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.3675,
+                                        "longitude": -86.3
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Montgomery, Alabama, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1966"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49088",
+                    "data": {
+                        "label": "Columbia University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.8075,
+                                        "longitude": -73.961944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbia University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q13371",
+                    "data": {
+                        "label": "Harvard University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.374443888889,
+                                        "longitude": -71.116943888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harvard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6659715",
+                    "data": {
+                        "label": "Livingstone College",
+                        "instance_of": [
+                            "school",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.6709,
+                                        "longitude": -80.4834
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Livingstone College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q63887403",
+                    "data": {
+                        "label": "Atlanta University",
+                        "instance_of": [
+                            "university"
+                        ]
+                    },
+                    "text": "Atlanta University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1918"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.85003,
+                                        "longitude": -87.65005
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q29364",
+                    "data": {
+                        "label": "Montgomery, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.3675,
+                                        "longitude": -86.3
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Montgomery, Alabama, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Joseph Dandridge Bibb",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130246766.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Bibb"
+                }
+            ]
+        }
+    }
+}

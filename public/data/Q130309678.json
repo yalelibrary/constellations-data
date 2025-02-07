@@ -1,0 +1,301 @@
+{
+    "id": "Q130309678",
+    "label": "Raymond Augustus Morris",
+    "biographyMarkdown": "# Raymond Augustus Morris\n## Graduate of Yale School of Music, 1935\nBorn in 1906 in Hartford, Connecticut, Raymond Augustus Morris attended the Julius Hartt School of Music in Hartford before enrolling at Yale. He earned his bachelor of music degree from Yale in 1935. Next he studied at the Eastman School of Music, completing a master's degree in music in 1939. From 1936 to 1943, Morris served as dean of the School of Music of Bishop College. From there he went to the North Carolina College for Negroes (today North Carolina Central University), where he was the head of the department of music from 1943 until his death in 1944. \n\nMorris married Sarah Estelle Waller, a graduate of the Hartford Art School, in 1936. He was a member of the Talcott Street Congregational Church in Hartford. \n",
+    "description": "Graduate of Yale School of Music, 1935",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2784420",
+                    "data": {
+                        "label": "Yale School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3099,
+                                        "longitude": -72.9264
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Music",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1935"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1278284",
+                    "data": {
+                        "label": "Eastman School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.157675,
+                                        "longitude": -77.601438888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Eastman School of Music"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1906"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1944"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1518804",
+                    "data": {
+                        "label": "North Carolina Central University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.97645,
+                                        "longitude": -78.90092
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.974167,
+                                        "longitude": -78.898611
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "North Carolina Central University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4917518",
+                    "data": {
+                        "label": "Bishop College",
+                        "instance_of": [
+                            "higher education institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.6781,
+                                        "longitude": -96.7552
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bishop College"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33486",
+                    "data": {
+                        "label": "Hartford, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "municipality seat",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.763333333333,
+                                        "longitude": -72.685
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford, Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33486",
+                    "data": {
+                        "label": "Hartford, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "municipality seat",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.763333333333,
+                                        "longitude": -72.685
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49229",
+                    "data": {
+                        "label": "Durham, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.994166666666665,
+                                        "longitude": -78.89861111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Durham, North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q52996",
+                    "data": {
+                        "label": "Marshall, Texas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "satellite city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.55,
+                                        "longitude": -94.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Marshall, Texas, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Raymond Augustus Morris",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309678.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Morris"
+                }
+            ]
+        }
+    }
+}

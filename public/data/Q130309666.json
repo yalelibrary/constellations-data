@@ -1,0 +1,478 @@
+{
+    "id": "Q130309666",
+    "label": "Ira Mack Mason",
+    "biographyMarkdown": "# Ira Mack Mason\n## Graduate of Yale College, 1910\nBorn in 1886 in Birmingham, Alabama, Ira Mason prepared for college at Phillips Academy in Andover, Massachusetts. He graduated from Talladega College in 1907. He then entered Yale College and graduated with a BA in 1910. While at Yale, Mason was a founding member of Zeta Chapter of Alpha Phi Alpha. After graduating from Yale, he taught at Talladega College, Tuskegee Institute, and Howard University. He received his MD from the Chicago Medical School in 1916 with a speciality in urology. Mason completed further graduate study in France and Spain and studied several languages. After his return to the United States, Mason practiced medicine in Chicago, serving on the staff of Provident Hospital, the nation\u2019s first Black-run hospital, for many years. He was a member of the American Medical Association and the Chicago Medical Society. He married Claire Doublette in 1949, and they had two children: Ira, Jr. and Raymond. Mason died in 1972. Mason was a cousin of Yale School of Drama graduate John McLinn Ross, and the great-nephew of Yale carpenter Charles McLinn.\n\nImage citation: Yale College Class of 1910 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1910",
+    "publicationsMarkdown": "\"Books as they Relate to Life,\" *Howard University Journal 9*, no. 20 (1912). \n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1910"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1432645",
+                    "data": {
+                        "label": "Phillips Academy",
+                        "instance_of": [
+                            "high school",
+                            "school",
+                            "boarding school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.6473,
+                                        "longitude": -71.1316
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Phillips Academy"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7680006",
+                    "data": {
+                        "label": "Talladega College",
+                        "instance_of": [
+                            "school",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.4321,
+                                        "longitude": -86.1133
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Talladega College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5095702",
+                    "data": {
+                        "label": "Chicago Medical School",
+                        "instance_of": [
+                            "medical school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.3,
+                                        "longitude": -87.859
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago Medical School"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1886"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1972"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7680006",
+                    "data": {
+                        "label": "Talladega College",
+                        "instance_of": [
+                            "school",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.4321,
+                                        "longitude": -86.1133
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Talladega College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1682329",
+                    "data": {
+                        "label": "Tuskegee University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.430278,
+                                        "longitude": -85.707778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tuskegee University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79867",
+                    "data": {
+                        "label": "Birmingham, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.5175,
+                                        "longitude": -86.80944444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Birmingham, Alabama, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130314887",
+                    "data": {
+                        "label": "John McLinn Ross",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "John McLinn Ross",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q23009870",
+                                    "data": {
+                                        "label": "cousin",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "cousin"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1432645",
+                    "data": {
+                        "label": "Phillips Academy",
+                        "instance_of": [
+                            "high school",
+                            "school",
+                            "boarding school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.6473,
+                                        "longitude": -71.1316
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Phillips Academy"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.85003,
+                                        "longitude": -87.65005
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79867",
+                    "data": {
+                        "label": "Birmingham, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.5175,
+                                        "longitude": -86.80944444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Birmingham, Alabama, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79975",
+                    "data": {
+                        "label": "Talladega, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.434728,
+                                        "longitude": -86.101299
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Talladega, Alabama, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79718",
+                    "data": {
+                        "label": "Tuskegee, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.431506,
+                                        "longitude": -85.706781
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tuskegee, Alabama, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Ira Mack Mason",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309666.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Mason"
+                }
+            ]
+        }
+    }
+}

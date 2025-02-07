@@ -1,0 +1,414 @@
+{
+    "id": "Q130298951",
+    "label": "Johnson Washington Hill",
+    "biographyMarkdown": "# Johnson Washington Hill\n## Attended Yale Divinity School, 1894-1895\nBorn to enslaved parents in Petersburg, Virginia in 1865, Johnson Washington Hill was a Baptist minister, scholar, and physician. \n\nHill studied at several colleges and universities in addition to Yale. He graduated from Virginia Normal and Industrial Institute at Petersburg in 1888 and studied at Oberlin Seminary from 1888 to 1889. From 1892 to 1894, he studied at Newton Theological Seminary, then at Union Seminary and at Boston University Theological School. From 1894 to 1895, Hill attended Yale Divinity School, while serving as pastor of Calvary Baptist Church in Norwalk, Connecticut. In 1895, he was ordained at the Ebenezer Baptist Church in Boston. Hill received a BD or STB degree from Tufts College in 1900. \n\nIn 1900, Hill began studying medicine. He attended Harvard Medical School, Tufts Medical School, Boston University Medical School, and the Boston College of Physicians and Surgeons, where he received his MD in 1908. He began practicing medicine in addition to serving as minister of St. Stephen\u2019s Baptist Church in Cambridge, Massachusetts. He continued his education, receiving a BA from Tufts in 1913. He also took classes towards a master's degree at Harvard University. It is not confirmed what degrees he may have received from Harvard. He also studied at Brown University. \n\nA member of the American Medical Association and Massachusetts Medical Association, Hill married Estelle E. Mason in Boston in 1898. The couple went on to have five children. He later married Julia J. Moss in 1926.\n\nHill was active in the Baptist church, serving in leadership positions and as a convention delegate on many occasions. He was field secretary for a number of New England Baptist Missionary Conventions. In 1898 he became pastor of the Twelfth Baptist Church, Boston. He also served as a minister at Calvary Church in Norwalk, Connecticut; Union Congregational Church in Newport, Rhode Island; Zion Baptist Church in Everett, Massachusetts; Third Baptist Church in Lawrence, Massachusetts; and St. Stephen\u2019s Church in Boston.\n\nHill received a doctor of divinity degree (1903) and  an LLD (1904). Guadalupe College bestowed an honorary master's degree (1914) and an honorary PhD (1915) on Hill. He died in 1949.\n\nImage citation: Detail from a Yale Divinity School class photograph from the Yale University Divinity School Memorabilia Collection (RG 53), Yale Divinity Library\n",
+    "description": "Attended Yale Divinity School, 1894-1895",
+    "publicationsMarkdown": "\"Letters to the Editor,\" *The Pittsburgh Courrier*, July 19, 1930.\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q13371",
+                    "data": {
+                        "label": "Harvard University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.374443888889,
+                                        "longitude": -71.116943888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harvard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49120",
+                    "data": {
+                        "label": "Tufts University",
+                        "instance_of": [
+                            "university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.406949,
+                                        "longitude": -71.11982
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tufts University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1196251",
+                    "data": {
+                        "label": "Union Theological Seminary",
+                        "instance_of": [
+                            "seminary",
+                            "university building",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.811389,
+                                        "longitude": -73.964167
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Union Theological Seminary"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q17012505",
+                    "data": {
+                        "label": "Newton Theological Institution",
+                        "instance_of": [
+                            "seminary"
+                        ]
+                    },
+                    "text": "Newton Theological Institution"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7934591",
+                    "data": {
+                        "label": "Virginia State University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ]
+                    },
+                    "text": "Virginia State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "point in time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1894"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1895"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1865"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q511964",
+                    "data": {
+                        "label": "Petersburg, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.21295,
+                                        "longitude": -77.400417
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Petersburg, Virginia, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1949"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49111",
+                    "data": {
+                        "label": "Cambridge, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.375,
+                                        "longitude": -71.106111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cambridge, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q100",
+                    "data": {
+                        "label": "Boston, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.360277777777775,
+                                        "longitude": -71.05777777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Boston, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q54217",
+                    "data": {
+                        "label": "Norwalk, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.093888888889,
+                                        "longitude": -73.419722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Norwalk, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q54264",
+                    "data": {
+                        "label": "Newport, Rhode Island, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.488002,
+                                        "longitude": -71.312622
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newport, Rhode Island, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q54151",
+                    "data": {
+                        "label": "Everett, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.408333333333,
+                                        "longitude": -71.054166666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Everett, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49163",
+                    "data": {
+                        "label": "Lawrence, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.706944444444,
+                                        "longitude": -71.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lawrence, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q511964",
+                    "data": {
+                        "label": "Petersburg, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.21295,
+                                        "longitude": -77.400417
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Petersburg, Virginia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Johnson Washington Hill",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130298951.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Hill"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "id": "Q130246821",
+    "label": "George Christopher Booth",
+    "biographyMarkdown": "# George Christopher Booth\n## Graduate of Yale Divinity School, 1877\nBorn in 1840 in Farmington, Connecticut, George Christopher Booth studied under private tutors and at the State Normal School in New Britain (now Central Connecticut State University) before attending Yale. Following his graduation from the Yale Divinity School, Booth served as pastor of Quinn Chapel in Chicago; Meeting Street Church in Providence, Rhode Island; and St. James\u2019 Church in Kansas City, Kansas. He was also associated with reviving Western University, an institution of the AME Church, in Quindaro, Kansas, and twice served as the pastor of Temple Street Congregational Church in New Haven.\n\nBooth married his first wife, Sara J. Brown, in 1865, and they had three children. Sara died in 1877. In 1878, he married a second time to Penelope E. McLinn, daughter of Charles McLinn, longtime employee at Yale and New Haven community leader; they had three children. The marriage ceremony was performed by George E. Day, professor of Hebrew language and literature at Yale from 1866 to 1891.\n\nThe recipient of an honorary doctor of divinity degree from Wilberforce University, Booth served as presiding elder of the Chicago district of the AME Church from 1901 to 1906. He died in Indianapolis, Indiana, in 1906.\n",
+    "description": "Graduate of Yale Divinity School, 1877",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1840"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q743287",
+                    "data": {
+                        "label": "Farmington, Connecticut, United States",
+                        "instance_of": [
+                            "New England town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.727777777778,
+                                        "longitude": -72.840277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Farmington, Connecticut, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1906"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1053764",
+                    "data": {
+                        "label": "Central Connecticut State University",
+                        "instance_of": [
+                            "university",
+                            "public educational institution of the United States"
+                        ]
+                    },
+                    "text": "Central Connecticut State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1877"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.85003,
+                                        "longitude": -87.65005
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18383",
+                    "data": {
+                        "label": "Providence, Rhode Island, United States",
+                        "instance_of": [
+                            "big city",
+                            "county seat",
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.82399,
+                                        "longitude": -71.41283
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Providence, Rhode Island, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q486472",
+                    "data": {
+                        "label": "Kansas City, Kansas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.106666666667,
+                                        "longitude": -94.676388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kansas City, Kansas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6346",
+                    "data": {
+                        "label": "Indianapolis, Indiana, United States",
+                        "instance_of": [
+                            "county seat",
+                            "city in the United States",
+                            "planned community",
+                            "big city",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.768611111111,
+                                        "longitude": -86.158055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Indianapolis, Indiana, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q743287",
+                    "data": {
+                        "label": "Farmington, Connecticut, United States",
+                        "instance_of": [
+                            "New England town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.727777777778,
+                                        "longitude": -72.840277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Farmington, Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Booth"
+                }
+            ]
+        }
+    }
+}

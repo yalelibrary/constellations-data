@@ -1,0 +1,238 @@
+{
+    "id": "Q15999633",
+    "label": "George W.F. McMechen",
+    "biographyMarkdown": "# George W.F. McMechen\n## Graduate of Yale Law School, 1897\nGeorge W. F. McMechen was born October 29, 1871 to George and Mildred McMechen in Wheeling, West Virginia, an iron manufacturing town. He graduated in the first class of Morgan College (formerly the Centenary Biblical Institute), a historically Black college in Baltimore, in 1895 and subsequently received a degree from Yale Law School in 1897. McMechen practiced law for a few years in Evansville, Indiana, where he married Anna Lee and had his first two children, Mildred and Edythe. The family moved back to Baltimore in 1904 where they had two more children, Katherine and Georgeanna, and where McMechen established the law practice that he would share with W. Ashbie Hawkins until 1941. \n\nMcMechen\u2019s life in Baltimore was marked with initial challenges; in 1910 he and his family was prevented from taking up residence on McCulloh Street due to opposition from the street\u2019s white residents, and it was only upon petition to the Baltimore City Council and the Maryland Court of Appeals that he was ultimately able to move there in 1916. In 1915 he also lost an election to represent  the 14th Ward on the Baltimore City Council. However, McMechen subsequently occupied a number of prestigious roles in the city, including Grand Exalted Ruler of Elks of the World (1919), trustee of his alma mater, Morgan College (1921-1939), Justice of the Peace in Baltimore\u2019s 4th district (1937-1939), member of the Baltimore Board of School Commissioners (1944-1950), and member of the Advisory Committee to the Baltimore Charter Revision Committee.\n\nGeorge McMechen died on February 22, 1961, a little over five years after his wife, Anna.\n\nImage citation: Yale Law *Shingle* yearbook, 1897, Yale University Library\n\n",
+    "description": "Graduate of Yale Law School, 1897",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1897"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1054905",
+                    "data": {
+                        "label": "Morgan State University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.34388888888889,
+                                        "longitude": -76.58472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morgan State University"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1961"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1871"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q838112",
+                    "data": {
+                        "label": "Wheeling, West Virginia, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.070277777778,
+                                        "longitude": -80.698611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wheeling, West Virginia, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q486459",
+                    "data": {
+                        "label": "Evansville, Indiana, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.974722222222,
+                                        "longitude": -87.555833333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Evansville, Indiana, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5092",
+                    "data": {
+                        "label": "Baltimore, Maryland, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.286388888889,
+                                        "longitude": -76.615
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Baltimore, Maryland, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q838112",
+                    "data": {
+                        "label": "Wheeling, West Virginia, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.070277777778,
+                                        "longitude": -80.698611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wheeling, West Virginia, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "George W.F. McMechen",
+                    "image-info": [
+                        {
+                            "url": "/data/Q15999633.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "McMechen"
+                }
+            ]
+        }
+    }
+}

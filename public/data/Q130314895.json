@@ -1,0 +1,236 @@
+{
+    "id": "Q130314895",
+    "label": "Jessie Estell Muse",
+    "biographyMarkdown": "# Jessie Estell Muse\n## Attended Yale School of Music circa 1913\nJessie Estell Muse was born in 1886 in New York. Her father, Richard H. Muse, was a native of North Carolina; from at least 1890 until his death 1911, he was employed as a janitor in New Haven. At least part of that time, he worked for the Delta Psi Society at Yale. Her mother, Julia Pennington Gibbs, worked as a dressmaker and corsetiere (corset-maker); she was the daughter of Jonathan C. Gibbs, an abolitionist and the secretary of state in Florida during Reconstruction. The family lived at 169 Bassett Street in New Haven. Jessie Muse attended the Yale School of Music for a time around 1913.\n\nJessie Muse died in 1918. Her sister, V. Josephine Muse, also attended the Yale School of Music. Another sister, Florence A. Muse Laws, graduated from the New York Barber College. Her brother, Richard I. Muse, a World War I veteran, received the Croix de Guerre for bravery.\n\nImage citation: *Washington Bee*, 23 March 1912\n",
+    "description": "Attended Yale School of Music circa 1913",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1918"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2784420",
+                    "data": {
+                        "label": "Yale School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3099,
+                                        "longitude": -72.9264
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Music",
+                    "qualifiers": [
+                        {
+                            "label": "point in time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1913"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "sourcing circumstances",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q5727902",
+                                    "data": {
+                                        "label": "circa",
+                                        "instance_of": [
+                                            "sourcing circumstance"
+                                        ]
+                                    },
+                                    "text": "circa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1886"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1384",
+                    "data": {
+                        "label": "New York, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43,
+                                        "longitude": -75
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130314896",
+                    "data": {
+                        "label": "Victoria Josephine Muse",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Victoria Josephine Muse",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q595094",
+                                    "data": {
+                                        "label": "sister",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "sister"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1384",
+                    "data": {
+                        "label": "New York, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43,
+                                        "longitude": -75
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581072",
+                    "data": {
+                        "label": "female",
+                        "instance_of": [
+                            "sex of humans",
+                            "gender"
+                        ]
+                    },
+                    "text": "female"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Jessie Estell Muse",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130314895.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Muse"
+                }
+            ]
+        }
+    }
+}

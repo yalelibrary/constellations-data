@@ -1,0 +1,273 @@
+{
+    "id": "Q130309697",
+    "label": "William Augustine Perry",
+    "biographyMarkdown": "# William Augustine Perry\n## Graduate of Yale College, 1907\nWilliam Augustine Perry was born in 1883 in Tarboro, North Carolina. He attended Hopkins School in New Haven and, in 1902, completed the collegiate program at Saint Augustine\u2019s in Raleigh, North Carolina (where Yale graduate Charles H. Boyer served on the faculty). Perry graduated from Yale College in 1907. While at Yale he contributed to the *Yale Courant*, a student publication which ran from 1882 to 1917. In 1911, he married Susan Mabel James in his hometown of Tarboro, and the couple had four children. \n\nPerry pursued a career in education, working as principal of several schools, including a public elementary school in Tarboro (1907-1911), St. Athanasius\u2019 School in Brunswick, Georgia (1911-1927), and the Colored Memorial School, also in Brunswick (1927-1928). In 1930 he became a supervising principal of several schools in Columbia, South Carolina and simultaneously became director of observation and practice teaching at Allen University in Columbia. He received a Master\u2019s in Education from Harvard in 1934. He was president of the Richland County Teachers\u2019 Association from 1932-1934, and starting in 1935 became editor of *School Work*, a publication of the Palmetto State Teachers\u2019 Association. He was active in the Columbia community, participating in the NAACP, Boy Scouts, Masons, and St. Luke\u2019s Protestant Episcopal Church. Perry died in Columbia in 1939.\n\nImage citation: Yale College Class of 1907 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1907",
+    "publicationsMarkdown": "\"Bill Johnson,\" *The Yale Courant 43*, no. 2 (1906).\n\n\"Along the Lynching Line,\" *Colored American Magazine 17*, no. 4 (1909).\n\n\"Along the Lynching Line---The Mask,\" *Colored American Magazine 17*, no. 5 (1909). \n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1907"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q13371",
+                    "data": {
+                        "label": "Harvard University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.374443888889,
+                                        "longitude": -71.116943888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harvard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7587158",
+                    "data": {
+                        "label": "St. Augustine's University",
+                        "instance_of": [
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution",
+                            "historic district"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.7861,
+                                        "longitude": -78.6204
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "St. Augustine's University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5900712",
+                    "data": {
+                        "label": "Hopkins School",
+                        "instance_of": [
+                            "university-preparatory school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.31959110772107,
+                                        "longitude": -72.9725665498971
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hopkins School"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1883"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1938"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q931645",
+                    "data": {
+                        "label": "Tarboro, North Carolina, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.902777777778,
+                                        "longitude": -77.545833333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tarboro, North Carolina, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q38453",
+                    "data": {
+                        "label": "Columbia, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.000555555556,
+                                        "longitude": -81.044166666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbia, South Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q12897644",
+                    "data": {
+                        "label": "Tarboro",
+                        "instance_of": []
+                    },
+                    "text": "Tarboro"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q994144",
+                    "data": {
+                        "label": "Brunswick, Georgia, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "municipality of Georgia",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 31.158888888889,
+                                        "longitude": -81.489166666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brunswick, Georgia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "William Augustine Perry",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309697.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Perry"
+                }
+            ]
+        }
+    }
+}

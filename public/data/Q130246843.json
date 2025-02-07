@@ -1,0 +1,311 @@
+{
+    "id": "Q130246843",
+    "label": "Charles Henry Boyer",
+    "biographyMarkdown": "# Charles Henry Boyer\n## Graduate of Yale College, 1896; received master's degree, 1915\nCharles Henry Boyer was born in Elkton, Maryland in 1869 to Edward Boyer and Indiana Clinton Caldwell Boyer Bunting. He attended the Institute for Colored Youth in Philadelphia while fellow Yale alumnus Edward Bouchet was a faculty member, graduating in 1886. After teaching for four years at Charlotte Hall in Maryland, Boyer followed Bouchet\u2019s academic path, attending Hopkins Grammar School in New Haven for college preparatory courses before beginning his undergraduate career at Yale. He excelled as a student, served as treasurer of the Freshman Union, and was recognized for oratory. He graduated from Yale in 1896, and later returned to earn a master's degree in 1915.\n\nIn 1897, he married Alethea Amelia Chase, and the couple had several children. Alethea Boyer died in 1926, and Charles Boyer married Inez T. Alston the following year.\n\nBoyer went on to teach in St. Mary\u2019s County, MD, then started a long career at St. Augustine\u2019s University (then St. Augustine\u2019s School) in Raleigh, NC. At St. Augustine\u2019s, he taught math and Greek and coached sports for several years before serving as dean. With his leadership, the school became an accredited college. He was also a leader in a number of organizations related to education, health, athletics, and the Episcopal Church.\n\nBoyer died in 1942 in Raleigh.\n\nImage citation: Yale College Class of 1896 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1896; received master's degree, 1915",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1868"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q754338",
+                    "data": {
+                        "label": "Elkton, Maryland, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.60777777777778,
+                                        "longitude": -75.82972222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Elkton, Maryland, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1942"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5900712",
+                    "data": {
+                        "label": "Hopkins School",
+                        "instance_of": [
+                            "university-preparatory school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.31959110772107,
+                                        "longitude": -72.9725665498971
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hopkins School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q87818370",
+                    "data": {
+                        "label": "Institute for Colored Youth",
+                        "instance_of": [
+                            "educational institution"
+                        ]
+                    },
+                    "text": "Institute for Colored Youth"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1896"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1915"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7587158",
+                    "data": {
+                        "label": "St. Augustine's University",
+                        "instance_of": [
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution",
+                            "historic district"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.7861,
+                                        "longitude": -78.6204
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "St. Augustine's University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q511120",
+                    "data": {
+                        "label": "St. Mary's County, Maryland, United States",
+                        "instance_of": [
+                            "county of Maryland"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.252222222222,
+                                        "longitude": -76.563611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "St. Mary's County, Maryland, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q41087",
+                    "data": {
+                        "label": "Raleigh, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.78,
+                                        "longitude": -78.64
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Raleigh, North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q754338",
+                    "data": {
+                        "label": "Elkton, Maryland, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.60777777777778,
+                                        "longitude": -75.82972222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Elkton, Maryland, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Charles Henry Boyer",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130246843.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Boyer"
+                }
+            ]
+        }
+    }
+}

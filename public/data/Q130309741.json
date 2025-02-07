@@ -1,0 +1,241 @@
+{
+    "id": "Q130309741",
+    "label": "Nathan B. Young, Jr.",
+    "biographyMarkdown": "# Nathan B. Young, Jr.\n## Graduate of Yale Law School, 1918\nBorn in Tuskegee, Alabama in 1894, Nathan B. Young, Jr. was a lawyer, judge, editor, and lifelong civil rights activist. Young received a bachelor's degree from Florida A&M College in Tallahassee in 1915 before coming to Yale, where he earned his law degree in 1918. His father, Nathan B. Young, Sr., was the first head of the English department at Tuskegee University, and he went on to serve as president of Florida A&M and Lincoln University.\n\nAfter graduating from Yale, Young practiced law in Birmingham. He passed the Alabama bar in 1918, the third Black person to do so. In a 1970 interview, he recalled seeing \"the Ku Klux Klan in full regalia, led by the Birmingham police in parade\" from his office window. Young was active in the NAACP in Birmingham, where he received threats for his work with the civil rights organization.\n\nIn 1924, after his marriage to Mamie Mason,  Young moved with his family to St. Louis; his father was serving as president of Lincoln University at that time. Young practiced law and was later a lawyer for the city. In 1928, he founded the St. Louis American, a weekly Black newspaper. He was the editorial page writer and publisher for over 40 years. He also helped establish the Mound City Bar Association, an African American law association.\n\nIn 1965, Young was appointed to the Municipal Court of St. Louis, becoming the first Black judge in the city. Not long thereafter, the Ku Klux Klan burned a cross on his lawn. He retired in 1972.\n\nIn addition to his legal and advocacy work, Young was a writer, painter, musician, and historian. He died in 1993 at the age of 98.\n",
+    "description": "Graduate of Yale Law School, 1918",
+    "publicationsMarkdown": "*Your St. Louis and Mine*. St. Louis, MO: Self-published, 1937.\n\n*Your Kansas City and Mine, 1850-1950*. Kansas City, MO: Self-published, 1950.\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1918"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1430048",
+                    "data": {
+                        "label": "Florida A&M University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.4178,
+                                        "longitude": -84.2845
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Florida A&M University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1894"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1993"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79718",
+                    "data": {
+                        "label": "Tuskegee, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.431506,
+                                        "longitude": -85.706781
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tuskegee, Alabama, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79867",
+                    "data": {
+                        "label": "Birmingham, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.5175,
+                                        "longitude": -86.80944444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Birmingham, Alabama, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q38022",
+                    "data": {
+                        "label": "St. Louis, Missouri, United States",
+                        "instance_of": [
+                            "big city",
+                            "independent city in the United States",
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.62638888888889,
+                                        "longitude": -90.19944444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "St. Louis, Missouri, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79718",
+                    "data": {
+                        "label": "Tuskegee, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.431506,
+                                        "longitude": -85.706781
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tuskegee, Alabama, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Young,"
+                }
+            ]
+        }
+    }
+}

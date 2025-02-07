@@ -1,0 +1,297 @@
+{
+    "id": "Q130314929",
+    "label": "Joshua H. Jones, Jr.",
+    "biographyMarkdown": "# Joshua H. Jones, Jr.\n## Attended Yale College 1899-1900\nJoshua Henry Jones Jr. was born in 1876 in Orangeburg, South Carolina, to Joshua Henry Jones, a minister, and Elizabeth Jones. After the death of his mother during childbirth in 1885, his father sent him to be taken care by a relative while the elder Jones pursued a doctorate of divinity degree at Wilberforce University and later became president of the university and a bishop of the African Methodist Episcopal Church.[^1] Jones Jr. later moved to Ohio and attended Columbus High School and then Yale College in 1899. He transferred to Brown in 1900 and graduated from there in 1903, settling locally in Providence as a journalist and marrying Helen Courtney.[^2]  \n\nJones worked for several newspapers in Massachusetts and Rhode Island as a contributor and editor.  He published two books of poetry: *The Heart of the World* (1919) and *Poems of the Four Seas* (1921) and published dozens more in newspapers for decades.[^3] He published his only novel, *By Sanction of Law*, in 1924, which details a tragic love story between a black man and a white woman which mirrored his own interracial marriage. The book gained national acclaim, which was published as a serial and found in installments weekly. However, the controversial themes of the book led to it being banned by Boston\u2019s public library.[^4] \n\nAt some point in the early 1920s, he became secretary to the mayor of Boston, becoming a personal friend to Mayor James Michael Curley, and became active in Boston electoral politics.[^5] He then worked for The City Record, the official publication of the City of Boston, as well as other daily and weekly newspaper. He died in 1955 at the age of 73.[^6]  \n\n[^1]: Melissa Dalton, \u201cFrom Humble Beginnings to Wilberforce University President,\u201d https://www.greenecountyohio.gov/Blog.aspx?IID=228. \n[^2]: Massachusetts State Vital Records, 1841-1925, FamilySearch, Entry for Joshua H. Jones and Helen R. Courtney, 13 Dec 1904.\n[^3]: Robert T. Kerlin, *Negro Poets and Their Poems* (Washington, D.C.: Associated Publishers, 1923).\n[^4]: \u201cAfro\u2019s Serial Is Barred From Library: \u2018By Sanction of Law\u2019 Is Turned Down By the Boston, Mass., Library,\u201d *Afro American* [Baltimore], Sept. 5, 1924.\n[^5]: \u201cUrges Negro To Join Democratic Party: Jones Forecasts Record Curley Administration,\u201d *Daily Boston Globe*, January 13, 1930.\n[^6]: \u201cJoshua H. Jones,\u201d *New York Times*, December 15, 1955. \n\nImage citation: *Negro Poets and Their Poems* by Robert T. Kerlin, 1923\n",
+    "description": "Attended Yale College 1899-1900",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1955"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49114",
+                    "data": {
+                        "label": "Brown University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.82611111111111,
+                                        "longitude": -71.40305555555555
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brown University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1899"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1900"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1876"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2276157",
+                    "data": {
+                        "label": "Orangeburg, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.496944444444,
+                                        "longitude": -80.862222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Orangeburg, South Carolina, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1397",
+                    "data": {
+                        "label": "Ohio, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.5,
+                                        "longitude": -82.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18383",
+                    "data": {
+                        "label": "Providence, Rhode Island, United States",
+                        "instance_of": [
+                            "big city",
+                            "county seat",
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.82399,
+                                        "longitude": -71.41283
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Providence, Rhode Island, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q100",
+                    "data": {
+                        "label": "Boston, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.360277777777775,
+                                        "longitude": -71.05777777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Boston, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2276157",
+                    "data": {
+                        "label": "Orangeburg, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.496944444444,
+                                        "longitude": -80.862222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Orangeburg, South Carolina, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309655",
+                    "data": {
+                        "label": "Alexander Henry Jones",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Alexander Henry Jones",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Joshua H. Jones, Jr.",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130314929.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Jones,"
+                }
+            ]
+        }
+    }
+}

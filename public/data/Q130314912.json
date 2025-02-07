@@ -1,0 +1,306 @@
+{
+    "id": "Q130314912",
+    "label": "William Thomas McKnight II",
+    "biographyMarkdown": "# William Thomas McKnight II\n## Graduate of Yale Law School, 1927\n\nWilliam Thomas McKnight II was born in Topeka, Kansas, in 1901 to Etta McKnight, a restroom attendant, and William T. McKnight, a contractor.[^1] He was the brother of Ruby McKnight, who helped found an NAACP branch in southern California.  \n\nMcKnight attended Washburn Rural High School before matriculating to the University of Kansas. As president of Alpha Phi Alpha at the University of Kansas, he fought against segregated tables in the university\u2019s cafeteria. He graduated from the University of Kansas with a bachelor\u2019s degree in 1923 and continued to remain active in his chapter following graduation. He was also a part of the Masons and Elks fraternal order.[^2]  \n\nMcKnight completed a year at Yale Law School before leaving in 1925. He returned to Topeka, passed the bar exam, and opened his own law firm before moving to Toledo, Ohio.[^3] In 1934, he won a civil rights case on behalf of three African American women who were discriminated against in a cafe and later helped work with the NAACP legal team.[^4] Throughout his lifetime, he remained an active member and leader at the NAACP, serving in several capacities: on the National Legal Committee, president of the NAACP chapter in Toledo, Ohio, and vice president and later president of the NAACP\u2019s Ohio State Conference.   \n\nMcKnight was also an active Democrat, being appointed as assistant attorney general of Ohio in 1938, joining Elise Austin as African American trailblazers in Ohio\u2019s Attorney General Office.[^5] In 1939, he was chosen to be a special assistant to the Attorney General of the United States to work with the Department of Labor.[^6] Pursuant to President Roosevelt\u2019s order to prohibit discrimination in the defense industry, McKnight returned to Ohio to lead the Fair Employment Practice Committee regional office in 1943 to investigate cases of discrimination in Ohio, Kentucky, and Michigan.[^7] After the end of the war, McKnight returned to practicing law and remained active in the NAACP and local Democratic party. He mobilized voters for a fellow Yale law alumnus, Estes Kefauver, for the 1952 Democratic National Convention and used his influence to call for Democrats to add civil rights to the national platform during the 1950s. In 1955, he was appointed by the mayor to the Cleveland City Law Department and led a decade-long career where he won twenty-five municipal cases that went before the Supreme Court before resigning in 1969 and returning to private practice.[^8]  \n\nHe married Bella Taylor, who was the Young Women\u2019s Christian Association Girl Reserve Secretary in 1928, but they later divorced. He later remarried in 1954 to Kathryn Helm, a nurse, and remained married to her until her death in 1997.[^9] He died in 1999 at the age of 98.[^10]\n\n[^1]: United States Census, 1910, FamilySearch, Entry for William T McKnight and Etta McKnight, 1910; United States Census, 1920, FamilySearch, Entry for Etta McKnight and Ruby McKnight, 1920. \n[^2]: Raymond W. Cannon, \u201cIn Retrospect, Its Past Achievements and What It Has Meant to the Brothers and the Nation,\u201d *The Sphinx*, August 31, 1981; \u201cColored Students and Graduates of 1923,\u201d *The Crisis* 26 (1923): 116. \n[^3]: \u201c1923,\u201d *The Graduate Magazine of the University of Kansas* 26, no. 4 (January, 1928). \n[^4]: \u201cToledo Cafe Fined $50,\u201d *Cleveland Call and Post*, April 14, 1934.\n[^5]: \u201cOhio Gets Its Second Race Assistant Attorney General,\u201d *Chicago Defender*, June 4, 1938.\n[^6]:  \u201cOhioan Named Aide in Buckeye State to Attorney General,\u201d *New Journal and Guide*, October 14, 1939. \n[^7]:  \u201cWm. McKnight Begins Duties; Region Head,\u201d *Cleveland Call and Post*, October 2, 1943. \n[^8]:  \u201cName NAACP Lawyer to Law Dept. Position,\u201d *Cleveland Call and Post*, January 29, 1955; \u201cResigns City Post: McKnight Won 25 of 27 Cases in Supreme Court,\u201d *Call and Post*, September 20, 1969. \n[^9]: New York, New York City Marriage Records, 1829-1938, FamilySearch, Entry for William T. Mc Knight II and Bella Tommietta Taylor, 29 Dec 1928; \u201cS.O.C.I.E.T.Y.,\u201d *New York Amsterdam News*, July 17, 1929; Virginia, Marriage Certificates, 1936-1988, FamilySearch, Entry for William Thomas McKnight and William Thomas McKnight, 24 Jul 1954; Roland Forte. \u201cKathryn McKnight was an elementary school nurse,\u201d *Call and Post*, August 7, 1997.\n[^10}: United States Social Security Death Index, database, FamilySearch, William T. McKnight, 22 Dec 1999; citing U.S. Social Security Administration, Death Master File, database (Alexandria, Virginia: National Technical Information Service, ongoing).\n",
+    "description": "Graduate of Yale Law School, 1927",
+    "publicationsMarkdown": "\"Resents 'Leader',\" *Cleveland Call and Post*, August 4, 1956.\n\n\"N.A.A.C.P. Asks That Its Name Be Kept Out Of Political Fights,\" *The Pittsburgh Courier*, August 27, 1938.\n\n\"Mr. McKnight Is Irked,\" *Cleveland Call and Post*, May 2, 1959.\n\n\"P-D's Dixie-Born Editor Wrong,\" *Call and Post*, July 18, 1964. \n",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1999"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q52413",
+                    "data": {
+                        "label": "University of Kansas",
+                        "instance_of": [
+                            "public educational institution of the United States",
+                            "public research university",
+                            "publishing company",
+                            "open-access publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.958055555556,
+                                        "longitude": -95.247777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Kansas"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7971457",
+                    "data": {
+                        "label": "Washburn Rural High School",
+                        "instance_of": [
+                            "high school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.9573,
+                                        "longitude": -95.76
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washburn Rural High School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1924"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1925"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1901"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q41057",
+                    "data": {
+                        "label": "Topeka, Kansas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.04833,
+                                        "longitude": -95.67804
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Topeka, Kansas, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49239",
+                    "data": {
+                        "label": "Toledo, Ohio, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "city of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.65277777777778,
+                                        "longitude": -83.53777777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Toledo, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q37320",
+                    "data": {
+                        "label": "Cleveland, Ohio, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "city of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.49916666666667,
+                                        "longitude": -81.69472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cleveland, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q41057",
+                    "data": {
+                        "label": "Topeka, Kansas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.04833,
+                                        "longitude": -95.67804
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Topeka, Kansas, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "William Thomas McKnight II",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130314912.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "McKnight"
+                }
+            ]
+        }
+    }
+}

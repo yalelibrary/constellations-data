@@ -1,0 +1,237 @@
+{
+    "id": "Q130228291",
+    "label": "William Mobile Ashby",
+    "biographyMarkdown": "# William Mobile Ashby\n## Graduate of Yale Divinity School, 1916\nWilliam Mobile Ashby was born in 1889 in Carters\u2019 Grove, Virginia. His family, which had been free landowners for at least four generations, faced violence and discrimination, and his grandfather was murdered by a group of white men who were envious of his wealth. The family moved to Newport News, Virginia in the 1890s, and Ashby left Virginia after graduating high school. He went to New Jersey, where he received tutoring from Lincoln University alumnus John Locklear. He then went to Lincoln himself, graduating with a bachelor's degree in 1911. \n\nWhile working as a waiter in Newark, New Jersey, Ashby heard socialist activist, labor leader, and presidential candidate Eugene Debs speak at the Labor Lyceum and was inspired to dedicate his life to serving and advocating for the oppressed. He entered Yale Divinity School, graduating in 1916. At Yale, he joined Zeta Chapter of Alpha Phi Alpha Fraternity. In 1915, while a student at Yale, Ashby invited Booker T. Washington to the New Haven meeting that would turn out to be Washington\u2019s final public appearance. Ashby, who was also a playwright and novelist, later wrote a play about Washington. \n\nAfter graduation, he returned to New Jersey and began a career in social work. He has been recognized as New Jersey\u2019s first Black social worker. He founded the Newark Welfare Foundation and Community Chest, a forerunner to the United Way. He also founded the Fuld Neighborhood House in Newark. He founded and directed the first Urban League offices in New Jersey and served as director of Urban League offices there and in Springfield, IL from 1917 to 1953. He served on New Jersey\u2019s Advisory Committee to the US Civil Rights Commission from 1960-1961, and was a cofounder of the Newark Preservation and Landmarks Committee. He was also a member of the Newark Human Rights Commission. \n\nAshby was married to Mary A. Arnold, and had one daughter, Catherine Ashby. William Ashby died in 1991 at the age of 101.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1916",
+    "publicationsMarkdown": "*Redder Blood: A Novel*. New York, NY: Cosmopolitan Press, 1915. \n\n*The Road to Damascus: A Play in Seven Episodes*. Boston, MA: The Christopher Publishing House, 1935.\n\n*Booker T. Washington*. New York, NY: Self-published, 1950.\n\n*Reflections on the Life of Negroes in Newark, 1910-1916*. Newark, NJ: Self-published, 1972. \n\n*Tales Without Hate.* Newark, NJ: Newark Preservation and Landmarks Committee, 1980. \n",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1991"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5611365",
+                    "data": {
+                        "label": "Grove",
+                        "instance_of": [
+                            "unincorporated community in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.23,
+                                        "longitude": -76.63
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Grove"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1889"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1916"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q25395",
+                    "data": {
+                        "label": "Newark, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey",
+                            "largest city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.73555555555556,
+                                        "longitude": -74.17222222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newark, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q335017",
+                    "data": {
+                        "label": "Newport News, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.070833333333,
+                                        "longitude": -76.484444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newport News, Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5611365",
+                    "data": {
+                        "label": "Grove",
+                        "instance_of": [
+                            "unincorporated community in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.23,
+                                        "longitude": -76.63
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Grove"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "William Mobile Ashby",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130228291.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Ashby"
+                }
+            ]
+        }
+    }
+}

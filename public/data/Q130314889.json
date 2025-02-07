@@ -1,0 +1,355 @@
+{
+    "id": "Q130314889",
+    "label": "Daniel Seales",
+    "biographyMarkdown": "# Daniel Seales\n## Graduate of Yale College, 1891; Graduate of Yale Law School, 1893\nBorn in San Francisco in 1868, Daniel Seales (sometimes spelled Se\u00e1les) graduated from Central High School in Cleveland, Ohio. He attended Western Reserve University from 1887 to 1888 before transferring to Yale in his sophomore year. At Yale, he participated in the Glee Club. After receiving his BA and JD from Yale, Seales worked as an estate lawyer in Cleveland from 1893 to 1898. From 1898 to 1914, he worked as junior counsel to Yale graduate Theodore Fitch (Yale College,1864) in New York. He returned to working in estate law from 1914 to 1926, and was in business in the western United States, Mexico, and Latin America from 1926 until 1949. He died in 1949 in New York City.\n\nImage citation: Yale College Class of 1891 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1891; Graduate of Yale Law School, 1893",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1949"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1047060",
+                    "data": {
+                        "label": "Case Western Reserve University",
+                        "instance_of": [
+                            "private university",
+                            "private not-for-profit educational institution",
+                            "open-access publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.504,
+                                        "longitude": -81.608
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Case Western Reserve University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1891"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1893"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1868"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q62",
+                    "data": {
+                        "label": "San Francisco, California, United States",
+                        "instance_of": [
+                            "charter city and county",
+                            "city in the United States",
+                            "big city",
+                            "sanctuary city",
+                            "consolidated city-county",
+                            "city",
+                            "charter city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.7775,
+                                        "longitude": -122.41638888888889
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.775,
+                                        "longitude": -122.41944444444445
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "San Francisco, California, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q37320",
+                    "data": {
+                        "label": "Cleveland, Ohio, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "city of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.49916666666667,
+                                        "longitude": -81.69472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cleveland, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q12612",
+                    "data": {
+                        "label": "Western United States",
+                        "instance_of": [
+                            "U.S. region"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40,
+                                        "longitude": -113
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Western United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q96",
+                    "data": {
+                        "label": "Mexico",
+                        "instance_of": [
+                            "sovereign state",
+                            "country",
+                            "federal republic",
+                            "democratic republic",
+                            "constitutional republic",
+                            "nation",
+                            "empire",
+                            "empire",
+                            "Next Eleven"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 23,
+                                        "longitude": -102
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Mexico"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q62",
+                    "data": {
+                        "label": "San Francisco, California, United States",
+                        "instance_of": [
+                            "charter city and county",
+                            "city in the United States",
+                            "big city",
+                            "sanctuary city",
+                            "consolidated city-county",
+                            "city",
+                            "charter city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.7775,
+                                        "longitude": -122.41638888888889
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.775,
+                                        "longitude": -122.41944444444445
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "San Francisco, California, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Daniel Seales",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130314889.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Seales"
+                }
+            ]
+        }
+    }
+}

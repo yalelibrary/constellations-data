@@ -1,0 +1,268 @@
+{
+    "id": "Q130309660",
+    "label": "Alfred Montague Lambert",
+    "biographyMarkdown": "# Alfred Montague Lambert\n## Graduate of Yale Divinity School, 1925\nAlfred Montague Lambert was born in 1892 in Olveston, on the island of Montserrat (then part of the British West Indies), to Joseph Mainwaring Brown Lambert and Mary Elizabeth Skerrit Lambert. He came to the United States in 1913, moved to Connecticut in 1916, and became a US citizen in 1921 while living in New Haven. At the time he petitioned for citizenship, he was employed as a metal inspector. He was married to Winifred Augusta Smith Lambert in 1917; they had five children. One of his daughters, Ethel Elizabeth, attended the Yale School of Music. He completed a bachelor of divinity degree from the Yale Divinity School in 1925. He also attended General Theological Seminary in New York, and in 1930 was awarded a master\u2019s of sacred theology degree by the Hartford Seminary Foundation.\n\nIn the 1920s, Lambert worked at St. Phillip\u2019s Church in New York City for two years. In 1928, he became minister of St. Monica\u2019s Episcopal Church in Hartford, where he remained minister for 35 years. \n\nFor over a decade, while minister at St. Monica\u2019s, Lambert also served as chaplain for the Connecticut Shade Growers Association. In this role, he led non-denominational services and provided support for workers at tobacco camps in northern Connecticut and southern Massachusetts. When he began in this role, Lambert saw that workers had little reading material, and began collecting and distributing magazines at both the camps and at nursing homes. During World War II, he served as a member of a local ration board and monitored grocery prices for the Office of Price Administration.\n\nLambert served on the board of trustees for the Hartford Seminary Foundation, the Social Service Commission of the Diocese of Connecticut, the New Britain Memorial Hospital board, the Ministers\u2019 Fellowship of Greater Hartford, and the Connecticut Safety Commission. \n\nAfter a heart attack in 1960, Lambert stepped back from his work serving tobacco workers. He retired from St. Monica\u2019s in 1963. Lambert died in 1974 and is buried in Hartford.\n\nImage citation: *The Crisis*, August 1925\n",
+    "description": "Graduate of Yale Divinity School, 1925",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1925"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1501676",
+                    "data": {
+                        "label": "General Theological Seminary",
+                        "instance_of": [
+                            "seminary",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.745152777778,
+                                        "longitude": -74.003755555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "General Theological Seminary"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1892"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q103902354",
+                    "data": {
+                        "label": "Olveston",
+                        "instance_of": [
+                            "suburb"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 16.754088888888887,
+                                        "longitude": -62.22741388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Olveston"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1974"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33486",
+                    "data": {
+                        "label": "Hartford, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "municipality seat",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.763333333333,
+                                        "longitude": -72.685
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q103902354",
+                    "data": {
+                        "label": "Olveston",
+                        "instance_of": [
+                            "suburb"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 16.754088888888887,
+                                        "longitude": -62.22741388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Olveston"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Alfred Montague Lambert",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309660.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Lambert"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,317 @@
+{
+    "id": "Q5343130",
+    "label": "Edward Gonzalez Carroll",
+    "biographyMarkdown": "# Edward Gonzalez Carroll\n## Graduate of Yale Divinity School, 1933\nEdward Gonzalez Caroll was born in 1910 in Wheeling, West Virginia. In 1930, he received his bachelor's degree from Morgan State University. Soon after, he entered the Yale Divinity School and graduated with a bachelor's of divinity in 1933. He married Phenola Valentine, and had two children, Edward G. Carroll, Jr. and Nansi Ethelene Carroll.\n\nHe was ordained an elder in the United Methodist Episcopal Church and went on to receive a master\u2019s of divinity from Union Theological Seminary in 1941. During WWII, he served as an army chaplain. After the war, he served as Associate Secretary of the National Student YMCA. From 1950 to the mid-1960s, he served as a pastor for a series of churches in New York City and Baltimore and was an advocate for the neighborhoods in which the churches were located. In 1966, he was appointed superintendent of the Washington District of the Washington Conference for the Methodist Church. In 1969, he returned to ministry as a pastor of the Marvin Memorial Church in Silver Spring, Maryland. In 1972, he was elected as a bishop of the United Methodist Church for the Boston area and he served in this role until his retirement in 1980. He was a trustee of Boston University and a visiting professor and \u201cBishop-in-Residence\u201d at its School of Theology. \n\nIn the 1990s, he served as interim director of Black Methodists for Church Renewal, a Black caucus within the United Methodist Church. Carroll also returned to his alma mater, Morgan State University. He helped establish the Morgan State University Christian Center and served as its interim director, and was also a chaplain and professor of religion. Carroll was involved with the NAACP, the Disciplined Order of Christ, and the Urban League. He died in Gainesville, Florida in 2000, at age 89.\n\nImage citation: Yale Divinity School class photographs, Yale University Divinity School Memorabilia Collection (RG 53), Yale Divinity Library\n",
+    "description": "Graduate of Yale Divinity School, 1933",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "2000"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1910"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7691246",
+                    "data": {
+                        "label": "Teachers College",
+                        "instance_of": [
+                            "school of education",
+                            "private not-for-profit educational institution",
+                            "open-access publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.81027,
+                                        "longitude": -73.96033
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Teachers College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1933"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1054905",
+                    "data": {
+                        "label": "Morgan State University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.34388888888889,
+                                        "longitude": -76.58472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morgan State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1196251",
+                    "data": {
+                        "label": "Union Theological Seminary",
+                        "instance_of": [
+                            "seminary",
+                            "university building",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.811389,
+                                        "longitude": -73.964167
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Union Theological Seminary"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q838112",
+                    "data": {
+                        "label": "Wheeling, West Virginia, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.070277777778,
+                                        "longitude": -80.698611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wheeling, West Virginia, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5092",
+                    "data": {
+                        "label": "Baltimore, Maryland, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.286388888889,
+                                        "longitude": -76.615
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Baltimore, Maryland, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q755741",
+                    "data": {
+                        "label": "Silver Spring, Maryland, United States",
+                        "instance_of": [
+                            "census-designated place in the United States",
+                            "unincorporated community in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.002441,
+                                        "longitude": -77.020791
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Silver Spring, Maryland, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q838112",
+                    "data": {
+                        "label": "Wheeling, West Virginia, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.070277777778,
+                                        "longitude": -80.698611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wheeling, West Virginia, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Edward Gonzalez Carroll",
+                    "image-info": [
+                        {
+                            "url": "/data/Q5343130.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Carroll"
+                }
+            ]
+        }
+    }
+}

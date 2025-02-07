@@ -1,0 +1,239 @@
+{
+    "id": "Q5546382",
+    "label": "George Williamson Crawford",
+    "biographyMarkdown": "# George Williamson Crawford\n## Graduate of Yale Law School, 1903\nGeorge Williamson Crawford was born in Tuscaloosa, Alabama, in 1877. He attended Tuskegee Institute and graduated from Talladega College before attending Yale. In 1903, he graduated from Yale Law School, where he was awarded the prestigious Townsend Prize for oratory. Crawford\u2019s achievement, which included $100 and the honor of speaking at graduation, was covered in newspapers across the country. \n\nIn 1903, Crawford was appointed clerk of New Haven Probate Court. Crawford worked in private practice in New Haven from 1907 to 1954, when he was appointed corporation counsel for the City of New Haven, the first Black person to hold this office. He stepped down in 1962. He had also served as vice chairman of the city\u2019s housing authority. \n\nCrawford was a leader in civil rights work locally and nationally. He was a member of the \u201cNiagara Movement,\u201d an early civil rights organization and forerunner of the National Association for the Advancement of Colored People (NAACP). A close associate of the intellectual and activist W. E. B. Du Bois, Crawford participated in the groundbreaking 1916 conference organized by Du Bois and the NAACP at Troutbeck, Amenia, New York. He served on the national board of the NAACP and, in 1917, was instrumental in establishing the Greater New Haven branch. \n\nImage citation: George Crawford Collections, Lillian Goldman Law Library, Yale University\n\nCrawford was a national leader of the Prince Hall Freemasonry, the oldest African American masonic organization, which promoted Black rights, uplift, and fraternity. In 1914, he published a book, *Prince Hall and His Followers: Building a Monograph on the Legitimacy of Negro Masonry*, and was a member of several other fraternal organizations. A longtime member of the Dixwell Avenue Congregational Church and a founder of the Dixwell Community House, Crawford served on the boards of Howard University and, for over fifty years, of Talladega College. His daughter, Charlotte Crawford Watkins, received her Ph.D. in English from Yale in 1937. Crawford died in 1972.\n",
+    "description": "Graduate of Yale Law School, 1903",
+    "publicationsMarkdown": "\"The Rising Generation and the Door of Hope,\" *The American Missionary 58*, no. 1 (1904).\n\n*Prince Hall and His Followers; Being a Monograph on the Legitimacy of Negro Masonry*. New York, NY: The Crisis, 1914.\n\n*The A. B. C's. of Scottish Rite Masonry. Being a Monograph on the Elementary Principles of the Government, Laws, and Accepted Usages of the Ancient and Accepted Scottish Rite of Freemasonry*. New Haven, CT: Bretzfelder's Printery, 1921.\n\n*Riparian Rights in Connecticut: an Opinion*. New Haven, CT: Self-published, 1932. \n\n*The Talladega Manual of Vocational Guidance; The Red Book*. Talladega, AL: Talladega College, 1937.\n\n*The Prince Hall Counsellor: A Manual of Guidance Designed to Aid Those Combatting Clandestine Freemasonry*. Prince Hall Grand Masters' Conference, 1965.\n\n*Thirty-four Selected Opinions of George W. Crawford.* New Haven, CT: Corporation Counsel of the City of New Haven, 1972. \n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1877"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1972"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1682329",
+                    "data": {
+                        "label": "Tuskegee University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.430278,
+                                        "longitude": -85.707778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tuskegee University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1903"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7680006",
+                    "data": {
+                        "label": "Talladega College",
+                        "instance_of": [
+                            "school",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.4321,
+                                        "longitude": -86.1133
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Talladega College"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79580",
+                    "data": {
+                        "label": "Tuscaloosa, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.206666666667,
+                                        "longitude": -87.534722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tuscaloosa, Alabama, United States"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79580",
+                    "data": {
+                        "label": "Tuscaloosa, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.206666666667,
+                                        "longitude": -87.534722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tuscaloosa, Alabama, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "George Williamson Crawford",
+                    "image-info": [
+                        {
+                            "url": "/data/Q5546382.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Crawford"
+                }
+            ]
+        }
+    }
+}

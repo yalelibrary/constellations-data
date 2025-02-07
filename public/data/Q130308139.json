@@ -1,0 +1,272 @@
+{
+    "id": "Q130308139",
+    "label": "Paul Johns",
+    "biographyMarkdown": "# Paul Johns\n## Graduate of Yale Divinity School, 1918\nPaul Johns was born in Bristol, Pennsylvania in 1887. He received a bachelor's degree from Howard University in 1913, then went on to the Yale Divinity School, graduating in 1918. He was ordained the same year in Knoxville, Tennessee, and had a long career as a Congregational minister. He served a number of churches over the course of his career, including the First Congregational Church of Savannah, Georgia. In 1942, when Johns was serving at the Lemuel Haynes Congregational Church in Queens, New York, he joined other ministers and community members to form an organization against racial discrimination. Johns died in New York in 1970.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n\n",
+    "description": "Graduate of Yale Divinity School, 1918",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1918"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1132588",
+                    "data": {
+                        "label": "Bristol, Pennsylvania, United States",
+                        "instance_of": [
+                            "borough of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.1033,
+                                        "longitude": -74.8514
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.10067,
+                                        "longitude": -74.85183
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bristol, Pennsylvania, United States"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1887"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1970"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q185582",
+                    "data": {
+                        "label": "Knoxville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.961666666666666,
+                                        "longitude": -83.92333333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Knoxville, Tennessee, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q83813",
+                    "data": {
+                        "label": "Savannah, Georgia, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "municipality of Georgia",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.050833333333,
+                                        "longitude": -81.103888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Savannah, Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18424",
+                    "data": {
+                        "label": "Queens, New York City, United States",
+                        "instance_of": [
+                            "borough of New York City",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.704166666667,
+                                        "longitude": -73.917777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Queens, New York City, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1132588",
+                    "data": {
+                        "label": "Bristol, Pennsylvania, United States",
+                        "instance_of": [
+                            "borough of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.1033,
+                                        "longitude": -74.8514
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.10067,
+                                        "longitude": -74.85183
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bristol, Pennsylvania, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Paul Johns",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130308139.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Johns"
+                }
+            ]
+        }
+    }
+}

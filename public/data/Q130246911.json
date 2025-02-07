@@ -1,0 +1,264 @@
+{
+    "id": "Q130246911",
+    "label": "Charles W. Burton",
+    "biographyMarkdown": "# Charles W. Burton\n## Graduate of Yale Divinity School, 1913\nBorn 1884 in Mississippi, Charles Wesley Burton received a BS from Talladega College before graduating from Yale Divinity School in 1913. He later received a JD from John Marshall Law School. He was one of the students responsible for reactivating Zeta Chapter of Alpha Phi Alpha Fraternity on campus. His Yale thesis was entitled \u201cLiving Conditions Among Negroes in the Ninth Ward, New Haven.\u201d \n\nIn 1913, Burton married Emma May Walker of Atlanta; they had at least four children. After graduating from Yale, Burton served as a pastor in Macon, Georgia, and was part of the leadership of the American Missionary Association. \nBurton lived most of his life in Chicago, where he became a prominent leader in the city\u2019s labor and civil rights movements. From 1918 to 1927, he served as pastor of the Lincoln Memorial Congregational United Church of Christ. In 1929, he passed the Illinois bar and began his career as a lawyer, employed by the Cook County Juvenile Court. He served as president of the Chicago Council of the National Negro Congress, president of the Chicago chapter of the March on Washington Movement, and chairman of the Citizens\u2019 Committee of the Brotherhood of Sleeping Car Porters, and was active in the NAACP and other civil rights and church organizations. \n\nIn the 1930s and 1940s, Burton helped lead well-publicized fights against discrimination in jobs, housing, education, and economic policy; spoke out against lynching and racial violence; and built national movements for racial justice. He was a friend and frequent correspondent of the labor and civil rights leader A. Philip Randolph, and they collaborated on events in Chicago, St. Louis, and elsewhere related to the March on Washington Movement. Burton was instrumental in organizing a 1942 meeting of the March on Washington committee in Chicago, which drew a crowd of 12,000. Scholar Merl E. Reed noted that Burton\u2019s remarks at the event attracted the attention of J. Edgar Hoover and the FBI, particularly his announcement that Randolph was in fact planning a march on the nation's capital to draw attention to Jim Crow. In the mid-1940s, Burton worked to bring the ideas and practices of nonviolence to Chicago. He brought in experts to teach the principles of nonviolence and civil disobedience, influenced by the independence movement in India and the example of Mohandas Gandhi \u2014 practices that were later foundational to the civil rights movement of the 1950s and 1960s. Burton died in 1957.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1913",
+    "publicationsMarkdown": "\"Living Conditions among Negroes in the Ninth Ward, New Haven.\" PhD diss., Yale University, 1919.\n\n\"Congregationalists to Celebrate,\" *The Chicago Defender*, November 20, 1920.\n\n\"An Appreciation,\" *The Black Worker*, August 1, 1936. \n\n\"Wire President,\" *The Chicago Defender*, March 19, 1938.\n\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1884"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1494",
+                    "data": {
+                        "label": "Mississippi, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33,
+                                        "longitude": -90
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Mississippi, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1957"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6246903",
+                    "data": {
+                        "label": "University of Illinois Chicago School of Law",
+                        "instance_of": [
+                            "law school",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.877966,
+                                        "longitude": -87.628567
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Illinois Chicago School of Law"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7680006",
+                    "data": {
+                        "label": "Talladega College",
+                        "instance_of": [
+                            "school",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.4321,
+                                        "longitude": -86.1133
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Talladega College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1913"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q219656",
+                    "data": {
+                        "label": "Macon, Georgia, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "consolidated city-county",
+                            "municipality of Georgia",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.84069,
+                                        "longitude": -83.6324
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Macon, Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.85003,
+                                        "longitude": -87.65005
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1494",
+                    "data": {
+                        "label": "Mississippi, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33,
+                                        "longitude": -90
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Mississippi, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Charles W. Burton",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130246911.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Burton"
+                }
+            ]
+        }
+    }
+}

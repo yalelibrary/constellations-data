@@ -1,0 +1,207 @@
+{
+    "id": "Q130298968",
+    "label": "Theodore E. Hill",
+    "biographyMarkdown": "# Theodore E. Hill\n## Graduate of Yale College, 1904; Graduate of Yale Law, 1908\nTheodore E. Hill was born in 1879 in Williamston, North Carolina to Edward Hill and Rose Keyes Hill. He attended Phillips Andover before coming to Yale, and graduated with a bachelor's degree from Yale in 1904. He continued his education at the New York Law School, graduating in 1907. He began a career as an attorney in New York City, where he was also a member of the city\u2019s Republican Club. He died a few years later, in 1910, from heart failure. \n\nThe Yale Class of 1904 class book indicates he was related to Frederick Douglass Bonner (Yale College class of 1901), but does not specify how they were related.\n\nImage citation: Yale College Class of 1904 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1904; Graduate of Yale Law, 1908",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1432645",
+                    "data": {
+                        "label": "Phillips Academy",
+                        "instance_of": [
+                            "high school",
+                            "school",
+                            "boarding school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.6473,
+                                        "longitude": -71.1316
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Phillips Academy"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1879"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2027072",
+                    "data": {
+                        "label": "Williamston, North Carolina, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.851388888889,
+                                        "longitude": -77.0625
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Williamston, North Carolina, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1910"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2027072",
+                    "data": {
+                        "label": "Williamston, North Carolina, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.851388888889,
+                                        "longitude": -77.0625
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Williamston, North Carolina, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Theodore E. Hill",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130298968.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Hill"
+                }
+            ]
+        }
+    }
+}

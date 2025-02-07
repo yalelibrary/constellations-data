@@ -1,0 +1,219 @@
+{
+    "id": "Q130314890",
+    "label": "William C. Robinson",
+    "biographyMarkdown": "# William C. Robinson\n## Graduate of Yale Divinity School, 1939\nBorn in Massachusetts around 1912, William C. Robinson graduated from the Gordon College of Theology and Missions before coming to Yale. In 1944, he moved to Chicago, where he directed and served as chaplain of a religious program for the Altgeld Gardens Housing Project, where 1500 families of World War II workers lived. The program was under the auspices of the Church Federation of Greater Chicago. His wife, Florence Robinson, was the director of Christian education for the program. They eventually established the United Church of Altgeld Gardens, where he was pastor for 29 years. In 1973, Robinson became the first Black pastor of the Pullman Presbyterian Church, retiring in 1979. He served as pastor of the Pine Avenue United Church in Chicago for one year before relocating with his wife to New Mexico. It is not yet known when he died.\n\nImage citation: Yale Divinity School student composite photographs, Yale Divinity School.\n",
+    "description": "Graduate of Yale Divinity School, 1939",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1939"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1912",
+                    "qualifiers": [
+                        {
+                            "label": "sourcing circumstances",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q5727902",
+                                    "data": {
+                                        "label": "circa",
+                                        "instance_of": [
+                                            "sourcing circumstance"
+                                        ]
+                                    },
+                                    "text": "circa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q771",
+                    "data": {
+                        "label": "Massachusetts, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.3,
+                                        "longitude": -71.8
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Massachusetts, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.85003,
+                                        "longitude": -87.65005
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1522",
+                    "data": {
+                        "label": "New Mexico, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34,
+                                        "longitude": -106
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Mexico, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q771",
+                    "data": {
+                        "label": "Massachusetts, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.3,
+                                        "longitude": -71.8
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Massachusetts, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "William C. Robinson",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130314890.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Robinson"
+                }
+            ]
+        }
+    }
+}

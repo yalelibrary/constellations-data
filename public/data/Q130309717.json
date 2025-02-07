@@ -1,0 +1,352 @@
+{
+    "id": "Q130309717",
+    "label": "Henry Kuhns Spearman",
+    "biographyMarkdown": "# Henry Kuhns Spearman\n## Graduate of Yale Divinity School, 1903\nBorn in 1875 in Newberry, South Carolina, Henry Kuhns Spearman was the son of an AME minister. He attended public schools in his hometown before enrolling in the State College in Orangeburg (now South Carolina State University) and Biddle University in Charlotte, North Carolina. Spearman received a BA from Lincoln University in 1900. He received a bachelor of divinity degree from Yale in 1903.\n\nOrdained as an AME minister in Newport, Rhode Island, in 1903, Spearman served as a pastor at churches in Massachusetts, New Jersey, and New York City. He received a doctor of divinity degree from Allen University in South Carolina in 1914. In 1915, he married Elizabeth Frances Morris of Philadelphia.\n\nSpearman served as a delegate to the AME General Conference four times, three in leadership roles. When he died, he was serving as leader of the New York Conference. Spearman died in 1928 in New York City.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1903",
+    "publicationsMarkdown": "*Soul Magnets: Twelve Sermons from New Testament Texts*. Philadelphia, PA: A.M.E. Book Concern, 1929. \n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1903"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49041",
+                    "data": {
+                        "label": "Allen University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.010556,
+                                        "longitude": -81.020556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Allen University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q11979088",
+                    "data": {
+                        "label": "Johnson C. Smith University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ]
+                    },
+                    "text": "Johnson C. Smith University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7566644",
+                    "data": {
+                        "label": "South Carolina State University",
+                        "instance_of": [
+                            "public university",
+                            "land-grant university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.497222222222,
+                                        "longitude": -80.85
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "South Carolina State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1875"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1928"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2610042",
+                    "data": {
+                        "label": "Newberry, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.277655,
+                                        "longitude": -81.61656
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newberry, South Carolina, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q54264",
+                    "data": {
+                        "label": "Newport, Rhode Island, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.488002,
+                                        "longitude": -71.312622
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newport, Rhode Island, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q771",
+                    "data": {
+                        "label": "Massachusetts, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.3,
+                                        "longitude": -71.8
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1408",
+                    "data": {
+                        "label": "New Jersey, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40,
+                                        "longitude": -74.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2610042",
+                    "data": {
+                        "label": "Newberry, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.277655,
+                                        "longitude": -81.61656
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newberry, South Carolina, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Henry Kuhns Spearman",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309717.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Spearman"
+                }
+            ]
+        }
+    }
+}

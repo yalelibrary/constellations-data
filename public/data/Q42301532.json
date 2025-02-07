@@ -1,0 +1,265 @@
+{
+    "id": "Q42301532",
+    "label": "Ira David Pinson",
+    "biographyMarkdown": "# Ira David Pinson\n## Graduate of Yale Divinity School, 1931\nIra David Pinson was born in 1892, in Pendleton, South Carolina, to Bessie Anna Cash Pinson and James A. S. Pinson, a minister. He completed a bachelor\u2019s degree at Benedict College in 1912, then continued at Benedict for another year, receiving a master's degree in 1913. He completed a second bachelor's at Colgate University in 1918 before coming to the Yale Divinity School, where he received a bachelor's of divinity in 1920. He was a member of Omega Psi Phi Fraternity. \n\nPinson taught languages and philosophy and coached baseball at Morris College in Sumter, South Carolina, for fifteen years before becoming president of Morris in 1930. He is credited with keeping the college afloat after the 1929 financial crash left it struggling. The administration building at Morris is named in his memory. In 1921, Pinson married Bessie Alma Buckner, a student and later a teacher at Morris, and the couple had four sons. He was a member of the Elks and was Exalted Ruler of the Sumter Lodge in 1925.\n\nSadly, Ira Pinson and his son, Sylvester, died in 1939 when the family was in a car accident near South Hill, Virginia. Bessie Pinson was a teacher and administrator at Morris for decades, known to students in her older years as \u201cMother Pinson,\u201d until her death in 1970.\n\nImage citation: *The Crisis*, July 1918\n",
+    "description": "Graduate of Yale Divinity School, 1931",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1920"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1191335",
+                    "data": {
+                        "label": "Colgate University",
+                        "instance_of": [
+                            "private university",
+                            "private not-for-profit educational institution",
+                            "liberal arts college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.819444444444,
+                                        "longitude": -75.536388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Colgate University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4887262",
+                    "data": {
+                        "label": "Benedict College",
+                        "instance_of": [
+                            "liberal arts college",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.0129,
+                                        "longitude": -81.0203
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Benedict College"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1892"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1939"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2365755",
+                    "data": {
+                        "label": "Pendleton, South Carolina, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.650555555556,
+                                        "longitude": -82.780833333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pendleton, South Carolina, United States"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6913648",
+                    "data": {
+                        "label": "Morris College",
+                        "instance_of": [
+                            "school",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.9383,
+                                        "longitude": -80.3457
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morris College"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2365755",
+                    "data": {
+                        "label": "Pendleton, South Carolina, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.650555555556,
+                                        "longitude": -82.780833333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pendleton, South Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1010203",
+                    "data": {
+                        "label": "Sumter, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.920555555556,
+                                        "longitude": -80.344722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Sumter, South Carolina, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Ira David Pinson",
+                    "image-info": [
+                        {
+                            "url": "/data/Q42301532.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Pinson"
+                }
+            ]
+        }
+    }
+}

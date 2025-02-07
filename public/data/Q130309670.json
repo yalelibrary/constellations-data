@@ -1,0 +1,256 @@
+{
+    "id": "Q130309670",
+    "label": "Alfred E. McWilliams",
+    "biographyMarkdown": "# Alfred E. McWilliams\n## Graduate of Yale Divinity School, 1936\nBorn in 1911 in Guthrie, Oklahoma, Alfred Edward McWilliams was raised in Kansas. He graduated from Lane College in 1933. He married Elvira Minerva McWilliams. In 1943, McWilliams completed army chaplain training at Harvard University and was commissioned as a Methodist chaplain. From 1943 to 1964, he served in the US Air Force, attaining the rank of lieutenant colonel. Among his postings were air force bases in Ohio, Colorado, and Arizona. In 1945, McWilliams' name appeared in the national Black press for sending $402, collected from 55 members of his battalion, to the NAACP. McWilliams died in 1986 at the age of 75. \n\nImage citation: Yale Divinity School student composite photographs, Yale Divinity School.\n",
+    "description": "Graduate of Yale Divinity School, 1936",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1936"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1911"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1986"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q777577",
+                    "data": {
+                        "label": "Guthrie, Oklahoma, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.856388888889,
+                                        "longitude": -97.435833333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Guthrie, Oklahoma, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1397",
+                    "data": {
+                        "label": "Ohio, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.5,
+                                        "longitude": -82.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1261",
+                    "data": {
+                        "label": "Colorado, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39,
+                                        "longitude": -105.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Colorado, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q816",
+                    "data": {
+                        "label": "Arizona, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.28666666666667,
+                                        "longitude": -111.65694444444445
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Arizona, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1558",
+                    "data": {
+                        "label": "Kansas, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.5,
+                                        "longitude": -98
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kansas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q777577",
+                    "data": {
+                        "label": "Guthrie, Oklahoma, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.856388888889,
+                                        "longitude": -97.435833333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Guthrie, Oklahoma, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Alfred E. McWilliams",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309670.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "McWilliams"
+                }
+            ]
+        }
+    }
+}

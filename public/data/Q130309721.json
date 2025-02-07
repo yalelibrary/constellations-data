@@ -1,0 +1,275 @@
+{
+    "id": "Q130309721",
+    "label": "Isaac Emmanuel C. Steady",
+    "biographyMarkdown": "# Isaac Emmanuel C. Steady\n## Graduate of Yale Divinity School, 1920\nBorn in 1907 in Waterloo, Sierra Leone, Isaac E.C. Steady was the son of Rev. H. M. Steady, a missionary, educator, and minister. He attended school in Liberia before coming to the United States for further education. He graduated from Wilberforce University in 1917 before enrolling at Yale and receiving his bachelor of divinity degree. Other degrees include a master\u2019s and a doctor of divinity. Steady attended the U.S. School for Army Chaplains at Fort Slocum, New York, and earned a Normal Teaching Certificate from Wilberforce. \n\nSteady served as a minister at St. Mark's African Methodist Episcopal Church in Cranford, New Jersey from 1924 to 1927. His next posting was to Bethel Church in Sekondi, Gold Coast (now Ghana), where he oversaw the building of a new church in 1935. He was also pastor of the New Zion Church in Freetown, Sierra Leone, with a new building constructed in 1947. In Liberia, where he spent most of his career, he served as pastor of the Eliza Turner Memorial Church in Monrovia, building a new church there as well. \n\nAs of 1955, Steady was special assistant to the bishop of the African Methodist Episcopal Church in Liberia, chaplain (at the rank of major) of the Liberian Frontier Force, and dean of Monrovia College. Involved in a wide variety of church and community organizations, Steady also served as the chaplain of the national advisory board of YMCA of Liberia. He was married to Edna Judith Flodora, and together they had four children. It is not yet known when Steady died.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1920",
+    "publicationsMarkdown": "\"Appeals from Mission Lands-Africa,\" in *North American Students And World Advance*. New York, NY: Burton St. John, 1920.\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1920"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1907"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q623241",
+                    "data": {
+                        "label": "Waterloo",
+                        "instance_of": [
+                            "human settlement"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 8.3383333333333,
+                                        "longitude": -13.071944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Waterloo"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1089095",
+                    "data": {
+                        "label": "Cranford, New Jersey, United States",
+                        "instance_of": [
+                            "township of New Jersey"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.6564,
+                                        "longitude": -74.3048
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cranford, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q243293",
+                    "data": {
+                        "label": "Sekondi-Takoradi, Ghana",
+                        "instance_of": [
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 4.9166666666667,
+                                        "longitude": -1.7666666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Sekondi-Takoradi, Ghana"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3780",
+                    "data": {
+                        "label": "Freetown, Western Area, Sierra Leone",
+                        "instance_of": [
+                            "city",
+                            "port settlement",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 8.4833333333333,
+                                        "longitude": -13.233055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Freetown, Western Area, Sierra Leone"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3748",
+                    "data": {
+                        "label": "Monrovia, Liberia",
+                        "instance_of": [
+                            "city",
+                            "port settlement",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 6.3105555555556,
+                                        "longitude": -10.804722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Monrovia, Liberia"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q623241",
+                    "data": {
+                        "label": "Waterloo",
+                        "instance_of": [
+                            "human settlement"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 8.3383333333333,
+                                        "longitude": -13.071944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Waterloo"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Isaac Emmanuel C. Steady",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309721.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Steady"
+                }
+            ]
+        }
+    }
+}

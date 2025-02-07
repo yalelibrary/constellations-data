@@ -1,0 +1,369 @@
+{
+    "id": "Q6230966",
+    "label": "John Edward West Thompson",
+    "biographyMarkdown": "# John Edward West Thompson\n## Graduate of Yale School of Medicine, 1883\nBorn in Brooklyn, New York in 1860, John Edward West Thomspon moved to Providence, Rhode Island with his family around the age of ten. His parents had emigrated from Haiti. He later attended Weston Military Institute and Lawrence Academy in Groton, MA. In 1883, he graduated from the Yale School of Medicine. That same year, Thompson married Elizabeth Augusta McLinn, a daughter of the head carpenter at Yale, Charles McLinn. Thompson continued studying medicine in France, England, and Ireland. \n\nIn 1884, Thompson began practicing medicine in New York, becoming one of the first Black physicians in the city. From 1885 to 1889, he was made U.S. Minister Resident/Consul General to Haiti and Charg\u00e9 d'Affaires to Santo Domingo, Dominican Republic, appointed by President Grover Cleveland. In 1890, Thompson resumed practicing medicine in New York and served for a few years as a medical inspector for the health department. He also practiced medicine in Mount Hope, New York, Atlanta, and Bridgeport, Connecticut. He died in 1918 in Bridgeport, after he was stabbed by a patient in mental distress.\n\nImage citation: Schomburg Center for Research in Black Culture, Jean Blackwell Hutson Research and Reference Division, The New York Public Library. \"Dr. J. E. W. Thompson, Permanent Chairman.\" Accessed via New York Public Library Digital Collections. \n",
+    "description": "Graduate of Yale School of Medicine, 1883",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1860"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1961140",
+                    "data": {
+                        "label": "Yale School of Medicine",
+                        "instance_of": [
+                            "medical school",
+                            "faculty"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.303245363975,
+                                        "longitude": -72.933871811889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Medicine",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1883"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6503789",
+                    "data": {
+                        "label": "Lawrence Academy",
+                        "instance_of": [
+                            "educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.5525,
+                                        "longitude": -70.615833
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lawrence Academy"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1918"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18419",
+                    "data": {
+                        "label": "Brooklyn, New York City, United States",
+                        "instance_of": [
+                            "borough of New York City",
+                            "city in the United States",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.65083,
+                                        "longitude": -73.94972
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brooklyn, New York City, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q15224724",
+                    "data": {
+                        "label": "nephew",
+                        "instance_of": [
+                            "kinship",
+                            "kinship relation"
+                        ]
+                    },
+                    "text": "nephew",
+                    "qualifiers": [
+                        {
+                            "label": "name",
+                            "values": [
+                                {
+                                    "value-type": "monolingualtext",
+                                    "text": "John McLinn Ross"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2914212",
+                    "data": {
+                        "label": "brother-in-law",
+                        "instance_of": [
+                            "affinity",
+                            "kinship"
+                        ]
+                    },
+                    "text": "brother-in-law",
+                    "qualifiers": [
+                        {
+                            "label": "name",
+                            "values": [
+                                {
+                                    "value-type": "monolingualtext",
+                                    "text": "George Christopher Booth"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3776991",
+                    "data": {
+                        "label": "Groton, Massachusetts, United States",
+                        "instance_of": [
+                            "New England town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.611111111111,
+                                        "longitude": -71.575
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.6112,
+                                        "longitude": -71.57451
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Groton, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18383",
+                    "data": {
+                        "label": "Providence, Rhode Island, United States",
+                        "instance_of": [
+                            "big city",
+                            "county seat",
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.82399,
+                                        "longitude": -71.41283
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Providence, Rhode Island, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3708719",
+                    "data": {
+                        "label": "Mount Hope, New York, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "town of New York"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.466111111111,
+                                        "longitude": -74.526944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Mount Hope, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23556",
+                    "data": {
+                        "label": "Atlanta, Georgia, United States",
+                        "instance_of": [
+                            "county seat",
+                            "big city",
+                            "city in the United States",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.756944444444,
+                                        "longitude": -84.390277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Atlanta, Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49174",
+                    "data": {
+                        "label": "Bridgeport, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.183333333333,
+                                        "longitude": -73.2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bridgeport, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18419",
+                    "data": {
+                        "label": "Brooklyn, New York City, United States",
+                        "instance_of": [
+                            "borough of New York City",
+                            "city in the United States",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.65083,
+                                        "longitude": -73.94972
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brooklyn, New York City, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "John Edward West Thompson",
+                    "image-info": [
+                        {
+                            "url": "/data/Q6230966.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Thompson"
+                }
+            ]
+        }
+    }
+}

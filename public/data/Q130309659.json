@@ -1,0 +1,432 @@
+{
+    "id": "Q130309659",
+    "label": "Harold Merrybright Kingsley, Sr.",
+    "biographyMarkdown": "# Harold Merrybright Kingsley, Sr.\n## Graduate of Yale Divinity School, 1911\nHarold M. Kingsley, Sr. was born on March 1, 1887 in Mobile, Alabama. He graduated from Talladega College in Alabama in 1908 and subsequently attended the Yale Divinity School, where he developed an interest in becoming a minister. While at Yale, he was a founding member of the Alpha Phi Alpha Fraternity.  \n\nFollowing graduation from Yale, Kingsley pursued ministry in a variety of denominations. He had been raised in a Baptist family but attended an Episcopal church during his youth. His first job as minister was for an African Methodist Episcopal congregation, at Bethel Church in Bridgeport, Connecticut\u2014a departure from both denominations in which he had been raised. However, he shortly thereafter converted once again, becoming a Congregationalist minister for Union Congregational Church in Newport, Rhode Island (1911-1913). Subsequently he returned to the South, pastoring throughout Oklahoma, Texas, Alabama, Tennessee, Kentucky, and Florida as part of the American Missionary Association, a formerly pro-abolition and later pro-civil rights religious organization. By 1927 he had returned north to the Church of the Good Shepherd in Chicago, and he expanded his activist preaching, addressing racial economic inequality and providing financial education and aid to recent Black migrants from the South. \n\nIn 1943 Kingsley moved to Los Angeles and became director of the Pilgrim House, for the first time serving an interracial population in Los Angeles\u2019 Little Tokyo. Kingsley became a vocal opponent of Japanese incarceration and, much as he did for Black migrants in Chicago, invested in social services to re-integrate formerly incarcerated Japanese people into the local community following the end of WWII. Kingsley died in 1970 in Los Angeles.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1911",
+    "publicationsMarkdown": "*The Negro in Chicago: A Spiritual Interpretation of an Economic Problem.* Chicago, IL: Chicago Congregational Missionary and Extension Society, 1930.\n\n\"How Does the Negro Meet His Responsibility?,\" *The American Missionary* 69, no. 10 (1915). \n\n\"The Testing of the Negro Migrant and the Congregational Opportunity,\" *The American Missionary* 75, no. 1 (1921). \n\n\"Community Contacts at Mt. Zion,\" *The American Missionary* 79, no. 5 (1925).\n\n\"Progressive Colored Churches - Two Types,\" *The American Missionary* 79, no. 7 (1925).\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1911"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7680006",
+                    "data": {
+                        "label": "Talladega College",
+                        "instance_of": [
+                            "school",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.4321,
+                                        "longitude": -86.1133
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Talladega College"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1887"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1970"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79875",
+                    "data": {
+                        "label": "Mobile, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.727669444444,
+                                        "longitude": -88.052672222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Mobile, Alabama, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49174",
+                    "data": {
+                        "label": "Bridgeport, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.183333333333,
+                                        "longitude": -73.2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bridgeport, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q54264",
+                    "data": {
+                        "label": "Newport, Rhode Island, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.488002,
+                                        "longitude": -71.312622
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newport, Rhode Island, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1649",
+                    "data": {
+                        "label": "Oklahoma, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.5,
+                                        "longitude": -98
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Oklahoma, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1439",
+                    "data": {
+                        "label": "Texas, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 31,
+                                        "longitude": -100
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Texas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q173",
+                    "data": {
+                        "label": "Alabama, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.7,
+                                        "longitude": -86.7
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Alabama, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1509",
+                    "data": {
+                        "label": "Tennessee, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36,
+                                        "longitude": -86
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tennessee, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1603",
+                    "data": {
+                        "label": "Kentucky, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.5,
+                                        "longitude": -85
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kentucky, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q812",
+                    "data": {
+                        "label": "Florida, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 28.133333333333,
+                                        "longitude": -81.631666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Florida, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.85003,
+                                        "longitude": -87.65005
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q65",
+                    "data": {
+                        "label": "Los Angeles, California, United States",
+                        "instance_of": [
+                            "charter city",
+                            "city in the United States",
+                            "city",
+                            "global city",
+                            "metropolis",
+                            "megacity",
+                            "business cluster",
+                            "big city",
+                            "LGBT sanctuary city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.05223,
+                                        "longitude": -118.24368
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Los Angeles, California, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79875",
+                    "data": {
+                        "label": "Mobile, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.727669444444,
+                                        "longitude": -88.052672222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Mobile, Alabama, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Harold Merrybright Kingsley, Sr.",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309659.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Kingsley,"
+                }
+            ]
+        }
+    }
+}

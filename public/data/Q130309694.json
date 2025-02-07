@@ -1,0 +1,197 @@
+{
+    "id": "Q130309694",
+    "label": "James Warren Payton",
+    "biographyMarkdown": "# James Warren Payton\n## Graduate of Yale College, 1900\nBorn in Westfield, Massachusetts in 1877, Payton was the son of Philip A. Payton and Annie M. Ryans Payton. In high school, he completed the classical course, studying Latin and Greek, and was the class orator at his commencement. After graduating from Yale, Payton worked as a tutor in his hometown before becoming a professor of Greek and Latin at Wiley University, a Black institution in Texas. On a trip home he contracted typhoid fever and died, in 1902, after a short illness. His brother Edward graduated from Yale in 1906. \n\nIn 1900, while still at Yale, Payton wrote an essay for the magazine The Colored American, entitled, \u201cSome Experiences and Customs at Yale.\u201d He finished the essay, the most detailed, known account of Yale life by an early African American student, with this reflection: \n>When I entered college all I could see before me was a long, dark way, which would take four dreary years to reach the end, but as those four years now draw to a close, I can frankly acknowledge that I must count them the most pleasant years of my life, and I could almost wish the vain wish that I might live them over again when I sing that dear old song: Bright college years with pleasure rife [/] The brightest, gladdest years of life\u2026\n\nImage citation: Yale College Class of 1900 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1900",
+    "publicationsMarkdown": "\"Some Experiences And Customs At Yale,\" *The Colored American Magazine 1*, no. 2. (1900). \n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1900"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1877"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1902"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1055854",
+                    "data": {
+                        "label": "Westfield, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.1250929,
+                                        "longitude": -72.749538
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Westfield, Massachusetts, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309695",
+                    "data": {
+                        "label": "Edward Samuel Payton",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Edward Samuel Payton",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q10861465",
+                                    "data": {
+                                        "label": "brother",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "brother"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1055854",
+                    "data": {
+                        "label": "Westfield, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.1250929,
+                                        "longitude": -72.749538
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Westfield, Massachusetts, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "James Warren Payton",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309694.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Payton"
+                }
+            ]
+        }
+    }
+}

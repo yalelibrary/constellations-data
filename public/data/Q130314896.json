@@ -1,0 +1,325 @@
+{
+    "id": "Q130314896",
+    "label": "Victoria Josephine Muse",
+    "biographyMarkdown": "# Victoria Josephine Muse\n## Attended Yale School of Music 1909-1916 and 1917-1918\nBorn in 1887 in New York City, Victoria Josephine Muse attended the Yale School of Music from 1909 to 1918. She later graduated from Oberlin Conservatory in 1936 and studied voice in Paris, France. She performed nationally as a lyric soprano into the 1940s. \n\nHer father, Richard H. Muse, was a native of North Carolina; from at least 1890 until his death in 1911, he was employed as a janitor in New Haven. At least part of that time he worked for the Delta Psi Society at Yale. Her mother, Julia Pennington Gibbs, worked as a dressmaker and corsetiere (corset-maker); she was the daughter of Jonathan C. Gibbs, an abolitionist and the secretary of state in Florida during Reconstruction. The family lived at 169 Bassett Street in New Haven.\n\nJosephine Muse gave private lessons in New Haven until 1919, when she relocated to Washington. Her cousin, Harriet Gibbs Marshall, was the founder and director of the Washington Conservatory of Music, an independent Black music institution. Muse took over as director when her cousin died in 1941, and remained dean of the conservatory until her own death in 1960. She was a member of the Treble Clef Club, National Singing Teachers Association, and Zeta Phi Beta Sorority. The Gibbs-Muse Scholarship Fund at Howard University was named in her honor. \n\nA sister, Jessie Muse, who also attended the Yale School of Music, died in 1918. Another sister, Florence A. Muse Laws, graduated from the New York Barber College. Her brother, Richard I. Muse, a World War I veteran, received the Croix de Guerre for bravery.\n\nImage citation: Oberlin College *Hi-O-Hi* yearbook, 1937, Oberlin College Archives\n",
+    "description": "Attended Yale School of Music 1909-1916 and 1917-1918",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1960"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q21262068",
+                    "data": {
+                        "label": "Washington Conservatory of Music and School of Expression",
+                        "instance_of": [],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.949467,
+                                        "longitude": -77.101746
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington Conservatory of Music and School of Expression"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q750950",
+                    "data": {
+                        "label": "Oberlin Conservatory of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.29138888888889,
+                                        "longitude": -82.21944444444445
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Oberlin Conservatory of Music"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2784420",
+                    "data": {
+                        "label": "Yale School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3099,
+                                        "longitude": -72.9264
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Music"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1887"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130314895",
+                    "data": {
+                        "label": "Jessie Estell Muse",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Jessie Estell Muse",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q595094",
+                                    "data": {
+                                        "label": "sister",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "sister"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1223",
+                    "data": {
+                        "label": "Washington, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 47.5,
+                                        "longitude": -120.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581072",
+                    "data": {
+                        "label": "female",
+                        "instance_of": [
+                            "sex of humans",
+                            "gender"
+                        ]
+                    },
+                    "text": "female"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Victoria Josephine Muse",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130314896.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Muse"
+                }
+            ]
+        }
+    }
+}

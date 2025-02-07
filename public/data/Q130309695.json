@@ -1,0 +1,196 @@
+{
+    "id": "Q130309695",
+    "label": "Edward Samuel Payton",
+    "biographyMarkdown": "# Edward Samuel Payton\n## Graduate of Yale College, 1906\nEdward Samuel Payton was born in 1882 to Philip A. Payton and Annie M. Ryans Payton. His father was a barber and his mother a women\u2019s hairdresser and wigmaker, and they were both successful business people in the hair care industry. \nPayton attended Westfield High School in Westfield, Massachusetts, graduating in 1901 and following his older brother James (Yale College class of 1900) to Yale. During his first year at Yale, his brother James died of typhoid fever. During this time of grief, he fell behind in his classes, but continued his studies, graduating with the class of 1906. In the years after he graduated, he lived with his family in Massachusetts and worked a number of different jobs as he considered his future career. Sadly, he died from tuberculosis in 1912.\n\nImage citation: Yale College Class of 1906 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1906",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1906"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1882"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1912"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1055854",
+                    "data": {
+                        "label": "Westfield, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.1250929,
+                                        "longitude": -72.749538
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Westfield, Massachusetts, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309694",
+                    "data": {
+                        "label": "James Warren Payton",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "James Warren Payton",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q10861465",
+                                    "data": {
+                                        "label": "brother",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "brother"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1055854",
+                    "data": {
+                        "label": "Westfield, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.1250929,
+                                        "longitude": -72.749538
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Westfield, Massachusetts, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Edward Samuel Payton",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309695.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Payton"
+                }
+            ]
+        }
+    }
+}

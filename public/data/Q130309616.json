@@ -1,0 +1,221 @@
+{
+    "id": "Q130309616",
+    "label": "Albert Burton Jowett",
+    "biographyMarkdown": "# Albert Burton Jowett\n## Attended Yale Divinity School 1890-1891\nAlbert Burton Jowett was born on Sherbro Island in what is now Sierra Leone in 1860. He grew up in the Mende Mission, which was operated by the Amistad Committee. It has been said that he may have been the son of Margru (also known as Sara Kinson), who was one of the Amistad captives, but this has not been confirmed. In 1878, Albert President Miller (Yale Divinity School, 1885) traveled to the Mende Mission, where he met Jowett. According to Yale Divinity School scholars Moses N. Moore, Jr. and Yolanda Y. Smith, Jowett served as an interpreter to Miller, \u201ctranslating his sermons, as he delivered them, into the Mende language.\u201d Jowett followed Miller\u2019s academic path, graduating from Fisk University in 1889 and then attending Yale Divinity School from 1890 to 1891. Jowett died in Paris, Kentucky in 1908.\n",
+    "description": "Attended Yale Divinity School 1890-1891",
+    "publicationsMarkdown": "\"Albert Burton Jowett,\" *The American Missionary 34*, no. 5 (1880). \n\n\"Sunday School's in Central Africa,\" *The American Missionary* 34, no. 7 (1880). \n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1890"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1891"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1860"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2001267",
+                    "data": {
+                        "label": "Sherbro Island, Southern Province, Sierra Leone",
+                        "instance_of": [
+                            "island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 7.55,
+                                        "longitude": -12.7
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Sherbro Island, Southern Province, Sierra Leone"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1908"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3181341",
+                    "data": {
+                        "label": "Paris, Kentucky, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.2064,
+                                        "longitude": -84.2578
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Paris, Kentucky, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2001267",
+                    "data": {
+                        "label": "Sherbro Island, Southern Province, Sierra Leone",
+                        "instance_of": [
+                            "island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 7.55,
+                                        "longitude": -12.7
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Sherbro Island, Southern Province, Sierra Leone"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Jowett"
+                }
+            ]
+        }
+    }
+}

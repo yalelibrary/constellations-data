@@ -1,0 +1,293 @@
+{
+    "id": "Q130309681",
+    "label": "Edward Morrow",
+    "biographyMarkdown": "# Edward Morrow\n## Graduate of Yale College, 1931\nEdward Morrow was born in 1908 in Lead, South Dakota. He attended Central High School in Minneapolis and Sioux Falls High School in South Dakota, and attended the University of South Dakota for two years before transferring to Yale College in 1927. For a period of time he was the only Black undergraduate student at Yale, and in 1927 was the only undergraduate pledge in Zeta Chapter of Alpha Phi Alpha Fraternity, which was predominantly made up of graduate students. According to a draft of an unpublished memoir, found in the Charles T. Davis Papers at Beinecke Library, Morrow, who had previously been a caddy and assistant to professional golfer Jack Burke, Sr., received a \"caddy scholarship\" to Yale and received scholarship support from Yale alum and writer Donald Ogden Stewart his senior year. He wrote that \"alumni and relatives who I met and served on links and clubhouse helped me graduate, even after the 1929 Crash.\"\n\nAccording to a 1929 letter Morrow wrote to his classmate Charles Heffelfinger Bell, he struggled to cover his tuition and living expenses at Yale and had been passed over for a scholarship the previous spring. The letter to Bell suggests that Bell\u2019s father, General Mills founder James Ford Bell, may have offered Morrow financial help during his time as a student. In 1988, reflecting on his college experience in the New Journal at Yale, Morrow said that Yale \u201cwas phasing blacks out. They froze them out financially, froze up their loans. Yale was Jim Crow and pro-Hitler and fascist as far as I was concerned.\u201d In the same interview, he said that as a student, he spent many of his weekends in New York: \u201cWe went over the hill to Harlem and to life. We came down to a Harlem that welcomed us. At Yale you just didn\u2019t exist if you were Black or Jewish.\u201d\n\nIn 1930, Morrow wrote to W. E. B. Du Bois about an upcoming Model League of Nations Assembly in which he was appointed to represent Liberia. He wrote, \u201cI am trying to prepare as well as I can to present the case of this Negro Republic.\u2026 Since I am, as far as I know, the only Negro delegate, I should like to make a good showing.\u201d He asked Du Bois for any information that might be useful in representing Liberia, and for permission to quote from Du Bois\u2019 editorials on Liberia. He noted that Yale alum Gaylord Howell (Yale College, 1920) and his wife Christine Howell had suggested he write to Du Bois. \nAt Yale, Morrow was a contributor to the Yale Daily News. In 1928, he reviewed Claude McKay\u2019s Home to Harlem for the Daily News, criticizing the \u201csurface realism\u201d of the book: \u201cWe fail to see the poet\u2019s deep insight into the place he is portraying. We even fail to see the penetration to be expected of one who writes of his own people. Perhaps McKay has been too long in France and in Russia to remember his Harlem. He is writing what any number of person, white and black, could have written, namely, what most white people of the \u2018thrill-seeking\u2019 variety believe to be the true Harlem after one visit to Small\u2019s night club.\u201d\n\nFollowing his graduation in 1931, Morrow worked as a journalist in Harlem and for the Emergency Home Relief Bureau. He was a New York correspondent for the Chicago Defender, along with Bessye J. Bearden, mother of artist Romare Bearden. He worked for the New York City Department of Public Welfare and for the New York State and U.S. Employment Service, and the Municipal Workers of America CIO Union Local 28. He also wrote the constitution for the Negro Actor\u2019s Guild. In 1936 he married Juanita Delores Smith Alston.\n\nIn the early 1940s, Morrow\u2019s work began to concentrate primarily on the war effort. From 1939 to 1942 he worked for the New York Selective Service System, and in 1942 he organized the Democrat-in-Action group, worked for the Red Cross, and enlisted in the U.S. Army. During and after WWII, he worked in information and education for the Army. There, he trained specialists, supervised publications, wrote histories of the 372nd Infantry Regiment, worked on newscasts, radio, and TV programs, and other duties. He was also involved with a pilot project to integrate Army personnel.  He attended the Armed Forces Information School in Carlisle, PA in 1948-1949.\n\nIn 1949 he divorced Juanita Morrow and remarried in 1950 to Corienne Kathleen Robinson, who was Race Relations Advisor to the Administrator of the Housing and Home Finance Agency. In 1961, he married Ruby Downs Williams. In the 1920s, she had been a professional dancer, performing in the original 1928 production of \"Showboat\" and in \"Shuffle Along.\" She later went on to become a legal secretary to Thurgood Marshall and to Charles Hueston of the NAACP Legal Defense Fund. She was also a teacher in the 1960s in Queens, and had a real estate business. She died in 1979. \n\nFrom 1954-1955, he took courses in communications at American University in Washington, DC. He then began taking courses in education at New York University, specializing in communications in secondary education. He received an M.A. from NYU in 1957, and continued taking courses until 1963. From the late 1950s through the 70s, while continuing to write, he taught in New York City public schools and worked in real estate with his wife. In the 1970s, he worked on a book about Harlem during the Harlem Renaissance of the 1920s and particularly the less-explored \"recovery era\" of the 1930s. \n\nEdward Morrow died in 1999.\n\nImage citation: Yale College Class of 1931 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1931",
+    "publicationsMarkdown": "\"A Modern Illiad,\" *The Yale Daily News*, March 22, 1928.\n\n\"Colorphobia,\" *The Yale Daily News*, October 25, 1929. \n\n\"A Colored Prima Donna,\" *The Yale Daily News*, February 22, 1929. \n\n\"A Review of 'Bloodstream',\" *Opportunity 10*, no. 5 (1932). \n\n\"Our Book Shelf: Review of Black God,\" *Opportunity 12*, no. 12 (1934). \n\n\"Our Book Shelf: Review of Point Noir,\" *Opportunity 16*, no. 6 (1938).\n\n\"Career of A. Lois Perry, Cut Short By Tragedy,\" *New York Amsterdam News*, August 24, 1940.\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1931"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1305521",
+                    "data": {
+                        "label": "University of South Dakota",
+                        "instance_of": [
+                            "public research university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.786,
+                                        "longitude": -96.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of South Dakota"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1908"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1999"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q584982",
+                    "data": {
+                        "label": "Lead, South Dakota, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 44.350833333333,
+                                        "longitude": -103.76583333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lead, South Dakota, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q189074",
+                    "data": {
+                        "label": "Harlem, Manhattan, United States",
+                        "instance_of": [
+                            "neighborhood of Manhattan",
+                            "unincorporated community in the United States",
+                            "village of New York"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.809033333333,
+                                        "longitude": -73.948372222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harlem, Manhattan, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q36091",
+                    "data": {
+                        "label": "Minneapolis, Minnesota, United States",
+                        "instance_of": [
+                            "county seat",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 44.981944444444444,
+                                        "longitude": -93.26916666666666
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Minneapolis, Minnesota, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q131335",
+                    "data": {
+                        "label": "Sioux Falls, South Dakota, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.546055555555554,
+                                        "longitude": -96.73138888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Sioux Falls, South Dakota, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q584982",
+                    "data": {
+                        "label": "Lead, South Dakota, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 44.350833333333,
+                                        "longitude": -103.76583333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lead, South Dakota, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Edward Morrow",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309681.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Morrow"
+                }
+            ]
+        }
+    }
+}

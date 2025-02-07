@@ -1,0 +1,293 @@
+{
+    "id": "Q5722409",
+    "label": "Henry Hugh Proctor",
+    "biographyMarkdown": "# Henry Hugh Proctor\n## Graduate of Yale Divinity School, 1894\nBorn in 1868 in Fayetteville, Tennessee, Henry Hugh Proctor received a BA from Fisk in 1891. From there, he then went on to the Yale Divinity School, graduating with a bachelor of divinity degree in 1894. While a student at Yale, in 1893, he married Adeline Davis (a fellow Fisk graduate, class of 1890). They had six children. In 1904, Proctor received a doctor of divinity degree from Clark Atlanta University. \n\nOrdained in Atlanta in 1894, Proctor was the first Black pastor of the First Congregational Church in that city, serving from 1894 to 1920. In 1919, during World War I, Proctor was sent to France to minister to Black troops.\n\nAmong his many leadership roles, he served as a trustee of Fisk and president of Carrie Steele Orphanage in Atlanta, and helped establish a public library for Black people in Atlanta. After the 1906 riots in Atlanta, he helped organize the Interracial Committee of Atlanta. In 1908, he was instrumental in opening the first housing facility for young employed Black women. \n\nProctor was a national church leader. In 1903, he was a founder of the National Convention of Congregational Workers Among the Colored People, and served as its first president. In 1904, he was unanimously elected to be the assistant moderator of the National Council of Congregational Churches. From 1906 to 1909, he served as vice president of the American Missionary Association and in various leadership roles of the national Congregational Church. He became the first Black moderator of the New York City Congregational Church Association in 1926. \n\nIn 1920, Proctor left Georgia to pastor the Nazarene Congregational Church in Brooklyn, succeeding another Yale Divinity School graduate, Albert P. Miller. At the pulpit of this large and prominent congregation, Proctor continued to advance his vision of a social gospel responding to the conditions faced by Black people in the city, many of whom were new arrivals\u2014part of what is now known as the Great Migration. From 1927 to 1933, he was vice president of the Brooklyn Lincoln Settlement. \n\nProctor was the author of *Sermons in Melody* (1916), *Between Black and White* (1925), and many articles. He died in 1933 in Brooklyn, New York.\n\nImage citation: Detail from photograph of Robert H. Bonner, Orishatukeh Faduma, Charles H. Boyer, and Henry H. Proctor, Schomburg Center for Research in Black Culture, Jean Blackwell Hutson Research and Reference Division, The New York Public Library. Accessed via New York Public Library Digital Collections.\n",
+    "description": "Graduate of Yale Divinity School, 1894",
+    "publicationsMarkdown": "*The Sons of 'Uncle Tom': Address at the Annual Meeting of the American Missionary Association*. New York, NY: The Association, 1893.\n\n*Memorial Services for Miss Julia A. Goodwin; Address on her Life and Character*. Atlanta, GA: Press of G.A. Brown, 1894.\n\n\"The Theology of the Songs of the Southern Slave.\" B.D. thesis, Yale University, 1894. \n\n*The Need of Friendly Visitation*. Atlanta, GA: Atlanta University Press, 1897.\n\n*The Negro And The War, A Sermon on the War*. Atlanta, GA: Mutual Printing Co., 1898.\n\n*The Fisk Idea; Address Delivered Before the College Alumni of Fisk University*. Nashville, TN: Fisk University, 1898. \n\n\"The Church as an Institution For Social Betterment,\" Atlanta, GA: Atlanta University Press, 1898.\n\n*New England, the New South and the New Negro*. New York, NY: 1900. \n\n*Sermon in Melodies*. Atlanta, GA: Union Publishing Company, 1917.\n\n*Between Black and White; Autobiographical Sketches*. Boston, MA: The Pilgrim Press, 1925.\n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1868"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1933"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1895"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1095773",
+                    "data": {
+                        "label": "Clark University",
+                        "instance_of": [
+                            "private university",
+                            "liberal arts college",
+                            "Colleges That Change Lives",
+                            "private not-for-profit educational institution",
+                            "university campus"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.250977,
+                                        "longitude": -71.823169
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Clark University"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q588257",
+                    "data": {
+                        "label": "Fayetteville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.152777777778,
+                                        "longitude": -86.571388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fayetteville, Tennessee, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23556",
+                    "data": {
+                        "label": "Atlanta, Georgia, United States",
+                        "instance_of": [
+                            "county seat",
+                            "big city",
+                            "city in the United States",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.756944444444,
+                                        "longitude": -84.390277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Atlanta, Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q142",
+                    "data": {
+                        "label": "France",
+                        "instance_of": [
+                            "sovereign state",
+                            "colonial power",
+                            "Mediterranean country",
+                            "republic",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 47,
+                                        "longitude": 2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "France"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18419",
+                    "data": {
+                        "label": "Brooklyn, New York City, United States",
+                        "instance_of": [
+                            "borough of New York City",
+                            "city in the United States",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.65083,
+                                        "longitude": -73.94972
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brooklyn, New York City, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q588257",
+                    "data": {
+                        "label": "Fayetteville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.152777777778,
+                                        "longitude": -86.571388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fayetteville, Tennessee, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Henry Hugh Proctor",
+                    "image-info": [
+                        {
+                            "url": "/data/Q5722409.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Proctor"
+                }
+            ]
+        }
+    }
+}

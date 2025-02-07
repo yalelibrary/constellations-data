@@ -1,0 +1,214 @@
+{
+    "id": "Q130266880",
+    "label": "Charles A. Chandler",
+    "biographyMarkdown": "# Charles A. Chandler\n## Graduate of Yale Law School, 1923\nBorn in West Point, Mississippi in 1897 and raised in Cleveland, Ohio, Charles Augustus Chandler earned a bachelor's degree in chemistry from Fisk University in 1920, graduating magna cum laude. He received his LLB from Yale in 1923. He was a member of the editorial board of the *Yale Law Review*.\n\nChandler settled in Muskogee, Oklahoma, where he became a well-known attorney who argued many cases in federal court. He served as the NAACP lawyer in Oklahoma. With backing from the NAACP, he successfully argued *Lane v. Wilson* before the U.S. Supreme Court in 1939, a landmark case striking down the state\u2019s grandfather clause and expanding voting for Black people across the country. In 1940, Chandler brought another case to the Supreme Court, but the highest court dismissed it. *Simmons v. Board of Education* was an early case challenging segregation in public schools.\n\nIn 1944, Chandler and his family moved to Cleveland, where he continued to practice law. In 1963, he was appointed to the civil division of the city law department in Cleveland. He was a Republican and a member of the East Mount Zion Baptist Church, Omega Psi Phi Fraternity, the NAACP, and several legal organizations. Chandler died in Cleveland in 1980.\n\nImage citation: Detail from a 1921 group photograph in the Jasper Alston Atkins Papers, Yale University Library\n",
+    "description": "Graduate of Yale Law School, 1923",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1897"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1994673",
+                    "data": {
+                        "label": "West Point, Mississippi, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.6061,
+                                        "longitude": -88.6525
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "West Point, Mississippi, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1980"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1923"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q37320",
+                    "data": {
+                        "label": "Cleveland, Ohio, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "city of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.49916666666667,
+                                        "longitude": -81.69472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cleveland, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q524233",
+                    "data": {
+                        "label": "Muskogee, Oklahoma, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.7466,
+                                        "longitude": -95.368
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Muskogee, Oklahoma, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1994673",
+                    "data": {
+                        "label": "West Point, Mississippi, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.6061,
+                                        "longitude": -88.6525
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "West Point, Mississippi, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Charles A. Chandler",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130266880.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Chandler"
+                }
+            ]
+        }
+    }
+}

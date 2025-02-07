@@ -1,0 +1,374 @@
+{
+    "id": "Q107156759",
+    "label": "George Washington Henderson",
+    "biographyMarkdown": "# George Washington Henderson\n## Graduate of Yale Divinity School, 1883\nBorn enslaved in 1850 in Clarke County, Virginia, George Washington Henderson went to Vermont after the Civil War, possibly with an employer from Vermont he met during the war. He attended Underhill Academy and Barre Academy, graduating in 1873. Henderson then graduated from the University of Vermont in 1877. While a student there, he also served as principal of Jericho Academy. Henderson was the first Black person inducted into Phi Beta Kappa, as well as a member of Delta Psi (St. Anthony Hall). \n\nHenderson received his bachelor of divinity degree from Yale in 1883. At Yale, he received the Hooker Fellowship, which supported his studies at University of Berlin from 1883 to 1884 and at Yale Divinity School from 1884 to 1885. In 1884, Henderson married Hattie Eliza Gage; she died in 1886. They had one child who died in childhood. \n\nFrom 1888 to 1890, Henderson was pastor of the Central Congregational Church in New Orleans. While there, in 1889, he married Mary Virginia Harris. From 1890 to 1904, Henderson served as chair of the theology department (and possibly as chaplain) at Straight University in New Orleans. In 1894, he was the author of \u201cThe First Memorial Against Lynching,\u201d a petition against lynching sent to the Louisiana legislature. Today it is considered one of the first formal appeals against lynching. In 1898, he wrote a pamphlet on troops in the Spanish-American War, focusing on Black regiments. \n\nFrom 1904 to 1909, Henderon served as dean of theology at Fisk University. From 1909 to 1932, he was professor of Latin, Greek, and ancient literature at Wilberforce University. He received an honorary doctorate of divinity degree from the University of Vermont in 1896. Throughout his life, Henderson was an advocate for civil rights. He died in 1936.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1883",
+    "publicationsMarkdown": "*A Tribute to the Soldiers of the War with Spain: To the Memory of the Dead, and to the Honor of the Living.* New Orleans, LA: Straight University Print, 1898.\n\n*Studies Upon Important Themes in Religion: And Expositions of Difficult Passages of the Scriptures.* Philadelphia, PA: Press of A.M.E. Book Concern, 1917.\n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q495142",
+                    "data": {
+                        "label": "Clarke County, Virginia, United States",
+                        "instance_of": [
+                            "county of Virginia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.12,
+                                        "longitude": -78
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Clarke County, Virginia, United States"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1850"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1048898",
+                    "data": {
+                        "label": "University of Vermont",
+                        "instance_of": [
+                            "public research university",
+                            "land-grant university",
+                            "public educational institution of the United States",
+                            "open-access publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 44.4775,
+                                        "longitude": -73.19361
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Vermont"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q20266894",
+                    "data": {
+                        "label": "University of Berlin",
+                        "instance_of": [
+                            "university"
+                        ]
+                    },
+                    "text": "University of Berlin"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60772540",
+                    "data": {
+                        "label": "Barre Academy",
+                        "instance_of": [
+                            "school"
+                        ]
+                    },
+                    "text": "Barre Academy"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1883"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1936"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7621045",
+                    "data": {
+                        "label": "Straight University",
+                        "instance_of": [
+                            "university"
+                        ]
+                    },
+                    "text": "Straight University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16551",
+                    "data": {
+                        "label": "Vermont, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 44,
+                                        "longitude": -72.7
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Vermont, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q34404",
+                    "data": {
+                        "label": "New Orleans, Louisiana, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 29.976111111111113,
+                                        "longitude": -90.07833333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Orleans, Louisiana, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q495142",
+                    "data": {
+                        "label": "Clarke County, Virginia, United States",
+                        "instance_of": [
+                            "county of Virginia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.12,
+                                        "longitude": -78
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Clarke County, Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1866955",
+                    "data": {
+                        "label": "Wilberforce, Ohio, United States",
+                        "instance_of": [
+                            "census-designated place in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7158,
+                                        "longitude": -83.88
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23197",
+                    "data": {
+                        "label": "Nashville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "consolidated city-county",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.16222222222222,
+                                        "longitude": -86.77444444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Nashville, Tennessee, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "George Washington Henderson",
+                    "image-info": [
+                        {
+                            "url": "/data/Q107156759.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Henderson"
+                }
+            ]
+        }
+    }
+}

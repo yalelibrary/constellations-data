@@ -1,0 +1,261 @@
+{
+    "id": "Q114894460",
+    "label": "Richard Henry Greene",
+    "biographyMarkdown": "# Richard Henry Greene\n## Graduate of Yale College, 1857\nRichard Henry Greene (sometimes spelled \u201cGreen\u201d)  was born in New Haven in 1833, the son of Richard Greene, a local bootmaker and one of the founders of St. Luke's Episcopal Church. In 1853, the younger Greene was admitted to Yale College, where he was active in campus life, becoming a member of the literary society Brothers in Unity as well as the fraternity Delta Sigma. Greene was awarded a bachelor of arts degree in 1857.\n\nFollowing his graduation from Yale, Greene was a teacher in Milford, Connecticut. He subsequently moved to Bennington, Vermont to teach at the Bennington Seminary, and later studied medicine at Dartmouth College, where he received an MD in 1864. In 1863, Greene enlisted in the United States Navy and served as an acting assistant surgeon aboard the U.S. Steamer State of Georgia and the Steamer Seneca during the U.S. Civil War. During his service in the Navy, he married Charlotte Caldwell of Bennington.\n\nAfter the war, Greene and his wife settled in Hoosick, New York, where they had a daughter, Charlotte. He lived and practiced medicine in Hoosick until his death in 1877. In a letter written to Yale's secretary following his death, the elder Greene described the cause of his son's death as a \"disease of the heart.\"\n\nVery little is known about how Richard Henry Greene identified or presented himself racially, but in official documentation his and his family's racial identification varied. Greene grew up in a neighborhood of New Haven known at the time as \"Negro Lane,\" and in the New Haven City Directory, his father was regularly listed as \"col'd\" (\u201ccolored,\u201d i.e., Black). The younger Greene is listed as mulatto in the 1850 federal census, as Black in the 1860 census, and in 1870, he, his wife, and his daughter are listed in the census as white. An October 22, 1863 article in the Buffalo, New York newspaper The Advocate lists Greene along with Cortlandt Creed and John Burns Williams as previous Black graduates of Yale. Though Yale holds no records mentioning Greene's race, the research into his background indicates that he was the first Black graduate of Yale College. \n\nImage citation: Courtesy of Lisa Senecal Moseley\n",
+    "description": "Graduate of Yale College, 1857",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1833"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1877"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49116",
+                    "data": {
+                        "label": "Dartmouth College",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "open-access publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.703333333333,
+                                        "longitude": -72.288333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Dartmouth College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1857"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q755798",
+                    "data": {
+                        "label": "Milford, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.224166666667,
+                                        "longitude": -73.059722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Milford, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1428",
+                    "data": {
+                        "label": "Georgia, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33,
+                                        "longitude": -83.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3708212",
+                    "data": {
+                        "label": "Hoosick, New York, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "town of New York"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.8625,
+                                        "longitude": -73.328055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hoosick, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Greene"
+                }
+            ]
+        }
+    }
+}

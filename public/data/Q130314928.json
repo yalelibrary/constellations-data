@@ -1,0 +1,423 @@
+{
+    "id": "Q130314928",
+    "label": "William Henry Lacey",
+    "biographyMarkdown": "# William Henry Lacey\n## Attended Yale Divinity School, 1913-1914; Attended Yale Graduate School, 1914-1915\nWilliam Henry Lacey was born in Nashville, Tennessee in 1869. At age 12, he and his family moved to Topeka, Kansas. He was a graduate of Clark College (now part of Clark Atlanta University) and graduated from the Gammon Theological Seminary in Atlanta in 1895. He was ordained in 1892 and admitted to the North Georgia Conference of the African Methodist Episcopal Church in 1893. He served as a minister to churches in the Atlanta area, including Big Bethel AME Church. In 1895, he was appointed principal of the Wayman Institute, an elementary school founded by the Kentucky Conference of the AME Church in Harrodsburg, Kentucky. \n\nHe resigned from that position two years later to pursue missionary work in Bermuda. He remained in Bermuda for five years. He married Ada Amelia Parker, who was from Hamilton, Bermuda. \n\nWhen he returned to the United States, he pastored a number of churches in New York before transferring to the New England Conference. He was pastor of Bethel AME Church in New Haven. While in New Haven, he attended the Yale Divinity School as a special (non-degree student in the 1913-1914 academic year, then took graduate courses in the Department of Theology in the 1914-1915 academic year. In addition to ministry, he was also a talented tenor vocalist; he performed with Yale alumna Helen Hagan in 1916.\n\nHe continued his career as a minister, serving churches in Massachusetts and in St. Louis, Missouri. He died in St. Louis in 1949.\n\nImage citation: *Centennial Encyclopedia of the African Methodist Episcopal Church*, 1916\n",
+    "description": "Attended Yale Divinity School, 1913-1914; Attended Yale Graduate School, 1914-1915",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1949"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q89348157",
+                    "data": {
+                        "label": "Gammon Theological Seminary",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.752315,
+                                        "longitude": -84.408314
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Gammon Theological Seminary"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5127175",
+                    "data": {
+                        "label": "Clark College",
+                        "instance_of": [
+                            "community college",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 45.634,
+                                        "longitude": -122.652
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Clark College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1869"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23197",
+                    "data": {
+                        "label": "Nashville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "consolidated city-county",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.16222222222222,
+                                        "longitude": -86.77444444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Nashville, Tennessee, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23556",
+                    "data": {
+                        "label": "Atlanta, Georgia, United States",
+                        "instance_of": [
+                            "county seat",
+                            "big city",
+                            "city in the United States",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.756944444444,
+                                        "longitude": -84.390277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Atlanta, Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23635",
+                    "data": {
+                        "label": "Bermuda, British overseas territories, United Kingdom",
+                        "instance_of": [
+                            "island group",
+                            "British overseas territories",
+                            "administrative territorial entity",
+                            "archipelago"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.32,
+                                        "longitude": -64.74
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bermuda, British overseas territories, United Kingdom"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1384",
+                    "data": {
+                        "label": "New York, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43,
+                                        "longitude": -75
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q38022",
+                    "data": {
+                        "label": "St. Louis, Missouri, United States",
+                        "instance_of": [
+                            "big city",
+                            "independent city in the United States",
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.62638888888889,
+                                        "longitude": -90.19944444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "St. Louis, Missouri, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q41057",
+                    "data": {
+                        "label": "Topeka, Kansas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.04833,
+                                        "longitude": -95.67804
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Topeka, Kansas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q947405",
+                    "data": {
+                        "label": "Harrodsburg, Kentucky, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.7639,
+                                        "longitude": -84.8461
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harrodsburg, Kentucky, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q771",
+                    "data": {
+                        "label": "Massachusetts, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.3,
+                                        "longitude": -71.8
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23197",
+                    "data": {
+                        "label": "Nashville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "consolidated city-county",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.16222222222222,
+                                        "longitude": -86.77444444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Nashville, Tennessee, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "William Henry Lacey",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130314928.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Lacey"
+                }
+            ]
+        }
+    }
+}

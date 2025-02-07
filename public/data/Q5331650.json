@@ -1,0 +1,312 @@
+{
+    "id": "Q5331650",
+    "label": "Ebenezer Bassett",
+    "biographyMarkdown": "# Ebenezer Bassett\n## Attended Yale College circa 1850s\nEbenezer Bassett was born in Derby, Connecticut in 1833. In 1853, he was the first Black graduate of the Connecticut Normal School (now Central Connecticut State University). After graduation, Bassett moved to New Haven to teach at the Whiting School. In 1855, he joined the Temple Street Congregational Church and married Eliza Park, daughter of Robert Park, a New Haven leader and scientific research assistant of Yale professor Benjamin Silliman. He is believed to have attended Yale or to have studied with Yale faculty in the 1850s. \n\nBassett was an educator at the Institute for Colored Youth, an important anti-slavery activist, and the nation\u2019s first Black ambassador, appointed U.S. Minister Resident to Haiti by President Ulysses S. Grant in 1869. Bassett was considered a national Black leader, and was a friend and confidant of Frederick Douglass. In 1879, he was invited to speak at the Yale Law School on the topic of \u201cRight to Asylum.\u201d\n\nHe died in 1908 and is buried at Grove Street Cemetery. Two of his sons also attended Yale College: Ebenezer Bassett, Jr., who attended from 1881-1882, and Ulysses Simpson Grant Bassett, who graduated in 1895.\n\nImage citation: Photo courtesy of the Special Collections department, Elihu Burritt Library, Central Connecticut State University.\n",
+    "description": "Attended Yale College circa 1850s",
+    "publicationsMarkdown": "*Handbook of Haiti*. n.p., 1892. \n\n\"The Voice of a Negro: Should Haiti be Annexed to the United States,\" *The Voice of the Negro 1*, no. 5 (1904).\n\n\"Speech of Ebenezer D. Bassett of Philadelphia at the Anniversary of the Deleware [Sic] Association for the Moral Improvement and Education of the Colored People, Held in Institute Hall, February 28th, 1868,\" Self-published, 1868.\n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1833"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1908",
+                    "qualifiers": [
+                        {
+                            "label": "reason for deprecated rank",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q42727519",
+                                    "data": {
+                                        "label": "item/value with less precision and/or accuracy",
+                                        "instance_of": [
+                                            "Wikibase reason for deprecated rank"
+                                        ]
+                                    },
+                                    "text": "item/value with less precision and/or accuracy"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "time",
+                    "text": "1908"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1850"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1859"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "sourcing circumstances",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q5727902",
+                                    "data": {
+                                        "label": "circa",
+                                        "instance_of": [
+                                            "sourcing circumstance"
+                                        ]
+                                    },
+                                    "text": "circa"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1053764",
+                    "data": {
+                        "label": "Central Connecticut State University",
+                        "instance_of": [
+                            "university",
+                            "public educational institution of the United States"
+                        ]
+                    },
+                    "text": "Central Connecticut State University"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q755197",
+                    "data": {
+                        "label": "Derby, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.326666666667,
+                                        "longitude": -73.082222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Derby, Connecticut, United States"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q87818370",
+                    "data": {
+                        "label": "Institute for Colored Youth",
+                        "instance_of": [
+                            "educational institution"
+                        ]
+                    },
+                    "text": "Institute for Colored Youth"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q790",
+                    "data": {
+                        "label": "Haiti",
+                        "instance_of": [
+                            "sovereign state",
+                            "island country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 19,
+                                        "longitude": -72.8
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Haiti"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q755197",
+                    "data": {
+                        "label": "Derby, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.326666666667,
+                                        "longitude": -73.082222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Derby, Connecticut, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Ebenezer Bassett",
+                    "image-info": [
+                        {
+                            "url": "/data/Q5331650.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Bassett"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "id": "Q130309658",
+    "label": "Victor King",
+    "biographyMarkdown": "# Victor King\n## Received master\u2019s degree in Race Relations, 1936\nVictor King received a BA from Fourah Bay College in 1927, a diploma of theology in 1929, and a master\u2019s degree in 1931. He also received a degree from the University of London in 1932 and completed a PhD in 1957.\n\nHe completed a master\u2019s degree in race relations at Yale in 1936, writing a thesis on \u201cSecondary Education in Sierra Leone.\u201d He married Annie Elizabeth MacCauley in 1937, and they had four children. \n\nImage citation: Shaw University *Bear* yearbook, 1962. Shaw University Archives and Special Collections.\n",
+    "description": "Received master\u2019s degree in Race Relations, 1936",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1936"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q170027",
+                    "data": {
+                        "label": "University of London",
+                        "instance_of": [
+                            "university",
+                            "higher education institution",
+                            "open-access publisher",
+                            "educational organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 51.521111111111,
+                                        "longitude": -0.12888888888889
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 51.5229378,
+                                        "longitude": -0.1308206
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of London"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1506926",
+                    "data": {
+                        "label": "Fourah Bay College",
+                        "instance_of": [
+                            "public university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 8.49222222,
+                                        "longitude": -13.20944444
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 8.47719,
+                                        "longitude": -13.2212
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fourah Bay College"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1983"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3443493",
+                    "data": {
+                        "label": "Shaw University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.7712,
+                                        "longitude": -78.6361
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Shaw University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1044",
+                    "data": {
+                        "label": "Sierra Leone",
+                        "instance_of": [
+                            "republic",
+                            "sovereign state",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 8.5,
+                                        "longitude": -12.1
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Sierra Leone"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q41087",
+                    "data": {
+                        "label": "Raleigh, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.78,
+                                        "longitude": -78.64
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Raleigh, North Carolina, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Victor King",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309658.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "King"
+                }
+            ]
+        }
+    }
+}

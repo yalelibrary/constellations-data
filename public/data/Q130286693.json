@@ -1,0 +1,283 @@
+{
+    "id": "Q130286693",
+    "label": "Richard A. Ewing",
+    "biographyMarkdown": "# Richard A. Ewing\n## Attended Yale Divinity School, 1931-1932\nBorn in 1911 in Natchez, Mississippi, Richard Albert Ewing was raised in Nashville. He graduated from Fisk University and earned master's degrees from both Fisk and Columbia University. From 1931-1932, he studied at Yale Divinity School. In 1931, he married Esther Jackson, and together they had six children. Ewing served as pastor of the Howard Congregational Church United Church of Christ in Nashville for 25 years. He was also a distinguished teacher. He taught math at Pearl High School in Nashville and at Tennessee State University. He died suddenly of a heart attack in 1962 while in Los Angeles for a teaching conference. According to his obituary, he was pursuing a PhD at the time of his death. Ewing also organized the first interracial workshop for mathematics teachers in Tennessee.\n\nImage citation: Detail from Yale Divinity School class photograph from the Yale University Divinity School Memorabilia Collection (RG 53), Yale Divinity Library\n",
+    "description": "Attended Yale Divinity School, 1931-1932",
+    "publicationsMarkdown": "\"A Study of the Intelligence of the Seniors at Pearl High School.\" M.A. thesis, Fisk University, 1936.\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1911"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q944044",
+                    "data": {
+                        "label": "Natchez, Mississippi, United States",
+                        "instance_of": [
+                            "county seat",
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 31.560416666666665,
+                                        "longitude": -91.40316666666666
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Natchez, Mississippi, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1962"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1931"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1932"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49088",
+                    "data": {
+                        "label": "Columbia University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.8075,
+                                        "longitude": -73.961944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbia University"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1782948",
+                    "data": {
+                        "label": "Tennessee State University",
+                        "instance_of": [
+                            "public university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States",
+                            "land-grant university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.165874,
+                                        "longitude": -86.830337
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tennessee State University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23197",
+                    "data": {
+                        "label": "Nashville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "consolidated city-county",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.16222222222222,
+                                        "longitude": -86.77444444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Nashville, Tennessee, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q944044",
+                    "data": {
+                        "label": "Natchez, Mississippi, United States",
+                        "instance_of": [
+                            "county seat",
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 31.560416666666665,
+                                        "longitude": -91.40316666666666
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Natchez, Mississippi, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Richard A. Ewing",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130286693.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Ewing"
+                }
+            ]
+        }
+    }
+}

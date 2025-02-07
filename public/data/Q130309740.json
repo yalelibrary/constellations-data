@@ -1,0 +1,273 @@
+{
+    "id": "Q130309740",
+    "label": "Christopher H. Yearwood",
+    "biographyMarkdown": "# Christopher H. Yearwood\n## Graduate of Yale Divinity School, 1911\nChristopher H. Yearwood was born February 28, 1878 in Georgetown, British Guiana (capital of present-day Guyana), to Methodist preacher and cabinet maker Thomas Richard Yearwood and Louisa Prescod Yearwood. Christopher Yearwood followed in his father\u2019s footsteps from early in his life, training as Methodist minister and attending Queens College in Georgetown before moving to the United States. Even during his brief two-year period studying medicine, first at Boston College of Physicians and Surgeons and later at Harvard Medical School, Yearwood continued to preach. He turned towards religious pursuits full-time when he enrolled in the Yale Divinity School, and he preached in New Haven at the Bethel African Methodist Episcopal Church from 1908 to 1911. While at Yale he was also a member of Zeta Chapter of Alpha Phi Alpha. He continued to pastor for Bethel AME churches in New Bedford, Massachusetts and in Providence, Rhode Island in subsequent years, and was also a member of the General Conference of the African Methodist Episcopal Church and general secretary of the New England Conference of Bethel AME. Yearwood died on October 29, 1913 at the age of 35, following a prolonged illness.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1911",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1911"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7269949",
+                    "data": {
+                        "label": "Queen's College, Guyana",
+                        "instance_of": [
+                            "secondary school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 6.814285,
+                                        "longitude": -58.163735
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Queen's College, Guyana"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q13371",
+                    "data": {
+                        "label": "Harvard University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.374443888889,
+                                        "longitude": -71.116943888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harvard University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1878"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1913"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10717",
+                    "data": {
+                        "label": "Georgetown, Demerara-Mahaica, Guyana",
+                        "instance_of": [
+                            "city",
+                            "big city",
+                            "port settlement",
+                            "largest city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 6.805833333333333,
+                                        "longitude": -58.15083333333333
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 6.80448,
+                                        "longitude": -58.15527
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Georgetown, Demerara-Mahaica, Guyana"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49147",
+                    "data": {
+                        "label": "New Bedford, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.636111111111,
+                                        "longitude": -70.934722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Bedford, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q54253",
+                    "data": {
+                        "label": "Providence County, Rhode Island, United States",
+                        "instance_of": [
+                            "county of Rhode Island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.852777777777774,
+                                        "longitude": -71.45611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Providence County, Rhode Island, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10717",
+                    "data": {
+                        "label": "Georgetown, Demerara-Mahaica, Guyana",
+                        "instance_of": [
+                            "city",
+                            "big city",
+                            "port settlement",
+                            "largest city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 6.805833333333333,
+                                        "longitude": -58.15083333333333
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 6.80448,
+                                        "longitude": -58.15527
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Georgetown, Demerara-Mahaica, Guyana"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Christopher H. Yearwood",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309740.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Yearwood"
+                }
+            ]
+        }
+    }
+}

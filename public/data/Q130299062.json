@@ -1,0 +1,227 @@
+{
+    "id": "Q130299062",
+    "label": "Arthur Leslie Howard",
+    "biographyMarkdown": "# Arthur Leslie Howard\n## Graduate of Yale School of Medicine, 1897\nBorn in St. Thomas (in what is now the U.S. Virgin Islands) in 1876, Arthur Leslie Howard attended Cooke College in Antigua before coming to Yale. He graduated from the School of Medicine in 1897. As a student, he roomed with William Fletcher Penn (MD, 1897). After graduation, Howard moved to England, where he worked at the Liverpool East Dispensary for several months. Due to health issues, Howard relocated to Vroncysylite, Wales, but he died in 1904 at the age of 28.\n\nImage citation: Yale School of Medicine *Symptom Record*, 1897 (Ybd 897), Yale University Library\n",
+    "description": "Graduate of Yale School of Medicine, 1897",
+    "publicationsMarkdown": "\"Tetanus; its Complete Syptomatology and Recent Treatment.\" M.D. thesis, Yale University, 1897.\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1961140",
+                    "data": {
+                        "label": "Yale School of Medicine",
+                        "instance_of": [
+                            "medical school",
+                            "faculty"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.303245363975,
+                                        "longitude": -72.933871811889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Medicine",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1897"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1876"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q463937",
+                    "data": {
+                        "label": "Saint Thomas, United States",
+                        "instance_of": [
+                            "island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 18.333333333333,
+                                        "longitude": -64.916666666667
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 18.35329,
+                                        "longitude": -64.93653
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Saint Thomas, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1904"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q21",
+                    "data": {
+                        "label": "England",
+                        "instance_of": [
+                            "constituent country of the United Kingdom",
+                            "cultural area",
+                            "nation",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 53,
+                                        "longitude": -1
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "England"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q25",
+                    "data": {
+                        "label": "Wales",
+                        "instance_of": [
+                            "constituent country of the United Kingdom",
+                            "nation",
+                            "administrative region",
+                            "country",
+                            "country for sports"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 52.35,
+                                        "longitude": -3.6333333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wales"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q463937",
+                    "data": {
+                        "label": "Saint Thomas, United States",
+                        "instance_of": [
+                            "island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 18.333333333333,
+                                        "longitude": -64.916666666667
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 18.35329,
+                                        "longitude": -64.93653
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Saint Thomas, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Arthur Leslie Howard",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130299062.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Howard"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "id": "Q107313238",
+    "label": "Francis E. Rivers",
+    "biographyMarkdown": "# Francis E. Rivers\n## Graduate of Yale College, 1915\nBorn in Kansas City, Kansas in 1893, Francis E. Rivers was raised in Washington, DC. His father, Rev. David Foote Rivers, was a Baptist minister who served in the Tennessee state legislature; he did not complete his second term in office due to the threat of violence from the Ku Klux Klan. \n\nRivers studied law at Howard University before coming to Yale, where he received his BA and was elected to Phi Beta Kappa. After graduation, he entered Harvard Law School but left for financial reasons. During World War I, he rose to the rank of lieutenant in the 367th Infantry Regiment and was stationed in France. After some time seeking work, he entered Columbia Law School and graduated in 1922.\n\nRivers practiced law and was active in Republican politics in New York City. In 1930, he was elected to the State Assembly. In 1938, he joined the staff of then-District Attorney Thomas Dewey. In 1943, he became the first Black judge on the City Court and served until his retirement in 1963. At the time it was the highest judicial position held by a Black person in the country. \n\nIn 1943, his sponsor for membership to the American Bar Association resigned in protest when it appeared Rivers\u2019 application was being held up due to his race. He was later admitted as the second Black person to the ABA. He was the first Black member of the Association of the Bar of the City of New York, and was later vice president and chairman of its Special Committee on Civil Rights. \n\nIn spring 1944, Rivers returned to Yale to give a talk to the Dixwell Group, a local interracial organization sponsored by Dwight Hall, on the topic of \u201cPhD Porters - The Future of the Negro in the Professions.\u201d\n\nRivers was a board member of the NAACP Legal Defense and Education Fund and served as its president from 1965 to 1970. His obituary stated that he was treasurer of his Yale alumni group. Rivers died in 1975.\n\nImage citation: Yale College Class of 1915 class book, Yale University Library\n",
+    "description": "Graduate of Yale College, 1915",
+    "publicationsMarkdown": "\"Educational Supplement,\" *Messenger* 5, no. 5 (1923).\n\n\"Speech Made by Francis E. Rivers,\" *Afro-American*, October 8, 1932.\n\n\"Letter to the Editor,\" *Afro-American*, December 3, 1932.\n\n\"Consumed by CRIME!!!: Forty-Seven Big City Industries Paid Heavy WHEN POLITICS JOINS HANDS WITH RACKETS \nToll To Racketeers Until Dewey Came Along How The Public Pays Huge Sums To Gangland \nIn Hidden Shakedowns,\" *The Chicago Defender*, January 28, 1939.\n\n\"Dewey Our Best Hope, Says Rivers,\" *Afro-American*, February 24, 1940.\n\n\"Says New Deal Imposes Inferior Status On Negro\", *Cleveland Call and Post*, April 4, 1940.\n\n\"Voters 'Stupid' to New Deal, Rivers Charge,\" *Afro-American*, October 26, 1940.\n\n\"FINAL APPEAL TO THE COLORED VOTERS: Dedicated to the Colored Citizen at the \nTime of Casting His Ballat on November 5, 1940 \"BY HIS VOTE YE SHALL KNOW HIM,\" *Afro-American*, November 2, 1940.\n\n\"Discrimination Used To Disguise Discrimination,\" *Cleveland Call and Post*, July 18, 1942.\n\n\"Our Error,\" *New York Amsterdam News*, October 28, 1961. \n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1975"
+                },
+                {
+                    "value-type": "time",
+                    "text": "1975"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49088",
+                    "data": {
+                        "label": "Columbia University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.8075,
+                                        "longitude": -73.961944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbia University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q13371",
+                    "data": {
+                        "label": "Harvard University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.374443888889,
+                                        "longitude": -71.116943888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harvard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1915"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q486472",
+                    "data": {
+                        "label": "Kansas City, Kansas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.106666666667,
+                                        "longitude": -94.676388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kansas City, Kansas, United States"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1893"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q142",
+                    "data": {
+                        "label": "France",
+                        "instance_of": [
+                            "sovereign state",
+                            "colonial power",
+                            "Mediterranean country",
+                            "republic",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 47,
+                                        "longitude": 2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "France"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q486472",
+                    "data": {
+                        "label": "Kansas City, Kansas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.106666666667,
+                                        "longitude": -94.676388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kansas City, Kansas, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Francis E. Rivers",
+                    "image-info": [
+                        {
+                            "url": "/data/Q107313238.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Rivers"
+                }
+            ]
+        }
+    }
+}

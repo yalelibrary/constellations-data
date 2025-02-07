@@ -1,0 +1,437 @@
+{
+    "id": "Q4882381",
+    "label": "Belford Lawson, Jr.",
+    "biographyMarkdown": "# Belford Lawson, Jr.\n## Attended Yale Law School, late 1920s\n\nBelford Vance Lawson Jr. was born in 1901 in Roanoke, Virginia, son to Belford Sr. and Sarah Lawson. According to the 1910 census, Belford Sr., as well as Belford Jr.\u2019s two older brothers, worked as laborers in the railroad industry; he was expected to take a blue-collar job just as his family members had. Roanoke did not have a high school for the city\u2019s black residents, and Belford Vance Lawson enrolled in the Hampton Institute as a carpenter. According to his son, Belford Jr. \u201caspired to more than manual labor\u201d and attended Ferris Institute in Michigan to receive a college preparatory education.\n\nAfter a year at Ferris, he attended the University of Michigan and joined Alpha Phi Alpha fraternity. He was a member of the Michigan\u2019s debate team and played football.  He graduated in 1924 with a bachelor of arts degree.\n\nLawson taught and coached at Jackson College (now Jackson State University) and Morris Brown College. He then attended Yale Law School for approximately two years but did not graduate. During his time in New Haven, he became the director of the Dixwell Avenue Community House and was recognized nationally for his community work. \n\nIn 1931, he moved to Washington, D.C., where he worked for the Supreme Liberty Life Insurance Company and enrolled in Howard University Law School, from which he graduated in 1933. With Theodore Moody Berry, an Alpha Phi Alpha brother, he opened a law firm in Washington, D.C.\nHe also briefly taught at Terrell Law School.\n\nIn 1933, Lawson helped establish the New Negro Alliance (NNA), a civil rights organization that employed direct action techniques to secure jobs and better treatment for African Americans. Among their activities was using \u201cDon't Buy Where You Can\u2019t Work\u201d campaigns, including boycotts, petitions, and pickets, to pressure businesses to hire Black employees. One NNA boycott of Sanitary Grocery led to a 1938 Supreme Court case affirming the right to picket.\n\nLawson went on to have a notable law career and was the first Black attorney to win a case before the Supreme Court. He made eight appearances before the Supreme Court. Two significant cases, New Negro Alliance vs. Sanitary Grocery (1938) and Henderson vs. United States (1950), helped expand civil rights for African Americans with the former protecting the right to protest discriminatory businesses and the latter helping desegregate dining cars. \n\nIn 1939, he married Marjorie McKenzie, who was an accomplished lawyer, scholar, and judge on the D.C. Juvenile Court. In 1956, Lawson became the first Black person to address the Democratic National Convention. The Lawsons supported Kennedy\u2019s 1960 campaign, on which Marjorie McKenzie served as head of the civil rights division.\n\nLawson served as the 16th General President of Alpha Phi Alpha, continuing to remain active in leadership after his tenure and occasionally publishing in the fraternal journal, *The Sphinx*. He also served on several boards, including as national president of the YMCA and of the Alpha Phi Alpha fraternity, and as vice chairman of the United Negro College Fund. After more than 40 years as a lawyer, Lawson retired in 1977. He died in 1985, and his funeral procession took place at Howard University. \n\n\n\nImage citation: From the University of Michigan yearbook, 1924, Bentley Historical Library, University of Michigan\n",
+    "description": "Attended Yale Law School, late 1920s",
+    "publicationsMarkdown": "\"The Bleating of the Sheep,\" *The Sphinx* 11, no. 2 (1925).\n\n\"Alpha Phi Alpha and the Quest of the Certain,\" *The Sphinx* 20, no. 3 (1934).\n\n\"Potential Judges,\" *The Washington Post*, September 21, 1939.\n\n\"Along The Legal Front,\" *The Sphinx* 27, no. 2 (1941).\n\n\"Along The Legal Front,\" *The Sphinx* 27, no. 4 (1941).\n\n\"Alpha Phi Alpha Goes To Court,\" *The Sphinx* 30, no. 3 (1943).\n\n\"The Convention Call,\" *The Sphinx* 32, no. 3 (1946).\n\n\"The Convention Call,\" *The Sphinx* 33, no. 3 (1947).\n\n\"The Convention Call,\" *The Sphinx* 34, no. 3 (1948).\n\n\"The Convention Call,\" *The Sphinx* 35, no. 3 (1949).\n\n\"Of Regional Plan Predicted in 1950,\" *Afro-American*, January 7, 1950.\n\n\"The Convention Call,\" *The Sphinx* 36, no. 3 (1950).\n\n\"Judge Emory B. Smith,\" *The Journal of Negro History* 36, no. 1 (1951).\n\n\"A 'Farewell' from President Lawson,\" *The Sphinx* 38, no. 1 (1952).\n\n\"Euology of Walter F. Jerrick,\" *The Sphinx* 39, no. 4 (1953).\n\n\"United Negro College Fund,\" *The Washington Post*, April 3, 1955. \n\n\"A Cult of Mediocrity or A Call To Greatness,\" *The Sphinx* 45, no. 2 (1960).\n\n\"Alpha Phi Alpha And The Civil Rights Revolution,\" *The Sphinx* 49, no. 3 (1963). \n\n\"The Age of Access and the Social Revolution,\" *The Sphinx* 50, no. 2 (1964). \n\n\"Letters to the Editor: Judge Smith Praised,\" *The Washington Post*, June 3, 1966. \n",
+    "properties": {
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q501796",
+                    "data": {
+                        "label": "Roanoke, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "county seat",
+                            "railway town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.27055555555555,
+                                        "longitude": -79.9425
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Roanoke, Virginia, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q230492",
+                    "data": {
+                        "label": "University of Michigan",
+                        "instance_of": [
+                            "public research university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.276944444444446,
+                                        "longitude": -83.73805555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Michigan"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1407897",
+                    "data": {
+                        "label": "Ferris State University",
+                        "instance_of": [
+                            "university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.69739,
+                                        "longitude": -85.4839
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ferris State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1797817",
+                    "data": {
+                        "label": "Hampton University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.0225,
+                                        "longitude": -76.33472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hampton University"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1985"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1901"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1747601",
+                    "data": {
+                        "label": "Jackson State University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.296111111111,
+                                        "longitude": -90.207777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Jackson State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6913630",
+                    "data": {
+                        "label": "Morris Brown College",
+                        "instance_of": [
+                            "college",
+                            "historically black colleges and universities"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.7548,
+                                        "longitude": -84.4089
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morris Brown College"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q501796",
+                    "data": {
+                        "label": "Roanoke, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "county seat",
+                            "railway town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.27055555555555,
+                                        "longitude": -79.9425
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Roanoke, Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23556",
+                    "data": {
+                        "label": "Atlanta, Georgia, United States",
+                        "instance_of": [
+                            "county seat",
+                            "big city",
+                            "city in the United States",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.756944444444,
+                                        "longitude": -84.390277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Atlanta, Georgia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q984374",
+                    "data": {
+                        "label": "Jackson, Michigan, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.245833333333,
+                                        "longitude": -84.401388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Jackson, Michigan, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q105929359",
+                    "data": {
+                        "label": "Marjorie McKenzie Lawson",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Marjorie McKenzie Lawson",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "spouse"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Belford Lawson, Jr.",
+                    "image-info": [
+                        {
+                            "url": "/data/Q4882381.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Lawson,"
+                }
+            ]
+        }
+    }
+}

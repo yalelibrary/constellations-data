@@ -1,0 +1,300 @@
+{
+    "id": "Q130314927",
+    "label": "James Alan Carew",
+    "biographyMarkdown": "# James Alan Carew\n## Attended Yale Law School 1925-1926\nJames Alan Carew was born in 1898 in Topeka, Kansas to James Alan Carew, Sr. and Anna Cornelia Hardeman Carew. He lived in Topeka until 1907, the year his father died. He then lived in Morristown, Tennessee from 1907 to 1916. \n\nIn June 1917, Carew reported in his WWI draft registration card that he was employed as a bellman at the Yates Hotel in Syracuse, New York. He was drafted in November 1917 and served through the end of the war in 1918.\n\nAccording to his Yale Law application, he attended Morristown College in Tennessee and Wilberforce College before going to Syracuse University, where he received his bachelor's degree in 1923.  At Syracuse, he joined the Iota Chapter of Alpha Phi Alpha. \n\nAt the time he applied to the Yale Law School in 1924, he was living in Chicago, Illinois. He entered the Yale Law School with the class of 1927. As a Yale student, he transferred to the Zeta Chapter of Alpha Phi Alpha and became the chapter\u2019s secretary.\n\nIn his Yale scholarship application, he explained that while in school, \"I work each summer as a waiter in summer resorts, steamboats, or on railway trains.\"\n\nIn August 1926, Carew died in Buffalo, New York, where he was employed on a boat. The *Buffalo News* reported that he drowned while swimming.  He was buried in Chicago. \n\nImage citation: *Onondagan* yearbook, 1924, Syracuse University Yearbook Reference Collection, University Archives, Special Collections Research Center, Syracuse University Libraries\n\n",
+    "description": "Attended Yale Law School 1925-1926",
+    "properties": {
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1926"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.85003,
+                                        "longitude": -87.65005
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2330995",
+                    "data": {
+                        "label": "Morristown, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.2106,
+                                        "longitude": -83.2961
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morristown, Tennessee, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q41057",
+                    "data": {
+                        "label": "Topeka, Kansas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.04833,
+                                        "longitude": -95.67804
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Topeka, Kansas, United States"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q41057",
+                    "data": {
+                        "label": "Topeka, Kansas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.04833,
+                                        "longitude": -95.67804
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Topeka, Kansas, United States"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1898"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6914116",
+                    "data": {
+                        "label": "Morristown College",
+                        "instance_of": [
+                            "university campus",
+                            "historic district"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.221111111111114,
+                                        "longitude": -83.29277777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morristown College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q617433",
+                    "data": {
+                        "label": "Syracuse University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "private not-for-profit educational institution",
+                            "group of structures or buildings",
+                            "501(c)(3) organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.037638888889,
+                                        "longitude": -76.134
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Syracuse University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1924"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1926"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "James Alan Carew",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130314927.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Carew"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,447 @@
+{
+    "id": "Q130266872",
+    "label": "Samuel Moss Carter",
+    "biographyMarkdown": "# Samuel Moss Carter\n## Graduate of Yale Divinity School, 1930; Attended Yale Graduate School 1930s\nSamuel Moss Carter was born in 1904 in New Haven, Pennsylvania. He spent most of his childhood in Columbus, Ohio. His father and grandfather were both Baptist ministers. Carter completed a bachelor's degree at Ohio State in 1927, then continued his education at the Yale Divinity School. He completed a bachelor of divinity in 1930. Records show he remained at Yale, taking courses in the Graduate School through 1932 and continued coursework off and on through the 1930s. \n\nHe went on to a long career in education and ministry. In North Carolina, he taught philosophy and religion at Shaw University and worked as a pastor. In the mid-1940s, he moved to St. Petersburg, Florida to pastor the First Institutional Baptist Church. There, his wife, Nellie Carter, was credited with opening the town\u2019s first library for Black patrons. A few years later, the Carters moved to Richmond, Virginia, where Samuel was a dean and a professor at Virginia Union University and Union Theological Seminary. He received a master's degree in theology in 1957 and a doctorate of divinity in 1982 from Union. He was also pastor of First Baptist Church in Centralia, Virginia from 1950 to 1990. Carter died in 1999.\n\nImage citation: Yale Divinity School class composite photographs,  Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1930; Attended Yale Graduate School 1930s",
+    "publicationsMarkdown": "*The Work Of The Black Minister In Historical Perspective*. Richmond, VA: Virginia Union University, 1988.\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1904"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1126267",
+                    "data": {
+                        "label": "Connellsville, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.016111111111,
+                                        "longitude": -79.59
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Connellsville, Pennsylvania, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1999"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1930"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q309331",
+                    "data": {
+                        "label": "Ohio State University",
+                        "instance_of": [
+                            "public research university",
+                            "land-grant university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40,
+                                        "longitude": -83.0125
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ohio State University"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7885972",
+                    "data": {
+                        "label": "Union Presbyterian Seminary",
+                        "instance_of": [
+                            "seminary",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.578805555556,
+                                        "longitude": -77.449416666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Union Presbyterian Seminary"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1814758",
+                    "data": {
+                        "label": "Virginia Union University",
+                        "instance_of": [
+                            "university",
+                            "university campus",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.5625,
+                                        "longitude": -77.45111111111112
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Virginia Union University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3443493",
+                    "data": {
+                        "label": "Shaw University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.7712,
+                                        "longitude": -78.6361
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Shaw University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16567",
+                    "data": {
+                        "label": "Columbus, Ohio, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "city of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.96222222222222,
+                                        "longitude": -83.00055555555555
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbus, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49236",
+                    "data": {
+                        "label": "St. Petersburg, Florida, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 27.773055555556,
+                                        "longitude": -82.64
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "St. Petersburg, Florida, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60786328",
+                    "data": {
+                        "label": "Centralia",
+                        "instance_of": [
+                            "unincorporated community in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.3809821,
+                                        "longitude": -77.4599845
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Centralia"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1454",
+                    "data": {
+                        "label": "North Carolina, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.5,
+                                        "longitude": -80
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1126267",
+                    "data": {
+                        "label": "Connellsville, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.016111111111,
+                                        "longitude": -79.59
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Connellsville, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q41087",
+                    "data": {
+                        "label": "Raleigh, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.78,
+                                        "longitude": -78.64
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Raleigh, North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q43421",
+                    "data": {
+                        "label": "Richmond, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "state or insular area capital of the United States",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.54083333333333,
+                                        "longitude": -77.43666666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Richmond, Virginia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Samuel Moss Carter",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130266872.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Carter"
+                }
+            ]
+        }
+    }
+}

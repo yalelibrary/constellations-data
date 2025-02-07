@@ -1,0 +1,371 @@
+{
+    "id": "Q116360824",
+    "label": "Solomon Melvin Coles",
+    "biographyMarkdown": "# Solomon Melvin Coles\n## Graduate of Yale Divinity School, 1875\nBorn in Petersburg, Virginia in 1844, Solomon Melvin Coles had been enslaved by the Pryor family of Dinwiddie County, Virginia. Before the Civil War broke out, he was tutored in the home of H.J. Heartwell, the county sheriff. Following the war, he worked in Norfolk, Virginia and saved money to travel north to continue his education. In 1866, he became the first Black student to attend the Guilford Institute, a Congregational school. In 1869, he entered Lincoln University as a sophomore, earning his BA in 1872 and his MA in 1874. The first recipient of the scholarship established through Mary A. Goodman\u2019s bequest, Coles attended Yale Divinity School from 1872 to 1875 and was the first Black student to enroll at the Divinity School. He graduated from Yale in 1875. \n\nColes was sent by the American Missionary Association to Charleston, South Carolina, but before he went he was called to Brooklyn to help organize the Nazarene Congregational Church (the first Black Congregational church in Brooklyn). Ordained in 1877, Coles became pastor of the Freedom Congregational Church in Corpus Christi, Texas, and was the teacher and principal of the Colored Free School. In 1883, he helped establish the Colored Teachers State Association of Texas and served as its first president. Coles remained in Corpus Christi until 1894. \n\nIn 1887, Coles married M. Cornelia Lewis in New Orleans. They had two children. His wife and one of his daughters died in 1891. \n\nIn 1894, Coles relocated to San Antonio, where he taught English, math, and Latin at Riverside Elementary and then at Douglass Elementary for 20 years.\n\nIn 1914, Coles retired and lived with his daughter in Oberlin, Ohio, until his death in 1924.\n\nImage citation: Original source unidentified. Found at BlackPast.com.\n",
+    "description": "Graduate of Yale Divinity School, 1875",
+    "publicationsMarkdown": "\"Doubt in the Negro's Capabilities A Hindrance to His Higher Development,\" *Lincoln Alumni Magazine* 1, no. 1 (1884).\n\n\"Caste In Colored Institutions,\" *Lincoln Alumni Magazine 1*, no. 5 (1885).\n",
+    "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1844"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1924"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q511964",
+                    "data": {
+                        "label": "Petersburg, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.21295,
+                                        "longitude": -77.400417
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Petersburg, Virginia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130268018",
+                    "data": {
+                        "label": "Guilford Institute",
+                        "instance_of": [
+                            "school"
+                        ]
+                    },
+                    "text": "Guilford Institute"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1875"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49231",
+                    "data": {
+                        "label": "Norfolk, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.846944444444446,
+                                        "longitude": -76.28527777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Norfolk, Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q47716",
+                    "data": {
+                        "label": "Charleston, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.78333333333333,
+                                        "longitude": -79.93194444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Charleston, South Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18419",
+                    "data": {
+                        "label": "Brooklyn, New York City, United States",
+                        "instance_of": [
+                            "borough of New York City",
+                            "city in the United States",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.65083,
+                                        "longitude": -73.94972
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brooklyn, New York City, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49242",
+                    "data": {
+                        "label": "Corpus Christi, Texas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 27.742777777778,
+                                        "longitude": -97.401944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Corpus Christi, Texas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q34404",
+                    "data": {
+                        "label": "New Orleans, Louisiana, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 29.976111111111113,
+                                        "longitude": -90.07833333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Orleans, Louisiana, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q975",
+                    "data": {
+                        "label": "San Antonio, Texas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 29.425,
+                                        "longitude": -98.49388888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "San Antonio, Texas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q988384",
+                    "data": {
+                        "label": "Oberlin, Ohio, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.288333333333,
+                                        "longitude": -82.216666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Oberlin, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q511964",
+                    "data": {
+                        "label": "Petersburg, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.21295,
+                                        "longitude": -77.400417
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Petersburg, Virginia, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Solomon Melvin Coles",
+                    "image-info": [
+                        {
+                            "url": "/data/Q116360824.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Coles"
+                }
+            ]
+        }
+    }
+}

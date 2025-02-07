@@ -1,0 +1,273 @@
+{
+    "id": "Q130228060",
+    "label": "Joseph Henry Artope",
+    "biographyMarkdown": "# Joseph Henry Artope\n## Graduate of Yale Divinity School, 1892\nBorn in 1863 in Augusta, Georgia, Artope was the son of a Methodist minister. After his father\u2019s death, he worked as a young boy in a blacksmith\u2019s shop to help support his family. Artope attended Payne Institute in Augusta and was a teacher. From there, he went to Wilberforce University, where he studied ministry and also served as a teaching assistant in pastoral theology and as the manager for a student singing group who traveled to raise funds. \n\nIn 1889, Artope received his bachelor of divinity degree from Wilberforce University. He then went to Yale Divinity School, where he graduated in 1892. He married Bertie Clinton of Zanesville, Ohio, with whom he had one son. After graduation, Artope briefly served as pastor of an AME church in Wheeling, West Virginia, before moving to Brown Chapel in Walnut Hills, Cincinnati. After two years there, he was sent to a church in Chillicothe, Ohio. Artope died in 1896 at the age of 33 from malaria.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1892",
+    "properties": {
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q181962",
+                    "data": {
+                        "label": "Augusta, Georgia, United States",
+                        "instance_of": [
+                            "consolidated city-county",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.47,
+                                        "longitude": -81.975
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Augusta, Georgia, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1896"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q112566597",
+                    "data": {
+                        "label": "Payne Institute",
+                        "instance_of": [
+                            "Wikimedia disambiguation page"
+                        ]
+                    },
+                    "text": "Payne Institute"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1892"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1863"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q838112",
+                    "data": {
+                        "label": "Wheeling, West Virginia, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.070277777778,
+                                        "longitude": -80.698611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wheeling, West Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q43196",
+                    "data": {
+                        "label": "Cincinnati, Ohio, United States",
+                        "instance_of": [
+                            "big city",
+                            "city in the United States",
+                            "county seat",
+                            "city of Ohio"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.1,
+                                        "longitude": -84.5125
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cincinnati, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q988739",
+                    "data": {
+                        "label": "Chillicothe, Ohio, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.336388888889,
+                                        "longitude": -82.983888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chillicothe, Ohio, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q181962",
+                    "data": {
+                        "label": "Augusta, Georgia, United States",
+                        "instance_of": [
+                            "consolidated city-county",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.47,
+                                        "longitude": -81.975
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Augusta, Georgia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Joseph Henry Artope",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130228060.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Artope"
+                }
+            ]
+        }
+    }
+}

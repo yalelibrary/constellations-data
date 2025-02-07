@@ -1,0 +1,274 @@
+{
+    "id": "Q130309719",
+    "label": "James Robert Spurgeon",
+    "biographyMarkdown": "# James Robert Spurgeon\n## Graduate of Yale Law School, 1892\nBorn in Richmond, Virginia, in 1869, Spurgeon graduated from Valley Public School in Richmond, Virginia. He then went to the Hampton Normal and Agricultural Institute (now Hampton University), where he graduated as valedictorian in 1890. Spurgeon then came to law school at Yale, where he was named the Townsend Prize speaker, served as student treasurer, and joined the Kent Club. \n\nSpurgeon graduated from Yale in 1892. In 1894, he married Rosetta Cuffey, also a Hampton graduate, and began practicing law in Maysville, Kentucky. He served as an administrator of Black schools in Maysville. \n\nIn 1898, President William McKinley appointed Spurgeon as Secretary Minister of the American Legation in Liberia. He worked as a lawyer and member of the Supreme Court of Liberia and also as a lecturer and educator at Liberian colleges. In 1899, Spurgeon received an LLD degree from Wilberforce University. \n\nSpurgeon retired from his post in 1903 and returned to New York City, where he practiced law in the firm of Atkins, Collins, and Spurgeon. He was a high-ranking Mason and involved in other fraternal organizations. He published a pamphlet, \u201cThe Lost Word, or, the Search for Truth,\u201d in Liberia in 1900. He died in New York in 1942.\n\nImage citation: Schomburg Center for Research in Black Culture, Photographs and Prints Division, The New York Public Library. \n",
+    "description": "Graduate of Yale Law School, 1892",
+    "publicationsMarkdown": "\"From Far-Off Africa,\" *The Public Ledger*, August 15, 1898. \n\n*The Lost Word Or, The Search For Truth: Oration Delivered before the Grand Lodge of the Most Ancient And Honorable Fraternity of Free Masons in the Republic of Liberia*. Monrovia, LR: Press of the College of West Africa, 1899.\n\n\"New York and Liberia Steamship Company: Or the Commercial Possibilities of the Trade of West Africa with America,\" *Colored American Magazine 7*, no. 12 (1904).\n\n\"The Metropolitan Mercantile & Realty Company,\" *Colored American Magazine 13*, no. 5 (1904).\n",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1892"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1797817",
+                    "data": {
+                        "label": "Hampton University",
+                        "instance_of": [
+                            "university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.0225,
+                                        "longitude": -76.33472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hampton University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1869"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1942"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q43421",
+                    "data": {
+                        "label": "Richmond, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "state or insular area capital of the United States",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.54083333333333,
+                                        "longitude": -77.43666666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Richmond, Virginia, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q478393",
+                    "data": {
+                        "label": "Maysville, Kentucky, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.643888888889,
+                                        "longitude": -83.775833333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Maysville, Kentucky, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1014",
+                    "data": {
+                        "label": "Liberia",
+                        "instance_of": [
+                            "republic",
+                            "sovereign state",
+                            "country"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 6.533333,
+                                        "longitude": -9.75
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Liberia"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port settlement",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q43421",
+                    "data": {
+                        "label": "Richmond, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "state or insular area capital of the United States",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.54083333333333,
+                                        "longitude": -77.43666666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Richmond, Virginia, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "James Robert Spurgeon",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130309719.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Spurgeon"
+                }
+            ]
+        }
+    }
+}

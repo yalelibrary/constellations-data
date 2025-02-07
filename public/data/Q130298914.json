@@ -1,0 +1,197 @@
+{
+    "id": "Q130298914",
+    "label": "Theodore Hatcher",
+    "biographyMarkdown": "# Theodore Hatcher\n## Attended Yale College 1915-1917\nTheodore William Hatcher was born in 1895 in Waterbury, Connecticut, to Henry Alfred Hatcher and Nettie A. Dubois Hatcher. He attended Yale College from 1915 to 1917, and was on the class of 1919\u2019s track squad his first year. In 1917, he married Romietta Leonora Jackson, and they had two children, Natalie Roberta Hatcher and Theodore William Hatcher, Jr. Romietta may have been one of the first Black secretaries employed at Yale. They later divorced, and Romietta remarried to Earley Emmett Caple (Yale Law School, 1924).\n\nIn 1917, Hatcher worked at the Greist Manufacturing Company of New Haven as a clerk. He later worked for the U.S. Postal Service. As of a 1926 directory, he was living in Waterbury and working in banking. In 1930, Hatcher relocated to Delaware County, Pennsylvania, where he worked as a butler, chauffeur, and possibly in business for Thorpe Nesbit, Esq. According to Souls: A Genealogical Collection, a family history written by Hatcher\u2019s granddaughter Gwendolyn J. Hatcher, a friend may have financed Hatcher\u2019s education at Lincoln University, suggesting he returned to college while living and working in Pennsylvania. Hatcher died in 1976.\n\nImage citation: Yale College Class of 1919 class book, Yale University Library\n",
+    "description": "Attended Yale College 1915-1917",
+    "properties": {
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1917"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1915"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1895"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49178",
+                    "data": {
+                        "label": "Waterbury, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.558333333333,
+                                        "longitude": -73.036944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Waterbury, Connecticut, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1976"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q27844",
+                    "data": {
+                        "label": "Delaware County, Pennsylvania, United States",
+                        "instance_of": [
+                            "county of Pennsylvania",
+                            "home rule county of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.92,
+                                        "longitude": -75.4
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Delaware County, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49178",
+                    "data": {
+                        "label": "Waterbury, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.558333333333,
+                                        "longitude": -73.036944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Waterbury, Connecticut, United States"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Theodore Hatcher",
+                    "image-info": [
+                        {
+                            "url": "/data/Q130298914.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Hatcher"
+                }
+            ]
+        }
+    }
+}
