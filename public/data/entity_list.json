@@ -1309,8 +1309,8 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 33.496944444444,
-                                            "longitude": -80.862222222222
+                                            "latitude": 33.49194444444444,
+                                            "longitude": -80.85527777777777
                                         }
                                     ]
                                 }
@@ -2670,10 +2670,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Balamu Jaberi Mukasa",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q130309683.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -18905,8 +18905,8 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 33.496944444444,
-                                            "longitude": -80.862222222222
+                                            "latitude": 33.49194444444444,
+                                            "longitude": -80.85527777777777
                                         }
                                     ]
                                 }
@@ -22609,10 +22609,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Richard Henry Greene",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q114894460.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
