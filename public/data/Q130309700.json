@@ -87,34 +87,6 @@
                 }
             ]
         },
-        "place of birth": {
-            "label": "place of birth",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q7637779",
-                    "data": {
-                        "label": "Summit Bridge",
-                        "instance_of": [
-                            "unincorporated community in the United States"
-                        ],
-                        "properties": {
-                            "coordinate location": {
-                                "label": "coordinate location",
-                                "values": [
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 39.5353,
-                                        "longitude": -75.7261
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "text": "Summit Bridge"
-                }
-            ]
-        },
         "residence": {
             "label": "residence",
             "values": [
@@ -181,6 +153,34 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7637779",
+                    "data": {
+                        "label": "Summit Bridge",
+                        "instance_of": [
+                            "unincorporated community in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.5353,
+                                        "longitude": -75.7261
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Summit Bridge"
                 }
             ]
         },

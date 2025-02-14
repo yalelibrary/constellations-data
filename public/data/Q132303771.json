@@ -1,0 +1,49 @@
+{
+    "id": "Q132303771",
+    "label": "William Lawrence Peppers",
+    "biographyMarkdown": "# William Lawrence Peppers\n## Attended Yale Law School 1917-1918\n\nWilliam Lawrence Peppers was born April 12, 1884 in Lumberton, North Carolina to Charles Peppers, a carpenter, and Harriett Stephens Peppers, a housekeeper. His mother died sometime before 1900.  \n\nHe graduated from Lincoln University with a BA in 1914. He attended Yale Law School for the 1917-1918 academic year. While attending Yale, he lived at 207 Park St., where fellow Lincoln alum and Yale Law student Arthur H. Taylor also lived. He may have spent some time living in Philadelphia; in some records he lists a permanent address in Philadelphia, in care of his father.   \n\nIn the 1920 census, he is listed as living in Lumberton with his siblings John and Mary and employed as a waiter in a hotel. Alumni records suggest he was in Boston for a time in the early 1920s. In 1928, at the time of his sister Mary\u2019s death, he and his brother Henry were living in Chicago, Illinois.  \n\nIn 1936, Peppers reported to the Yale Alumni Office that he was employed as a mechanic for Dodge Motor Works in Detroit, and planned to open a law practice the following year. In 1938, Peppers reported he was now principal of a high school but planned to return to practicing law. \n\nPeppers died in 1957 in Lumberton. \n",
+    "description": "Attended Yale Law School 1917-1918",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Peppers"
+                }
+            ]
+        }
+    }
+}

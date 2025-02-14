@@ -1309,8 +1309,8 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 33.496944444444,
-                                            "longitude": -80.862222222222
+                                            "latitude": 33.49194444444444,
+                                            "longitude": -80.85527777777777
                                         }
                                     ]
                                 }
@@ -2522,6 +2522,28 @@
         }
     },
     {
+        "id": "Q132303761",
+        "label": "Arthur Holcombe Taylor",
+        "description": "Attended Yale Law School 1915-1916 and 1917-1918",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130299062",
         "label": "Arthur Leslie Howard",
         "description": "Graduate of Yale School of Medicine, 1897",
@@ -2670,10 +2692,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Balamu Jaberi Mukasa",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q130309683.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -8359,6 +8381,15 @@
         "label": "Effie Ella Grant Hardy",
         "description": "Attended Yale School of Music 1906-1909",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1885"
+                    }
+                ]
+            },
             "date of death": {
                 "label": "date of death",
                 "values": [
@@ -8925,6 +8956,28 @@
                             }
                         },
                         "text": "Talladega College"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q132303763",
+        "label": "Ferdinand Wardell Gratz Fenderson",
+        "description": "Attended Yale College 1905-1907; Received a master's degree, 1912",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -11893,6 +11946,28 @@
                             }
                         },
                         "text": "Benedict College"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q132309453",
+        "label": "H. Milton Mickens",
+        "description": "Possible graduate or student of Yale Divinity School or Graduate School circa 1890s-1900s",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "H. Milton Mickens",
+                        "image-info": [
+                            {
+                                "url": "/data/Q132309453.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -15264,6 +15339,28 @@
                             }
                         },
                         "text": "Yale Graduate School of Arts and Sciences"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q132303765",
+        "label": "James Francis Gregory",
+        "description": "Graduate of Yale Divinity School, 1901",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "James Francis Gregory",
+                        "image-info": [
+                            {
+                                "url": "/data/Q132303765.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -18703,6 +18800,28 @@
         }
     },
     {
+        "id": "Q131765031",
+        "label": "Joseph James Rhoads",
+        "description": "Attended Yale Divinity School 1922-1923",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Joseph James Rhoads",
+                        "image-info": [
+                            {
+                                "url": "/data/Q131765031.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130266892",
         "label": "Josephus R. Coan",
         "description": "Graduate of Yale School of Divinity, 1933",
@@ -18905,8 +19024,8 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 33.496944444444,
-                                            "longitude": -80.862222222222
+                                            "latitude": 33.49194444444444,
+                                            "longitude": -80.85527777777777
                                         }
                                     ]
                                 }
@@ -21675,6 +21794,28 @@
         }
     },
     {
+        "id": "Q132303767",
+        "label": "Perry Theodore Johnson, Jr.",
+        "description": "Attended Yale Divinity School 1914-1915",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130309725",
         "label": "Philip Manual Thorne",
         "description": "Graduate of Yale Law School, 1909",
@@ -22609,10 +22750,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Richard Henry Greene",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q114894460.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -24919,6 +25060,28 @@
         }
     },
     {
+        "id": "Q132303769",
+        "label": "Thomas Jarvis Taylor, Jr.",
+        "description": "Attended Sheffield Scientific School 1903-1904; Attended Yale Graduate School 1908-1909",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Thomas Jarvis Taylor, Jr.",
+                        "image-info": [
+                            {
+                                "url": "/data/Q132303769.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130309713",
         "label": "Thomas Lindsay Smith",
         "description": "Attended Yale School of Medicine, 1859-1860",
@@ -26059,6 +26222,28 @@
                             }
                         },
                         "text": "University of Chicago"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q132303773",
+        "label": "W. Norman Bishop",
+        "description": "Attended Yale Law School, 1912-1915",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -28804,6 +28989,28 @@
                             }
                         },
                         "text": "Yale School of Medicine"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q132303771",
+        "label": "William Lawrence Peppers",
+        "description": "Attended Yale Law School 1917-1918",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
