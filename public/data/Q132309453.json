@@ -1,0 +1,49 @@
+{
+    "id": "Q132309453",
+    "label": "H. Milton Mickens",
+    "biographyMarkdown": "# H. Milton Mickens\n## Possible graduate or student of Yale Divinity School or Graduate School circa 1890s-1900s\n\nImage citation: *Centennial Encyclopaedia of the African Methodist Episcopal Church* (1916) by Richard R. Wright\n",
+    "description": "Possible graduate or student of Yale Divinity School or Graduate School circa 1890s-1900s",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "H. Milton Mickens",
+                    "image-info": [
+                        {
+                            "url": "/data/Q132309453.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Mickens"
+                }
+            ]
+        }
+    }
+}
