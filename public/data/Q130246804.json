@@ -20,7 +20,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q56663",
                     "data": {
-                        "label": "Subic",
+                        "label": "Subic, Philippines",
                         "instance_of": [
                             "municipality of the Philippines"
                         ],
@@ -37,7 +37,7 @@
                             }
                         }
                     },
-                    "text": "Subic"
+                    "text": "Subic, Philippines"
                 }
             ]
         },
@@ -203,7 +203,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q56663",
                     "data": {
-                        "label": "Subic",
+                        "label": "Subic, Philippines",
                         "instance_of": [
                             "municipality of the Philippines"
                         ],
@@ -220,7 +220,7 @@
                             }
                         }
                     },
-                    "text": "Subic"
+                    "text": "Subic, Philippines"
                 }
             ]
         },

@@ -61,7 +61,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q463937",
                     "data": {
-                        "label": "Saint Thomas, United States",
+                        "label": "St. Thomas, United States Virgin Islands",
                         "instance_of": [
                             "island"
                         ],
@@ -83,7 +83,7 @@
                             }
                         }
                     },
-                    "text": "Saint Thomas, United States"
+                    "text": "St. Thomas, United States Virgin Islands"
                 }
             ]
         },
@@ -156,7 +156,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q463937",
                     "data": {
-                        "label": "Saint Thomas, United States",
+                        "label": "St. Thomas, United States Virgin Islands",
                         "instance_of": [
                             "island"
                         ],
@@ -178,7 +178,7 @@
                             }
                         }
                     },
-                    "text": "Saint Thomas, United States"
+                    "text": "St. Thomas, United States Virgin Islands"
                 }
             ]
         },

@@ -100,8 +100,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 33.496944444444,
-                                        "longitude": -80.862222222222
+                                        "latitude": 33.49194444444444,
+                                        "longitude": -80.85527777777777
                                     }
                                 ]
                             }
@@ -151,8 +151,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 33.496944444444,
-                                        "longitude": -80.862222222222
+                                        "latitude": 33.49194444444444,
+                                        "longitude": -80.85527777777777
                                     }
                                 ]
                             }
@@ -164,7 +164,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q100251925",
                     "data": {
-                        "label": "Quindaro",
+                        "label": "Quindaro, Kansas, United States",
                         "instance_of": [
                             "human settlement"
                         ],
@@ -181,7 +181,7 @@
                             }
                         }
                     },
-                    "text": "Quindaro"
+                    "text": "Quindaro, Kansas, United States"
                 }
             ]
         },

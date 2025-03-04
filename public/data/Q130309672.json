@@ -105,7 +105,8 @@
                     "data": {
                         "label": "Rutherfordton, North Carolina, United States",
                         "instance_of": [
-                            "town in the United States"
+                            "town in the United States",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {

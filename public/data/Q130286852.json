@@ -205,7 +205,8 @@
                         "label": "New Bern, North Carolina, United States",
                         "instance_of": [
                             "city in the United States",
-                            "county seat"
+                            "county seat",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -266,7 +267,8 @@
                         "label": "New Bern, North Carolina, United States",
                         "instance_of": [
                             "city in the United States",
-                            "county seat"
+                            "county seat",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -287,7 +289,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q6039090",
                     "data": {
-                        "label": "Institute",
+                        "label": "Institute, West Virginia, United States",
                         "instance_of": [
                             "unincorporated community in the United States"
                         ],
@@ -304,7 +306,7 @@
                             }
                         }
                     },
-                    "text": "Institute"
+                    "text": "Institute, West Virginia, United States"
                 },
                 {
                     "value-type": "wikibase-item",

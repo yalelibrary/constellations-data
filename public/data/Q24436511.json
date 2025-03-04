@@ -38,7 +38,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q1185346",
                     "data": {
-                        "label": "Demerara",
+                        "label": "Demerara, Guyana",
                         "instance_of": [
                             "historical region"
                         ],
@@ -55,7 +55,7 @@
                             }
                         }
                     },
-                    "text": "Demerara"
+                    "text": "Demerara, Guyana"
                 }
             ]
         },
@@ -197,7 +197,7 @@
                         "label": "Freetown, Western Area, Sierra Leone",
                         "instance_of": [
                             "city",
-                            "port settlement",
+                            "port city",
                             "big city"
                         ],
                         "properties": {
@@ -244,7 +244,8 @@
                     "data": {
                         "label": "Troy, North Carolina, United States",
                         "instance_of": [
-                            "town in the United States"
+                            "town in the United States",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -267,7 +268,8 @@
                     "data": {
                         "label": "Kings Mountain, North Carolina, United States",
                         "instance_of": [
-                            "city in the United States"
+                            "city in the United States",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -288,7 +290,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q1185346",
                     "data": {
-                        "label": "Demerara",
+                        "label": "Demerara, Guyana",
                         "instance_of": [
                             "historical region"
                         ],
@@ -305,7 +307,7 @@
                             }
                         }
                     },
-                    "text": "Demerara"
+                    "text": "Demerara, Guyana"
                 }
             ]
         },

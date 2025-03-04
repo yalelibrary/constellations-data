@@ -92,7 +92,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q2003377",
                     "data": {
-                        "label": "Zombodze",
+                        "label": "Zombodze, Eswatini",
                         "instance_of": [
                             "inkhundla"
                         ],
@@ -114,7 +114,7 @@
                             }
                         }
                     },
-                    "text": "Zombodze"
+                    "text": "Zombodze, Eswatini"
                 }
             ]
         },
@@ -172,7 +172,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q2003377",
                     "data": {
-                        "label": "Zombodze",
+                        "label": "Zombodze, Eswatini",
                         "instance_of": [
                             "inkhundla"
                         ],
@@ -194,7 +194,7 @@
                             }
                         }
                     },
-                    "text": "Zombodze"
+                    "text": "Zombodze, Eswatini"
                 }
             ]
         },

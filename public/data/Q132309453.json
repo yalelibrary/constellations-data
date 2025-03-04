@@ -1,0 +1,468 @@
+{
+    "id": "Q132309453",
+    "label": "H. Milton Mickens",
+    "biographyMarkdown": "# H. Milton Mickens\n## Possible graduate or student of Yale Divinity School or Graduate School circa 1890s-1900s\n\nImage citation: *Centennial Encyclopaedia of the African Methodist Episcopal Church* (1916) by Richard R. Wright\n",
+    "description": "Possible graduate or student of Yale Divinity School or Graduate School circa 1890s-1900s",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1855"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q131252",
+                    "data": {
+                        "label": "University of Chicago",
+                        "instance_of": [
+                            "private university",
+                            "private not-for-profit educational institution",
+                            "research university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.789722222222,
+                                        "longitude": -87.599722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Chicago"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "sourcing circumstances",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q5727902",
+                                    "data": {
+                                        "label": "circa",
+                                        "instance_of": [
+                                            "sourcing circumstance"
+                                        ]
+                                    },
+                                    "text": "circa"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "earliest date",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1890"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "earliest end date",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1910"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6365149",
+                    "data": {
+                        "label": "Kansas Wesleyan University",
+                        "instance_of": [
+                            "university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.8136,
+                                        "longitude": -97.6094
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kansas Wesleyan University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2571544",
+                    "data": {
+                        "label": "Delhi, Louisiana, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.457777777778,
+                                        "longitude": -91.493055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Delhi, Louisiana, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6346",
+                    "data": {
+                        "label": "Indianapolis, Indiana, United States",
+                        "instance_of": [
+                            "county seat",
+                            "city in the United States",
+                            "planned community",
+                            "big city",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.768611111111,
+                                        "longitude": -86.158055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Indianapolis, Indiana, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5083",
+                    "data": {
+                        "label": "Seattle, Washington, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 47.605,
+                                        "longitude": -122.33
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Seattle, Washington, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1650620",
+                    "data": {
+                        "label": "Salina, Kansas, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.8242,
+                                        "longitude": -97.6072
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Salina, Kansas, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18013",
+                    "data": {
+                        "label": "Sacramento, California, United States",
+                        "instance_of": [
+                            "county seat",
+                            "city in the United States",
+                            "big city",
+                            "charter city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.575277777778,
+                                        "longitude": -121.48611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Sacramento, California, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5092",
+                    "data": {
+                        "label": "Baltimore, Maryland, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.286388888889,
+                                        "longitude": -76.615
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Baltimore, Maryland, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q241808",
+                    "data": {
+                        "label": "Huntington, West Virginia, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.420833333333,
+                                        "longitude": -82.423611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Huntington, West Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1010199",
+                    "data": {
+                        "label": "Clarksburg, West Virginia, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.28055555555556,
+                                        "longitude": -80.34444444444445
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Clarksburg, West Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port city",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q994719",
+                    "data": {
+                        "label": "Christiansted, Saint Croix, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "sub-district of the United States Virgin Islands"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 17.75,
+                                        "longitude": -64.75
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Christiansted, Saint Croix, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16563",
+                    "data": {
+                        "label": "Memphis, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.1175,
+                                        "longitude": -89.971111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Memphis, Tennessee, United States"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q132733979",
+                    "data": {
+                        "label": "Lampton College",
+                        "instance_of": [
+                            "educational institution"
+                        ]
+                    },
+                    "text": "Lampton College"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "H. Milton Mickens",
+                    "image-info": [
+                        {
+                            "url": "/data/Q132309453.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Mickens"
+                }
+            ]
+        }
+    }
+}

@@ -202,7 +202,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q5326912",
                     "data": {
-                        "label": "Earlysville",
+                        "label": "Earlysville, Virginia, United States",
                         "instance_of": [
                             "unincorporated community in the United States"
                         ],
@@ -219,7 +219,7 @@
                             }
                         }
                     },
-                    "text": "Earlysville"
+                    "text": "Earlysville, Virginia, United States"
                 }
             ]
         },
@@ -253,7 +253,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q5326912",
                     "data": {
-                        "label": "Earlysville",
+                        "label": "Earlysville, Virginia, United States",
                         "instance_of": [
                             "unincorporated community in the United States"
                         ],
@@ -270,7 +270,7 @@
                             }
                         }
                     },
-                    "text": "Earlysville"
+                    "text": "Earlysville, Virginia, United States"
                 },
                 {
                     "value-type": "wikibase-item",

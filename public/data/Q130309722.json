@@ -261,7 +261,9 @@
                         "label": "Charlotte, North Carolina, United States",
                         "instance_of": [
                             "city in the United States",
-                            "big city"
+                            "big city",
+                            "county seat",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {

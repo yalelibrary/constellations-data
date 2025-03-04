@@ -183,7 +183,7 @@
                         "label": "New York City, New York, United States",
                         "instance_of": [
                             "global city",
-                            "port settlement",
+                            "port city",
                             "city in the United States",
                             "city",
                             "big city",
@@ -211,7 +211,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q918126",
                     "data": {
-                        "label": "British Guiana",
+                        "label": "Guyana",
                         "instance_of": [
                             "crown colony"
                         ],
@@ -228,7 +228,7 @@
                             }
                         }
                     },
-                    "text": "British Guiana"
+                    "text": "Guyana"
                 },
                 {
                     "value-type": "wikibase-item",

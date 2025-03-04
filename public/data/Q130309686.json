@@ -256,7 +256,8 @@
                         "label": "Wilmington, North Carolina, United States",
                         "instance_of": [
                             "city in the United States",
-                            "county seat"
+                            "county seat",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {

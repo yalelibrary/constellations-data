@@ -331,7 +331,7 @@
                         "label": "New York City, New York, United States",
                         "instance_of": [
                             "global city",
-                            "port settlement",
+                            "port city",
                             "city in the United States",
                             "city",
                             "big city",
@@ -554,7 +554,6 @@
                         "label": "Columbia, South Carolina, United States",
                         "instance_of": [
                             "city in the United States",
-                            "state or insular area capital of the United States",
                             "county seat"
                         ],
                         "properties": {

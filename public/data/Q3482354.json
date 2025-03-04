@@ -181,7 +181,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q209842",
                     "data": {
-                        "label": "University of Paris",
+                        "label": "Sorbonne",
                         "instance_of": [
                             "university in France",
                             "former entity",
@@ -200,7 +200,7 @@
                             }
                         }
                     },
-                    "text": "University of Paris",
+                    "text": "Sorbonne",
                     "qualifiers": [
                         {
                             "label": "end time",
@@ -528,8 +528,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 41.85003,
-                                        "longitude": -87.65005
+                                        "latitude": 41.88194444444444,
+                                        "longitude": -87.62777777777778
                                     }
                                 ]
                             }
@@ -544,7 +544,7 @@
                         "label": "Accra, Ghana",
                         "instance_of": [
                             "city",
-                            "port settlement",
+                            "port city",
                             "big city",
                             "national capital"
                         ],
@@ -570,7 +570,7 @@
                         "label": "Dar es Salaam, Tanzania",
                         "instance_of": [
                             "city",
-                            "port settlement",
+                            "port city",
                             "largest city",
                             "national capital",
                             "former national capital"
@@ -594,7 +594,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q85",
                     "data": {
-                        "label": "Cairo, Cairo Governorate, Egypt",
+                        "label": "Cairo, Egypt",
                         "instance_of": [
                             "big city",
                             "megacity",
@@ -617,7 +617,7 @@
                             }
                         }
                     },
-                    "text": "Cairo, Cairo Governorate, Egypt"
+                    "text": "Cairo, Egypt"
                 }
             ]
         },
@@ -640,8 +640,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 41.85003,
-                                        "longitude": -87.65005
+                                        "latitude": 41.88194444444444,
+                                        "longitude": -87.62777777777778
                                     }
                                 ]
                             }
@@ -677,7 +677,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q85",
                     "data": {
-                        "label": "Cairo, Cairo Governorate, Egypt",
+                        "label": "Cairo, Egypt",
                         "instance_of": [
                             "big city",
                             "megacity",
@@ -700,7 +700,7 @@
                             }
                         }
                     },
-                    "text": "Cairo, Cairo Governorate, Egypt"
+                    "text": "Cairo, Egypt"
                 },
                 {
                     "value-type": "wikibase-item",

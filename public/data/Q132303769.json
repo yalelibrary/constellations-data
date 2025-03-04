@@ -1,0 +1,429 @@
+{
+    "id": "Q132303769",
+    "label": "Thomas Jarvis Taylor, Jr.",
+    "biographyMarkdown": "# Thomas Jarvis Taylor, Jr.\n## Attended Sheffield Scientific School 1903-1904; Attended Yale Graduate School 1908-1909\n\nThomas Jarvis Taylor was born November 25, 1885, in New Haven, Connecticut. His family lived at 32 Foote Street. Taylor received his preparatory education at the Hopkins Grammar School and graduated in 1902.[^1] In 1903, he began attending the Sheffield Scientific School at Yale, living at his family home in the Dixwell neighborhood.[^2] According to the *Yale Daily News*, Taylor tried to join the freshman baseball team at Yale but did not make the team for unknown reasons.[^3] Possibly due to being passed over for the Yale baseball team, Thomas Jarvis Taylor transferred to Wesleyan University in 1904 where he was on the school\u2019s baseball team in 1905 and 1906. Throughout his baseball career at Wesleyan, he often was often unable to play for Wesleyan as rival teams, such as Princeton, refused to play against a Black person.[^4] He attempted to rejoin the team, but, according to a local news story, the captain of the team forced Taylor and another Black player, John Davis Smith, off the team on account of their race.[^5]  \n\nTaylor graduated from Wesleyan University in 1908 with a bachelor of science degree and began attending Yale Graduate School the same year to study French.[^6] He left Yale Graduate School the following year to teach at the Tuskegee Normal and Industrial Institute in Tuskegee, Alabama, where he was appointed assistant dean.[^7] He taught there until 1915 when he moved to Bordentown, New Jersey to teach at Bordentown Industrial Manual Training School from 1915 to 1918. He went to Howard University\u2019s Teaching Institute during the summer of 1918 and began teaching at Lincoln High School in Kansas City, Missouri in the fall of 1918. At some point, Taylor moved to Chicago and attended Kent Law School, graduating in 1924.[^8] There are discrepancies about what he did after law school. His Yale obituary reported that he was working as a probation officer in the Juvenile Court of Chicago. However, the New Haven coroner records reported that he was a lawyer at the time of his death. Thomas Jarvis Taylor died on March 31, 1927, in New Haven during a visit to his parents, and was survived by his wife.[^9] \n\n \n[^1]: *Catalogue of the Trustees, Rectors, Instructors and Alumni of the Hopkins Grammar School of New Haven, Connecticut*. 1660-1902 (New Haven, CT: The Dorman Lithographic Company, Printers, 1902), 152, https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t7xk8hm84&seq=152&q1=%22Thomas+Jarvis+Taylor%22.  \n\n[^2]: *Catalogue of Yale University*. 1903-1904 (New Haven, CT: The Tuttle, Morehouse & Taylor Company, 1903), 553, https://babel.hathitrust.org/cgi/pt?id=hvd.hnw3yg&seq=553&q1=%22Thomas+Jarvis+Taylor%22.  \n\n[^3]: \u201c1907 Baseball Candidates,\u201d *Yale Daily News*, January 30, 1904, https://ydnhistorical.library.yale.edu/?a=d&d=YDN19040130-01.2.1&srpos=2&e=-------en-20--1--txt-txIN-%22T.+J.+Taylor%22-------false.  \n\n[^4]: Gregory Bond, \u201cJim Crow: Race, Manliness, and the Color Line in American Sports, 1876-1916\u201d (dissertation, University of Wisconsin-Madison, 2008), 498. \n\n[^5]: \u201cWon By Georgetown,\u201d The Washington Post, May 16, 1908, https://www.proquest.com/docview/144620370/fulltextPDF/A6632BBA1464899PQ/1?accountid=15172&sourcetype=Historical%20Newspapers.   \n\n[^6]: *Catalogue of Yale University*. 1908-1909 (New Haven, CT: The Tuttle, Morehouse & Taylor Company, 1908), 635, https://babel.hathitrust.org/cgi/pt?id=njp.32101065108316&seq=647&q1=%22Thomas+Jarvis+Taylor%22.  \n\n[^7]: \u201cNew Havenite Tuskegee Dean,\u201d *New York Age*, Nov. 18, 1909.  \n\n[^8]: \u201cCommencement Day,\u201d *The Chicago Kent Review* 3, no. 1 (1924), https://scholarship.kentlaw.iit.edu/cgi/viewcontent.cgi?article=1029&context=cklawreview.  \n\n[^9]: \"New Haven, Connecticut, United States records,\" images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSRD-FSFV-L?view=index : Jan 30, 2025), image 46 of 1567; \u201cAlumni Notes,\" *The Yale Alumni Weekly* 26, no. 30 (1927), https://babel.hathitrust.org/cgi/pt?id=nyp.33433005985233&seq=835&q1=Thomas+Jarvis+Taylor. \n\nImage citation: Wesleyan University *Olla Podrida* yearbook, Wesleyan University Special Collections & Archives\n",
+    "description": "Attended Sheffield Scientific School 1903-1904; Attended Yale Graduate School 1908-1909",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7492742",
+                    "data": {
+                        "label": "Sheffield Scientific School",
+                        "instance_of": [
+                            "college"
+                        ]
+                    },
+                    "text": "Sheffield Scientific School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1903"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1904"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1908"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1909"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49167",
+                    "data": {
+                        "label": "Wesleyan University",
+                        "instance_of": [
+                            "university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.55562,
+                                        "longitude": -72.655844
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wesleyan University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5900712",
+                    "data": {
+                        "label": "Hopkins School",
+                        "instance_of": [
+                            "university-preparatory school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.31959110772107,
+                                        "longitude": -72.9725665498971
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hopkins School"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1885"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1927"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q41819",
+                    "data": {
+                        "label": "Kansas City, Missouri, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "LGBT sanctuary city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.05,
+                                        "longitude": -94.583333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kansas City, Missouri, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.88194444444444,
+                                        "longitude": -87.62777777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79718",
+                    "data": {
+                        "label": "Tuskegee, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.431506,
+                                        "longitude": -85.706781
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tuskegee, Alabama, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1089251",
+                    "data": {
+                        "label": "Bordentown, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.1498,
+                                        "longitude": -74.7076
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bordentown, New Jersey, United States"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1682329",
+                    "data": {
+                        "label": "Tuskegee University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.430278,
+                                        "longitude": -85.707778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tuskegee University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4944514",
+                    "data": {
+                        "label": "Bordentown School",
+                        "instance_of": [
+                            "high school",
+                            "school building"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.1414,
+                                        "longitude": -74.7236
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bordentown School"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Thomas Jarvis Taylor, Jr.",
+                    "image-info": [
+                        {
+                            "url": "/data/Q132303769.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Taylor,"
+                }
+            ]
+        }
+    }
+}

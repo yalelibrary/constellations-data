@@ -1,0 +1,325 @@
+{
+    "id": "Q132303763",
+    "label": "Ferdinand Wardell Gratz Fenderson",
+    "biographyMarkdown": "# Ferdinand Wardell Gratz Fenderson\n## Attended Yale College 1905-1907; Received a master's degree, 1912\n\nFerdinand Wardell Gratz Fenderson was born in New Haven, Connecticut to David Monroe Fenderson and Alice Brookfield, both from North Carolina. Records differ as to his birth year \u2013 Yale records list his birth year as 1886, while other sources say 1889 or 1895.  He reported in his Yale College application that his father was a blacksmith but was not presently working due to disability.  He attended New Haven High School (now Hillhouse High School) and Philips Academy, graduating in 1904. He may have been employed at the Pequot Association\u2019s clubhouse in Morris Cove during the summer of 1903; he asked that the results of his Yale admission exam be sent there. He was a member of St. Luke\u2019s Episcopal Church in New Haven; St. Luke\u2019s rector Rev. Eugene L. Henderson wrote a letter of recommendation for Fenderson when he applied to Yale College.  \n\nHe attended Yale College from 1905 to 1907 and later graduated from Wesleyan University in 1911 with a BA in History and German. He then returned to Yale, earning a MA in 1912. During his time at Yale, he was a member of the Zeta Chapter of Alpha Phi Alpha Fraternity and lived at 17 Eaton Street with his family.  \n\nFenderson taught at Court Street School in Freehold, New Jersey from 1914 to 1917. At the time of his 1917 draft registration, he was employed by the YMCA of Freehold, New Jersey. In 1924, he reported to the Yale Alumni Records Office that he was employed as an associate editor at the Monmouth Democrat newspaper and that he was director of the Shelter Home in Long Branch, New Jersey. He may have also been employed by a law office. At the time of his 1942 draft registration, he reported he was living in Freehold and was employed by the Monmouth Democrat newspaper. He may have run unsuccessfully for the Freehold town council in 1947. Fenderson died in New Jersey in 1957 and is buried in Maplewood Cemetery.  \n",
+    "description": "Attended Yale College 1905-1907; Received a master's degree, 1912",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49112",
+                    "data": {
+                        "label": "Yale University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "academic publisher",
+                            "production company"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311111111111,
+                                        "longitude": -72.926666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale University",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1905"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1907"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1912"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49167",
+                    "data": {
+                        "label": "Wesleyan University",
+                        "instance_of": [
+                            "university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.55562,
+                                        "longitude": -72.655844
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wesleyan University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q14714934",
+                    "data": {
+                        "label": "Hillhouse High School",
+                        "instance_of": [
+                            "high school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.322,
+                                        "longitude": -72.9397
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hillhouse High School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1432645",
+                    "data": {
+                        "label": "Phillips Academy",
+                        "instance_of": [
+                            "high school",
+                            "school",
+                            "boarding school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.6473,
+                                        "longitude": -71.1316
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Phillips Academy"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1886",
+                    "qualifiers": [
+                        {
+                            "label": "sourcing circumstances",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q5727902",
+                                    "data": {
+                                        "label": "circa",
+                                        "instance_of": [
+                                            "sourcing circumstance"
+                                        ]
+                                    },
+                                    "text": "circa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1957"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q691237",
+                    "data": {
+                        "label": "Freehold, New Jersey, United States",
+                        "instance_of": [
+                            "borough of New Jersey"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.262862,
+                                        "longitude": -74.277344
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Freehold, New Jersey, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Fenderson"
+                }
+            ]
+        }
+    }
+}

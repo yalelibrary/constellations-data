@@ -223,7 +223,19 @@
                         "label": "Atlanta University",
                         "instance_of": [
                             "university"
-                        ]
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.75224200134005,
+                                        "longitude": -84.41132526895626
+                                    }
+                                ]
+                            }
+                        }
                     },
                     "text": "Atlanta University"
                 },
@@ -263,7 +275,7 @@
                         "label": "New York City, New York, United States",
                         "instance_of": [
                             "global city",
-                            "port settlement",
+                            "port city",
                             "city in the United States",
                             "city",
                             "big city",

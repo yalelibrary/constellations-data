@@ -83,7 +83,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q103902354",
                     "data": {
-                        "label": "Olveston",
+                        "label": "Olveston, Monterserrat",
                         "instance_of": [
                             "suburb"
                         ],
@@ -100,7 +100,7 @@
                             }
                         }
                     },
-                    "text": "Olveston"
+                    "text": "Olveston, Monterserrat"
                 }
             ]
         },
@@ -147,7 +147,7 @@
                         "label": "New York City, New York, United States",
                         "instance_of": [
                             "global city",
-                            "port settlement",
+                            "port city",
                             "city in the United States",
                             "city",
                             "big city",
@@ -202,7 +202,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q103902354",
                     "data": {
-                        "label": "Olveston",
+                        "label": "Olveston, Monterserrat",
                         "instance_of": [
                             "suburb"
                         ],
@@ -219,7 +219,7 @@
                             }
                         }
                     },
-                    "text": "Olveston"
+                    "text": "Olveston, Monterserrat"
                 }
             ]
         },

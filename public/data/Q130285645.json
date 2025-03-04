@@ -255,7 +255,8 @@
                     "data": {
                         "label": "Kings Mountain, North Carolina, United States",
                         "instance_of": [
-                            "city in the United States"
+                            "city in the United States",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -276,7 +277,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q30682736",
                     "data": {
-                        "label": "Germantown",
+                        "label": "Germantown, Pennsylvania, United States",
                         "instance_of": [
                             "unincorporated community in the United States"
                         ],
@@ -293,7 +294,7 @@
                             }
                         }
                     },
-                    "text": "Germantown"
+                    "text": "Germantown, Pennsylvania, United States"
                 },
                 {
                     "value-type": "wikibase-item",

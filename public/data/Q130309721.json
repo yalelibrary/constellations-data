@@ -85,7 +85,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q623241",
                     "data": {
-                        "label": "Waterloo",
+                        "label": "Waterloo, Sierra Leone",
                         "instance_of": [
                             "human settlement"
                         ],
@@ -102,7 +102,7 @@
                             }
                         }
                     },
-                    "text": "Waterloo"
+                    "text": "Waterloo, Sierra Leone"
                 }
             ]
         },
@@ -162,7 +162,7 @@
                         "label": "Freetown, Western Area, Sierra Leone",
                         "instance_of": [
                             "city",
-                            "port settlement",
+                            "port city",
                             "big city"
                         ],
                         "properties": {
@@ -187,7 +187,7 @@
                         "label": "Monrovia, Liberia",
                         "instance_of": [
                             "city",
-                            "port settlement",
+                            "port city",
                             "big city"
                         ],
                         "properties": {
@@ -209,7 +209,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q623241",
                     "data": {
-                        "label": "Waterloo",
+                        "label": "Waterloo, Sierra Leone",
                         "instance_of": [
                             "human settlement"
                         ],
@@ -226,7 +226,7 @@
                             }
                         }
                     },
-                    "text": "Waterloo"
+                    "text": "Waterloo, Sierra Leone"
                 }
             ]
         },

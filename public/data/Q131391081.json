@@ -290,7 +290,7 @@
                         "label": "Monrovia, Liberia",
                         "instance_of": [
                             "city",
-                            "port settlement",
+                            "port city",
                             "big city"
                         ],
                         "properties": {
@@ -384,7 +384,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q100251925",
                     "data": {
-                        "label": "Quindaro",
+                        "label": "Quindaro, Kansas, United States",
                         "instance_of": [
                             "human settlement"
                         ],
@@ -401,7 +401,7 @@
                             }
                         }
                     },
-                    "text": "Quindaro"
+                    "text": "Quindaro, Kansas, United States"
                 },
                 {
                     "value-type": "wikibase-item",

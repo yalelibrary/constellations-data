@@ -145,7 +145,8 @@
                     "data": {
                         "label": "Tarboro, North Carolina, United States",
                         "instance_of": [
-                            "town in the United States"
+                            "town in the United States",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -174,7 +175,6 @@
                         "label": "Columbia, South Carolina, United States",
                         "instance_of": [
                             "city in the United States",
-                            "state or insular area capital of the United States",
                             "county seat"
                         ],
                         "properties": {
@@ -196,10 +196,10 @@
                     "value-type": "wikibase-item",
                     "id": "Q12897644",
                     "data": {
-                        "label": "Tarboro",
+                        "label": "Tarboro, Georgia",
                         "instance_of": []
                     },
-                    "text": "Tarboro"
+                    "text": "Tarboro, Georgia"
                 },
                 {
                     "value-type": "wikibase-item",

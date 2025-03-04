@@ -119,8 +119,9 @@
                     "data": {
                         "label": "Edenton, North Carolina, Kingdom of Great Britain",
                         "instance_of": [
-                            "port settlement",
-                            "town in the United States"
+                            "port city",
+                            "town in the United States",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -237,8 +238,9 @@
                     "data": {
                         "label": "Edenton, North Carolina, Kingdom of Great Britain",
                         "instance_of": [
-                            "port settlement",
-                            "town in the United States"
+                            "port city",
+                            "town in the United States",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {
