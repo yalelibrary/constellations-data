@@ -138,7 +138,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q918126",
                     "data": {
-                        "label": "British Guiana",
+                        "label": "Guyana",
                         "instance_of": [
                             "crown colony"
                         ],
@@ -155,7 +155,7 @@
                             }
                         }
                     },
-                    "text": "British Guiana"
+                    "text": "Guyana"
                 },
                 {
                     "value-type": "wikibase-item",

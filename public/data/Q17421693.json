@@ -115,9 +115,9 @@
                         "label": "Raleigh, North Carolina, United States",
                         "instance_of": [
                             "city in the United States",
-                            "state or insular area capital of the United States",
                             "big city",
-                            "county seat"
+                            "county seat",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -169,7 +169,7 @@
                         "label": "New York City, New York, United States",
                         "instance_of": [
                             "global city",
-                            "port settlement",
+                            "port city",
                             "city in the United States",
                             "city",
                             "big city",
@@ -197,7 +197,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q340",
                     "data": {
-                        "label": "Montreal, Urban agglomeration of Montreal, Canada",
+                        "label": "Montreal, Quebec, Canada",
                         "instance_of": [
                             "city or town",
                             "metropolis",
@@ -217,7 +217,7 @@
                             }
                         }
                     },
-                    "text": "Montreal, Urban agglomeration of Montreal, Canada"
+                    "text": "Montreal, Quebec, Canada"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -249,9 +249,9 @@
                         "label": "Raleigh, North Carolina, United States",
                         "instance_of": [
                             "city in the United States",
-                            "state or insular area capital of the United States",
                             "big city",
-                            "county seat"
+                            "county seat",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {

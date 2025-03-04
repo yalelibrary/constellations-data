@@ -20,7 +20,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q7960215",
                     "data": {
-                        "label": "Wainwright",
+                        "label": "Wainwright, Alabama, United States",
                         "instance_of": [
                             "unincorporated community in the United States"
                         ],
@@ -37,7 +37,7 @@
                             }
                         }
                     },
-                    "text": "Wainwright"
+                    "text": "Wainwright, Alabama, United States"
                 }
             ]
         },
@@ -169,7 +169,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q7960215",
                     "data": {
-                        "label": "Wainwright",
+                        "label": "Wainwright, Alabama, United States",
                         "instance_of": [
                             "unincorporated community in the United States"
                         ],
@@ -186,7 +186,7 @@
                             }
                         }
                     },
-                    "text": "Wainwright"
+                    "text": "Wainwright, Alabama, United States"
                 }
             ]
         },

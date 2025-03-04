@@ -24,7 +24,7 @@
                         "label": "Freetown, Western Area, Sierra Leone",
                         "instance_of": [
                             "city",
-                            "port settlement",
+                            "port city",
                             "big city"
                         ],
                         "properties": {
@@ -169,7 +169,7 @@
                         "label": "Freetown, Western Area, Sierra Leone",
                         "instance_of": [
                             "city",
-                            "port settlement",
+                            "port city",
                             "big city"
                         ],
                         "properties": {

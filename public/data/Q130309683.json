@@ -85,7 +85,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q1624192",
                     "data": {
-                        "label": "Hoima",
+                        "label": "Hoima, Uganda",
                         "instance_of": [
                             "human settlement"
                         ],
@@ -102,7 +102,7 @@
                             }
                         }
                     },
-                    "text": "Hoima"
+                    "text": "Hoima, Uganda"
                 }
             ]
         },
@@ -139,7 +139,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q1624192",
                     "data": {
-                        "label": "Hoima",
+                        "label": "Hoima, Uganda",
                         "instance_of": [
                             "human settlement"
                         ],
@@ -156,7 +156,7 @@
                             }
                         }
                     },
-                    "text": "Hoima"
+                    "text": "Hoima, Uganda"
                 }
             ]
         },
@@ -182,10 +182,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Balamu Jaberi Mukasa",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q130309683.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

@@ -21,7 +21,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q5611365",
                     "data": {
-                        "label": "Grove",
+                        "label": "Grove, Virginia, United States",
                         "instance_of": [
                             "unincorporated community in the United States"
                         ],
@@ -38,7 +38,7 @@
                             }
                         }
                     },
-                    "text": "Grove"
+                    "text": "Grove, Virginia, United States"
                 }
             ]
         },
@@ -171,7 +171,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q5611365",
                     "data": {
-                        "label": "Grove",
+                        "label": "Grove, Virginia, United States",
                         "instance_of": [
                             "unincorporated community in the United States"
                         ],
@@ -188,7 +188,7 @@
                             }
                         }
                     },
-                    "text": "Grove"
+                    "text": "Grove, Virginia, United States"
                 }
             ]
         },

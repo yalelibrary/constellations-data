@@ -121,7 +121,7 @@
                         "instance_of": [
                             "city",
                             "big city",
-                            "port settlement",
+                            "port city",
                             "largest city"
                         ],
                         "properties": {
@@ -203,7 +203,7 @@
                         "instance_of": [
                             "city",
                             "big city",
-                            "port settlement",
+                            "port city",
                             "largest city"
                         ],
                         "properties": {

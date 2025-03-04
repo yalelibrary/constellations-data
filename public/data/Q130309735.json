@@ -149,7 +149,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q1233173",
                     "data": {
-                        "label": "Dobbs Ferry",
+                        "label": "Dobbs Ferry, New York, United States",
                         "instance_of": [
                             "village in the United States",
                             "village of New York"
@@ -167,7 +167,7 @@
                             }
                         }
                     },
-                    "text": "Dobbs Ferry"
+                    "text": "Dobbs Ferry, New York, United States"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -231,6 +231,32 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q132783211",
+                    "data": {
+                        "label": "Cecil Bonneau Williams",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Cecil Bonneau Williams",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

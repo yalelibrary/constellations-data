@@ -20,7 +20,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q13353",
                     "data": {
-                        "label": "Montserrat, British overseas territories, United Kingdom",
+                        "label": "Montserrat",
                         "instance_of": [
                             "British overseas territories",
                             "island"
@@ -38,7 +38,7 @@
                             }
                         }
                     },
-                    "text": "Montserrat, British overseas territories, United Kingdom"
+                    "text": "Montserrat"
                 }
             ]
         },
@@ -182,7 +182,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q675322",
                     "data": {
-                        "label": "Berbice",
+                        "label": "Berbice, Guyana",
                         "instance_of": [
                             "colony"
                         ],
@@ -199,13 +199,13 @@
                             }
                         }
                     },
-                    "text": "Berbice"
+                    "text": "Berbice, Guyana"
                 },
                 {
                     "value-type": "wikibase-item",
                     "id": "Q13353",
                     "data": {
-                        "label": "Montserrat, British overseas territories, United Kingdom",
+                        "label": "Montserrat",
                         "instance_of": [
                             "British overseas territories",
                             "island"
@@ -223,7 +223,7 @@
                             }
                         }
                     },
-                    "text": "Montserrat, British overseas territories, United Kingdom"
+                    "text": "Montserrat"
                 }
             ]
         },

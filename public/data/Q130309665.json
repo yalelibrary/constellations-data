@@ -92,35 +92,6 @@
                 }
             ]
         },
-        "place of birth": {
-            "label": "place of birth",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q2028258",
-                    "data": {
-                        "label": "Edenton, North Carolina, Kingdom of Great Britain",
-                        "instance_of": [
-                            "port settlement",
-                            "town in the United States"
-                        ],
-                        "properties": {
-                            "coordinate location": {
-                                "label": "coordinate location",
-                                "values": [
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 36.060833333333335,
-                                        "longitude": -76.60833333333333
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "text": "Edenton, North Carolina, Kingdom of Great Britain"
-                }
-            ]
-        },
         "relative": {
             "label": "relative",
             "values": [
@@ -239,36 +210,11 @@
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q2028258",
-                    "data": {
-                        "label": "Edenton, North Carolina, Kingdom of Great Britain",
-                        "instance_of": [
-                            "port settlement",
-                            "town in the United States"
-                        ],
-                        "properties": {
-                            "coordinate location": {
-                                "label": "coordinate location",
-                                "values": [
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 36.060833333333335,
-                                        "longitude": -76.60833333333333
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "text": "Edenton, North Carolina, Kingdom of Great Britain"
-                },
-                {
-                    "value-type": "wikibase-item",
                     "id": "Q38453",
                     "data": {
                         "label": "Columbia, South Carolina, United States",
                         "instance_of": [
                             "city in the United States",
-                            "state or insular area capital of the United States",
                             "county seat"
                         ],
                         "properties": {
@@ -285,6 +231,31 @@
                         }
                     },
                     "text": "Columbia, South Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2028258",
+                    "data": {
+                        "label": "Edenton, North Carolina, Kingdom of Great Britain",
+                        "instance_of": [
+                            "port city",
+                            "town in the United States",
+                            "city in North Carolina"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.060833333333335,
+                                        "longitude": -76.60833333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Edenton, North Carolina, Kingdom of Great Britain"
                 }
             ]
         },
@@ -302,6 +273,36 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2028258",
+                    "data": {
+                        "label": "Edenton, North Carolina, Kingdom of Great Britain",
+                        "instance_of": [
+                            "port city",
+                            "town in the United States",
+                            "city in North Carolina"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.060833333333335,
+                                        "longitude": -76.60833333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Edenton, North Carolina, Kingdom of Great Britain"
                 }
             ]
         },

@@ -208,7 +208,8 @@
                     "data": {
                         "label": "Lowell, North Carolina, United States",
                         "instance_of": [
-                            "city in the United States"
+                            "city in the United States",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {

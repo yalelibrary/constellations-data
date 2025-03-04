@@ -122,9 +122,9 @@
                         "label": "Raleigh, North Carolina, United States",
                         "instance_of": [
                             "city in the United States",
-                            "state or insular area capital of the United States",
                             "big city",
-                            "county seat"
+                            "county seat",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -181,9 +181,9 @@
                         "label": "Raleigh, North Carolina, United States",
                         "instance_of": [
                             "city in the United States",
-                            "state or insular area capital of the United States",
                             "big city",
-                            "county seat"
+                            "county seat",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {

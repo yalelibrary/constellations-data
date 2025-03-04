@@ -166,7 +166,19 @@
                         "label": "Atlanta University",
                         "instance_of": [
                             "university"
-                        ]
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.75224200134005,
+                                        "longitude": -84.41132526895626
+                                    }
+                                ]
+                            }
+                        }
                     },
                     "text": "Atlanta University"
                 },
@@ -226,8 +238,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 41.85003,
-                                        "longitude": -87.65005
+                                        "latitude": 41.88194444444444,
+                                        "longitude": -87.62777777777778
                                     }
                                 ]
                             }

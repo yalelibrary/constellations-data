@@ -133,7 +133,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q7252270",
                     "data": {
-                        "label": "Prouts Neck",
+                        "label": "Prouts Neck, Maine, United States",
                         "instance_of": [
                             "landform"
                         ],
@@ -150,7 +150,7 @@
                             }
                         }
                     },
-                    "text": "Prouts Neck"
+                    "text": "Prouts Neck, Maine, United States"
                 },
                 {
                     "value-type": "wikibase-item",

@@ -172,8 +172,7 @@
                     "data": {
                         "label": "Minnesota, United States",
                         "instance_of": [
-                            "U.S. state",
-                            "administrative territorial entity"
+                            "U.S. state"
                         ],
                         "properties": {
                             "coordinate location": {

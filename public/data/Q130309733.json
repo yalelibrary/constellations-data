@@ -120,7 +120,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q23661",
                     "data": {
-                        "label": "Wellington, Wellington City, New Zealand",
+                        "label": "Wellington, New Zealand",
                         "instance_of": [
                             "urban area",
                             "big city",
@@ -139,7 +139,7 @@
                             }
                         }
                     },
-                    "text": "Wellington, Wellington City, New Zealand"
+                    "text": "Wellington, New Zealand"
                 },
                 {
                     "value-type": "wikibase-item",

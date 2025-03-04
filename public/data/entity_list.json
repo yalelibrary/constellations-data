@@ -306,7 +306,7 @@
                         "value-type": "wikibase-item",
                         "id": "Q2003377",
                         "data": {
-                            "label": "Zombodze",
+                            "label": "Zombodze, Eswatini",
                             "instance_of": [
                                 "inkhundla"
                             ],
@@ -328,7 +328,7 @@
                                 }
                             }
                         },
-                        "text": "Zombodze"
+                        "text": "Zombodze, Eswatini"
                     }
                 ]
             },
@@ -1309,8 +1309,8 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 33.496944444444,
-                                            "longitude": -80.862222222222
+                                            "latitude": 33.49194444444444,
+                                            "longitude": -80.85527777777777
                                         }
                                     ]
                                 }
@@ -1683,7 +1683,7 @@
                         "value-type": "wikibase-item",
                         "id": "Q13353",
                         "data": {
-                            "label": "Montserrat, British overseas territories, United Kingdom",
+                            "label": "Montserrat",
                             "instance_of": [
                                 "British overseas territories",
                                 "island"
@@ -1701,7 +1701,7 @@
                                 }
                             }
                         },
-                        "text": "Montserrat, British overseas territories, United Kingdom"
+                        "text": "Montserrat"
                     }
                 ]
             },
@@ -1893,7 +1893,7 @@
                         "value-type": "wikibase-item",
                         "id": "Q103902354",
                         "data": {
-                            "label": "Olveston",
+                            "label": "Olveston, Monterserrat",
                             "instance_of": [
                                 "suburb"
                             ],
@@ -1910,7 +1910,7 @@
                                 }
                             }
                         },
-                        "text": "Olveston"
+                        "text": "Olveston, Monterserrat"
                     }
                 ]
             },
@@ -2522,6 +2522,28 @@
         }
     },
     {
+        "id": "Q132303761",
+        "label": "Arthur Holcombe Taylor",
+        "description": "Attended Yale Law School 1915-1916 and 1917-1918",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130299062",
         "label": "Arthur Leslie Howard",
         "description": "Graduate of Yale School of Medicine, 1897",
@@ -2542,7 +2564,7 @@
                         "value-type": "wikibase-item",
                         "id": "Q463937",
                         "data": {
-                            "label": "Saint Thomas, United States",
+                            "label": "St. Thomas, United States Virgin Islands",
                             "instance_of": [
                                 "island"
                             ],
@@ -2564,7 +2586,7 @@
                                 }
                             }
                         },
-                        "text": "Saint Thomas, United States"
+                        "text": "St. Thomas, United States Virgin Islands"
                     }
                 ]
             },
@@ -2644,7 +2666,7 @@
                         "value-type": "wikibase-item",
                         "id": "Q1624192",
                         "data": {
-                            "label": "Hoima",
+                            "label": "Hoima, Uganda",
                             "instance_of": [
                                 "human settlement"
                             ],
@@ -2661,7 +2683,7 @@
                                 }
                             }
                         },
-                        "text": "Hoima"
+                        "text": "Hoima, Uganda"
                     }
                 ]
             },
@@ -2670,10 +2692,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Balamu Jaberi Mukasa",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q130309683.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -3173,7 +3195,7 @@
                         "value-type": "wikibase-item",
                         "id": "Q5326912",
                         "data": {
-                            "label": "Earlysville",
+                            "label": "Earlysville, Virginia, United States",
                             "instance_of": [
                                 "unincorporated community in the United States"
                             ],
@@ -3190,7 +3212,7 @@
                                 }
                             }
                         },
-                        "text": "Earlysville"
+                        "text": "Earlysville, Virginia, United States"
                     }
                 ]
             },
@@ -3349,7 +3371,8 @@
                         "data": {
                             "label": "Rutherfordton, North Carolina, United States",
                             "instance_of": [
-                                "town in the United States"
+                                "town in the United States",
+                                "city in North Carolina"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -3588,6 +3611,122 @@
                             }
                         },
                         "text": "Yale Divinity School"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q132783211",
+        "label": "Cecil Bonneau Williams",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1901"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q2276157",
+                        "data": {
+                            "label": "Orangeburg, South Carolina, United States",
+                            "instance_of": [
+                                "city in the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 33.49194444444444,
+                                            "longitude": -80.85527777777777
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Orangeburg, South Carolina, United States"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q4887262",
+                        "data": {
+                            "label": "Benedict College",
+                            "instance_of": [
+                                "liberal arts college",
+                                "historically black colleges and universities",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 34.0129,
+                                            "longitude": -81.0203
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Benedict College"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49112",
+                        "data": {
+                            "label": "Yale University",
+                            "instance_of": [
+                                "private university",
+                                "research university",
+                                "Colonial Colleges",
+                                "private not-for-profit educational institution",
+                                "academic publisher",
+                                "production company"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311111111111,
+                                            "longitude": -72.926666666667
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale University"
                     }
                 ]
             }
@@ -4379,7 +4518,8 @@
                         "data": {
                             "label": "Warrenton, North Carolina, United States",
                             "instance_of": [
-                                "town in the United States"
+                                "town in the United States",
+                                "city in North Carolina"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -4981,7 +5121,7 @@
                             "instance_of": [
                                 "city",
                                 "big city",
-                                "port settlement",
+                                "port city",
                                 "largest city"
                             ],
                             "properties": {
@@ -7119,7 +7259,6 @@
                             "label": "Columbia, South Carolina, United States",
                             "instance_of": [
                                 "city in the United States",
-                                "state or insular area capital of the United States",
                                 "county seat"
                             ],
                             "properties": {
@@ -8359,6 +8498,15 @@
         "label": "Effie Ella Grant Hardy",
         "description": "Attended Yale School of Music 1906-1909",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1885"
+                    }
+                ]
+            },
             "date of death": {
                 "label": "date of death",
                 "values": [
@@ -8682,9 +8830,9 @@
                             "label": "Raleigh, North Carolina, United States",
                             "instance_of": [
                                 "city in the United States",
-                                "state or insular area capital of the United States",
                                 "big city",
-                                "county seat"
+                                "county seat",
+                                "city in North Carolina"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -8831,7 +8979,7 @@
                             "label": "Freetown, Western Area, Sierra Leone",
                             "instance_of": [
                                 "city",
-                                "port settlement",
+                                "port city",
                                 "big city"
                             ],
                             "properties": {
@@ -8925,6 +9073,203 @@
                             }
                         },
                         "text": "Talladega College"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q132303763",
+        "label": "Ferdinand Wardell Gratz Fenderson",
+        "description": "Attended Yale College 1905-1907; Received a master's degree, 1912",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1886"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49145",
+                        "data": {
+                            "label": "New Haven, Connecticut, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "big city"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.308333333333,
+                                            "longitude": -72.925
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "New Haven, Connecticut, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1957"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49112",
+                        "data": {
+                            "label": "Yale University",
+                            "instance_of": [
+                                "private university",
+                                "research university",
+                                "Colonial Colleges",
+                                "private not-for-profit educational institution",
+                                "academic publisher",
+                                "production company"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311111111111,
+                                            "longitude": -72.926666666667
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q8047384",
+                        "data": {
+                            "label": "Yale Graduate School of Arts and Sciences",
+                            "instance_of": [
+                                "academic institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3123,
+                                            "longitude": -72.9291
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Graduate School of Arts and Sciences"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49167",
+                        "data": {
+                            "label": "Wesleyan University",
+                            "instance_of": [
+                                "university",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.55562,
+                                            "longitude": -72.655844
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Wesleyan University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q14714934",
+                        "data": {
+                            "label": "Hillhouse High School",
+                            "instance_of": [
+                                "high school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.322,
+                                            "longitude": -72.9397
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Hillhouse High School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1432645",
+                        "data": {
+                            "label": "Phillips Academy",
+                            "instance_of": [
+                                "high school",
+                                "school",
+                                "boarding school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 42.6473,
+                                            "longitude": -71.1316
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Phillips Academy"
                     }
                 ]
             }
@@ -9698,8 +10043,220 @@
         }
     },
     {
+        "id": "Q130246800",
+        "label": "Frederick Douglass Bonner",
+        "description": "Graduate of Yale College, 1901",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1878"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49145",
+                        "data": {
+                            "label": "New Haven, Connecticut, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "big city"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.308333333333,
+                                            "longitude": -72.925
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "New Haven, Connecticut, United States"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Frederick Douglass Bonner",
+                        "image-info": [
+                            {
+                                "url": "/data/Q130246800.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q14714934",
+                        "data": {
+                            "label": "Hillhouse High School",
+                            "instance_of": [
+                                "high school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.322,
+                                            "longitude": -72.9397
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Hillhouse High School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q2599077",
+                        "data": {
+                            "label": "Yale College",
+                            "instance_of": [
+                                "college"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3117,
+                                            "longitude": -72.9253
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale College"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q130246804",
+        "label": "Frederick Willis Bonner",
+        "description": "Graduate of Yale College, 1929",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1907"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q56663",
+                        "data": {
+                            "label": "Subic, Philippines",
+                            "instance_of": [
+                                "municipality of the Philippines"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 14.876944444444444,
+                                            "longitude": 120.23277777777778
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Subic, Philippines"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1999"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Frederick Willis Bonner",
+                        "image-info": [
+                            {
+                                "url": "/data/Q130246804.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49112",
+                        "data": {
+                            "label": "Yale University",
+                            "instance_of": [
+                                "private university",
+                                "research university",
+                                "Colonial Colleges",
+                                "private not-for-profit educational institution",
+                                "academic publisher",
+                                "production company"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311111111111,
+                                            "longitude": -72.926666666667
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale University"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q131759758",
-        "label": "Fred Wilson Wells",
+        "label": "Frederick Wilson Wells",
         "properties": {
             "date of birth": {
                 "label": "date of birth",
@@ -9735,6 +10292,15 @@
                             }
                         },
                         "text": "Union City, Tennessee, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1979"
                     }
                 ]
             },
@@ -9883,218 +10449,6 @@
                             }
                         },
                         "text": "Cornell University"
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "id": "Q130246800",
-        "label": "Frederick Douglass Bonner",
-        "description": "Graduate of Yale College, 1901",
-        "properties": {
-            "date of birth": {
-                "label": "date of birth",
-                "values": [
-                    {
-                        "value-type": "time",
-                        "text": "1878"
-                    }
-                ]
-            },
-            "place of birth": {
-                "label": "place of birth",
-                "values": [
-                    {
-                        "value-type": "wikibase-item",
-                        "id": "Q49145",
-                        "data": {
-                            "label": "New Haven, Connecticut, United States",
-                            "instance_of": [
-                                "city in the United States",
-                                "big city"
-                            ],
-                            "properties": {
-                                "coordinate location": {
-                                    "label": "coordinate location",
-                                    "values": [
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 41.308333333333,
-                                            "longitude": -72.925
-                                        }
-                                    ]
-                                }
-                            }
-                        },
-                        "text": "New Haven, Connecticut, United States"
-                    }
-                ]
-            },
-            "image": {
-                "label": "image",
-                "values": [
-                    {
-                        "value-type": "commonsMedia",
-                        "name": "Frederick Douglass Bonner",
-                        "image-info": [
-                            {
-                                "url": "/data/Q130246800.jpg",
-                                "mime": "image/jpeg"
-                            }
-                        ]
-                    }
-                ]
-            },
-            "educated at": {
-                "label": "educated at",
-                "values": [
-                    {
-                        "value-type": "wikibase-item",
-                        "id": "Q14714934",
-                        "data": {
-                            "label": "Hillhouse High School",
-                            "instance_of": [
-                                "high school"
-                            ],
-                            "properties": {
-                                "coordinate location": {
-                                    "label": "coordinate location",
-                                    "values": [
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 41.322,
-                                            "longitude": -72.9397
-                                        }
-                                    ]
-                                }
-                            }
-                        },
-                        "text": "Hillhouse High School"
-                    },
-                    {
-                        "value-type": "wikibase-item",
-                        "id": "Q2599077",
-                        "data": {
-                            "label": "Yale College",
-                            "instance_of": [
-                                "college"
-                            ],
-                            "properties": {
-                                "coordinate location": {
-                                    "label": "coordinate location",
-                                    "values": [
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 41.3117,
-                                            "longitude": -72.9253
-                                        }
-                                    ]
-                                }
-                            }
-                        },
-                        "text": "Yale College"
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "id": "Q130246804",
-        "label": "Frederick Willis Bonner",
-        "description": "Graduate of Yale College, 1929",
-        "properties": {
-            "date of birth": {
-                "label": "date of birth",
-                "values": [
-                    {
-                        "value-type": "time",
-                        "text": "1907"
-                    }
-                ]
-            },
-            "place of birth": {
-                "label": "place of birth",
-                "values": [
-                    {
-                        "value-type": "wikibase-item",
-                        "id": "Q56663",
-                        "data": {
-                            "label": "Subic",
-                            "instance_of": [
-                                "municipality of the Philippines"
-                            ],
-                            "properties": {
-                                "coordinate location": {
-                                    "label": "coordinate location",
-                                    "values": [
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 14.876944444444444,
-                                            "longitude": 120.23277777777778
-                                        }
-                                    ]
-                                }
-                            }
-                        },
-                        "text": "Subic"
-                    }
-                ]
-            },
-            "date of death": {
-                "label": "date of death",
-                "values": [
-                    {
-                        "value-type": "time",
-                        "text": "1999"
-                    }
-                ]
-            },
-            "image": {
-                "label": "image",
-                "values": [
-                    {
-                        "value-type": "commonsMedia",
-                        "name": "Frederick Willis Bonner",
-                        "image-info": [
-                            {
-                                "url": "/data/Q130246804.jpg",
-                                "mime": "image/jpeg"
-                            }
-                        ]
-                    }
-                ]
-            },
-            "educated at": {
-                "label": "educated at",
-                "values": [
-                    {
-                        "value-type": "wikibase-item",
-                        "id": "Q49112",
-                        "data": {
-                            "label": "Yale University",
-                            "instance_of": [
-                                "private university",
-                                "research university",
-                                "Colonial Colleges",
-                                "private not-for-profit educational institution",
-                                "academic publisher",
-                                "production company"
-                            ],
-                            "properties": {
-                                "coordinate location": {
-                                    "label": "coordinate location",
-                                    "values": [
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 41.311111111111,
-                                            "longitude": -72.926666666667
-                                        }
-                                    ]
-                                }
-                            }
-                        },
-                        "text": "Yale University"
                     }
                 ]
             }
@@ -10945,7 +11299,9 @@
                             "label": "Charlotte, North Carolina, United States",
                             "instance_of": [
                                 "city in the United States",
-                                "big city"
+                                "big city",
+                                "county seat",
+                                "city in North Carolina"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -11899,6 +12255,114 @@
         }
     },
     {
+        "id": "Q132309453",
+        "label": "H. Milton Mickens",
+        "description": "Possible graduate or student of Yale Divinity School or Graduate School circa 1890s-1900s",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1855"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "H. Milton Mickens",
+                        "image-info": [
+                            {
+                                "url": "/data/Q132309453.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q131252",
+                        "data": {
+                            "label": "University of Chicago",
+                            "instance_of": [
+                                "private university",
+                                "private not-for-profit educational institution",
+                                "research university"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.789722222222,
+                                            "longitude": -87.599722222222
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "University of Chicago"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q10723329",
+                        "data": {
+                            "label": "Yale Divinity School",
+                            "instance_of": [
+                                "seminary"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.32380555555556,
+                                            "longitude": -72.9233888888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Divinity School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q6365149",
+                        "data": {
+                            "label": "Kansas Wesleyan University",
+                            "instance_of": [
+                                "university",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 38.8136,
+                                            "longitude": -97.6094
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Kansas Wesleyan University"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130309686",
         "label": "Harold L. Nevers",
         "description": "Attended Yale Divinity School 1927-1928",
@@ -12635,7 +13099,8 @@
                             "label": "New Bern, North Carolina, United States",
                             "instance_of": [
                                 "city in the United States",
-                                "county seat"
+                                "county seat",
+                                "city in North Carolina"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -13059,8 +13524,9 @@
                         "data": {
                             "label": "Edenton, North Carolina, Kingdom of Great Britain",
                             "instance_of": [
-                                "port settlement",
-                                "town in the United States"
+                                "port city",
+                                "town in the United States",
+                                "city in North Carolina"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -14039,7 +14505,7 @@
                         "value-type": "wikibase-item",
                         "id": "Q36262",
                         "data": {
-                            "label": "Saint John's, Antigua and Barbuda",
+                            "label": "Saint John's, Saint John, Antigua and Barbuda",
                             "instance_of": [
                                 "city",
                                 "port"
@@ -14057,7 +14523,7 @@
                                 }
                             }
                         },
-                        "text": "Saint John's, Antigua and Barbuda"
+                        "text": "Saint John's, Saint John, Antigua and Barbuda"
                     }
                 ]
             },
@@ -14637,7 +15103,7 @@
                         "value-type": "wikibase-item",
                         "id": "Q623241",
                         "data": {
-                            "label": "Waterloo",
+                            "label": "Waterloo, Sierra Leone",
                             "instance_of": [
                                 "human settlement"
                             ],
@@ -14654,7 +15120,7 @@
                                 }
                             }
                         },
-                        "text": "Waterloo"
+                        "text": "Waterloo, Sierra Leone"
                     }
                 ]
             },
@@ -14749,7 +15215,7 @@
                         "value-type": "wikibase-item",
                         "id": "Q7637779",
                         "data": {
-                            "label": "Summit Bridge",
+                            "label": "Summit Bridge, Delaware, United States",
                             "instance_of": [
                                 "unincorporated community in the United States"
                             ],
@@ -14766,7 +15232,7 @@
                                 }
                             }
                         },
-                        "text": "Summit Bridge"
+                        "text": "Summit Bridge, Delaware, United States"
                     }
                 ]
             },
@@ -15264,6 +15730,131 @@
                             }
                         },
                         "text": "Yale Graduate School of Arts and Sciences"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q132303765",
+        "label": "James Francis Gregory",
+        "description": "Graduate of Yale Divinity School, 1901",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1876"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q61",
+                        "data": {
+                            "label": "Washington, D.C., United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "big city",
+                                "human settlement",
+                                "planned national capital",
+                                "political city",
+                                "federal capital"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 38.895,
+                                            "longitude": -77.036666666667
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Washington, D.C., United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1944"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "James Francis Gregory",
+                        "image-info": [
+                            {
+                                "url": "/data/Q132303765.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q10723329",
+                        "data": {
+                            "label": "Yale Divinity School",
+                            "instance_of": [
+                                "seminary"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.32380555555556,
+                                            "longitude": -72.9233888888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Divinity School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49165",
+                        "data": {
+                            "label": "Amherst College",
+                            "instance_of": [
+                                "liberal arts college",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 42.370833333333,
+                                            "longitude": -72.516944444444
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Amherst College"
                     }
                 ]
             }
@@ -16237,7 +16828,8 @@
                             "instance_of": [
                                 "city in the United States",
                                 "county seat",
-                                "big city"
+                                "big city",
+                                "city in North Carolina"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -16551,6 +17143,40 @@
                             }
                         },
                         "text": "Yale School of Music"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q14714934",
+                        "data": {
+                            "label": "Hillhouse High School",
+                            "instance_of": [
+                                "high school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.322,
+                                            "longitude": -72.9397
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Hillhouse High School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q132818957",
+                        "data": {
+                            "label": "New Haven State Normal School",
+                            "instance_of": [
+                                "educational institution"
+                            ]
+                        },
+                        "text": "New Haven State Normal School"
                     }
                 ]
             }
@@ -17829,7 +18455,8 @@
                             "label": "New Bern, North Carolina, United States",
                             "instance_of": [
                                 "city in the United States",
-                                "county seat"
+                                "county seat",
+                                "city in North Carolina"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -18037,8 +18664,9 @@
                         "data": {
                             "label": "Edenton, North Carolina, Kingdom of Great Britain",
                             "instance_of": [
-                                "port settlement",
-                                "town in the United States"
+                                "port city",
+                                "town in the United States",
+                                "city in North Carolina"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -18537,7 +19165,19 @@
                             "label": "Atlanta University",
                             "instance_of": [
                                 "university"
-                            ]
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 33.75224200134005,
+                                            "longitude": -84.41132526895626
+                                        }
+                                    ]
+                                }
+                            }
                         },
                         "text": "Atlanta University"
                     },
@@ -18697,6 +19337,151 @@
                             }
                         },
                         "text": "Yale Divinity School"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q131765031",
+        "label": "Joseph James Rhoads",
+        "description": "Attended Yale Divinity School 1922-1923",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1890"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q52996",
+                        "data": {
+                            "label": "Marshall, Texas, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "county seat",
+                                "satellite city"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 32.55,
+                                            "longitude": -94.5
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Marshall, Texas, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1951"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Joseph James Rhoads",
+                        "image-info": [
+                            {
+                                "url": "/data/Q131765031.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q10723329",
+                        "data": {
+                            "label": "Yale Divinity School",
+                            "instance_of": [
+                                "seminary"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.32380555555556,
+                                            "longitude": -72.9233888888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Divinity School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q230492",
+                        "data": {
+                            "label": "University of Michigan",
+                            "instance_of": [
+                                "public research university",
+                                "public educational institution of the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 42.276944444444446,
+                                            "longitude": -83.73805555555556
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "University of Michigan"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q4917518",
+                        "data": {
+                            "label": "Bishop College",
+                            "instance_of": [
+                                "higher education institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 32.6781,
+                                            "longitude": -96.7552
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Bishop College"
                     }
                 ]
             }
@@ -18905,8 +19690,8 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 33.496944444444,
-                                            "longitude": -80.862222222222
+                                            "latitude": 33.49194444444444,
+                                            "longitude": -80.85527777777777
                                         }
                                     ]
                                 }
@@ -19958,7 +20743,7 @@
                 "values": [
                     {
                         "value-type": "time",
-                        "text": "1895"
+                        "text": "1890"
                     }
                 ]
             },
@@ -20961,7 +21746,7 @@
                             "label": "New York City, New York, United States",
                             "instance_of": [
                                 "global city",
-                                "port settlement",
+                                "port city",
                                 "city in the United States",
                                 "city",
                                 "big city",
@@ -21063,7 +21848,7 @@
                         "value-type": "wikibase-item",
                         "id": "Q1185346",
                         "data": {
-                            "label": "Demerara",
+                            "label": "Demerara, Guyana",
                             "instance_of": [
                                 "historical region"
                             ],
@@ -21080,7 +21865,7 @@
                                 }
                             }
                         },
-                        "text": "Demerara"
+                        "text": "Demerara, Guyana"
                     }
                 ]
             },
@@ -21669,6 +22454,82 @@
                             }
                         },
                         "text": "Yale Divinity School"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q132303767",
+        "label": "Perry Theodore Johnson, Jr.",
+        "description": "Attended Yale Divinity School 1914-1915",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q10723329",
+                        "data": {
+                            "label": "Yale Divinity School",
+                            "instance_of": [
+                                "seminary"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.32380555555556,
+                                            "longitude": -72.9233888888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Divinity School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q616591",
+                        "data": {
+                            "label": "Oberlin College",
+                            "instance_of": [
+                                "college",
+                                "liberal arts college",
+                                "private not-for-profit educational institution",
+                                "private university"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.293055555555554,
+                                            "longitude": -82.22166666666666
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Oberlin College"
                     }
                 ]
             }
@@ -22609,10 +23470,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Richard Henry Greene",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q114894460.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -22922,7 +23783,8 @@
                             "label": "Louisburg, North Carolina, United States",
                             "instance_of": [
                                 "town in the United States",
-                                "county seat"
+                                "county seat",
+                                "city in North Carolina"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -23007,7 +23869,7 @@
                         "value-type": "wikibase-item",
                         "id": "Q7960215",
                         "data": {
-                            "label": "Wainwright",
+                            "label": "Wainwright, Alabama, United States",
                             "instance_of": [
                                 "unincorporated community in the United States"
                             ],
@@ -23024,7 +23886,7 @@
                                 }
                             }
                         },
-                        "text": "Wainwright"
+                        "text": "Wainwright, Alabama, United States"
                     }
                 ]
             },
@@ -23121,9 +23983,9 @@
                             "label": "Raleigh, North Carolina, United States",
                             "instance_of": [
                                 "city in the United States",
-                                "state or insular area capital of the United States",
                                 "big city",
-                                "county seat"
+                                "county seat",
+                                "city in North Carolina"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -24292,7 +25154,7 @@
                         "value-type": "wikibase-item",
                         "id": "Q209842",
                         "data": {
-                            "label": "University of Paris",
+                            "label": "Sorbonne",
                             "instance_of": [
                                 "university in France",
                                 "former entity",
@@ -24311,7 +25173,7 @@
                                 }
                             }
                         },
-                        "text": "University of Paris"
+                        "text": "Sorbonne"
                     },
                     {
                         "value-type": "wikibase-item",
@@ -24723,7 +25585,8 @@
                         "data": {
                             "label": "Williamston, North Carolina, United States",
                             "instance_of": [
-                                "town in the United States"
+                                "town in the United States",
+                                "city in North Carolina"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -24913,6 +25776,186 @@
                             }
                         },
                         "text": "Yale College"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q132303769",
+        "label": "Thomas Jarvis Taylor, Jr.",
+        "description": "Attended Sheffield Scientific School 1903-1904; Attended Yale Graduate School 1908-1909",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1885"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49145",
+                        "data": {
+                            "label": "New Haven, Connecticut, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "big city"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.308333333333,
+                                            "longitude": -72.925
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "New Haven, Connecticut, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1927"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Thomas Jarvis Taylor, Jr.",
+                        "image-info": [
+                            {
+                                "url": "/data/Q132303769.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q7492742",
+                        "data": {
+                            "label": "Sheffield Scientific School",
+                            "instance_of": [
+                                "college"
+                            ]
+                        },
+                        "text": "Sheffield Scientific School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q8047384",
+                        "data": {
+                            "label": "Yale Graduate School of Arts and Sciences",
+                            "instance_of": [
+                                "academic institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3123,
+                                            "longitude": -72.9291
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Graduate School of Arts and Sciences"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49167",
+                        "data": {
+                            "label": "Wesleyan University",
+                            "instance_of": [
+                                "university",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.55562,
+                                            "longitude": -72.655844
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Wesleyan University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1068752",
+                        "data": {
+                            "label": "Howard University",
+                            "instance_of": [
+                                "private university",
+                                "historically black colleges and universities",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 38.921666666667,
+                                            "longitude": -77.02
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Howard University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q5900712",
+                        "data": {
+                            "label": "Hopkins School",
+                            "instance_of": [
+                                "university-preparatory school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.31959110772107,
+                                            "longitude": -72.9725665498971
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Hopkins School"
                     }
                 ]
             }
@@ -25215,7 +26258,8 @@
                             "instance_of": [
                                 "city in the United States",
                                 "big city",
-                                "county seat"
+                                "county seat",
+                                "city in North Carolina"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -25710,7 +26754,7 @@
                             "label": "New York City, New York, United States",
                             "instance_of": [
                                 "global city",
-                                "port settlement",
+                                "port city",
                                 "city in the United States",
                                 "city",
                                 "big city",
@@ -26065,6 +27109,130 @@
         }
     },
     {
+        "id": "Q132303773",
+        "label": "W. Norman Bishop",
+        "description": "Attended Yale Law School, 1912-1915",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1890"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q5092",
+                        "data": {
+                            "label": "Baltimore, Maryland, United States",
+                            "instance_of": [
+                                "independent city in the United States",
+                                "city in the United States",
+                                "big city"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 39.286388888889,
+                                            "longitude": -76.615
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Baltimore, Maryland, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1973"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1143289",
+                        "data": {
+                            "label": "Yale Law School",
+                            "instance_of": [
+                                "law school",
+                                "academic publisher"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311581,
+                                            "longitude": -72.928147
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Law School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q4570781",
+                        "data": {
+                            "label": "Lincoln University",
+                            "instance_of": [
+                                "university",
+                                "historically black colleges and universities",
+                                "public educational institution of the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 39.808333333333,
+                                            "longitude": -75.927777777778
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Lincoln University"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130286025",
         "label": "Walter Dyson",
         "description": "Graduate of Yale College, 1905",
@@ -26287,7 +27455,7 @@
                             "label": "New York City, New York, United States",
                             "instance_of": [
                                 "global city",
-                                "port settlement",
+                                "port city",
                                 "city in the United States",
                                 "city",
                                 "big city",
@@ -26994,7 +28162,8 @@
                         "data": {
                             "label": "Tarboro, North Carolina, United States",
                             "instance_of": [
-                                "town in the United States"
+                                "town in the United States",
+                                "city in North Carolina"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -28187,7 +29356,8 @@
                         "data": {
                             "label": "Goldsboro, North Carolina, United States",
                             "instance_of": [
-                                "city in the United States"
+                                "city in the United States",
+                                "city in North Carolina"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -28810,6 +29980,131 @@
         }
     },
     {
+        "id": "Q132303771",
+        "label": "William Lawrence Peppers",
+        "description": "Attended Yale Law School 1917-1918",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1884"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q2029674",
+                        "data": {
+                            "label": "Lumberton, North Carolina, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "human settlement",
+                                "county seat",
+                                "city in North Carolina"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 34.6272,
+                                            "longitude": -79.0119
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Lumberton, North Carolina, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1957"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1143289",
+                        "data": {
+                            "label": "Yale Law School",
+                            "instance_of": [
+                                "law school",
+                                "academic publisher"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311581,
+                                            "longitude": -72.928147
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Law School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q4570781",
+                        "data": {
+                            "label": "Lincoln University",
+                            "instance_of": [
+                                "university",
+                                "historically black colleges and universities",
+                                "public educational institution of the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 39.808333333333,
+                                            "longitude": -75.927777777778
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Lincoln University"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130286776",
         "label": "William Marvin Gibson",
         "description": "Graduate of Yale Divinity School, 1922",
@@ -29084,7 +30379,7 @@
                         "value-type": "wikibase-item",
                         "id": "Q5611365",
                         "data": {
-                            "label": "Grove",
+                            "label": "Grove, Virginia, United States",
                             "instance_of": [
                                 "unincorporated community in the United States"
                             ],
@@ -29101,7 +30396,7 @@
                                 }
                             }
                         },
-                        "text": "Grove"
+                        "text": "Grove, Virginia, United States"
                     }
                 ]
             },

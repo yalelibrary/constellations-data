@@ -184,7 +184,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q23635",
                     "data": {
-                        "label": "Bermuda, British overseas territories, United Kingdom",
+                        "label": "Bermuda",
                         "instance_of": [
                             "island group",
                             "British overseas territories",
@@ -204,7 +204,7 @@
                             }
                         }
                     },
-                    "text": "Bermuda, British overseas territories, United Kingdom"
+                    "text": "Bermuda"
                 },
                 {
                     "value-type": "wikibase-item",

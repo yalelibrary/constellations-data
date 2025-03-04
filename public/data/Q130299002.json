@@ -112,7 +112,8 @@
                     "data": {
                         "label": "Goldsboro, North Carolina, United States",
                         "instance_of": [
-                            "city in the United States"
+                            "city in the United States",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -247,7 +248,8 @@
                     "data": {
                         "label": "Goldsboro, North Carolina, United States",
                         "instance_of": [
-                            "city in the United States"
+                            "city in the United States",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {

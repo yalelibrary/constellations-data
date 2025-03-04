@@ -315,7 +315,7 @@
                         "label": "Durban, eThekwini Metropolitan Municipality, South Africa",
                         "instance_of": [
                             "city",
-                            "port settlement",
+                            "port city",
                             "big city"
                         ],
                         "properties": {

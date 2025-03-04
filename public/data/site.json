@@ -6,6 +6,7 @@
     "bioUrlPrefix": "constellations-data/biographies/",
     "images": "constellations-data/images/",
     "properties": "constellations-data/wikidata-lists/include_properties_list.csv",
+    "labelOverrides": "constellations-data/wikidata-lists/label_overrides.csv",
     "propertyOverrideUrlPrefix": "constellations-data/property-value-override/",
     "publicationsUrlPrefix": "constellations-data/publications/"
 }
