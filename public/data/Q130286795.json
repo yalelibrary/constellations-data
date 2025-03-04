@@ -1,7 +1,7 @@
 {
     "id": "Q130286795",
     "label": "Viola White Goin",
-    "biographyMarkdown": "# Viola White Goin\n## Attended English classes in Yale Graduate School, 1902-1903\nBorn in 1877, Viola White Goin received her bachelor's degree from Oberlin College in 1901. She studied English at the Yale Graduate School from 1902-1903. In 1902, she married fellow Oberlin and Yale student Edward Franklin Goin. They had two children: Viola Goin Palmer and Edward H. Goin (Yale College, 1924). Viola W. Goin served as acting dean of women at Fisk University in the early 1930s. She spent most of her adult life in New Haven, where her husband served as pastor of the Dixwell Congregational UCC. She died in 1955 and is buried in Evergreen Cemetery, New Haven.\n",
+    "biographyMarkdown": "# Viola White Goin\n## Attended English classes in Yale Graduate School, 1902-1903\nBorn in 1877, Viola White Goin received her bachelor's degree from Oberlin College in 1901. She studied English at the Yale Graduate School from 1902-1903. In 1902, she married fellow Oberlin and Yale student Edward Franklin Goin. They had two children: Viola Goin Palmer and Edward H. Goin (Yale College, 1924). Viola W. Goin served as acting dean of women at Fisk University in the early 1930s. She spent most of her adult life in New Haven, where her husband served as pastor of the Dixwell Congregational UCC. She died in 1955 and is buried in Evergreen Cemetery, New Haven.\n\nImage citation: Courtesy of Dixwell Avenue Congregational United Church of Christ, New Haven, Connecticut\n",
     "description": "Attended English classes in Yale Graduate School, 1902-1903",
     "properties": {
         "date of birth": {
@@ -229,10 +229,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Viola White Goin",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q130286795.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

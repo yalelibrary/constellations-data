@@ -3320,7 +3320,7 @@
     {
         "id": "Q130314907",
         "label": "Bismarck Robert Pinchback",
-        "description": "Attended Yale Medical School 1887-1890",
+        "description": "Attended Yale School of Medicine 1887-1890",
         "properties": {
             "date of death": {
                 "label": "date of death",
@@ -3619,6 +3619,7 @@
     {
         "id": "Q132783211",
         "label": "Cecil Bonneau Williams",
+        "description": "Graduate of Yale College, 1925",
         "properties": {
             "date of birth": {
                 "label": "date of birth",
@@ -3662,10 +3663,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Cecil Bonneau Williams",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q132783211.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -7418,10 +7419,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Edward Franklin Goin",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q126369056.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -12257,7 +12258,7 @@
     {
         "id": "Q132309453",
         "label": "H. Milton Mickens",
-        "description": "Possible graduate or student of Yale Divinity School or Graduate School circa 1890s-1900s",
+        "description": "Likely graduate or student of Yale Divinity School circa 1890s-1900s",
         "properties": {
             "date of birth": {
                 "label": "date of birth",
@@ -17055,7 +17056,7 @@
     {
         "id": "Q130314895",
         "label": "Jessie Estell Muse",
-        "description": "Attended Yale School of Music circa 1913",
+        "description": "Attended Yale School of Music 1909-1913",
         "properties": {
             "date of birth": {
                 "label": "date of birth",
@@ -19490,7 +19491,7 @@
     {
         "id": "Q130266892",
         "label": "Josephus R. Coan",
-        "description": "Graduate of Yale School of Divinity, 1933",
+        "description": "Graduate of Yale Divinity School, 1933",
         "properties": {
             "date of birth": {
                 "label": "date of birth",
@@ -21128,6 +21129,7 @@
     {
         "id": "Q131759780",
         "label": "Maxey Adolph Jackson",
+        "description": "Attended Yale Law School, 1920-1922",
         "properties": {
             "date of birth": {
                 "label": "date of birth",
@@ -21414,10 +21416,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Nathan B. Young, Jr.",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q130309741.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -24944,6 +24946,7 @@
     {
         "id": "Q131391081",
         "label": "Shadrach Carrington Jones",
+        "description": "Attended Sheffield Scientific School 1906-1909, 1909-1910",
         "properties": {
             "date of birth": {
                 "label": "date of birth",
@@ -25565,7 +25568,7 @@
     {
         "id": "Q130298968",
         "label": "Theodore E. Hill",
-        "description": "Graduate of Yale College, 1904; Graduate of Yale Law, 1908",
+        "description": "Graduate of Yale College, 1904; Graduate of Yale Law School, 1908",
         "properties": {
             "date of birth": {
                 "label": "date of birth",
@@ -26885,10 +26888,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Viola White Goin",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q130286795.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
