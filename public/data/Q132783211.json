@@ -1,6 +1,8 @@
 {
     "id": "Q132783211",
     "label": "Cecil Bonneau Williams",
+    "biographyMarkdown": "# Cecil Bonneau Williams\n## Graduate of Yale College, 1925\n\n\nImage citation: *Record of the Yale College Class of 1925* (1925), Yale University Library.\n",
+    "description": "Graduate of Yale College, 1925",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -232,10 +234,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Cecil Bonneau Williams",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q132783211.jpg",
                             "mime": "image/jpeg"
                         }
                     ]
