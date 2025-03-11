@@ -271,29 +271,6 @@
                         }
                     },
                     "text": "Boston, Massachusetts, United States"
-                },
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q520251",
-                    "data": {
-                        "label": "Greenwood, South Carolina, United States",
-                        "instance_of": [
-                            "city in the United States"
-                        ],
-                        "properties": {
-                            "coordinate location": {
-                                "label": "coordinate location",
-                                "values": [
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 34.189722222222,
-                                        "longitude": -82.154722222222
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "text": "Greenwood, South Carolina, United States"
                 }
             ]
         },
@@ -335,6 +312,15 @@
                 {
                     "value-type": "literal",
                     "text": "Klugh"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1910s"
                 }
             ]
         }

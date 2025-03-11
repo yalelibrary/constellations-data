@@ -365,6 +365,15 @@
                     "text": "Matthews"
                 }
             ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1920s; 1930s"
+                }
+            ]
         }
     }
 }

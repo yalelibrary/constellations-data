@@ -1,8 +1,6 @@
 {
-    "id": "Q131759780",
-    "label": "Maxey Adolph Jackson",
-    "biographyMarkdown": "# Maxey Adolph Jackson \n## Attended Yale Law School, 1920-1922\n\nBorn in Marion, Kentucky in 1893, Maxey Adolph Jackson earned a B.A. from Howard University in 1920. He was enrolled in Yale Law School in 1920-1921 and 1921-1922, during which time he lived at 100 Foote Street. During World War I, he served as a master gunner (MGRN) in the 350th Field Artillery Regiment, 92nd Division, which was made up of Black soldiers. He died March 14, 1933, and is buried in Arlington National Cemetery.\n",
-    "description": "Attended Yale Law School, 1920-1922",
+    "id": "Q133097264",
+    "label": "Frank Douglas Taylor",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -21,35 +19,6 @@
                 }
             ]
         },
-        "place of birth": {
-            "label": "place of birth",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q1978123",
-                    "data": {
-                        "label": "Marion, Kentucky, United States",
-                        "instance_of": [
-                            "city in the United States",
-                            "county seat"
-                        ],
-                        "properties": {
-                            "coordinate location": {
-                                "label": "coordinate location",
-                                "values": [
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 37.3325,
-                                        "longitude": -88.07889
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "text": "Marion, Kentucky, United States"
-                }
-            ]
-        },
         "date of birth": {
             "label": "date of birth",
             "values": [
@@ -59,12 +28,40 @@
                 }
             ]
         },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2076202",
+                    "data": {
+                        "label": "York, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.994722222222,
+                                        "longitude": -81.239444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "York, South Carolina, United States"
+                }
+            ]
+        },
         "date of death": {
             "label": "date of death",
             "values": [
                 {
                     "value-type": "time",
-                    "text": "1933"
+                    "text": "1943"
                 }
             ]
         },
@@ -73,13 +70,14 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1068752",
+                    "id": "Q1430048",
                     "data": {
-                        "label": "Howard University",
+                        "label": "Florida A&M University",
                         "instance_of": [
-                            "private university",
+                            "university",
+                            "land-grant university",
                             "historically black colleges and universities",
-                            "private not-for-profit educational institution"
+                            "public educational institution of the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -87,14 +85,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 38.921666666667,
-                                        "longitude": -77.02
+                                        "latitude": 30.4178,
+                                        "longitude": -84.2845
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Howard University"
+                    "text": "Florida A&M University"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -121,20 +119,11 @@
                     "text": "Yale Law School",
                     "qualifiers": [
                         {
-                            "label": "start time",
-                            "values": [
-                                {
-                                    "value-type": "time",
-                                    "text": "1920"
-                                }
-                            ]
-                        },
-                        {
                             "label": "end time",
                             "values": [
                                 {
                                     "value-type": "time",
-                                    "text": "1922"
+                                    "text": "1921"
                                 }
                             ]
                         }
@@ -147,12 +136,14 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1978123",
+                    "id": "Q1345",
                     "data": {
-                        "label": "Marion, Kentucky, United States",
+                        "label": "Philadelphia, Pennsylvania, United States",
                         "instance_of": [
-                            "city in the United States",
-                            "county seat"
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -160,14 +151,37 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 37.3325,
-                                        "longitude": -88.07889
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Marion, Kentucky, United States"
+                    "text": "Philadelphia, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2076202",
+                    "data": {
+                        "label": "York, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.994722222222,
+                                        "longitude": -81.239444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "York, South Carolina, United States"
                 }
             ]
         },
@@ -191,7 +205,7 @@
             "values": [
                 {
                     "value-type": "literal",
-                    "text": "Jackson"
+                    "text": "Taylor"
                 }
             ]
         },
@@ -200,7 +214,7 @@
             "values": [
                 {
                     "value-type": "literal",
-                    "text": "1920s"
+                    "text": "1910s; 1920s"
                 }
             ]
         }

@@ -301,6 +301,15 @@
                     "text": "Brown"
                 }
             ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1910s"
+                }
+            ]
         }
     }
 }

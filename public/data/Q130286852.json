@@ -398,6 +398,15 @@
                     "text": "Greene"
                 }
             ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1910s; 1920s"
+                }
+            ]
         }
     }
 }

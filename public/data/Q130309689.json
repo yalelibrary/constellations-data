@@ -238,6 +238,15 @@
                     "text": "Nkosi"
                 }
             ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1930s; 1940s"
+                }
+            ]
         }
     }
 }

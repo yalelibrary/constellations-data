@@ -256,6 +256,15 @@
                     "text": "Greene"
                 }
             ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1850s"
+                }
+            ]
         }
     }
 }

@@ -318,6 +318,15 @@
                     "text": "Bouchet"
                 }
             ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1870s"
+                }
+            ]
         }
     }
 }

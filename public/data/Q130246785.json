@@ -192,6 +192,15 @@
                     "text": "Biddle"
                 }
             ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1880s; 1890s"
+                }
+            ]
         }
     }
 }
