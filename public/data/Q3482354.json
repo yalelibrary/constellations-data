@@ -435,7 +435,7 @@
                             "values": [
                                 {
                                     "value-type": "time",
-                                    "text": "1941"
+                                    "text": "1940"
                                 }
                             ]
                         }
@@ -855,6 +855,15 @@
                 {
                     "value-type": "literal",
                     "text": "Bois"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1930s; 1940s"
                 }
             ]
         }

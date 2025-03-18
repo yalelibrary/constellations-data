@@ -288,6 +288,15 @@
                     "text": "Morsell"
                 }
             ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1900s; 1910s"
+                }
+            ]
         }
     }
 }

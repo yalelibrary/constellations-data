@@ -531,6 +531,15 @@
                     "text": "Miller"
                 }
             ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1880s"
+                }
+            ]
         }
     }
 }

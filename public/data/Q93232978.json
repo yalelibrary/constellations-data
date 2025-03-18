@@ -324,6 +324,15 @@
                     "text": "Banner"
                 }
             ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1930s"
+                }
+            ]
         }
     }
 }

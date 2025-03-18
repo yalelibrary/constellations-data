@@ -9772,6 +9772,128 @@
         }
     },
     {
+        "id": "Q133097264",
+        "label": "Frank Douglas Taylor",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1893"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q2076202",
+                        "data": {
+                            "label": "York, South Carolina, United States",
+                            "instance_of": [
+                                "city in the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 34.994722222222,
+                                            "longitude": -81.239444444444
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "York, South Carolina, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1943"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1430048",
+                        "data": {
+                            "label": "Florida A&M University",
+                            "instance_of": [
+                                "university",
+                                "land-grant university",
+                                "historically black colleges and universities",
+                                "public educational institution of the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 30.4178,
+                                            "longitude": -84.2845
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Florida A&M University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1143289",
+                        "data": {
+                            "label": "Yale Law School",
+                            "instance_of": [
+                                "law school",
+                                "academic publisher"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311581,
+                                            "longitude": -72.928147
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Law School"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130227704",
         "label": "Frank William Adams",
         "description": "Attended Yale College 1912-1913",
@@ -24325,6 +24447,58 @@
                             }
                         },
                         "text": "Yale Divinity School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1524124",
+                        "data": {
+                            "label": "Morehouse College",
+                            "instance_of": [
+                                "college",
+                                "historically black colleges and universities",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 33.746666666667,
+                                            "longitude": -84.415277777778
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Morehouse College"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49088",
+                        "data": {
+                            "label": "Columbia University",
+                            "instance_of": [
+                                "private university",
+                                "research university",
+                                "Colonial Colleges",
+                                "private not-for-profit educational institution",
+                                "organization"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 40.8075,
+                                            "longitude": -73.961944444444
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Columbia University"
                     }
                 ]
             }

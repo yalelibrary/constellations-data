@@ -331,6 +331,15 @@
                     "text": "Dyson"
                 }
             ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1900s"
+                }
+            ]
         }
     }
 }

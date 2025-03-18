@@ -252,6 +252,15 @@
                     "text": "Williams"
                 }
             ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1920s"
+                }
+            ]
         }
     }
 }
