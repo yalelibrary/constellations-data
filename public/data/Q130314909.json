@@ -98,11 +98,12 @@
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1370",
+                    "id": "Q14713514",
                     "data": {
-                        "label": "Virginia, United States",
+                        "label": "Western Branch, Virginia, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "human settlement",
+                            "unincorporated community in the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -110,14 +111,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 37.5,
-                                        "longitude": -79
+                                        "latitude": 36.8458,
+                                        "longitude": -76.4
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Virginia, United States"
+                    "text": "Western Branch, Virginia, United States"
                 },
                 {
                     "value-type": "wikibase-item",

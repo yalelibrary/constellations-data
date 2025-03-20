@@ -141,11 +141,12 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1456",
+                    "id": "Q38453",
                     "data": {
-                        "label": "South Carolina, United States",
+                        "label": "Columbia, South Carolina, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city in the United States",
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -153,14 +154,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 34,
-                                        "longitude": -81
+                                        "latitude": 34.000555555556,
+                                        "longitude": -81.044166666667
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "South Carolina, United States"
+                    "text": "Columbia, South Carolina, United States"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -221,11 +222,12 @@
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1454",
+                    "id": "Q2028813",
                     "data": {
-                        "label": "North Carolina, United States",
+                        "label": "Salisbury, North Carolina, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city in the United States",
+                            "city in North Carolina"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -233,14 +235,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 35.5,
-                                        "longitude": -80
+                                        "latitude": 35.668333333333,
+                                        "longitude": -80.478611111111
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "North Carolina, United States"
+                    "text": "Salisbury, North Carolina, United States"
                 },
                 {
                     "value-type": "wikibase-item",

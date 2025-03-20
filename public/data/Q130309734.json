@@ -68,11 +68,11 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q779",
+                    "id": "Q631402",
                     "data": {
-                        "label": "Connecticut, United States",
+                        "label": "Norwich, Connecticut, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city in the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -80,14 +80,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 41.6,
-                                        "longitude": -72.7
+                                        "latitude": 41.550277777778,
+                                        "longitude": -72.0875
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Connecticut, United States"
+                    "text": "Norwich, Connecticut, United States"
                 }
             ]
         },

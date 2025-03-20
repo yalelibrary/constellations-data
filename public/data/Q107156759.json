@@ -226,11 +226,11 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q16551",
+                    "id": "Q2049372",
                     "data": {
-                        "label": "Vermont, United States",
+                        "label": "Belvidere, Vermont, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "New England town"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -238,14 +238,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 44,
-                                        "longitude": -72.7
+                                        "latitude": 44.7585632,
+                                        "longitude": -72.677017
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Vermont, United States"
+                    "text": "Belvidere, Vermont, United States"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -343,6 +343,29 @@
                         }
                     },
                     "text": "Nashville, Tennessee, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2970916",
+                    "data": {
+                        "label": "Craftsbury, Vermont, United States",
+                        "instance_of": [
+                            "New England town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 44.658055555556,
+                                        "longitude": -72.379166666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Craftsbury, Vermont, United States"
                 }
             ]
         },

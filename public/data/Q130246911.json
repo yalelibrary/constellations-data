@@ -19,11 +19,12 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1494",
+                    "id": "Q118152",
                     "data": {
-                        "label": "Mississippi, United States",
+                        "label": "Meridian, Mississippi, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city in the United States",
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -31,14 +32,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 33,
-                                        "longitude": -90
+                                        "latitude": 32.36430555555555,
+                                        "longitude": -88.70366666666666
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Mississippi, United States"
+                    "text": "Meridian, Mississippi, United States"
                 }
             ]
         },

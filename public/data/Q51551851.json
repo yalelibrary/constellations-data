@@ -210,6 +210,32 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q51844212",
+                    "data": {
+                        "label": "Anne Gamble Kennedy",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Anne Gamble Kennedy",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "child"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [

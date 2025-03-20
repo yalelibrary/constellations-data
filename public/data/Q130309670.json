@@ -164,11 +164,12 @@
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1558",
+                    "id": "Q1003636",
                     "data": {
-                        "label": "Kansas, United States",
+                        "label": "Newton, Kansas, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city in the United States",
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -176,14 +177,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 38.5,
-                                        "longitude": -98
+                                        "latitude": 38.0442,
+                                        "longitude": -97.3475
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Kansas, United States"
+                    "text": "Newton, Kansas, United States"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -208,6 +209,30 @@
                         }
                     },
                     "text": "Guthrie, Oklahoma, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q958555",
+                    "data": {
+                        "label": "Hutchinson, Kansas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.0656,
+                                        "longitude": -97.9236
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hutchinson, Kansas, United States"
                 }
             ]
         },

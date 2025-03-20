@@ -213,8 +213,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 42.96336,
-                                        "longitude": -85.66809
+                                        "latitude": 42.96333333333333,
+                                        "longitude": -85.66777777777777
                                     }
                                 ]
                             }

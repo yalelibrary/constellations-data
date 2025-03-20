@@ -145,11 +145,13 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1537",
+                    "id": "Q37836",
                     "data": {
-                        "label": "Wisconsin, United States",
+                        "label": "Milwaukee, Wisconsin, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "first-class city",
+                            "big city",
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -157,22 +159,24 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 44.5,
-                                        "longitude": -89.5
+                                        "latitude": 43.05,
+                                        "longitude": -87.95
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Wisconsin, United States"
+                    "text": "Milwaukee, Wisconsin, United States"
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1527",
+                    "id": "Q36091",
                     "data": {
-                        "label": "Minnesota, United States",
+                        "label": "Minneapolis, Minnesota, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "county seat",
+                            "city in the United States",
+                            "big city"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -180,14 +184,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 46,
-                                        "longitude": -94
+                                        "latitude": 44.981944444444444,
+                                        "longitude": -93.26916666666666
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Minnesota, United States"
+                    "text": "Minneapolis, Minnesota, United States"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -237,11 +241,14 @@
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1400",
+                    "id": "Q1345",
                     "data": {
-                        "label": "Pennsylvania, United States",
+                        "label": "Philadelphia, Pennsylvania, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -249,14 +256,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 41,
-                                        "longitude": -77.5
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Pennsylvania, United States"
+                    "text": "Philadelphia, Pennsylvania, United States"
                 },
                 {
                     "value-type": "wikibase-item",

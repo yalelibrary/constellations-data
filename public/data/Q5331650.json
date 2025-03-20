@@ -36,29 +36,29 @@
             "values": [
                 {
                     "value-type": "time",
+                    "text": "1908"
+                },
+                {
+                    "value-type": "time",
                     "text": "1908",
                     "qualifiers": [
                         {
-                            "label": "reason for deprecated rank",
+                            "label": "reason for preferred rank",
                             "values": [
                                 {
                                     "value-type": "wikibase-item",
-                                    "id": "Q42727519",
+                                    "id": "Q71536040",
                                     "data": {
-                                        "label": "item/value with less precision and/or accuracy",
+                                        "label": "most precise value",
                                         "instance_of": [
-                                            "Wikibase reason for deprecated rank"
+                                            "Wikibase reason for preferred rank"
                                         ]
                                     },
-                                    "text": "item/value with less precision and/or accuracy"
+                                    "text": "most precise value"
                                 }
                             ]
                         }
                     ]
-                },
-                {
-                    "value-type": "time",
-                    "text": "1908"
                 }
             ]
         },
@@ -281,6 +281,53 @@
                         }
                     },
                     "text": "Derby, Connecticut, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130246199",
+                    "data": {
+                        "label": "Ebenezer Don Carlos Bassett, Jr.",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Ebenezer Don Carlos Bassett, Jr.",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "child"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130246224",
+                    "data": {
+                        "label": "Ulysses Simpson Grant Bassett",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Ulysses Simpson Grant Bassett",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "child"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

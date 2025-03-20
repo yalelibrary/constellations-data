@@ -221,6 +221,48 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q126369082",
+                    "data": {
+                        "label": "Edward H. Goin",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Edward H. Goin",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "child"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q126369081",
+                    "data": {
+                        "label": "Viola Goin Palmer",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Viola Goin Palmer",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "child"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

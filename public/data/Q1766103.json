@@ -281,13 +281,11 @@
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1014",
+                    "id": "Q5019126",
                     "data": {
-                        "label": "Liberia",
+                        "label": "Caldwell",
                         "instance_of": [
-                            "republic",
-                            "sovereign state",
-                            "country"
+                            "human settlement"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -295,14 +293,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 6.533333,
-                                        "longitude": -9.75
+                                        "latitude": 6.4,
+                                        "longitude": -10.73333333
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Liberia"
+                    "text": "Caldwell"
                 },
                 {
                     "value-type": "wikibase-item",

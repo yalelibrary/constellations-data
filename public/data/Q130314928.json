@@ -208,11 +208,11 @@
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1384",
+                    "id": "Q54065",
                     "data": {
-                        "label": "New York, United States",
+                        "label": "Suffolk County, New York, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "county of New York"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -220,14 +220,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 43,
-                                        "longitude": -75
+                                        "latitude": 40.94,
+                                        "longitude": -72.68
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "New York, United States"
+                    "text": "Suffolk County, New York, United States"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -329,11 +329,11 @@
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q771",
+                    "id": "Q49188",
                     "data": {
-                        "label": "Massachusetts, United States",
+                        "label": "Lynn, Massachusetts, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city in the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -341,14 +341,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 42.3,
-                                        "longitude": -71.8
+                                        "latitude": 42.466666666667,
+                                        "longitude": -70.95
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Massachusetts, United States"
+                    "text": "Lynn, Massachusetts, United States"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -375,6 +375,29 @@
                         }
                     },
                     "text": "Nashville, Tennessee, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49147",
+                    "data": {
+                        "label": "New Bedford, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.636111111111,
+                                        "longitude": -70.934722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Bedford, Massachusetts, United States"
                 }
             ]
         },

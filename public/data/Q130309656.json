@@ -128,11 +128,11 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1400",
+                    "id": "Q913924",
                     "data": {
-                        "label": "Pennsylvania, United States",
+                        "label": "Bridgeville, Pennsylvania, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "borough of Pennsylvania"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -140,14 +140,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 41,
-                                        "longitude": -77.5
+                                        "latitude": 40.3569,
+                                        "longitude": -80.1086
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Pennsylvania, United States"
+                    "text": "Bridgeville, Pennsylvania, United States"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -174,11 +174,11 @@
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1391",
+                    "id": "Q753815",
                     "data": {
-                        "label": "Maryland, United States",
+                        "label": "Trappe, Maryland, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "town in the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -186,22 +186,22 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 39,
-                                        "longitude": -76.7
+                                        "latitude": 38.66,
+                                        "longitude": -76.0581
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Maryland, United States"
+                    "text": "Trappe, Maryland, United States"
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1393",
+                    "id": "Q756141",
                     "data": {
-                        "label": "Delaware, United States",
+                        "label": "Middletown, Delaware, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "town in the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -209,14 +209,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 39,
-                                        "longitude": -75.5
+                                        "latitude": 39.44956,
+                                        "longitude": -75.71632
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Delaware, United States"
+                    "text": "Middletown, Delaware, United States"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -268,6 +268,78 @@
                         }
                     },
                     "text": "Allen, Maryland, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q174224",
+                    "data": {
+                        "label": "Wilmington, Delaware, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.748333333333,
+                                        "longitude": -75.551388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilmington, Delaware, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q754373",
+                    "data": {
+                        "label": "Bridgeville, Delaware, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "human settlement"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.7425,
+                                        "longitude": -75.6017
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bridgeville, Delaware, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q755851",
+                    "data": {
+                        "label": "Chestertown, Maryland, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.219444444444,
+                                        "longitude": -76.068333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chestertown, Maryland, United States"
                 }
             ]
         },

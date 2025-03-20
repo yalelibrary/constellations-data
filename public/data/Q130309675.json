@@ -188,11 +188,12 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q771",
+                    "id": "Q20138",
                     "data": {
-                        "label": "Massachusetts, United States",
+                        "label": "Roxbury, Boston, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "neighborhood in Boston",
+                            "African-American neighborhood"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -200,14 +201,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 42.3,
-                                        "longitude": -71.8
+                                        "latitude": 42.325,
+                                        "longitude": -71.095277777778
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Massachusetts, United States"
+                    "text": "Roxbury, Boston, United States"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -277,6 +278,103 @@
                         }
                     },
                     "text": "Talladega, Alabama, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q122598726",
+                    "data": {
+                        "label": "West Medford",
+                        "instance_of": [
+                            "human settlement",
+                            "hamlet"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.4223183,
+                                        "longitude": -71.1328312
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "West Medford"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q100",
+                    "data": {
+                        "label": "Boston, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.360277777777775,
+                                        "longitude": -71.05777777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Boston, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q54132",
+                    "data": {
+                        "label": "Haverhill, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.783333333333,
+                                        "longitude": -71.083333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Haverhill, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49111",
+                    "data": {
+                        "label": "Cambridge, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.375,
+                                        "longitude": -71.106111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cambridge, Massachusetts, United States"
                 }
             ]
         },

@@ -18,11 +18,14 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q173",
+                    "id": "Q29364",
                     "data": {
-                        "label": "Alabama, United States",
+                        "label": "Montgomery, Alabama, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "county seat",
+                            "big city"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -30,14 +33,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 32.7,
-                                        "longitude": -86.7
+                                        "latitude": 32.3675,
+                                        "longitude": -86.3
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Alabama, United States"
+                    "text": "Montgomery, Alabama, United States"
                 }
             ]
         },

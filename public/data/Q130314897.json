@@ -183,12 +183,11 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q258",
+                    "id": "Q874262",
                     "data": {
-                        "label": "South Africa",
+                        "label": "Ladysmith, Emnambithi-Ladysmith Local Municipality, South Africa",
                         "instance_of": [
-                            "sovereign state",
-                            "country"
+                            "town"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -196,14 +195,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": -29,
-                                        "longitude": 24
+                                        "latitude": -28.553888888889,
+                                        "longitude": 29.7825
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "South Africa"
+                    "text": "Ladysmith, Emnambithi-Ladysmith Local Municipality, South Africa"
                 }
             ]
         },

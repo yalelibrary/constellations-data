@@ -1,7 +1,7 @@
 {
     "id": "Q130298894",
     "label": "Effie Ella Grant Hardy",
-    "biographyMarkdown": "# Effie Ella Grant Hardy\n## Attended Yale School of Music 1906-1909\nEffie Ella Grant Hardy was born in 1885. She attended the Yale School of Music from 1906 to 1909. At the time, the School of Music was one of only three Yale schools to accept female students. A soprano singer, Hardy received the Lockwood Scholarship and lived with a relative (possibly her mother) in New Haven while taking classes. It is not yet known why she did not receive a degree. She was later made an honorary member of Delta Sigma Theta Sorority.\n\nAfter Yale, Grant moved to Quindaro, Kansas, where she taught at Western University (since closed), likely the first Black university in the western U.S. and an institution renowned for its musical programs. She married Arthur W. Hardy, a director with the Y.M.C.A., and together they had two children. They lived in Ohio and later New Jersey, where she continued to perform professionally and teach music. In 1928, Hardy was invited by the sociologist Herbert A. Miller to present, along with her vocal students, to his classes at Ohio State University on the history of Black music. Hardy died on December 28, 1983, at the age of 98.\n\nImage citation: *Columbus Dispatch*, 26 January 1926. Courtesy of the Columbus Metropolitan Library Local History and Genealogy Department.\n",
+    "biographyMarkdown": "# Effie Ella Grant Hardy\n## Attended Yale School of Music 1906-1909\nEffie Ella Grant was born in 1885 in Connecticut to Carrie Hamilton Grant and Bradford F. Grant. For part of her childhood, she lived in Worcester, Massachusetts. \n\nShe attended the Yale School of Music from 1906 to 1909. At the time, the School of Music was one of only three Yale schools to accept female students. A soprano singer, Hardy received the Lockwood Scholarship. She lived in New Haven with her mother, who operated a \"Yale Employment Bureau\" for housekeepers. It is not yet known why she did not receive a degree. She was later made an honorary member of Delta Sigma Theta Sorority.\n\nAfter Yale, she moved to Quindaro, Kansas, where she taught at Western University (since closed), likely the first Black university in the western U.S. and an institution renowned for its musical programs. She married Arthur W. Hardy, a director with the Y.M.C.A., and together they had two children. They lived in Ohio and later New Jersey, where she continued to perform professionally and teach music. In 1928, Hardy was invited by the sociologist Herbert A. Miller to present, along with her vocal students, to his classes at Ohio State University on the history of Black music. \n\nLater in her life, Effie Grant Hardy lived in Buffalo, New York. She died on December 28, 1983, at the age of 98.\n\nImage citation: Baltimore *Afro-American*, 20 November 1909.",
     "description": "Attended Yale School of Music 1906-1909",
     "properties": {
         "employer": {
@@ -96,11 +96,14 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1397",
+                    "id": "Q16567",
                     "data": {
-                        "label": "Ohio, United States",
+                        "label": "Columbus, Ohio, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "city of Ohio"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -108,22 +111,22 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 40.5,
-                                        "longitude": -82.5
+                                        "latitude": 39.96222222222222,
+                                        "longitude": -83.00055555555555
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Ohio, United States"
+                    "text": "Columbus, Ohio, United States"
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1408",
+                    "id": "Q678437",
                     "data": {
-                        "label": "New Jersey, United States",
+                        "label": "Montclair, New Jersey, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "township of New Jersey"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -131,14 +134,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 40,
-                                        "longitude": -74.5
+                                        "latitude": 40.8244,
+                                        "longitude": -74.2123
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "New Jersey, United States"
+                    "text": "Montclair, New Jersey, United States"
                 },
                 {
                     "value-type": "wikibase-item",

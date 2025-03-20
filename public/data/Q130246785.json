@@ -19,11 +19,11 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1400",
+                    "id": "Q4923304",
                     "data": {
-                        "label": "Pennsylvania, United States",
+                        "label": "Blackrock, Pennsylvania, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "unincorporated community in the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -31,14 +31,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 41,
-                                        "longitude": -77.5
+                                        "latitude": 39.7217,
+                                        "longitude": -76.8611
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Pennsylvania, United States"
+                    "text": "Blackrock, Pennsylvania, United States"
                 }
             ]
         },
@@ -129,11 +129,12 @@
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1400",
+                    "id": "Q368045",
                     "data": {
-                        "label": "Pennsylvania, United States",
+                        "label": "Chester, Pennsylvania, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city",
+                            "home rule municipality of Pennsylvania"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -141,14 +142,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 41,
-                                        "longitude": -77.5
+                                        "latitude": 39.847222222222,
+                                        "longitude": -75.372777777778
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Pennsylvania, United States"
+                    "text": "Chester, Pennsylvania, United States"
                 }
             ]
         },

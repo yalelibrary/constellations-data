@@ -123,11 +123,12 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1384",
+                    "id": "Q3288991",
                     "data": {
-                        "label": "New York, United States",
+                        "label": "Catskill, New York, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "town in the United States",
+                            "town of New York"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -135,22 +136,22 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 43,
-                                        "longitude": -75
+                                        "latitude": 42.2211,
+                                        "longitude": -73.8664
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "New York, United States"
+                    "text": "Catskill, New York, United States"
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1428",
+                    "id": "Q112061",
                     "data": {
-                        "label": "Georgia, United States",
+                        "label": "Clarke County, Georgia, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "county of Georgia"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -158,14 +159,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 33,
-                                        "longitude": -83.5
+                                        "latitude": 33.955464,
+                                        "longitude": -83.383245
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Georgia, United States"
+                    "text": "Clarke County, Georgia, United States"
                 },
                 {
                     "value-type": "wikibase-item",

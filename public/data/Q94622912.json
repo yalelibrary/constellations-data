@@ -115,6 +115,22 @@
                 }
             ]
         },
+        "sibling": {
+            "label": "sibling",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q94622916",
+                    "data": {
+                        "label": "Alexander Joseph Allen",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Alexander Joseph Allen"
+                }
+            ]
+        },
         "relative": {
             "label": "relative",
             "values": [
@@ -143,27 +159,6 @@
                                         ]
                                     },
                                     "text": "nephew"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q94622916",
-                    "data": {
-                        "label": "Alexander Joseph Allen",
-                        "instance_of": [
-                            "human"
-                        ]
-                    },
-                    "text": "Alexander Joseph Allen",
-                    "qualifiers": [
-                        {
-                            "label": "kinship to subject",
-                            "values": [
-                                {
-                                    "text": "sibling"
                                 }
                             ]
                         }

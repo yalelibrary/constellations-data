@@ -133,11 +133,12 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1391",
+                    "id": "Q754306",
                     "data": {
-                        "label": "Maryland, United States",
+                        "label": "Easton, Maryland, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "town in the United States",
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -145,22 +146,25 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 39,
-                                        "longitude": -76.7
+                                        "latitude": 38.771666666667,
+                                        "longitude": -76.070555555556
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Maryland, United States"
+                    "text": "Easton, Maryland, United States"
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1400",
+                    "id": "Q1345",
                     "data": {
-                        "label": "Pennsylvania, United States",
+                        "label": "Philadelphia, Pennsylvania, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -168,22 +172,30 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 41,
-                                        "longitude": -77.5
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Pennsylvania, United States"
+                    "text": "Philadelphia, Pennsylvania, United States"
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1384",
+                    "id": "Q60",
                     "data": {
-                        "label": "New York, United States",
+                        "label": "New York City, New York, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "global city",
+                            "port city",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -191,14 +203,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 43,
-                                        "longitude": -75
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "New York, United States"
+                    "text": "New York City, New York, United States"
                 },
                 {
                     "value-type": "wikibase-item",

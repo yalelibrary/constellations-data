@@ -294,6 +294,32 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q104836715",
+                    "data": {
+                        "label": "Thomas Nelson Baker, Jr.",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Thomas Nelson Baker, Jr.",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "child"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [

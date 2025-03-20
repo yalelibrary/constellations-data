@@ -113,6 +113,22 @@
                 }
             ]
         },
+        "sibling": {
+            "label": "sibling",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130246199",
+                    "data": {
+                        "label": "Ebenezer Don Carlos Bassett, Jr.",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Ebenezer Don Carlos Bassett, Jr."
+                }
+            ]
+        },
         "residence": {
             "label": "residence",
             "values": [
@@ -247,27 +263,6 @@
         "relative": {
             "label": "relative",
             "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q130246199",
-                    "data": {
-                        "label": "Ebenezer Don Carlos Bassett, Jr.",
-                        "instance_of": [
-                            "human"
-                        ]
-                    },
-                    "text": "Ebenezer Don Carlos Bassett, Jr.",
-                    "qualifiers": [
-                        {
-                            "label": "kinship to subject",
-                            "values": [
-                                {
-                                    "text": "sibling"
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
                     "value-type": "wikibase-item",
                     "id": "Q5331650",

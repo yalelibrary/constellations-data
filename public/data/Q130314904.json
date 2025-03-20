@@ -86,11 +86,14 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1400",
+                    "id": "Q1345",
                     "data": {
-                        "label": "Pennsylvania, United States",
+                        "label": "Philadelphia, Pennsylvania, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -98,14 +101,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 41,
-                                        "longitude": -77.5
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Pennsylvania, United States"
+                    "text": "Philadelphia, Pennsylvania, United States"
                 }
             ]
         },
