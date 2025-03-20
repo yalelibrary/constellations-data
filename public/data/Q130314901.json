@@ -107,11 +107,13 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q771",
+                    "id": "Q49179",
                     "data": {
-                        "label": "Massachusetts, United States",
+                        "label": "Worcester, Massachusetts, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city in the United States",
+                            "big city",
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -119,14 +121,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 42.3,
-                                        "longitude": -71.8
+                                        "latitude": 42.271388888889,
+                                        "longitude": -71.798888888889
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Massachusetts, United States"
+                    "text": "Worcester, Massachusetts, United States"
                 },
                 {
                     "value-type": "wikibase-item",

@@ -143,17 +143,11 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1183",
+                    "id": "Q542833",
                     "data": {
-                        "label": "Puerto Rico",
+                        "label": "Fajardo",
                         "instance_of": [
-                            "unincorporated territory of the United States",
-                            "insular area of the United States",
-                            "political territorial entity",
-                            "province of Spanish America",
-                            "cultural region",
-                            "territory of the United States",
-                            "commonwealth"
+                            "municipality of Puerto Rico"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -161,14 +155,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 18.25,
-                                        "longitude": -66.5
+                                        "latitude": 18.325833333333,
+                                        "longitude": -65.6525
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Puerto Rico"
+                    "text": "Fajardo"
                 },
                 {
                     "value-type": "wikibase-item",

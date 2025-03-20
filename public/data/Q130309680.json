@@ -142,29 +142,6 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1509",
-                    "data": {
-                        "label": "Tennessee, United States",
-                        "instance_of": [
-                            "U.S. state"
-                        ],
-                        "properties": {
-                            "coordinate location": {
-                                "label": "coordinate location",
-                                "values": [
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 36,
-                                        "longitude": -86
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "text": "Tennessee, United States"
-                },
-                {
-                    "value-type": "wikibase-item",
                     "id": "Q1166",
                     "data": {
                         "label": "Michigan, United States",

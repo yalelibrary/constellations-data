@@ -239,29 +239,6 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1371",
-                    "data": {
-                        "label": "West Virginia, United States",
-                        "instance_of": [
-                            "U.S. state"
-                        ],
-                        "properties": {
-                            "coordinate location": {
-                                "label": "coordinate location",
-                                "values": [
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 39,
-                                        "longitude": -80.5
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "text": "West Virginia, United States"
-                },
-                {
-                    "value-type": "wikibase-item",
                     "id": "Q1002490",
                     "data": {
                         "label": "New Bern, North Carolina, United States",

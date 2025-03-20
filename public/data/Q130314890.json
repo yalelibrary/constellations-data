@@ -75,11 +75,13 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q771",
+                    "id": "Q49158",
                     "data": {
-                        "label": "Massachusetts, United States",
+                        "label": "Springfield, Massachusetts, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city in the United States",
+                            "big city",
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -87,14 +89,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 42.3,
-                                        "longitude": -71.8
+                                        "latitude": 42.112411,
+                                        "longitude": -72.547455
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Massachusetts, United States"
+                    "text": "Springfield, Massachusetts, United States"
                 }
             ]
         },

@@ -99,6 +99,31 @@
                         }
                     },
                     "text": "Morgan State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7680006",
+                    "data": {
+                        "label": "Talladega College",
+                        "instance_of": [
+                            "school",
+                            "historically black colleges and universities",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.4321,
+                                        "longitude": -86.1133
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Talladega College"
                 }
             ]
         },
@@ -315,6 +340,48 @@
                             "values": [
                                 {
                                     "text": "spouse"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q94431722",
+                    "data": {
+                        "label": "Harriet Pickens",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Harriet Pickens",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "child"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q110591635",
+                    "data": {
+                        "label": "Ruby Holbrook",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Ruby Holbrook",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "child"
                                 }
                             ]
                         }

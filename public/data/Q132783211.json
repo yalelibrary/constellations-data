@@ -1,7 +1,7 @@
 {
     "id": "Q132783211",
     "label": "Cecil Bonneau Williams",
-    "biographyMarkdown": "# Cecil Bonneau Williams\n## Graduate of Yale College, 1925\n\n\nImage citation: *Record of the Yale College Class of 1925* (1925), Yale University Library.\n",
+    "biographyMarkdown": "# Cecil Bonneau Williams\n## Graduate of Yale College, 1925\n\nCecil Bonneau Williams was born in 1901 in Orangeburg, South Carolina, and spent much of his childhood in Newberry, South Carolina. In 1911, the family moved to Columbia, South Carolina. His parents were Gonsalvo Cotobus Williams and Alice Irene Simmons Williams.[^1] \n\nHe attended Benedict College in Columbia for a year before transferring to Yale in 1922.[^2] He lived off campus with his brother, Yale medical student Gonsalvo Cotobus Williams, Jr., at 9 High Street and 100 Park Street during his time in New Haven.[^3] In 1925, Cecil graduated with a Ph.B. (a three-year bachelor of philosophy degree offered in the Yale Sheffield Scientific School.]53 (His brother Gonsalvo graduated from the Yale School of Medicine the same year.[^4]) \n\nNot long after graduating from Yale, Williams moved to Dobbs Ferry, New York, where he again lived with his brother and began a long career as a stock and bond analyst on Wall Street.[^5] He worked for Fahnestock and Company for 25 years before his retirement in 1966.[^6]  \n\nWilliams\u2019 racial identity varies in official records, and he may have identified differently at various times in his life. In census records from his youth in South Carolina, he and his family members are identified as being of African descent and he is identified as Black on his World War I draft card. In later census records and in his World War II draft card, he is identified as white, as is his brother. \n\nWilliams died in 1991 in Los Angeles, California.[^7] \n\nImage citation: *Record of the Yale College Class of 1925* (1925), Yale University Library.\n \n\n[^1]: *Record of the Yale College Class of 1925*, 1925, Yale University Library. \n[^2]: Ibid. \n[^3]: *General Catalogue of Yale University 1922-1923*, Yale University Library; *General Catalogue of Yale University 1923-1924*, Yale University Library; *General Catalogue of Yale University 1924-1925*, Yale University Library. \n[^4]: *General Catalogue of Yale University 1926-1927*, Yale University Library; \n[^5]: \"New York, 1930 United States Census records,\" FamilySearch, image 65 of 1011; United States. National Archives and Records Administration. \n[^6]: *Record of the Yale College Class of 1925*, 1975, Yale University Library. \n[^7]: Record for Cecil Bonneau Williams in \u201cCalifornia, U.S., Death Index, 1940-1997,\u201d Ancestry.com. \n\n",
     "description": "Graduate of Yale College, 1925",
     "properties": {
         "sex or gender": {
@@ -203,8 +203,8 @@
                 }
             ]
         },
-        "relative": {
-            "label": "relative",
+        "sibling": {
+            "label": "sibling",
             "values": [
                 {
                     "value-type": "wikibase-item",
@@ -215,17 +215,7 @@
                             "human"
                         ]
                     },
-                    "text": "Gonsalvo Cotobus Williams, Jr.",
-                    "qualifiers": [
-                        {
-                            "label": "kinship to subject",
-                            "values": [
-                                {
-                                    "text": "sibling"
-                                }
-                            ]
-                        }
-                    ]
+                    "text": "Gonsalvo Cotobus Williams, Jr."
                 }
             ]
         },

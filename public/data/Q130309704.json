@@ -94,11 +94,11 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q99",
+                    "id": "Q108058",
                     "data": {
-                        "label": "California, United States",
+                        "label": "Contra Costa County, California, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "county of California"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -106,14 +106,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 37,
-                                        "longitude": -120
+                                        "latitude": 37.93,
+                                        "longitude": -121.95
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "California, United States"
+                    "text": "Contra Costa County, California, United States"
                 },
                 {
                     "value-type": "wikibase-item",

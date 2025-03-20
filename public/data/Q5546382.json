@@ -211,6 +211,32 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130268001",
+                    "data": {
+                        "label": "Charlotte Crawford Watkins",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Charlotte Crawford Watkins",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "child"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [

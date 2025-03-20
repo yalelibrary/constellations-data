@@ -265,6 +265,32 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q116448341",
+                    "data": {
+                        "label": "Lillian Steele Proctor",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Lillian Steele Proctor",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "child"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [

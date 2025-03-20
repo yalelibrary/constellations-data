@@ -116,11 +116,12 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1408",
+                    "id": "Q3708355",
                     "data": {
-                        "label": "New Jersey, United States",
+                        "label": "Essex, New York, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "town in the United States",
+                            "town of New York"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -128,14 +129,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 40,
-                                        "longitude": -74.5
+                                        "latitude": 44.31,
+                                        "longitude": -73.3525
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "New Jersey, United States"
+                    "text": "Essex, New York, United States"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -202,8 +203,8 @@
                 }
             ]
         },
-        "relative": {
-            "label": "relative",
+        "sibling": {
+            "label": "sibling",
             "values": [
                 {
                     "value-type": "wikibase-item",
@@ -214,17 +215,7 @@
                             "human"
                         ]
                     },
-                    "text": "Joshua H. Jones, Jr.",
-                    "qualifiers": [
-                        {
-                            "label": "kinship to subject",
-                            "values": [
-                                {
-                                    "text": "sibling"
-                                }
-                            ]
-                        }
-                    ]
+                    "text": "Joshua H. Jones, Jr."
                 }
             ]
         },

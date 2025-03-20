@@ -109,11 +109,12 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1384",
+                    "id": "Q11299",
                     "data": {
-                        "label": "New York, United States",
+                        "label": "Manhattan, New York City, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "borough of New York City",
+                            "consolidated city-county"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -121,14 +122,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 43,
-                                        "longitude": -75
+                                        "latitude": 40.728333333333,
+                                        "longitude": -73.994166666667
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "New York, United States"
+                    "text": "Manhattan, New York City, United States"
                 }
             ]
         },

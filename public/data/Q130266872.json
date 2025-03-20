@@ -273,29 +273,6 @@
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1454",
-                    "data": {
-                        "label": "North Carolina, United States",
-                        "instance_of": [
-                            "U.S. state"
-                        ],
-                        "properties": {
-                            "coordinate location": {
-                                "label": "coordinate location",
-                                "values": [
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 35.5,
-                                        "longitude": -80
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "text": "North Carolina, United States"
-                },
-                {
-                    "value-type": "wikibase-item",
                     "id": "Q1126267",
                     "data": {
                         "label": "Connellsville, Pennsylvania, United States",

@@ -121,11 +121,11 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1408",
+                    "id": "Q1085068",
                     "data": {
-                        "label": "New Jersey, United States",
+                        "label": "Allenhurst, New Jersey, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "borough of New Jersey"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -133,14 +133,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 40,
-                                        "longitude": -74.5
+                                        "latitude": 40.236111111111,
+                                        "longitude": -74.000555555556
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "New Jersey, United States"
+                    "text": "Allenhurst, New Jersey, United States"
                 },
                 {
                     "value-type": "wikibase-item",

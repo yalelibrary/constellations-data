@@ -101,12 +101,11 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q21",
+                    "id": "Q22",
                     "data": {
-                        "label": "England",
+                        "label": "Scotland",
                         "instance_of": [
                             "constituent country of the United Kingdom",
-                            "cultural area",
                             "nation",
                             "country"
                         ],
@@ -116,14 +115,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 53,
-                                        "longitude": -1
+                                        "latitude": 57,
+                                        "longitude": -5
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "England"
+                    "text": "Scotland"
                 },
                 {
                     "value-type": "wikibase-item",

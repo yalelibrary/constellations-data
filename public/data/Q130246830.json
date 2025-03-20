@@ -18,11 +18,12 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1397",
+                    "id": "Q985482",
                     "data": {
-                        "label": "Ohio, United States",
+                        "label": "Marietta, Ohio, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city in the United States",
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -30,14 +31,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 40.5,
-                                        "longitude": -82.5
+                                        "latitude": 39.42056,
+                                        "longitude": -81.45028
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Ohio, United States"
+                    "text": "Marietta, Ohio, United States"
                 }
             ]
         },

@@ -37,16 +37,11 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q766",
+                    "id": "Q602783",
                     "data": {
-                        "label": "Jamaica",
+                        "label": "Ocho Rios",
                         "instance_of": [
-                            "Commonwealth realm",
-                            "territorial evolution of the British Empire",
-                            "island country",
-                            "country",
-                            "sovereign state",
-                            "archipelagic state"
+                            "human settlement"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -54,14 +49,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 18.18,
-                                        "longitude": -77.4
+                                        "latitude": 18.399444,
+                                        "longitude": -77.103056
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Jamaica"
+                    "text": "Ocho Rios"
                 }
             ]
         },

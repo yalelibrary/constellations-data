@@ -2668,7 +2668,7 @@
                         "data": {
                             "label": "Hoima, Uganda",
                             "instance_of": [
-                                "human settlement"
+                                "city"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -4723,11 +4723,12 @@
                 "values": [
                     {
                         "value-type": "wikibase-item",
-                        "id": "Q1494",
+                        "id": "Q118152",
                         "data": {
-                            "label": "Mississippi, United States",
+                            "label": "Meridian, Mississippi, United States",
                             "instance_of": [
-                                "U.S. state"
+                                "city in the United States",
+                                "county seat"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -4735,14 +4736,14 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 33,
-                                            "longitude": -90
+                                            "latitude": 32.36430555555555,
+                                            "longitude": -88.70366666666666
                                         }
                                     ]
                                 }
                             }
                         },
-                        "text": "Mississippi, United States"
+                        "text": "Meridian, Mississippi, United States"
                     }
                 ]
             },
@@ -6342,12 +6343,11 @@
                 "values": [
                     {
                         "value-type": "wikibase-item",
-                        "id": "Q258",
+                        "id": "Q874262",
                         "data": {
-                            "label": "South Africa",
+                            "label": "Ladysmith, Emnambithi-Ladysmith Local Municipality, South Africa",
                             "instance_of": [
-                                "sovereign state",
-                                "country"
+                                "town"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -6355,14 +6355,14 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": -29,
-                                            "longitude": 24
+                                            "latitude": -28.553888888889,
+                                            "longitude": 29.7825
                                         }
                                     ]
                                 }
                             }
                         },
-                        "text": "South Africa"
+                        "text": "Ladysmith, Emnambithi-Ladysmith Local Municipality, South Africa"
                     }
                 ]
             },
@@ -8581,11 +8581,11 @@
                 "values": [
                     {
                         "value-type": "wikibase-item",
-                        "id": "Q1400",
+                        "id": "Q4923304",
                         "data": {
-                            "label": "Pennsylvania, United States",
+                            "label": "Blackrock, Pennsylvania, United States",
                             "instance_of": [
-                                "U.S. state"
+                                "unincorporated community in the United States"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -8593,14 +8593,14 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 41,
-                                            "longitude": -77.5
+                                            "latitude": 39.7217,
+                                            "longitude": -76.8611
                                         }
                                     ]
                                 }
                             }
                         },
-                        "text": "Pennsylvania, United States"
+                        "text": "Blackrock, Pennsylvania, United States"
                     }
                 ]
             },
@@ -9014,10 +9014,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Everett Frederick Samuel Davies",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q130285631.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -9774,6 +9774,7 @@
     {
         "id": "Q133097264",
         "label": "Frank Douglas Taylor",
+        "description": "Graduate of Yale Law School, 1921",
         "properties": {
             "date of birth": {
                 "label": "date of birth",
@@ -9826,10 +9827,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Frank Douglas Taylor",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q133097264.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -12486,6 +12487,128 @@
         }
     },
     {
+        "id": "Q130309659",
+        "label": "Harold Merrybright Kingsley, Sr.",
+        "description": "Graduate of Yale Divinity School, 1911",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1887"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q79875",
+                        "data": {
+                            "label": "Mobile, Alabama, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "big city"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 30.727669444444,
+                                            "longitude": -88.052672222222
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Mobile, Alabama, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1970"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Harold Merrybright Kingsley, Sr.",
+                        "image-info": [
+                            {
+                                "url": "/data/Q130309659.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q10723329",
+                        "data": {
+                            "label": "Yale Divinity School",
+                            "instance_of": [
+                                "seminary"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.32380555555556,
+                                            "longitude": -72.9233888888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Divinity School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q7680006",
+                        "data": {
+                            "label": "Talladega College",
+                            "instance_of": [
+                                "school",
+                                "historically black colleges and universities",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 33.4321,
+                                            "longitude": -86.1133
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Talladega College"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130309686",
         "label": "Harold L. Nevers",
         "description": "Attended Yale Divinity School 1927-1928",
@@ -12534,10 +12657,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Harold L. Nevers",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q130309686.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -12703,128 +12826,6 @@
         }
     },
     {
-        "id": "Q130309659",
-        "label": "Harold Merrybright Kingsley, Sr.",
-        "description": "Graduate of Yale Divinity School, 1911",
-        "properties": {
-            "date of birth": {
-                "label": "date of birth",
-                "values": [
-                    {
-                        "value-type": "time",
-                        "text": "1887"
-                    }
-                ]
-            },
-            "place of birth": {
-                "label": "place of birth",
-                "values": [
-                    {
-                        "value-type": "wikibase-item",
-                        "id": "Q79875",
-                        "data": {
-                            "label": "Mobile, Alabama, United States",
-                            "instance_of": [
-                                "city in the United States",
-                                "big city"
-                            ],
-                            "properties": {
-                                "coordinate location": {
-                                    "label": "coordinate location",
-                                    "values": [
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 30.727669444444,
-                                            "longitude": -88.052672222222
-                                        }
-                                    ]
-                                }
-                            }
-                        },
-                        "text": "Mobile, Alabama, United States"
-                    }
-                ]
-            },
-            "date of death": {
-                "label": "date of death",
-                "values": [
-                    {
-                        "value-type": "time",
-                        "text": "1970"
-                    }
-                ]
-            },
-            "image": {
-                "label": "image",
-                "values": [
-                    {
-                        "value-type": "commonsMedia",
-                        "name": "Harold Merrybright Kingsley, Sr.",
-                        "image-info": [
-                            {
-                                "url": "/data/Q130309659.jpg",
-                                "mime": "image/jpeg"
-                            }
-                        ]
-                    }
-                ]
-            },
-            "educated at": {
-                "label": "educated at",
-                "values": [
-                    {
-                        "value-type": "wikibase-item",
-                        "id": "Q10723329",
-                        "data": {
-                            "label": "Yale Divinity School",
-                            "instance_of": [
-                                "seminary"
-                            ],
-                            "properties": {
-                                "coordinate location": {
-                                    "label": "coordinate location",
-                                    "values": [
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 41.32380555555556,
-                                            "longitude": -72.9233888888889
-                                        }
-                                    ]
-                                }
-                            }
-                        },
-                        "text": "Yale Divinity School"
-                    },
-                    {
-                        "value-type": "wikibase-item",
-                        "id": "Q7680006",
-                        "data": {
-                            "label": "Talladega College",
-                            "instance_of": [
-                                "school",
-                                "historically black colleges and universities",
-                                "private not-for-profit educational institution"
-                            ],
-                            "properties": {
-                                "coordinate location": {
-                                    "label": "coordinate location",
-                                    "values": [
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 33.4321,
-                                            "longitude": -86.1133
-                                        }
-                                    ]
-                                }
-                            }
-                        },
-                        "text": "Talladega College"
-                    }
-                ]
-            }
-        }
-    },
-    {
         "id": "Q130309727",
         "label": "Harry Griffy Tolliver",
         "description": "Graduate of Yale Law School, 1908",
@@ -12967,11 +12968,12 @@
                 "values": [
                     {
                         "value-type": "wikibase-item",
-                        "id": "Q1397",
+                        "id": "Q985482",
                         "data": {
-                            "label": "Ohio, United States",
+                            "label": "Marietta, Ohio, United States",
                             "instance_of": [
-                                "U.S. state"
+                                "city in the United States",
+                                "county seat"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -12979,14 +12981,14 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 40.5,
-                                            "longitude": -82.5
+                                            "latitude": 39.42056,
+                                            "longitude": -81.45028
                                         }
                                     ]
                                 }
                             }
                         },
-                        "text": "Ohio, United States"
+                        "text": "Marietta, Ohio, United States"
                     }
                 ]
             },
@@ -17194,11 +17196,12 @@
                 "values": [
                     {
                         "value-type": "wikibase-item",
-                        "id": "Q1384",
+                        "id": "Q11299",
                         "data": {
-                            "label": "New York, United States",
+                            "label": "Manhattan, New York City, United States",
                             "instance_of": [
-                                "U.S. state"
+                                "borough of New York City",
+                                "consolidated city-county"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -17206,14 +17209,14 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 43,
-                                            "longitude": -75
+                                            "latitude": 40.728333333333,
+                                            "longitude": -73.994166666667
                                         }
                                     ]
                                 }
                             }
                         },
-                        "text": "New York, United States"
+                        "text": "Manhattan, New York City, United States"
                     }
                 ]
             },
@@ -17462,11 +17465,14 @@
                 "values": [
                     {
                         "value-type": "wikibase-item",
-                        "id": "Q1400",
+                        "id": "Q1345",
                         "data": {
-                            "label": "Pennsylvania, United States",
+                            "label": "Philadelphia, Pennsylvania, United States",
                             "instance_of": [
-                                "U.S. state"
+                                "city of Pennsylvania",
+                                "county seat",
+                                "home rule municipality of Pennsylvania",
+                                "consolidated city-county"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -17474,14 +17480,14 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 41,
-                                            "longitude": -77.5
+                                            "latitude": 39.952777777778,
+                                            "longitude": -75.163611111111
                                         }
                                     ]
                                 }
                             }
                         },
-                        "text": "Pennsylvania, United States"
+                        "text": "Philadelphia, Pennsylvania, United States"
                     }
                 ]
             },
@@ -17861,11 +17867,11 @@
                 "values": [
                     {
                         "value-type": "wikibase-item",
-                        "id": "Q779",
+                        "id": "Q631402",
                         "data": {
-                            "label": "Connecticut, United States",
+                            "label": "Norwich, Connecticut, United States",
                             "instance_of": [
-                                "U.S. state"
+                                "city in the United States"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -17873,14 +17879,14 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 41.6,
-                                            "longitude": -72.7
+                                            "latitude": 41.550277777778,
+                                            "longitude": -72.0875
                                         }
                                     ]
                                 }
                             }
                         },
-                        "text": "Connecticut, United States"
+                        "text": "Norwich, Connecticut, United States"
                     }
                 ]
             },
@@ -18662,11 +18668,14 @@
                 "values": [
                     {
                         "value-type": "wikibase-item",
-                        "id": "Q173",
+                        "id": "Q29364",
                         "data": {
-                            "label": "Alabama, United States",
+                            "label": "Montgomery, Alabama, United States",
                             "instance_of": [
-                                "U.S. state"
+                                "city in the United States",
+                                "state or insular area capital of the United States",
+                                "county seat",
+                                "big city"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -18674,14 +18683,14 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 32.7,
-                                            "longitude": -86.7
+                                            "latitude": 32.3675,
+                                            "longitude": -86.3
                                         }
                                     ]
                                 }
                             }
                         },
-                        "text": "Alabama, United States"
+                        "text": "Montgomery, Alabama, United States"
                     }
                 ]
             },
@@ -19981,8 +19990,8 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 40.5019,
-                                            "longitude": -74.4481
+                                            "latitude": 40.50138888888889,
+                                            "longitude": -74.44944444444444
                                         }
                                     ]
                                 }
@@ -20697,7 +20706,7 @@
                                 "comprehensive university",
                                 "University of Excellence",
                                 "public university",
-                                "publishing company"
+                                "publisher"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -25331,7 +25340,7 @@
                         "value-type": "wikibase-item",
                         "id": "Q209842",
                         "data": {
-                            "label": "Sorbonne",
+                            "label": "University of Paris",
                             "instance_of": [
                                 "university in France",
                                 "former entity",
@@ -25350,7 +25359,7 @@
                                 }
                             }
                         },
-                        "text": "Sorbonne"
+                        "text": "University of Paris"
                     },
                     {
                         "value-type": "wikibase-item",
@@ -27343,10 +27352,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "W. Norman Bishop",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q132303773.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -28656,11 +28665,13 @@
                 "values": [
                     {
                         "value-type": "wikibase-item",
-                        "id": "Q771",
+                        "id": "Q49158",
                         "data": {
-                            "label": "Massachusetts, United States",
+                            "label": "Springfield, Massachusetts, United States",
                             "instance_of": [
-                                "U.S. state"
+                                "city in the United States",
+                                "big city",
+                                "county seat"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -28668,14 +28679,14 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 42.3,
-                                            "longitude": -71.8
+                                            "latitude": 42.112411,
+                                            "longitude": -72.547455
                                         }
                                     ]
                                 }
                             }
                         },
-                        "text": "Massachusetts, United States"
+                        "text": "Springfield, Massachusetts, United States"
                     }
                 ]
             },
@@ -31289,7 +31300,7 @@
                             "instance_of": [
                                 "public educational institution of the United States",
                                 "public research university",
-                                "publishing company",
+                                "publisher",
                                 "open-access publisher"
                             ],
                             "properties": {
@@ -31666,16 +31677,11 @@
                 "values": [
                     {
                         "value-type": "wikibase-item",
-                        "id": "Q766",
+                        "id": "Q602783",
                         "data": {
-                            "label": "Jamaica",
+                            "label": "Ocho Rios",
                             "instance_of": [
-                                "Commonwealth realm",
-                                "territorial evolution of the British Empire",
-                                "island country",
-                                "country",
-                                "sovereign state",
-                                "archipelagic state"
+                                "human settlement"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -31683,14 +31689,14 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 18.18,
-                                            "longitude": -77.4
+                                            "latitude": 18.399444,
+                                            "longitude": -77.103056
                                         }
                                     ]
                                 }
                             }
                         },
-                        "text": "Jamaica"
+                        "text": "Ocho Rios"
                     }
                 ]
             },

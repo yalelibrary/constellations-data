@@ -192,11 +192,13 @@
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1439",
+                    "id": "Q16559",
                     "data": {
-                        "label": "Texas, United States",
+                        "label": "Austin, Texas, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city in the United States",
+                            "big city",
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -204,22 +206,22 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 31,
-                                        "longitude": -100
+                                        "latitude": 30.3,
+                                        "longitude": -97.733333333333
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Texas, United States"
+                    "text": "Austin, Texas, United States"
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q173",
+                    "id": "Q96374278",
                     "data": {
-                        "label": "Alabama, United States",
+                        "label": "Calhoun, Alabama, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "unincorporated community in the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -227,22 +229,24 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 32.7,
-                                        "longitude": -86.7
+                                        "latitude": 32.05027777777777,
+                                        "longitude": -86.545
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Alabama, United States"
+                    "text": "Calhoun, Alabama, United States"
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1509",
+                    "id": "Q16563",
                     "data": {
-                        "label": "Tennessee, United States",
+                        "label": "Memphis, Tennessee, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city in the United States",
+                            "big city",
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -250,14 +254,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 36,
-                                        "longitude": -86
+                                        "latitude": 35.1175,
+                                        "longitude": -89.971111111111
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Tennessee, United States"
+                    "text": "Memphis, Tennessee, United States"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -384,6 +388,29 @@
                         }
                     },
                     "text": "Mobile, Alabama, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79975",
+                    "data": {
+                        "label": "Talladega, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.434728,
+                                        "longitude": -86.101299
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Talladega, Alabama, United States"
                 }
             ]
         },

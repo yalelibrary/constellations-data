@@ -207,11 +207,11 @@
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q771",
+                    "id": "Q54156",
                     "data": {
-                        "label": "Massachusetts, United States",
+                        "label": "Chelsea, Massachusetts, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city in the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -219,22 +219,24 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 42.3,
-                                        "longitude": -71.8
+                                        "latitude": 42.391666666667,
+                                        "longitude": -71.033333333333
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Massachusetts, United States"
+                    "text": "Chelsea, Massachusetts, United States"
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1408",
+                    "id": "Q201127",
                     "data": {
-                        "label": "New Jersey, United States",
+                        "label": "Asbury Park, New Jersey, United States",
                         "instance_of": [
-                            "U.S. state"
+                            "city in New Jersey",
+                            "gay village",
+                            "city in the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -242,14 +244,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 40,
-                                        "longitude": -74.5
+                                        "latitude": 40.2225,
+                                        "longitude": -74.012222222222
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "New Jersey, United States"
+                    "text": "Asbury Park, New Jersey, United States"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -304,6 +306,78 @@
                         }
                     },
                     "text": "Newberry, South Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49188",
+                    "data": {
+                        "label": "Lynn, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.466666666667,
+                                        "longitude": -70.95
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lynn, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q138367",
+                    "data": {
+                        "label": "Camden, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.9368,
+                                        "longitude": -75.1066
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Camden, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q25395",
+                    "data": {
+                        "label": "Newark, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey",
+                            "largest city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.73555555555556,
+                                        "longitude": -74.17222222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newark, New Jersey, United States"
                 }
             ]
         },

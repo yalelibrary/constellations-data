@@ -104,6 +104,22 @@
                 }
             ]
         },
+        "sibling": {
+            "label": "sibling",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130246794",
+                    "data": {
+                        "label": "Robert H. Bonner",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Robert H. Bonner"
+                }
+            ]
+        },
         "residence": {
             "label": "residence",
             "values": [
@@ -132,29 +148,6 @@
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q771",
-                    "data": {
-                        "label": "Massachusetts, United States",
-                        "instance_of": [
-                            "U.S. state"
-                        ],
-                        "properties": {
-                            "coordinate location": {
-                                "label": "coordinate location",
-                                "values": [
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 42.3,
-                                        "longitude": -71.8
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "text": "Massachusetts, United States"
-                },
-                {
-                    "value-type": "wikibase-item",
                     "id": "Q49145",
                     "data": {
                         "label": "New Haven, Connecticut, United States",
@@ -176,6 +169,29 @@
                         }
                     },
                     "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49147",
+                    "data": {
+                        "label": "New Bedford, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.636111111111,
+                                        "longitude": -70.934722222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Bedford, Massachusetts, United States"
                 }
             ]
         },
@@ -201,20 +217,20 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q130246794",
+                    "id": "Q130246804",
                     "data": {
-                        "label": "Robert H. Bonner",
+                        "label": "Frederick Willis Bonner",
                         "instance_of": [
                             "human"
                         ]
                     },
-                    "text": "Robert H. Bonner",
+                    "text": "Frederick Willis Bonner",
                     "qualifiers": [
                         {
                             "label": "kinship to subject",
                             "values": [
                                 {
-                                    "text": "sibling"
+                                    "text": "child"
                                 }
                             ]
                         }
