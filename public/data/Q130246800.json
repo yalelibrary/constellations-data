@@ -104,22 +104,6 @@
                 }
             ]
         },
-        "sibling": {
-            "label": "sibling",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q130246794",
-                    "data": {
-                        "label": "Robert H. Bonner",
-                        "instance_of": [
-                            "human"
-                        ]
-                    },
-                    "text": "Robert H. Bonner"
-                }
-            ]
-        },
         "residence": {
             "label": "residence",
             "values": [
@@ -231,6 +215,27 @@
                             "values": [
                                 {
                                     "text": "child"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130246794",
+                    "data": {
+                        "label": "Robert H. Bonner",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Robert H. Bonner",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
                                 }
                             ]
                         }

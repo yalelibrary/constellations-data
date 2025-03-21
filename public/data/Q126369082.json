@@ -20,22 +20,6 @@
                 }
             ]
         },
-        "sibling": {
-            "label": "sibling",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q126369081",
-                    "data": {
-                        "label": "Viola Goin Palmer",
-                        "instance_of": [
-                            "human"
-                        ]
-                    },
-                    "text": "Viola Goin Palmer"
-                }
-            ]
-        },
         "date of death": {
             "label": "date of death",
             "values": [
@@ -283,6 +267,27 @@
                             "values": [
                                 {
                                     "text": "spouse"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q126369081",
+                    "data": {
+                        "label": "Viola Goin Palmer",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Viola Goin Palmer",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
                                 }
                             ]
                         }
