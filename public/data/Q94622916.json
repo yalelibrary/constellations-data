@@ -39,22 +39,6 @@
                 }
             ]
         },
-        "sibling": {
-            "label": "sibling",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q94622912",
-                    "data": {
-                        "label": "Nimrod Booker Allen",
-                        "instance_of": [
-                            "human"
-                        ]
-                    },
-                    "text": "Nimrod Booker Allen"
-                }
-            ]
-        },
         "educated at": {
             "label": "educated at",
             "values": [
@@ -432,6 +416,27 @@
                             "values": [
                                 {
                                     "text": "child"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q94622912",
+                    "data": {
+                        "label": "Nimrod Booker Allen",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Nimrod Booker Allen",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
                                 }
                             ]
                         }

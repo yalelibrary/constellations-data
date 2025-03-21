@@ -171,22 +171,6 @@
                 }
             ]
         },
-        "sibling": {
-            "label": "sibling",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q116761668",
-                    "data": {
-                        "label": "George William Stanley Ish",
-                        "instance_of": [
-                            "human"
-                        ]
-                    },
-                    "text": "George William Stanley Ish"
-                }
-            ]
-        },
         "residence": {
             "label": "residence",
             "values": [
@@ -305,6 +289,32 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q116761668",
+                    "data": {
+                        "label": "George William Stanley Ish",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "George William Stanley Ish",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

@@ -242,22 +242,6 @@
                 }
             ]
         },
-        "sibling": {
-            "label": "sibling",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q130268030",
-                    "data": {
-                        "label": "Jefferson Gatherford Ish, Jr.",
-                        "instance_of": [
-                            "human"
-                        ]
-                    },
-                    "text": "Jefferson Gatherford Ish, Jr."
-                }
-            ]
-        },
         "residence": {
             "label": "residence",
             "values": [
@@ -314,6 +298,32 @@
                         }
                     },
                     "text": "Little Rock, Arkansas, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130268030",
+                    "data": {
+                        "label": "Jefferson Gatherford Ish, Jr.",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Jefferson Gatherford Ish, Jr.",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

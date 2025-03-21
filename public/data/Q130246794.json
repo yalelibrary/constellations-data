@@ -95,22 +95,6 @@
                 }
             ]
         },
-        "sibling": {
-            "label": "sibling",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q130246800",
-                    "data": {
-                        "label": "Frederick Douglass Bonner",
-                        "instance_of": [
-                            "human"
-                        ]
-                    },
-                    "text": "Frederick Douglass Bonner"
-                }
-            ]
-        },
         "relative": {
             "label": "relative",
             "values": [
@@ -139,6 +123,27 @@
                                         ]
                                     },
                                     "text": "nephew"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130246800",
+                    "data": {
+                        "label": "Frederick Douglass Bonner",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Frederick Douglass Bonner",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
                                 }
                             ]
                         }

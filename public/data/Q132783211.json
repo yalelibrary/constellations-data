@@ -203,8 +203,8 @@
                 }
             ]
         },
-        "sibling": {
-            "label": "sibling",
+        "relative": {
+            "label": "relative",
             "values": [
                 {
                     "value-type": "wikibase-item",
@@ -215,7 +215,17 @@
                             "human"
                         ]
                     },
-                    "text": "Gonsalvo Cotobus Williams, Jr."
+                    "text": "Gonsalvo Cotobus Williams, Jr.",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

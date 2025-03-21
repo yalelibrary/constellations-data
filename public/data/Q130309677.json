@@ -482,8 +482,8 @@
                 }
             ]
         },
-        "sibling": {
-            "label": "sibling",
+        "relative": {
+            "label": "relative",
             "values": [
                 {
                     "value-type": "wikibase-item",
@@ -494,7 +494,17 @@
                             "human"
                         ]
                     },
-                    "text": "Walter Scott Miller"
+                    "text": "Walter Scott Miller",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

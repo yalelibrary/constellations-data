@@ -243,8 +243,8 @@
                 }
             ]
         },
-        "sibling": {
-            "label": "sibling",
+        "relative": {
+            "label": "relative",
             "values": [
                 {
                     "value-type": "wikibase-item",
@@ -255,7 +255,17 @@
                             "human"
                         ]
                     },
-                    "text": "Alexander Henry Jones"
+                    "text": "Alexander Henry Jones",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
