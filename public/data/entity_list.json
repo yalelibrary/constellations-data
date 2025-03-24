@@ -2531,10 +2531,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Arthur Holcombe Taylor",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q132303761.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -25247,10 +25247,6 @@
                     {
                         "value-type": "time",
                         "text": "1896"
-                    },
-                    {
-                        "value-type": "time",
-                        "text": "1906"
                     }
                 ]
             },
