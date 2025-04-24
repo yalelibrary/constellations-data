@@ -14,7 +14,7 @@
                         "label": "Dillard University",
                         "instance_of": [
                             "university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -40,7 +40,7 @@
                         "instance_of": [
                             "university",
                             "land-grant university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "public educational institution of the United States"
                         ],
                         "properties": {
@@ -64,7 +64,7 @@
                     "data": {
                         "label": "Spelman College",
                         "instance_of": [
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution",
                             "women's college in the United States"
                         ],
@@ -95,7 +95,7 @@
                         "label": "Morehouse College",
                         "instance_of": [
                             "college",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {

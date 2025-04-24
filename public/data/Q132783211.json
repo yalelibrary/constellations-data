@@ -144,7 +144,7 @@
                         "label": "Benedict College",
                         "instance_of": [
                             "liberal arts college",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -234,10 +234,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "Cecil Bonneau Williams",
+                    "name": "No Image Available",
                     "image-info": [
                         {
-                            "url": "/data/Q132783211.jpg",
+                            "url": "/data/noimage.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

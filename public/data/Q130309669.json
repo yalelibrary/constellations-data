@@ -128,7 +128,7 @@
                         "label": "Howard University",
                         "instance_of": [
                             "private university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -153,7 +153,7 @@
                         "label": "Benedict College",
                         "instance_of": [
                             "liberal arts college",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -201,7 +201,7 @@
                         "label": "Shaw University",
                         "instance_of": [
                             "university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -227,7 +227,7 @@
                         "instance_of": [
                             "university",
                             "land-grant university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "public educational institution of the United States"
                         ]
                     },
@@ -263,7 +263,7 @@
                         "label": "Wilberforce University",
                         "instance_of": [
                             "university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {

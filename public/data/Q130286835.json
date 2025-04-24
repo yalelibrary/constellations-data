@@ -110,7 +110,7 @@
                         "label": "Howard University",
                         "instance_of": [
                             "private university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -175,8 +175,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 32.41,
-                                        "longitude": -87.02
+                                        "latitude": 32.41638888888889,
+                                        "longitude": -87.02472222222222
                                     }
                                 ]
                             }

@@ -148,7 +148,7 @@
                         "label": "Clark Atlanta University",
                         "instance_of": [
                             "private university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -173,7 +173,7 @@
                         "label": "Howard University",
                         "instance_of": [
                             "private university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -197,7 +197,7 @@
                     "data": {
                         "label": "Spelman College",
                         "instance_of": [
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution",
                             "women's college in the United States"
                         ],

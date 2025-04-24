@@ -71,7 +71,7 @@
                         "label": "Howard University",
                         "instance_of": [
                             "private university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -95,7 +95,7 @@
                     "data": {
                         "label": "Bluefield State University",
                         "instance_of": [
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "public educational institution of the United States"
                         ],
                         "properties": {
@@ -120,7 +120,7 @@
                         "label": "Johnson C. Smith University",
                         "instance_of": [
                             "university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ]
                     },
@@ -133,7 +133,7 @@
                         "label": "Morgan State University",
                         "instance_of": [
                             "university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "public educational institution of the United States"
                         ],
                         "properties": {
@@ -159,7 +159,7 @@
                         "instance_of": [
                             "university",
                             "land-grant university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {

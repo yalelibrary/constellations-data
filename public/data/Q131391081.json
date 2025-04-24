@@ -151,7 +151,8 @@
                         "label": "Western University",
                         "instance_of": [
                             "conservatory",
-                            "historically black colleges and universities"
+                            "historically black college or university",
+                            "former university"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -187,7 +188,7 @@
                         "instance_of": [
                             "university",
                             "land-grant university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -212,7 +213,7 @@
                         "label": "Wilberforce University",
                         "instance_of": [
                             "university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -590,10 +591,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "Shadrach Carrington Jones",
+                    "name": "No Image Available",
                     "image-info": [
                         {
-                            "url": "/data/Q131391081.jpg",
+                            "url": "/data/noimage.jpg",
                             "mime": "image/jpeg"
                         }
                     ]
