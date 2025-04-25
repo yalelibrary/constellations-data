@@ -15,7 +15,7 @@
                         "label": "Howard University",
                         "instance_of": [
                             "private university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -41,7 +41,7 @@
                         "instance_of": [
                             "university",
                             "land-grant university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "public educational institution of the United States"
                         ],
                         "properties": {
@@ -66,7 +66,7 @@
                         "label": "Fisk University",
                         "instance_of": [
                             "private university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -96,7 +96,7 @@
                         "label": "Fisk University",
                         "instance_of": [
                             "private university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {

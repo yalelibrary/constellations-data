@@ -49,7 +49,7 @@
                         "label": "Allen University",
                         "instance_of": [
                             "university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -74,7 +74,7 @@
                         "label": "Johnson C. Smith University",
                         "instance_of": [
                             "university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ]
                     },
@@ -88,7 +88,7 @@
                         "instance_of": [
                             "public university",
                             "land-grant university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "public educational institution of the United States"
                         ],
                         "properties": {
@@ -113,7 +113,7 @@
                         "label": "Lincoln University",
                         "instance_of": [
                             "university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "public educational institution of the United States"
                         ],
                         "properties": {

@@ -40,7 +40,7 @@
                         "label": "Talladega College",
                         "instance_of": [
                             "school",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -295,7 +295,7 @@
                         "label": "Talladega College",
                         "instance_of": [
                             "school",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
