@@ -15,7 +15,7 @@
                         "label": "Morris Brown College",
                         "instance_of": [
                             "college",
-                            "historically black colleges and universities"
+                            "historically black college or university"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -62,7 +62,7 @@
                         "label": "Delaware State University",
                         "instance_of": [
                             "university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "land-grant university",
                             "public educational institution of the United States"
                         ],
@@ -88,7 +88,7 @@
                         "label": "Edward Waters College",
                         "instance_of": [
                             "college",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -113,7 +113,7 @@
                         "label": "Wilberforce University",
                         "instance_of": [
                             "university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -138,7 +138,7 @@
                         "label": "Allen University",
                         "instance_of": [
                             "university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -195,7 +195,7 @@
                         "label": "Lincoln University",
                         "instance_of": [
                             "university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "public educational institution of the United States"
                         ],
                         "properties": {

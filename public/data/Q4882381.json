@@ -45,7 +45,7 @@
                         "label": "Howard University",
                         "instance_of": [
                             "private university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -142,7 +142,7 @@
                         "label": "Hampton University",
                         "instance_of": [
                             "university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -207,7 +207,7 @@
                         "label": "Jackson State University",
                         "instance_of": [
                             "university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "public educational institution of the United States"
                         ],
                         "properties": {
@@ -232,7 +232,7 @@
                         "label": "Morris Brown College",
                         "instance_of": [
                             "college",
-                            "historically black colleges and universities"
+                            "historically black college or university"
                         ],
                         "properties": {
                             "coordinate location": {

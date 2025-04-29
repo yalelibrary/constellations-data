@@ -220,6 +220,40 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q131391081",
+                    "data": {
+                        "label": "Shadrach Carrington Jones",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Shadrach Carrington Jones",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q1282201",
+                                    "data": {
+                                        "label": "stepfather",
+                                        "instance_of": [
+                                            "nominal kinship"
+                                        ]
+                                    },
+                                    "text": "stepfather"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [

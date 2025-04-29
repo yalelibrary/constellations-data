@@ -74,7 +74,7 @@
                     "data": {
                         "label": "Lane College",
                         "instance_of": [
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution",
                             "historic district"
                         ]
@@ -209,7 +209,7 @@
                         "label": "Morris Brown College",
                         "instance_of": [
                             "college",
-                            "historically black colleges and universities"
+                            "historically black college or university"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -233,7 +233,7 @@
                         "label": "Howard University",
                         "instance_of": [
                             "private university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {

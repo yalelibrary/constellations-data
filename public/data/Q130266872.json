@@ -150,7 +150,7 @@
                         "instance_of": [
                             "university",
                             "university campus",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
@@ -175,7 +175,7 @@
                         "label": "Shaw University",
                         "instance_of": [
                             "university",
-                            "historically black colleges and universities",
+                            "historically black college or university",
                             "private not-for-profit educational institution"
                         ],
                         "properties": {
