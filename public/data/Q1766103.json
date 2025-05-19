@@ -57,6 +57,28 @@
             "values": [
                 {
                     "value-type": "time",
+                    "text": "1819",
+                    "qualifiers": [
+                        {
+                            "label": "reason for preferred rank",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q71536040",
+                                    "data": {
+                                        "label": "most precise value",
+                                        "instance_of": [
+                                            "Wikibase reason for preferred rank"
+                                        ]
+                                    },
+                                    "text": "most precise value"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "time",
                     "text": "1819"
                 }
             ]
@@ -66,11 +88,47 @@
             "values": [
                 {
                     "value-type": "time",
-                    "text": "1898"
+                    "text": "1898",
+                    "qualifiers": [
+                        {
+                            "label": "reason for preferred rank",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q71536040",
+                                    "data": {
+                                        "label": "most precise value",
+                                        "instance_of": [
+                                            "Wikibase reason for preferred rank"
+                                        ]
+                                    },
+                                    "text": "most precise value"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "value-type": "time",
-                    "text": "1898"
+                    "text": "1898",
+                    "qualifiers": [
+                        {
+                            "label": "reason for preferred rank",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q71536040",
+                                    "data": {
+                                        "label": "most precise value",
+                                        "instance_of": [
+                                            "Wikibase reason for preferred rank"
+                                        ]
+                                    },
+                                    "text": "most precise value"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

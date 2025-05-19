@@ -199,8 +199,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 31.551388888889,
-                                        "longitude": -97.155833333333
+                                        "latitude": 31.549166666666668,
+                                        "longitude": -97.14722222222223
                                     }
                                 ]
                             }
