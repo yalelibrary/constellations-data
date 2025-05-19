@@ -1,6 +1,9 @@
 {
     "id": "Q111671600",
     "label": "William Stuart Nelson",
+    "biographyMarkdown": "# William Stuart Nelson\n## Graduate of Yale Divinity School, 1924\nWilliam S. Nelson was born on October 15, 1895 in Paris, Kentucky. He received his undergraduate degree from Howard University in Washington, DC, taking an interlude to serve as an Army infantry lieutenant in World War I before graduating in 1920. He studied at the Union Theological Seminary in New York, the Protestant Theological Seminary, and the Sorbonne in Paris, as well as two other universities in Germany, before receiving a bachelor of divinity from Yale Divinity School in 1924. He occupied several academic positions following his graduation, including teaching philosophy and religion at Howard University (1929-1931) and becoming the first Black president of Shaw University in Raleigh, North Carolina in 1931. He was subsequently the founding president of Dillard University in New Orleans, Louisiana in 1936. He later served as dean of Howard\u2019s School of Religion (1940-1948) and dean of the university (1948-1961).\n\nNelson was incredibly influential in the global movement for non-violent political action. He traveled to India multiple times in the 1940s and 1950s, and while there he marched with Mohandas Gandhi. He was in frequent contact with Martin Luther King, Jr., with whom he discussed the principles of non-violence, and was later also involved in the civil rights movement under these same non-violent principles, speaking at the Southern Christian Leadership Conference and participating in the march from Selma to Montgomery in 1965. He taught courses at Howard about Gandhian non-violent action and was also a member of the Gandhi Peace Foundation in New Delhi.\n\nNelson died on March 26, 1977.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n",
+    "description": "Graduate of Yale Divinity School, 1924",
+    "publicationsMarkdown": "*La race noire dans la de\u0301mocratie ame\u0301ricaine*. Paris, France: Groupe d'e\u0301tudes en vue du rapprochement international, 1922.\n\n*The Christian Church and Slavery in America*. Washington, D.C.: Howard University, 1925. \n\n\"What is the Negro Thinking in War Time?,\" *The Church Woman* (1943).\n\n\"An Army Within The Army,\" *The Army and Navy Chaplain 13*, no. 3 (1943).\n\n\"To Christians in the Armed Forced,\" *The Christian Endeavor World*, April 1, 1943. \n\n\"Balance Sheet of the Negro America,\" *Christianity and Crisis 4*, no. 4 (1944).\n\n\"Our Racial Situation in the Light of the Judeo-Christian Tradition,\" *Religious Education 39*, no. 2 (1944).\n\n\"Religion and Racial Tension in America Today,\" *The Journal of Religious Thought 2*, no. 2 (1945). \n\n\"The Influence of Institutional Christianity Upon Secular Power,\" *The Journal of Religious Thought 4*, no. 1 (1946).\n\n\"The Christian Fronteir in Race Relations,\" *The Southern Churchman* (1946).\n\n\"Howard U. Dean Recalls Dramatic Results In Calcutta Of The Spiritual Approach,\" *The Call*, February 20, 1948.\n\n*The Christian Way in Race Relations*. New York, NY: Harper and Brothers, 1948. \n\n*Oases in Cities*. London, UK: Friends Service Council, 1949.\n\n*Bases of World Understanding: An Inquiry Into the Means of Resolving Racial, Religious, Class, and National Misapprehensions and Conflicts*. Calcutta, India: Calcutta University, 1949.\n\n\"A View of Negro Protestantism,\" *Phylon 17*, no. 3 (1956).\n\n\"Review of *The Gandhi Reader*,\" *The Journal of Negro Education 25*, no. 4 (1956).\n\n\"Mahatma Gandhi Lives In America,\" *The Hindustan Times*, January 30, 1958.\n\n\"The Tradition of Non-Violence and its Underlying Forces,\" *The Journal of Religious Thought* (1959).\n\n\"Thoreau and American Non-Violent Resistance,\" *The Massachusetts Review 4*, no. 1 (1962). \n\n\"Thoreau and the Current Non-Violent Struggle for Integration,\" *The Thoreau Society Bulletin*, no. 88 (1964).\n",
     "properties": {
         "date of birth": {
             "label": "date of birth",
@@ -382,10 +385,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "William Stuart Nelson",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q111671600.jpg",
                             "mime": "image/jpeg"
                         }
                     ]
