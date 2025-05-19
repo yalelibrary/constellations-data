@@ -38,7 +38,8 @@
                     "data": {
                         "label": "Daniel Payne College",
                         "instance_of": [
-                            "college"
+                            "college",
+                            "historically black college or university"
                         ],
                         "properties": {
                             "coordinate location": {

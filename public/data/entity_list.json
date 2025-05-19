@@ -962,6 +962,130 @@
         }
     },
     {
+        "id": "Q134476406",
+        "label": "Albert Morris Thomas, Jr.",
+        "description": "Graduate of Yale Law School, 1884",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1853"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q44564",
+                        "data": {
+                            "label": "Charleston, West Virginia, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "state or insular area capital of the United States",
+                                "county seat"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 38.347222222222,
+                                            "longitude": -81.633333333333
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Charleston, West Virginia, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1906"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Albert Morris Thomas, Jr.",
+                        "image-info": [
+                            {
+                                "url": "/data/Q134476406.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1143289",
+                        "data": {
+                            "label": "Yale Law School",
+                            "instance_of": [
+                                "law school",
+                                "academic publisher"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311581,
+                                            "longitude": -72.928147
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Law School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49087",
+                        "data": {
+                            "label": "Fisk University",
+                            "instance_of": [
+                                "private university",
+                                "historically black college or university",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 36.1688,
+                                            "longitude": -86.8047
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Fisk University"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130309677",
         "label": "Albert President Miller",
         "description": "Graduate of Yale Divinity School, 1885",
@@ -1090,6 +1214,10 @@
             "date of birth": {
                 "label": "date of birth",
                 "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1819"
+                    },
                     {
                         "value-type": "time",
                         "text": "1819"
@@ -17442,6 +17570,184 @@
         }
     },
     {
+        "id": "Q21176686",
+        "label": "John Adams, Sr.",
+        "description": "Attended Yale Divinity School 1901-1902",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1876"
+                    },
+                    {
+                        "value-type": "time",
+                        "text": "1876"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q23556",
+                        "data": {
+                            "label": "Atlanta, Georgia, United States",
+                            "instance_of": [
+                                "county seat",
+                                "big city",
+                                "city in the United States",
+                                "municipality of Georgia"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 33.756944444444,
+                                            "longitude": -84.390277777778
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Atlanta, Georgia, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1962"
+                    },
+                    {
+                        "value-type": "time",
+                        "text": "1962"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "John Adams, Sr.",
+                        "image-info": [
+                            {
+                                "url": "/data/Q21176686.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q4570781",
+                        "data": {
+                            "label": "Lincoln University",
+                            "instance_of": [
+                                "university",
+                                "historically black college or university",
+                                "public educational institution of the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 39.808333333333,
+                                            "longitude": -75.927777777778
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Lincoln University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q89348157",
+                        "data": {
+                            "label": "Gammon Theological Seminary",
+                            "instance_of": [
+                                "seminary"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 33.752315,
+                                            "longitude": -84.408314
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Gammon Theological Seminary"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q97357062",
+                        "data": {
+                            "label": "Campbell College",
+                            "instance_of": [
+                                "college"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 32.298513,
+                                            "longitude": -90.209448
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Campbell College"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q10723329",
+                        "data": {
+                            "label": "Yale Divinity School",
+                            "instance_of": [
+                                "seminary"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.32380555555556,
+                                            "longitude": -72.9233888888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Divinity School"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130293699",
         "label": "John Baptiste Hall, Jr.",
         "description": "Graduate of Sheffield Scientific School, 1897",
@@ -24756,6 +25062,134 @@
         }
     },
     {
+        "id": "Q134476394",
+        "label": "Samuel Leon Brooks",
+        "description": "Attended Yale College 1898-1899",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1876"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q868660",
+                        "data": {
+                            "label": "Kingston, New York, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "city in the state of New York",
+                                "county seat"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.925,
+                                            "longitude": -74
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Kingston, New York, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1929"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1432645",
+                        "data": {
+                            "label": "Phillips Academy",
+                            "instance_of": [
+                                "high school",
+                                "school",
+                                "boarding school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 42.6473,
+                                            "longitude": -71.1316
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Phillips Academy"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49112",
+                        "data": {
+                            "label": "Yale University",
+                            "instance_of": [
+                                "private university",
+                                "research university",
+                                "Colonial Colleges",
+                                "private not-for-profit educational institution",
+                                "academic publisher",
+                                "production company"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311111111111,
+                                            "longitude": -72.926666666667
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale University"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130266872",
         "label": "Samuel Moss Carter",
         "description": "Graduate of Yale Divinity School, 1930; Attended Yale Graduate School 1930s",
@@ -25472,8 +25906,7 @@
                             "label": "University of Paris",
                             "instance_of": [
                                 "university in France",
-                                "former entity",
-                                "university"
+                                "former entity"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -28455,6 +28888,165 @@
         }
     },
     {
+        "id": "Q134476430",
+        "label": "William Andrew Harrod",
+        "description": "Attended Yale Divinity School 1901-1902",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1873"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q5092",
+                        "data": {
+                            "label": "Baltimore, Maryland, United States",
+                            "instance_of": [
+                                "independent city in the United States",
+                                "city in the United States",
+                                "big city"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 39.286388888889,
+                                            "longitude": -76.615
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Baltimore, Maryland, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1947"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "William Andrew Harrod",
+                        "image-info": [
+                            {
+                                "url": "/data/Q134476430.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q7975929",
+                        "data": {
+                            "label": "Wayland Seminary",
+                            "instance_of": [
+                                "seminary"
+                            ]
+                        },
+                        "text": "Wayland Seminary"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49114",
+                        "data": {
+                            "label": "Brown University",
+                            "instance_of": [
+                                "private university",
+                                "research university",
+                                "Colonial Colleges",
+                                "private not-for-profit educational institution",
+                                "academic publisher"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.82611111111111,
+                                            "longitude": -71.40305555555555
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Brown University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q7934628",
+                        "data": {
+                            "label": "Virginia Theological Seminary",
+                            "instance_of": [
+                                "seminary"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 38.8204,
+                                            "longitude": -77.0918
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Virginia Theological Seminary"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q10723329",
+                        "data": {
+                            "label": "Yale Divinity School",
+                            "instance_of": [
+                                "seminary"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.32380555555556,
+                                            "longitude": -72.9233888888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Divinity School"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130309697",
         "label": "William Augustine Perry",
         "description": "Graduate of Yale College, 1907",
@@ -31180,9 +31772,8 @@
         }
     },
     {
-        "id": "Q130309685",
+        "id": "Q111671600",
         "label": "William Stuart Nelson",
-        "description": "Graduate of Yale Divinity School, 1924",
         "properties": {
             "date of birth": {
                 "label": "date of birth",
@@ -31236,10 +31827,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "William Stuart Nelson",
+                        "name": "No Image Available",
                         "image-info": [
                             {
-                                "url": "/data/Q130309685.jpg",
+                                "url": "/data/noimage.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -31278,8 +31869,7 @@
                         "data": {
                             "label": "Sorbonne University",
                             "instance_of": [
-                                "university in France",
-                                "university"
+                                "university in France"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -32023,7 +32613,8 @@
                             "label": "Lovedale",
                             "instance_of": [
                                 "Christian mission",
-                                "human settlement"
+                                "human settlement",
+                                "educational institution"
                             ],
                             "properties": {
                                 "coordinate location": {

@@ -85,7 +85,8 @@
                         "label": "Lovedale",
                         "instance_of": [
                             "Christian mission",
-                            "human settlement"
+                            "human settlement",
+                            "educational institution"
                         ],
                         "properties": {
                             "coordinate location": {

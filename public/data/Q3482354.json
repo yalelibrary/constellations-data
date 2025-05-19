@@ -180,8 +180,7 @@
                         "label": "University of Paris",
                         "instance_of": [
                             "university in France",
-                            "former entity",
-                            "university"
+                            "former entity"
                         ],
                         "properties": {
                             "coordinate location": {

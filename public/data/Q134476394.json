@@ -1,0 +1,264 @@
+{
+    "id": "Q134476394",
+    "label": "Samuel Leon Brooks",
+    "biographyMarkdown": "# Samuel Leon Brooks\n## Attended Yale College 1898-1899\n\nSamuel Leon Brooks was born in Kingston, New York, to William H. and Julia Brooks. His father was originally from Maryland and served in the 2nd United States Colored Infantry Regiment. His mother was from Connecticut. The family moved to Danbury where William operated a barbershop.[^1]  \n\nIn 1893, Samuel graduated from Danbury High School, winning a prize for best essay.2 He enrolled at Phillips Academy in Massachusetts where he attended until 1898. In his senior quote, he referenced lynchings.[^3] He enrolled at Yale College later in the year but only attended school for a year. He returned home to live with his father in Danbury where he identified as a law student.[^4] \n\nIn August 1900, he married Lucy Carr in Bridgeport, Connecticut, and they had their only child, Julia, in 1902. His wife was a part of the Anti-Lynching Crusaders, a feminist organization advocating for an end to lynchings. He and his wife became servants for the Miller family in Hartford by 1910. By 1917, he worked as a waiter at the Hartford Club.5 He worked there for twenty years and eventually became head waiter at the social club.[^6] \n\nIn 1915, Lucy and Samuel Brooks separated; their divorce was finalized in 1922.[^7] He remarried in August 1924 to Rhoda Diggs.[^8] In a 1927 letter to the organizers of the 25th Class Book Anniversary of the Class of 1902, Brooks shared that he felt ineligible for leaving after a year at Yale but thanked the organizers for keeping him in touch with the class.[^9] In 1929, Samuel L. Brooks suffered cardiovascular syphilis for six months, and accidentally fell out of a window, worsening his condition. He died on September 13, 1929.[^10] \n\n[^1]:  https://archives-library.wcsu.edu/first-black-graduate-of-danbury-high-school/; https://www.findagrave.com/memorial/28511664/william_h-brooks; *Carter\u2019s Danbury Directory For 1886-7, Containing A General Directory Of The Citizens, Also A Business And Street Directory And An Appendix of Useful Information* (Newburgh, NY: Carter & Company, 1886), 192. \n[^2]:  \u201cFairfield County News,\u201d *The Newtown Bee*, June 30, 1893, https://newscomwc.newspapers.com/image/667875129/?match=1&terms=%22Samuel%20L.%20Brooks%22&pqsid=GRVdw7119VDtyvnU6vaHeQ%3A3041182%3A1953100462. \n[^3]:  https://archives-library.wcsu.edu/first-black-graduate-of-danbury-high-school/. \n[^4]:  *Crofutt\u2019s Danbury City Directory 1900* (Danbury, CT: Fred B. Crofutt, 1900), 56. \n[^5]:  United States, Census, 1910\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MK2S-M5B : Sun Mar 10 20:08:00 UTC 2024), Entry for George R Miller and Ella F Miller, 1910; \"United States, World War I Draft Registration Cards, 1917-1918\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:7BC4-5G3Z : Sat Nov 23 04:39:54 UTC 2024), Entry for Samuel L. Brooks, from 1917 to 1918.\n[^6]:  \u201cObituary,\u201d *The Hartford Courant*, September 14, 1929, https://www.proquest.com/historical-newspapers/obituary-2-no-title/docview/557731138/se-2?accountid=15172. \n[^7]:  \"Hartford, Connecticut, United States records,\" images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3QHV-PQZQ-KVMN?view=explore : Apr 11, 2025), image 674-675 of 927; Image Group Number: 109235405. \n[^8]:  https://www.ancestry.com/search/collections/70865/records/191220. \n[^9]:  Alumni Records Office (RU 830), Series I, box 158, Yale University Library. \n[^10]:  \"Connecticut, County Coroner's Records, 1883-1934\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:62L1-RQ78 : Thu Mar 07 01:45:55 UTC 2024), Entry for Samuel L Brooks, 13 Sep 1929. \n",
+    "description": "Attended Yale College 1898-1899",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1876"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q868660",
+                    "data": {
+                        "label": "Kingston, New York, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "city in the state of New York",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.925,
+                                        "longitude": -74
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kingston, New York, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1929"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49198",
+                    "data": {
+                        "label": "Danbury, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.402222222222,
+                                        "longitude": -73.471111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Danbury, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33486",
+                    "data": {
+                        "label": "Hartford, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "municipality seat",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.763333333333,
+                                        "longitude": -72.685
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49174",
+                    "data": {
+                        "label": "Bridgeport, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.183333333333,
+                                        "longitude": -73.2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bridgeport, Connecticut, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1432645",
+                    "data": {
+                        "label": "Phillips Academy",
+                        "instance_of": [
+                            "high school",
+                            "school",
+                            "boarding school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.6473,
+                                        "longitude": -71.1316
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Phillips Academy"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49112",
+                    "data": {
+                        "label": "Yale University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "academic publisher",
+                            "production company"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311111111111,
+                                        "longitude": -72.926666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale University",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1898"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1899"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Brooks"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1890s"
+                }
+            ]
+        }
+    }
+}

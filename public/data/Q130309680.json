@@ -87,7 +87,9 @@
                     "data": {
                         "label": "Shorter College",
                         "instance_of": [
-                            "college"
+                            "college",
+                            "historically black college or university",
+                            "junior college"
                         ],
                         "properties": {
                             "coordinate location": {
