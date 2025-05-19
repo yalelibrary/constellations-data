@@ -31774,6 +31774,7 @@
     {
         "id": "Q111671600",
         "label": "William Stuart Nelson",
+        "description": "Graduate of Yale Divinity School, 1924",
         "properties": {
             "date of birth": {
                 "label": "date of birth",
@@ -31827,10 +31828,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "William Stuart Nelson",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q111671600.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
