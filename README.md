@@ -30,3 +30,16 @@ This will override the data in wikidata for a property.  If a value in wikidata 
 
 ## Schema.org Vocabulary
 See [schemas/README.md](schemas/README.md)
+
+## Wikidata Changes which Require Intervention
+
+### The Wikidata ID Changes
+The Wikidata ID for a student may change for various reasons. (For example, Wikidata merges duplicate records.)<br />
+- Open the record in Omeka and edit the "Same as" field to match the new ID
+- Make sure the "main subject" of the Wikidata biography points to the new ID for this student and verify that the student is in the results of this query: https://w.wiki/EFK4
+- Rename the biography, publication, and image file from the old to the new ID and merge into `main`.
+- Run a build from Jenkins, review and merge the PR from the build
+- Run a deploy to Omeka from Jenkins
+- Check the data and image for the subject in Omeka
+
+This may also occur with a Places and Educational Institutions. In those cases, the Same As property should be updated before the new data is deployed to Omeka. If the new data is deployed before the Same As is updated, there may be 2 instances of the same place/institution. Delete the one with the old Same As.
