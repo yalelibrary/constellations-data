@@ -9639,24 +9639,6 @@
         "id": "Q124396194",
         "label": "Ethna Beulah Winston",
         "properties": {
-            "date of birth": {
-                "label": "date of birth",
-                "values": [
-                    {
-                        "value-type": "time",
-                        "text": "1903"
-                    }
-                ]
-            },
-            "date of death": {
-                "label": "date of death",
-                "values": [
-                    {
-                        "value-type": "time",
-                        "text": "1993"
-                    }
-                ]
-            },
             "image": {
                 "label": "image",
                 "values": [
@@ -9669,37 +9651,6 @@
                                 "mime": "image/jpeg"
                             }
                         ]
-                    }
-                ]
-            },
-            "educated at": {
-                "label": "educated at",
-                "values": [
-                    {
-                        "value-type": "wikibase-item",
-                        "id": "Q1068752",
-                        "data": {
-                            "label": "Howard University",
-                            "instance_of": [
-                                "private university",
-                                "historically black college or university",
-                                "private not-for-profit educational institution",
-                                "school"
-                            ],
-                            "properties": {
-                                "coordinate location": {
-                                    "label": "coordinate location",
-                                    "values": [
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 38.921666666667,
-                                            "longitude": -77.02
-                                        }
-                                    ]
-                                }
-                            }
-                        },
-                        "text": "Howard University"
                     }
                 ]
             }
