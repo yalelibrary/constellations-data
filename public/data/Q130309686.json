@@ -75,7 +75,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -96,11 +97,12 @@
                     "value-type": "wikibase-item",
                     "id": "Q1518804",
                     "data": {
-                        "label": "North Carolina Central University",
+                        "label": "North Carolina College",
                         "instance_of": [
                             "university",
                             "historically black college or university",
-                            "public educational institution of the United States"
+                            "public educational institution of the United States",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -120,7 +122,7 @@
                             }
                         }
                     },
-                    "text": "North Carolina Central University"
+                    "text": "North Carolina College"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -173,7 +175,7 @@
                             "values": [
                                 {
                                     "value-type": "time",
-                                    "text": "1927"
+                                    "text": "1928"
                                 }
                             ]
                         },
@@ -182,7 +184,7 @@
                             "values": [
                                 {
                                     "value-type": "time",
-                                    "text": "1928"
+                                    "text": "1929"
                                 }
                             ]
                         }

@@ -96,7 +96,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -147,7 +148,8 @@
                         "instance_of": [
                             "private university",
                             "private not-for-profit educational institution",
-                            "research university"
+                            "research university",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -204,7 +206,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -250,7 +253,6 @@
                         "label": "Paris, Grand Paris, France",
                         "instance_of": [
                             "commune of France",
-                            "department of France",
                             "territorial collectivity of France with special status",
                             "metropolis",
                             "tourist destination",

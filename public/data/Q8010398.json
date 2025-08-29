@@ -85,7 +85,8 @@
                     "data": {
                         "label": "Kittrell College",
                         "instance_of": [
-                            "college"
+                            "college",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -167,6 +168,10 @@
                 {
                     "value-type": "time",
                     "text": "1873"
+                },
+                {
+                    "value-type": "time",
+                    "text": "1874"
                 }
             ]
         },

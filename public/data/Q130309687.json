@@ -59,7 +59,8 @@
                     "data": {
                         "label": "University of Fort Hare",
                         "instance_of": [
-                            "public university"
+                            "public university",
+                            "university"
                         ],
                         "properties": {
                             "coordinate location": {

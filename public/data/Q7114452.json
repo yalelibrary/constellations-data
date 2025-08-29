@@ -127,8 +127,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 40.65083,
-                                        "longitude": -73.94972
+                                        "latitude": 40.65083333333333,
+                                        "longitude": -73.94972222222222
                                     }
                                 ]
                             }
@@ -174,7 +174,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -222,7 +223,8 @@
                     "data": {
                         "label": "Atlanta University",
                         "instance_of": [
-                            "university"
+                            "university",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -315,8 +317,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 40.65083,
-                                        "longitude": -73.94972
+                                        "latitude": 40.65083333333333,
+                                        "longitude": -73.94972222222222
                                     }
                                 ]
                             }
@@ -343,6 +345,16 @@
                                         "value-type": "globe-coordinate",
                                         "latitude": 33.756944444444,
                                         "longitude": -84.390277777778
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.74888888888889,
+                                        "longitude": -84.38805555555555
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.754444444444445,
+                                        "longitude": -84.38972222222222
                                     }
                                 ]
                             }

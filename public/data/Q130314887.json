@@ -1,7 +1,7 @@
 {
     "id": "Q130314887",
     "label": "John McLinn Ross",
-    "biographyMarkdown": "# John McLinn Ross\n## Attended Yale College, 1912-1914; Received Master's of Fine Arts, Yale School of Drama, 1935\nBorn in New Haven in 1895, John McLinn Ross (\u201cMac\u201d) was born to parents John, a clerk, and Ernestine Ross. His grandfather, Charles McLinn, was a longtime carpenter and employee at Yale and civic figure in New Haven. Ross attended New Haven High School (now Hillhouse High School) before enrolling at Yale, where he was a member of Alpha Phi Alpha Fraternity. Ross left Yale and enrolled at the University of Illinois. During World War I, he served as a captain of field artillery. Later, in New Haven, he was a member of the Dixwell Players at the Dixwell Community House, begun in 1924.\n\nRoss returned to Yale and was a student in the School of Drama from 1931 to 1934. However, Yale withheld his master's degree until he completed an undergraduate degree. He spent one year at Morehouse College to complete the required credits. In 1935, he was awarded both a BA from Morehouse and an M.F.A. from the Yale School of Drama. He is the first Black person known to have received an M.F.A. from Yale.\n\nFrom 1934 to 1939, Ross served as assistant professor of drama at Spelman College, while serving as technical director of the summer theater program at Atlanta University. Along with Yale alumni Ann Margaret Cooke and Owen Dodson, he helped direct the Atlanta University Players. From 1939 to 1942, he was director of Fisk University\u2019s Little Theater.\n\nIn 1943, Ross became the director of Dillard University\u2019s drama program, which included the New Orleans Little Theater Guild and the Paul Robeson Children\u2019s Theater. In the 1940s, he was the first head of speech and drama at Arkansas Agricultural, Mechanical and Normal College (now the University of Arkansas at Pine Bluffs). The John McLinn Ross Theatre and the John McLinn Ross Players at the UAPB are named for him. \n\nA playwright, Ross wrote *Strivin\u2019*, *One Clear Call*, *Rho Kappa Epsilon*, and *Delta Power*, as well as a number of one-act plays. He studied folklore in Mississippi for the Library of Congress, and he gave lectures at Yale, Carnegie Tech, and the University of Pittsburgh about this work. \n\nRoss was known for his expertise concerning stage lighting. Stanley McCandless, professor at Yale, was quoted in a 1943 newspaper article saying of Ross, \u201cHe is not only a capable technician, but he brings with him a sense of the theater that few of any race have.\u201d Family members who attended Yale include Nerissa Whittington Tyler, Hubert Heaton Washington Ross, and Hubert Barnes Ross (MA, 1942).\n",
+    "biographyMarkdown": "# John McLinn Ross\n## Attended Yale College, 1912-1914; Received Master's of Fine Arts, Yale School of Drama, 1935\nBorn in New Haven in 1895, John McLinn Ross (\u201cMac\u201d) was born to parents John, a clerk, and Ernestine Ross. His grandfather, Charles McLinn, was a longtime carpenter and employee at Yale and civic figure in New Haven. Ross attended New Haven High School (now Hillhouse High School) before enrolling at Yale, where he was a member of Alpha Phi Alpha Fraternity. Ross left Yale and enrolled at the University of Illinois. During World War I, he served as a captain of field artillery. Later, in New Haven, he was a member of the Dixwell Players at the Dixwell Community House, begun in 1924.\n\nRoss returned to Yale and was a student in the School of Drama from 1931 to 1934. However, Yale withheld his master's degree until he completed an undergraduate degree. He spent one year at Morehouse College to complete the required credits. In 1935, he was awarded both a BA from Morehouse and an M.F.A. from the Yale School of Drama. He is the first Black person known to have received an M.F.A. from Yale.\n\nFrom 1934 to 1939, Ross served as assistant professor of drama at Spelman College, while serving as technical director of the summer theater program at Atlanta University. Along with Yale alumni Ann Margaret Cooke and Owen Dodson, he helped direct the Atlanta University Players. From 1939 to 1942, he was director of Fisk University\u2019s Little Theater.\n\nIn 1943, Ross became the director of Dillard University\u2019s drama program, which included the New Orleans Little Theater Guild and the Paul Robeson Children\u2019s Theater. In the 1940s, he was the first head of speech and drama at Arkansas Agricultural, Mechanical and Normal College (now the University of Arkansas at Pine Bluffs). The John McLinn Ross Theatre and the John McLinn Ross Players at the UAPB are named for him. \n\nA playwright, Ross wrote *Strivin\u2019*, *One Clear Call*, *Rho Kappa Epsilon*, and *Delta Power*, as well as a number of one-act plays. He studied folklore in Mississippi for the Library of Congress, and he gave lectures at Yale, Carnegie Tech, and the University of Pittsburgh about this work. \n\nRoss was known for his expertise concerning stage lighting. Stanley McCandless, professor at Yale, was quoted in a 1943 newspaper article saying of Ross, \u201cHe is not only a capable technician, but he brings with him a sense of the theater that few of any race have.\u201d Family members who attended Yale include Nerissa Whittington Tyler, Hubert Heaton Washington Ross, and Hubert Barnes Ross (MA, 1942).\n\nImage citation: *The Crisis*, August 1943\n",
     "description": "Attended Yale College, 1912-1914; Received Master's of Fine Arts, Yale School of Drama, 1935",
     "properties": {
         "employer": {
@@ -96,7 +96,8 @@
                         "instance_of": [
                             "college",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -394,6 +395,16 @@
                                         "value-type": "globe-coordinate",
                                         "latitude": 33.756944444444,
                                         "longitude": -84.390277777778
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.74888888888889,
+                                        "longitude": -84.38805555555555
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.754444444444445,
+                                        "longitude": -84.38972222222222
                                     }
                                 ]
                             }
@@ -408,10 +419,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "John McLinn Ross",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q130314887.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

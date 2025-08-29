@@ -85,7 +85,7 @@
                             "values": [
                                 {
                                     "value-type": "time",
-                                    "text": "1908"
+                                    "text": "1909"
                                 }
                             ]
                         }
@@ -162,12 +162,12 @@
                     "value-type": "wikibase-item",
                     "id": "Q95984315",
                     "data": {
-                        "label": "Lincoln Institute",
+                        "label": "Lincoln Institute centennial exhibit",
                         "instance_of": [
-                            "organization"
+                            "exhibition"
                         ]
                     },
-                    "text": "Lincoln Institute"
+                    "text": "Lincoln Institute centennial exhibit"
                 }
             ]
         },

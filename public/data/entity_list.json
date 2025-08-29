@@ -100,7 +100,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -264,7 +265,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -388,7 +390,8 @@
                         "data": {
                             "label": "University of South Africa",
                             "instance_of": [
-                                "public university"
+                                "public university",
+                                "university"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -643,7 +646,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -770,8 +774,7 @@
                                 "exempt charity",
                                 "public university",
                                 "higher education institution",
-                                "educational organization",
-                                "organization"
+                                "educational organization"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -796,7 +799,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -940,7 +944,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -956,6 +961,28 @@
                             }
                         },
                         "text": "Fisk University"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790298",
+        "label": "Albert Leroy Skinner",
+        "description": "Attended Yale College 1885-1886",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -1064,7 +1091,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -1185,7 +1213,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -1742,7 +1771,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -1882,7 +1912,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -1995,6 +2026,50 @@
                             }
                         },
                         "text": "Yale Divinity School"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790230",
+        "label": "Alfred Henry Johnson",
+        "description": "Attended Yale School of Music, 1919-1922",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790231",
+        "label": "Alfred Louis Jackson",
+        "description": "Attended Yale College 1904-1907",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Alfred Louis Jackson",
+                        "image-info": [
+                            {
+                                "url": "/data/Q135790231.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -2121,6 +2196,28 @@
         }
     },
     {
+        "id": "Q135791212",
+        "label": "Alphonso Primius Dawkins",
+        "description": "Attended Yale College 1905-1906",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130314908",
         "label": "Andrew Jackson Allison",
         "description": "Attended Yale Law School 1921-1922",
@@ -2226,7 +2323,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -2363,7 +2461,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -2379,6 +2478,28 @@
                             }
                         },
                         "text": "Lincoln University"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790280",
+        "label": "Arthur Chester Clarke",
+        "description": "Attended Yale Divinity School 1828-1931",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -2650,6 +2771,28 @@
         }
     },
     {
+        "id": "Q135791203",
+        "label": "Arthur Garfield Harrison",
+        "description": "Attended Yale Law School 1899-1902",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q132303761",
         "label": "Arthur Holcombe Taylor",
         "description": "Attended Yale Law School 1915-1916 and 1917-1918",
@@ -2734,7 +2877,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -2755,11 +2899,12 @@
                         "value-type": "wikibase-item",
                         "id": "Q681025",
                         "data": {
-                            "label": "University at Buffalo",
+                            "label": "University at Buffalo, New York, United States",
                             "instance_of": [
                                 "public research university",
                                 "public educational institution of the United States",
-                                "open-access publisher"
+                                "open-access publisher",
+                                "census-designated place in the United States"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -2774,7 +2919,7 @@
                                 }
                             }
                         },
-                        "text": "University at Buffalo"
+                        "text": "University at Buffalo, New York, United States"
                     },
                     {
                         "value-type": "wikibase-item",
@@ -2827,7 +2972,8 @@
                         "data": {
                             "label": "St. Thomas, United States Virgin Islands",
                             "instance_of": [
-                                "island"
+                                "island",
+                                "human settlement"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -2901,6 +3047,28 @@
                             }
                         },
                         "text": "Yale School of Medicine"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135791207",
+        "label": "Augustus Barnes Tabb",
+        "description": "Attended Yale Law School 1900-1903",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -2997,7 +3165,8 @@
                             "instance_of": [
                                 "college",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -3013,6 +3182,28 @@
                             }
                         },
                         "text": "Morehouse College"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790289",
+        "label": "Baxter Leget Matthews",
+        "description": "Graduate of Yale Divinity School, 1939",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -3317,7 +3508,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -3414,7 +3606,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -3458,7 +3651,7 @@
                         "data": {
                             "label": "Earlysville, Virginia, United States",
                             "instance_of": [
-                                "unincorporated community in the United States"
+                                "census-designated place in the United States"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -3808,7 +4001,8 @@
                             "instance_of": [
                                 "private university",
                                 "private not-for-profit educational institution",
-                                "research university"
+                                "research university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -3833,7 +4027,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -3872,6 +4067,28 @@
                             }
                         },
                         "text": "Yale Divinity School"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790232",
+        "label": "Cato Lafayette Baskervill",
+        "description": "Graduate of Sheffield Scientific School, 1928",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -4172,7 +4389,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -4460,7 +4678,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -4476,6 +4695,50 @@
                             }
                         },
                         "text": "Fisk University"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790233",
+        "label": "Charles Hatfield Dickerson",
+        "description": "Graduate of Yale Divinity School, 1891",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790275",
+        "label": "Charles Hegamin",
+        "description": "Attended Yale College 1885-1888",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -4736,7 +4999,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -4859,7 +5123,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -5216,7 +5481,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -5323,8 +5589,8 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 42.29528,
-                                            "longitude": -71.30667
+                                            "latitude": 42.2925,
+                                            "longitude": -71.3075
                                         }
                                     ]
                                 }
@@ -5395,11 +5661,6 @@
                                             "value-type": "globe-coordinate",
                                             "latitude": 6.805833333333333,
                                             "longitude": -58.15083333333333
-                                        },
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 6.80448,
-                                            "longitude": -58.15527
                                         }
                                     ]
                                 }
@@ -5714,7 +5975,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -5753,6 +6015,50 @@
                             }
                         },
                         "text": "Yale Divinity School"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135791204",
+        "label": "Clifton Monroe Mason",
+        "description": "Attended Yale Law School 1903-1904",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790235",
+        "label": "Clinton Decatur Hazel",
+        "description": "Attended Yale Divinity School 1897-1898",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -5961,7 +6267,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -5977,6 +6284,28 @@
                             }
                         },
                         "text": "Howard University"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790267",
+        "label": "Daniel Joseph Winge",
+        "description": "Attended Yale Law School 1926-1927",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Daniel Joseph Winge",
+                        "image-info": [
+                            {
+                                "url": "/data/Q135790267.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -6224,7 +6553,9 @@
                                 "university",
                                 "land-grant university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "entity",
+                                "school"
                             ]
                         },
                         "text": "Virginia State University"
@@ -6580,6 +6911,29 @@
                             }
                         },
                         "text": "Yale Divinity School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q8047384",
+                        "data": {
+                            "label": "Yale Graduate School of Arts and Sciences",
+                            "instance_of": [
+                                "academic institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3123,
+                                            "longitude": -72.9291
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Graduate School of Arts and Sciences"
                     }
                 ]
             }
@@ -6658,25 +7012,12 @@
                         "value-type": "wikibase-item",
                         "id": "Q15721872",
                         "data": {
-                            "label": "London School of Economics",
+                            "label": null,
                             "instance_of": [
-                                "educational organization",
-                                "higher education institution"
-                            ],
-                            "properties": {
-                                "coordinate location": {
-                                    "label": "coordinate location",
-                                    "values": [
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 51.51388889,
-                                            "longitude": -0.11666667
-                                        }
-                                    ]
-                                }
-                            }
+                                "Wikimedia permanent duplicate item"
+                            ]
                         },
-                        "text": "London School of Economics"
+                        "text": null
                     },
                     {
                         "value-type": "wikibase-item",
@@ -6797,7 +7138,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -7598,7 +7940,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -7702,7 +8045,8 @@
                                 "college",
                                 "liberal arts college",
                                 "private not-for-profit educational institution",
-                                "private university"
+                                "private university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -7727,7 +8071,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -8339,6 +8684,16 @@
                                             "value-type": "globe-coordinate",
                                             "latitude": 33.756944444444,
                                             "longitude": -84.390277777778
+                                        },
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 33.74888888888889,
+                                            "longitude": -84.38805555555555
+                                        },
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 33.754444444444445,
+                                            "longitude": -84.38972222222222
                                         }
                                     ]
                                 }
@@ -8423,6 +8778,29 @@
                             }
                         },
                         "text": "Harvard University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q2599077",
+                        "data": {
+                            "label": "Yale College",
+                            "instance_of": [
+                                "college"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3117,
+                                            "longitude": -72.9253
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale College"
                     }
                 ]
             }
@@ -9022,7 +9400,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -9047,7 +9426,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -9063,6 +9443,28 @@
                             }
                         },
                         "text": "Lincoln University"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790273",
+        "label": "Emma May Elliot",
+        "description": "Attended Yale School of Music 1919-1920",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -9171,7 +9573,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -9196,7 +9599,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -9212,6 +9616,98 @@
                             }
                         },
                         "text": "Hampton University"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q124396194",
+        "label": "Ethna Beulah Winston",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1903"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1993"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Ethna Beulah Winston",
+                        "image-info": [
+                            {
+                                "url": "/data/Q124396194.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1068752",
+                        "data": {
+                            "label": "Howard University",
+                            "instance_of": [
+                                "private university",
+                                "historically black college or university",
+                                "private not-for-profit educational institution",
+                                "school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 38.921666666667,
+                                            "longitude": -77.02
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Howard University"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790237",
+        "label": "Eugene Leon Henderson",
+        "description": "Graduate of Yale Divinity School, 1909",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -9250,8 +9746,8 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 8.4833333333333,
-                                            "longitude": -13.233055555556
+                                            "latitude": 8.487222222222222,
+                                            "longitude": -13.235555555555555
                                         }
                                     ]
                                 }
@@ -9594,10 +10090,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Fletcher J. Bryant",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q130246861.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -9616,7 +10112,8 @@
                                 "college",
                                 "liberal arts college",
                                 "private not-for-profit educational institution",
-                                "private university"
+                                "private university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -9641,7 +10138,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -9705,6 +10203,28 @@
                             }
                         },
                         "text": "Yale Divinity School"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790238",
+        "label": "Frances Dingwall Corey",
+        "description": "Graduate of Yale School of Music, 1934",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -9805,7 +10325,8 @@
                             "label": "Indiana University, Indiana, United States",
                             "instance_of": [
                                 "state university system",
-                                "educational institution"
+                                "educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -9988,7 +10509,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -10110,7 +10632,8 @@
                                 "university",
                                 "land-grant university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -10539,6 +11062,28 @@
         }
     },
     {
+        "id": "Q135791200",
+        "label": "Frederick Ellis Bass",
+        "description": "Attended Yale School of Medicine 1889-1890",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130246804",
         "label": "Frederick Willis Bonner",
         "description": "Graduate of Yale College, 1929",
@@ -10715,7 +11260,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -10964,7 +11510,8 @@
                         "data": {
                             "label": "Bishop College",
                             "instance_of": [
-                                "higher education institution"
+                                "higher education institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -11197,7 +11744,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -11218,12 +11766,13 @@
                         "value-type": "wikibase-item",
                         "id": "Q1551044",
                         "data": {
-                            "label": "Alabama Agricultural and Mechanical University",
+                            "label": "Alabama A & M College",
                             "instance_of": [
                                 "public university",
                                 "land-grant university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -11238,7 +11787,7 @@
                                 }
                             }
                         },
-                        "text": "Alabama Agricultural and Mechanical University"
+                        "text": "Alabama A & M College"
                     },
                     {
                         "value-type": "wikibase-item",
@@ -11392,7 +11941,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -11661,6 +12211,28 @@
         }
     },
     {
+        "id": "Q135790239",
+        "label": "George Lafayette Camm",
+        "description": "Graduate of Yale Law School, 1880",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130286691",
         "label": "George Mainard Evans",
         "description": "Attended Yale Divinity School 1903",
@@ -11763,7 +12335,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -11861,7 +12434,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -12421,7 +12995,8 @@
                                 "university",
                                 "land-grant university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -12640,6 +13215,56 @@
         }
     },
     {
+        "id": "Q135901165",
+        "label": "Grace Lucille Fisher",
+        "description": "Attended Yale School of Music 1922-1925",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Grace Lucille Fisher",
+                        "image-info": [
+                            {
+                                "url": "/data/Q135901165.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q2784420",
+                        "data": {
+                            "label": "Yale School of Music",
+                            "instance_of": [
+                                "conservatory"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3099,
+                                            "longitude": -72.9264
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale School of Music"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q132309453",
         "label": "H. Milton Mickens",
         "description": "Likely graduate or student of Yale Divinity School circa 1890s-1900s",
@@ -12679,7 +13304,8 @@
                             "instance_of": [
                                 "private university",
                                 "private not-for-profit educational institution",
-                                "research university"
+                                "research university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -12742,128 +13368,6 @@
                             }
                         },
                         "text": "Kansas Wesleyan University"
-                    }
-                ]
-            }
-        }
-    },
-    {
-        "id": "Q130309659",
-        "label": "Harold Merrybright Kingsley, Sr.",
-        "description": "Graduate of Yale Divinity School, 1911",
-        "properties": {
-            "date of birth": {
-                "label": "date of birth",
-                "values": [
-                    {
-                        "value-type": "time",
-                        "text": "1887"
-                    }
-                ]
-            },
-            "place of birth": {
-                "label": "place of birth",
-                "values": [
-                    {
-                        "value-type": "wikibase-item",
-                        "id": "Q79875",
-                        "data": {
-                            "label": "Mobile, Alabama, United States",
-                            "instance_of": [
-                                "city in the United States",
-                                "big city"
-                            ],
-                            "properties": {
-                                "coordinate location": {
-                                    "label": "coordinate location",
-                                    "values": [
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 30.727669444444,
-                                            "longitude": -88.052672222222
-                                        }
-                                    ]
-                                }
-                            }
-                        },
-                        "text": "Mobile, Alabama, United States"
-                    }
-                ]
-            },
-            "date of death": {
-                "label": "date of death",
-                "values": [
-                    {
-                        "value-type": "time",
-                        "text": "1970"
-                    }
-                ]
-            },
-            "image": {
-                "label": "image",
-                "values": [
-                    {
-                        "value-type": "commonsMedia",
-                        "name": "Harold Merrybright Kingsley, Sr.",
-                        "image-info": [
-                            {
-                                "url": "/data/Q130309659.jpg",
-                                "mime": "image/jpeg"
-                            }
-                        ]
-                    }
-                ]
-            },
-            "educated at": {
-                "label": "educated at",
-                "values": [
-                    {
-                        "value-type": "wikibase-item",
-                        "id": "Q10723329",
-                        "data": {
-                            "label": "Yale Divinity School",
-                            "instance_of": [
-                                "seminary"
-                            ],
-                            "properties": {
-                                "coordinate location": {
-                                    "label": "coordinate location",
-                                    "values": [
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 41.32380555555556,
-                                            "longitude": -72.9233888888889
-                                        }
-                                    ]
-                                }
-                            }
-                        },
-                        "text": "Yale Divinity School"
-                    },
-                    {
-                        "value-type": "wikibase-item",
-                        "id": "Q7680006",
-                        "data": {
-                            "label": "Talladega College",
-                            "instance_of": [
-                                "school",
-                                "historically black college or university",
-                                "private not-for-profit educational institution"
-                            ],
-                            "properties": {
-                                "coordinate location": {
-                                    "label": "coordinate location",
-                                    "values": [
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 33.4321,
-                                            "longitude": -86.1133
-                                        }
-                                    ]
-                                }
-                            }
-                        },
-                        "text": "Talladega College"
                     }
                 ]
             }
@@ -12989,7 +13493,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -13010,11 +13515,12 @@
                         "value-type": "wikibase-item",
                         "id": "Q1518804",
                         "data": {
-                            "label": "North Carolina Central University",
+                            "label": "North Carolina College",
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -13034,7 +13540,7 @@
                                 }
                             }
                         },
-                        "text": "North Carolina Central University"
+                        "text": "North Carolina College"
                     },
                     {
                         "value-type": "wikibase-item",
@@ -13081,6 +13587,128 @@
                             }
                         },
                         "text": "Yale Divinity School"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q130309659",
+        "label": "Harold Merrybright Kingsley, Sr.",
+        "description": "Graduate of Yale Divinity School, 1911",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1887"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q79875",
+                        "data": {
+                            "label": "Mobile, Alabama, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "big city"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 30.727669444444,
+                                            "longitude": -88.052672222222
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Mobile, Alabama, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1970"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Harold Merrybright Kingsley, Sr.",
+                        "image-info": [
+                            {
+                                "url": "/data/Q130309659.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q10723329",
+                        "data": {
+                            "label": "Yale Divinity School",
+                            "instance_of": [
+                                "seminary"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.32380555555556,
+                                            "longitude": -72.9233888888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Divinity School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q7680006",
+                        "data": {
+                            "label": "Talladega College",
+                            "instance_of": [
+                                "school",
+                                "historically black college or university",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 33.4321,
+                                            "longitude": -86.1133
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Talladega College"
                     }
                 ]
             }
@@ -13394,7 +14022,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -13567,7 +14196,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -13732,6 +14362,28 @@
         }
     },
     {
+        "id": "Q135791217",
+        "label": "Helen Lou Evelyn James",
+        "description": "Attended Yale Summer School 1907-1908",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130285655",
         "label": "Henderson Hamilton Donald",
         "description": "Attended Yale Divinity School 1916-1918; Received master's degree, 1920; Received Ph.D., 1926",
@@ -13788,10 +14440,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Henderson Hamilton Donald",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q130285655.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -13855,7 +14507,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -14087,7 +14740,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -14208,7 +14862,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -14251,6 +14906,28 @@
                             }
                         },
                         "text": "Clark University"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q18671419",
+        "label": "Henry M. Hudson",
+        "description": "Attended Yale School of Art 1936-1937",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -14381,7 +15058,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ]
                         },
                         "text": "Johnson C. Smith University"
@@ -14420,7 +15098,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -14523,6 +15202,28 @@
         }
     },
     {
+        "id": "Q135790270",
+        "label": "Homer Thomas",
+        "description": "Received master's degree, 1912",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130298937",
         "label": "Horatio Seymour Hill",
         "description": "Received master's degree, 1923",
@@ -14601,7 +15302,8 @@
                                 "college",
                                 "liberal arts college",
                                 "private not-for-profit educational institution",
-                                "private university"
+                                "private university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -14800,7 +15502,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -14891,7 +15594,7 @@
                         "value-type": "wikibase-item",
                         "id": "Q36262",
                         "data": {
-                            "label": "Saint John's, Saint John, Antigua and Barbuda",
+                            "label": "St. John's, Saint John, Antigua and Barbuda",
                             "instance_of": [
                                 "city",
                                 "port"
@@ -14909,7 +15612,7 @@
                                 }
                             }
                         },
-                        "text": "Saint John's, Saint John, Antigua and Barbuda"
+                        "text": "St. John's, Saint John, Antigua and Barbuda"
                     }
                 ]
             },
@@ -14996,7 +15699,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -15559,7 +16263,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -15681,7 +16386,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -15697,6 +16403,28 @@
                             }
                         },
                         "text": "Lincoln University"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790470",
+        "label": "Isaac Thomas Gillam, Jr.",
+        "description": "Attended Yale Graduate School 1899-1900",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -15805,7 +16533,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -15872,6 +16601,28 @@
                             }
                         },
                         "text": "Yale Law School"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790240",
+        "label": "James Arthur Harley",
+        "description": "Attended Yale College 1902-1903",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "James Arthur Harley",
+                        "image-info": [
+                            {
+                                "url": "/data/Q135790240.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -15978,7 +16729,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -16077,7 +16829,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -16396,7 +17149,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -16412,6 +17166,28 @@
                             }
                         },
                         "text": "Fisk University"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790286",
+        "label": "James Oscar Lee",
+        "description": "Graduate of Yale Divinity School, 1935",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -16521,7 +17297,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -16619,7 +17396,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -16944,6 +17722,28 @@
         }
     },
     {
+        "id": "Q135790241",
+        "label": "James William Letlough",
+        "description": "Attended Yale College 1902-1903",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130309679",
         "label": "James William Morris",
         "description": "Graduate of Yale Divinity School, 1874",
@@ -17045,7 +17845,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -17152,8 +17953,8 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 42.29528,
-                                            "longitude": -71.30667
+                                            "latitude": 42.2925,
+                                            "longitude": -71.3075
                                         }
                                     ]
                                 }
@@ -17293,7 +18094,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -17433,6 +18235,28 @@
                             }
                         },
                         "text": "Talladega College"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790242",
+        "label": "Jesse Beauregard Colbert",
+        "description": "Attended Yale Divinity School 1926-1927",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -17609,6 +18433,16 @@
                                             "value-type": "globe-coordinate",
                                             "latitude": 33.756944444444,
                                             "longitude": -84.390277777778
+                                        },
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 33.74888888888889,
+                                            "longitude": -84.38805555555555
+                                        },
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 33.754444444444445,
+                                            "longitude": -84.38972222222222
                                         }
                                     ]
                                 }
@@ -17657,7 +18491,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -17680,7 +18515,8 @@
                         "data": {
                             "label": "Gammon Theological Seminary",
                             "instance_of": [
-                                "seminary"
+                                "seminary",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -18085,7 +18921,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -18101,6 +18938,29 @@
                             }
                         },
                         "text": "Shaw University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q8047384",
+                        "data": {
+                            "label": "Yale Graduate School of Arts and Sciences",
+                            "instance_of": [
+                                "academic institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3123,
+                                            "longitude": -72.9291
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Graduate School of Arts and Sciences"
                     }
                 ]
             }
@@ -18117,6 +18977,10 @@
                     {
                         "value-type": "time",
                         "text": "1860"
+                    },
+                    {
+                        "value-type": "time",
+                        "text": "1855"
                     }
                 ]
             },
@@ -18139,8 +19003,8 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 40.65083,
-                                            "longitude": -73.94972
+                                            "latitude": 40.65083333333333,
+                                            "longitude": -73.94972222222222
                                         }
                                     ]
                                 }
@@ -18379,6 +19243,17 @@
                             }
                         },
                         "text": "Yale Law School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q7492742",
+                        "data": {
+                            "label": "Sheffield Scientific School",
+                            "instance_of": [
+                                "college"
+                            ]
+                        },
+                        "text": "Sheffield Scientific School"
                     }
                 ]
             }
@@ -18499,6 +19374,30 @@
                             }
                         },
                         "text": "Yale College"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1143289",
+                        "data": {
+                            "label": "Yale Law School",
+                            "instance_of": [
+                                "law school",
+                                "academic publisher"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311581,
+                                            "longitude": -72.928147
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Law School"
                     }
                 ]
             }
@@ -18523,12 +19422,11 @@
                 "values": [
                     {
                         "value-type": "wikibase-item",
-                        "id": "Q1906108",
+                        "id": "Q2404846",
                         "data": {
-                            "label": "Oglethorpe, Georgia, United States",
+                            "label": "Ellaville, Georgia, United States",
                             "instance_of": [
                                 "city in the United States",
-                                "county seat",
                                 "municipality of Georgia"
                             ],
                             "properties": {
@@ -18537,14 +19435,14 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 32.2933,
-                                            "longitude": -84.0625
+                                            "latitude": 32.2389,
+                                            "longitude": -84.3094
                                         }
                                     ]
                                 }
                             }
                         },
-                        "text": "Oglethorpe, Georgia, United States"
+                        "text": "Ellaville, Georgia, United States"
                     }
                 ]
             },
@@ -18606,7 +19504,8 @@
                             "instance_of": [
                                 "private university",
                                 "private not-for-profit educational institution",
-                                "research university"
+                                "research university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -18630,7 +19529,8 @@
                             "label": "Morris Brown College",
                             "instance_of": [
                                 "college",
-                                "historically black college or university"
+                                "historically black college or university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -18709,10 +19609,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "John Marshall Miles",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q130309674.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -18753,7 +19653,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -18822,10 +19723,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "John McLinn Ross",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q130314887.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -18843,7 +19744,8 @@
                             "instance_of": [
                                 "college",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -18933,6 +19835,28 @@
                             }
                         },
                         "text": "Yale School of Drama"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790243",
+        "label": "John T. Hammond",
+        "description": "Attended Yale Divinity School 1890-1891",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -19089,6 +20013,28 @@
         }
     },
     {
+        "id": "Q135790292",
+        "label": "John Warren Alexander",
+        "description": "Received Certificate of Proficiency in the Theory of Music, 1928",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130229049",
         "label": "John Wesley Anderson",
         "description": "Graduate of Yale Divinity School, 1915",
@@ -19168,7 +20114,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -19314,7 +20261,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -19353,6 +20301,177 @@
                             }
                         },
                         "text": "Hopkins School"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q16005914",
+        "label": "John Wesley Work, III",
+        "description": "Graduate of Yale School of Music, 1933",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1901"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q3292530",
+                        "data": {
+                            "label": "Tullahoma, Tennessee, United States",
+                            "instance_of": [
+                                "city in the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 35.3620235,
+                                            "longitude": -86.2094342
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Tullahoma, Tennessee, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1967"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "John Wesley Work, III",
+                        "image-info": [
+                            {
+                                "url": "/data/Q16005914.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49088",
+                        "data": {
+                            "label": "Columbia University",
+                            "instance_of": [
+                                "private university",
+                                "research university",
+                                "Colonial Colleges",
+                                "private not-for-profit educational institution",
+                                "organization"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 40.8075,
+                                            "longitude": -73.961944444444
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Columbia University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49087",
+                        "data": {
+                            "label": "Fisk University",
+                            "instance_of": [
+                                "private university",
+                                "historically black college or university",
+                                "private not-for-profit educational institution",
+                                "school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 36.1688,
+                                            "longitude": -86.8047
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Fisk University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q2784420",
+                        "data": {
+                            "label": "Yale School of Music",
+                            "instance_of": [
+                                "conservatory"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3099,
+                                            "longitude": -72.9264
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale School of Music"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135791210",
+        "label": "John William Hudspeth",
+        "description": "Attended Yale College 1901-1902",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -19522,7 +20641,9 @@
                                 "university",
                                 "land-grant university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "entity",
+                                "school"
                             ]
                         },
                         "text": "Virginia State University"
@@ -19687,7 +20808,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -19735,7 +20857,8 @@
                         "data": {
                             "label": "Atlanta University",
                             "instance_of": [
-                                "university"
+                                "university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -19869,7 +20992,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -20037,7 +21161,8 @@
                         "data": {
                             "label": "Bishop College",
                             "instance_of": [
-                                "higher education institution"
+                                "higher education institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -20053,6 +21178,28 @@
                             }
                         },
                         "text": "Bishop College"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790244",
+        "label": "Joseph William Severy",
+        "description": "Attended Sheffield Scientific School 1911-1912",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -20183,7 +21330,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -20231,9 +21379,8 @@
         }
     },
     {
-        "id": "Q130314929",
-        "label": "Joshua H. Jones, Jr.",
-        "description": "Attended Yale College 1899-1900",
+        "id": "Q110907605",
+        "label": "Joshua Henry Jones",
         "properties": {
             "date of birth": {
                 "label": "date of birth",
@@ -20286,10 +21433,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "Joshua H. Jones, Jr.",
+                        "name": "No Image Available",
                         "image-info": [
                             {
-                                "url": "/data/Q130314929.jpg",
+                                "url": "/data/noimage.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -20644,17 +21791,13 @@
                             "instance_of": [
                                 "university",
                                 "private not-for-profit educational institution",
-                                "research institute"
+                                "research institute",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
                                     "label": "coordinate location",
                                     "values": [
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 42.054853,
-                                            "longitude": -87.673945
-                                        },
                                         {
                                             "value-type": "globe-coordinate",
                                             "latitude": 42.05645939999999,
@@ -20845,7 +21988,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -20861,6 +22005,17 @@
                             }
                         },
                         "text": "Fisk University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q7492742",
+                        "data": {
+                            "label": "Sheffield Scientific School",
+                            "instance_of": [
+                                "college"
+                            ]
+                        },
+                        "text": "Sheffield Scientific School"
                     }
                 ]
             }
@@ -20946,7 +22101,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -21145,7 +22301,7 @@
                                 "comprehensive university",
                                 "University of Excellence",
                                 "public university",
-                                "publisher"
+                                "publishing company"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -21170,7 +22326,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -21299,6 +22456,92 @@
                             }
                         },
                         "text": "Yale College"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790245",
+        "label": "Lucille Sarah Baker",
+        "description": "Attended Yale Graduate School 1938-1939",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q115771524",
+        "label": "Mabel Randolph Brooks",
+        "description": "Graduate of Yale School of Art, 1930",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1899"
+                    },
+                    {
+                        "value-type": "time",
+                        "text": "1898"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Mabel Randolph Brooks",
+                        "image-info": [
+                            {
+                                "url": "/data/Q115771524.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q8047422",
+                        "data": {
+                            "label": "Yale School of Art",
+                            "instance_of": [
+                                "educational institution",
+                                "arts educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3086,
+                                            "longitude": -72.9319
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale School of Art"
                     }
                 ]
             }
@@ -21482,7 +22725,8 @@
                                 "college",
                                 "liberal arts college",
                                 "private not-for-profit educational institution",
-                                "private university"
+                                "private university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -21530,7 +22774,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -21675,7 +22920,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -21691,6 +22937,28 @@
                             }
                         },
                         "text": "Howard University"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790294",
+        "label": "Maurice Pierre Laufer",
+        "description": "Research Fellow at the Yale School of Medicine circa 1927-1929; received Master's in Public Health, 1931",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -21774,7 +23042,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -21885,7 +23154,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -21924,6 +23194,28 @@
                             }
                         },
                         "text": "Yale Divinity School"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790246",
+        "label": "Miles Remond Gordon",
+        "description": "Graduate of Yale Medical School, 1894",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -22032,7 +23324,8 @@
                                 "university",
                                 "land-grant university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -22250,7 +23543,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -22289,6 +23583,28 @@
                             }
                         },
                         "text": "Yale Divinity School"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135791198",
+        "label": "Norman Lee Bush",
+        "description": "Attended Yale Divinity School 1929-1930",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -22394,6 +23710,28 @@
                             }
                         },
                         "text": "Yale School of Art"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790247",
+        "label": "Ollington Erwin Smith",
+        "description": "Graduate of Yale School of Drama, 1937",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -22682,7 +24020,8 @@
                             "instance_of": [
                                 "private university",
                                 "private not-for-profit educational institution",
-                                "research university"
+                                "research university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -22734,7 +24073,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -22811,8 +24151,8 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 40.65083,
-                                            "longitude": -73.94972
+                                            "latitude": 40.65083333333333,
+                                            "longitude": -73.94972222222222
                                         }
                                     ]
                                 }
@@ -22987,7 +24327,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -23026,6 +24367,29 @@
                             }
                         },
                         "text": "Yale Divinity School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q8047384",
+                        "data": {
+                            "label": "Yale Graduate School of Arts and Sciences",
+                            "instance_of": [
+                                "academic institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3123,
+                                            "longitude": -72.9291
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Graduate School of Arts and Sciences"
                     }
                 ]
             }
@@ -23086,7 +24450,8 @@
                                 "college",
                                 "liberal arts college",
                                 "private not-for-profit educational institution",
-                                "private university"
+                                "private university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -23198,6 +24563,101 @@
         }
     },
     {
+        "id": "Q98563495",
+        "label": "Powell Daniel Lindsay",
+        "description": "Attended Yale School of Drama 1935-1936",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1905"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1987"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q8047423",
+                        "data": {
+                            "label": "Yale School of Drama",
+                            "instance_of": [
+                                "drama school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3096,
+                                            "longitude": -72.931
+                                        },
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.309638888888884,
+                                            "longitude": -72.93102777777779
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale School of Drama"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790283",
+        "label": "Purvis Sinclair Henderson",
+        "description": "Attended Yale Graduate School 1929-1931",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130266901",
         "label": "Quesnel Albunyan Connolly",
         "description": "Attended Yale Divinity School 1917-1918",
@@ -23297,7 +24757,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -23492,7 +24953,8 @@
                                 "college",
                                 "liberal arts college",
                                 "private not-for-profit educational institution",
-                                "private university"
+                                "private university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -23667,7 +25129,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -23692,7 +25155,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -23937,7 +25401,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -24230,6 +25695,28 @@
         }
     },
     {
+        "id": "Q135790278",
+        "label": "Robert Charles Martin",
+        "description": "Attended Yale Divinity School 1887-1889",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130246794",
         "label": "Robert H. Bonner",
         "description": "Received Certificate of Art, 1896",
@@ -24421,6 +25908,49 @@
         }
     },
     {
+        "id": "Q135790249",
+        "label": "Robert Henry Gross",
+        "description": "Attended Yale Divinity School 1925-1926",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790251",
+        "label": "Robert Randall",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130285908",
         "label": "Rogan King Dubose",
         "description": "Attended Yale Divinity School 1926-1929",
@@ -24510,7 +26040,8 @@
                             "label": "Knoxville College",
                             "instance_of": [
                                 "college",
-                                "historic district"
+                                "historic district",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -24635,7 +26166,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -24763,7 +26295,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -24856,7 +26389,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -24904,7 +26438,8 @@
                             "instance_of": [
                                 "college",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -25413,7 +26948,8 @@
                                 "college",
                                 "liberal arts college",
                                 "private not-for-profit educational institution",
-                                "private university"
+                                "private university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -25528,7 +27064,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -25649,7 +27186,8 @@
                         "data": {
                             "label": "University of Fort Hare",
                             "instance_of": [
-                                "public university"
+                                "public university",
+                                "university"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -25932,7 +27470,8 @@
                                 "college",
                                 "liberal arts college",
                                 "private not-for-profit educational institution",
-                                "private university"
+                                "private university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -25958,7 +27497,8 @@
                                 "college",
                                 "liberal arts college",
                                 "private not-for-profit educational institution",
-                                "private university"
+                                "private university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -25983,7 +27523,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -26052,6 +27593,28 @@
                             }
                         },
                         "text": "Yale School of Drama"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790253",
+        "label": "Sidney Albert Smith",
+        "description": "Attended Yale College 1903-1904",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -26134,7 +27697,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -26305,6 +27869,225 @@
                             }
                         },
                         "text": "Yale College"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q18631454",
+        "label": "Stephen Gill Spottswood",
+        "description": "Attended Yale Divinity School 1922-1923",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1897"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q100",
+                        "data": {
+                            "label": "Boston, Massachusetts, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "big city",
+                                "county seat"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 42.360277777777775,
+                                            "longitude": -71.05777777777777
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Boston, Massachusetts, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1974"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49112",
+                        "data": {
+                            "label": "Yale University",
+                            "instance_of": [
+                                "private university",
+                                "research university",
+                                "Colonial Colleges",
+                                "private not-for-profit educational institution",
+                                "academic publisher",
+                                "production company"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311111111111,
+                                            "longitude": -72.926666666667
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q5586069",
+                        "data": {
+                            "label": "Gordon\u2013Conwell Theological Seminary",
+                            "instance_of": [
+                                "seminary",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 42.612896,
+                                            "longitude": -70.845294
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Gordon\u2013Conwell Theological Seminary"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q4564494",
+                        "data": {
+                            "label": "Albright College",
+                            "instance_of": [
+                                "liberal arts college",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 40.3625,
+                                            "longitude": -75.9125
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Albright College"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q5501114",
+                        "data": {
+                            "label": "Freeport High School",
+                            "instance_of": [
+                                "high school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 43.8577,
+                                            "longitude": -70.1095
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Freeport High School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q5025512",
+                        "data": {
+                            "label": "Cambridge Rindge and Latin School",
+                            "instance_of": [
+                                "high school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 42.37416666666667,
+                                            "longitude": -71.11194444444445
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Cambridge Rindge and Latin School"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790255",
+        "label": "Thaddeus G. Young",
+        "description": "Attended Yale Divinity School 1900-1901",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -26530,6 +28313,50 @@
         }
     },
     {
+        "id": "Q135790258",
+        "label": "Thomas Boyne Patterson",
+        "description": "Attended Yale School of Medicine 1891-1892",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790260",
+        "label": "Thomas Desire Pawley",
+        "description": "Attended Yale Graduate School 1911-1912",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q132303769",
         "label": "Thomas Jarvis Taylor, Jr.",
         "description": "Attended Sheffield Scientific School 1903-1904; Attended Yale Graduate School 1908-1909",
@@ -26665,7 +28492,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -26960,7 +28788,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -27095,7 +28924,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -27316,7 +29146,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -27678,7 +29509,8 @@
                                 "college",
                                 "liberal arts college",
                                 "private not-for-profit educational institution",
-                                "private university"
+                                "private university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -27810,7 +29642,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -27835,7 +29668,8 @@
                             "instance_of": [
                                 "private university",
                                 "private not-for-profit educational institution",
-                                "research university"
+                                "research university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -27959,7 +29793,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -28080,7 +29915,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -28131,7 +29967,8 @@
                             "instance_of": [
                                 "private university",
                                 "private not-for-profit educational institution",
-                                "research university"
+                                "research university",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -28342,6 +30179,28 @@
         }
     },
     {
+        "id": "Q135791215",
+        "label": "Walter Keene",
+        "description": "Attended Yale College 1905-1906",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130309676",
         "label": "Walter Scott Miller",
         "description": "Graduate of Yale Law School, 1897",
@@ -28445,7 +30304,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -28490,9 +30350,8 @@
         }
     },
     {
-        "id": "Q130309661",
-        "label": "Warner T. Lawson",
-        "description": "Graduate of Yale School of Music, 1929",
+        "id": "Q129256505",
+        "label": "Warner Lawson",
         "properties": {
             "date of birth": {
                 "label": "date of birth",
@@ -28570,7 +30429,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -28718,7 +30578,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -28743,7 +30604,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -28842,7 +30704,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -29722,7 +31585,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -29840,7 +31704,9 @@
                                 "university",
                                 "land-grant university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "entity",
+                                "school"
                             ]
                         },
                         "text": "Virginia State University"
@@ -29853,7 +31719,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -29991,6 +31858,10 @@
                     {
                         "value-type": "time",
                         "text": "1873"
+                    },
+                    {
+                        "value-type": "time",
+                        "text": "1874"
                     }
                 ]
             },
@@ -30116,7 +31987,8 @@
                         "data": {
                             "label": "Kittrell College",
                             "instance_of": [
-                                "college"
+                                "college",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -30178,6 +32050,28 @@
                             }
                         },
                         "text": "Yale Graduate School of Arts and Sciences"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790263",
+        "label": "William H. R. Jackson",
+        "description": "Attended Yale School of Art 1880-1883",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }
@@ -30467,7 +32361,8 @@
                         "data": {
                             "label": "Gammon Theological Seminary",
                             "instance_of": [
-                                "seminary"
+                                "seminary",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -30779,7 +32674,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -30992,7 +32888,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -31090,7 +32987,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -31246,7 +33144,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -31344,7 +33243,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -31469,7 +33369,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -31494,7 +33395,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -31662,7 +33564,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -31920,7 +33823,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -32020,7 +33924,7 @@
                             "instance_of": [
                                 "public educational institution of the United States",
                                 "public research university",
-                                "publisher",
+                                "publishing company",
                                 "open-access publisher"
                             ],
                             "properties": {
@@ -32090,6 +33994,28 @@
         }
     },
     {
+        "id": "Q135790265",
+        "label": "William Washington Noland",
+        "description": "Attended Yale Law School 1906-1907",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q8020652",
         "label": "William Yancy Bell",
         "description": "Received Ph.D. in Philosophy, 1924",
@@ -32122,8 +34048,8 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
-                                            "latitude": 35.1175,
-                                            "longitude": -89.971111111111
+                                            "latitude": 35.14611111111111,
+                                            "longitude": -90.05194444444444
                                         }
                                     ]
                                 }
@@ -32191,7 +34117,8 @@
                             "instance_of": [
                                 "historically black college or university",
                                 "private not-for-profit educational institution",
-                                "historic district"
+                                "historic district",
+                                "school"
                             ]
                         },
                         "text": "Lane College"
@@ -32204,17 +34131,13 @@
                             "instance_of": [
                                 "university",
                                 "private not-for-profit educational institution",
-                                "research institute"
+                                "research institute",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
                                     "label": "coordinate location",
                                     "values": [
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 42.054853,
-                                            "longitude": -87.673945
-                                        },
                                         {
                                             "value-type": "globe-coordinate",
                                             "latitude": 42.05645939999999,
@@ -32333,7 +34256,8 @@
                             "instance_of": [
                                 "private university",
                                 "historically black college or university",
-                                "private not-for-profit educational institution"
+                                "private not-for-profit educational institution",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -32446,7 +34370,8 @@
                             "instance_of": [
                                 "university",
                                 "historically black college or university",
-                                "public educational institution of the United States"
+                                "public educational institution of the United States",
+                                "school"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -32638,7 +34563,8 @@
                         "data": {
                             "label": "University of Fort Hare",
                             "instance_of": [
-                                "public university"
+                                "public university",
+                                "university"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -32677,6 +34603,28 @@
                             }
                         },
                         "text": "Yale Graduate School of Arts and Sciences"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q135790296",
+        "label": "\u00c9douard Alexander  Petrus",
+        "description": "Research Fellow at Yale School of Medicine circa 1927-1929",
+        "properties": {
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
                     }
                 ]
             }

@@ -50,7 +50,8 @@
                         "instance_of": [
                             "college",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -128,6 +129,16 @@
                                         "value-type": "globe-coordinate",
                                         "latitude": 33.756944444444,
                                         "longitude": -84.390277777778
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.74888888888889,
+                                        "longitude": -84.38805555555555
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.754444444444445,
+                                        "longitude": -84.38972222222222
                                     }
                                 ]
                             }

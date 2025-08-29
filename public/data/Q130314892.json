@@ -17,7 +17,9 @@
                             "university",
                             "land-grant university",
                             "historically black college or university",
-                            "public educational institution of the United States"
+                            "public educational institution of the United States",
+                            "entity",
+                            "school"
                         ]
                     },
                     "text": "Virginia State University"
@@ -60,7 +62,8 @@
                         "instance_of": [
                             "university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {

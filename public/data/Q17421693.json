@@ -68,7 +68,8 @@
                         "instance_of": [
                             "university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -200,9 +201,9 @@
                     "data": {
                         "label": "Montreal, Quebec, Canada",
                         "instance_of": [
-                            "city or town",
+                            "city or town of Quebec",
                             "metropolis",
-                            "territory outside RCM",
+                            "territory outside RCM in Quebec",
                             "college town"
                         ],
                         "properties": {

@@ -94,7 +94,8 @@
                         "label": "Knoxville College",
                         "instance_of": [
                             "college",
-                            "historic district"
+                            "historic district",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {

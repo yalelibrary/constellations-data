@@ -48,7 +48,8 @@
                     "data": {
                         "label": "University of Fort Hare",
                         "instance_of": [
-                            "public university"
+                            "public university",
+                            "university"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -97,25 +98,12 @@
                     "value-type": "wikibase-item",
                     "id": "Q15721872",
                     "data": {
-                        "label": "London School of Economics",
+                        "label": null,
                         "instance_of": [
-                            "educational organization",
-                            "higher education institution"
-                        ],
-                        "properties": {
-                            "coordinate location": {
-                                "label": "coordinate location",
-                                "values": [
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 51.51388889,
-                                        "longitude": -0.11666667
-                                    }
-                                ]
-                            }
-                        }
+                            "Wikimedia permanent duplicate item"
+                        ]
                     },
-                    "text": "London School of Economics"
+                    "text": null
                 },
                 {
                     "value-type": "wikibase-item",
@@ -266,7 +254,7 @@
                         "label": "Waterloo, Ontario, Canada",
                         "instance_of": [
                             "city",
-                            "lower-tier municipality",
+                            "lower-tier municipality of Ontario",
                             "big city"
                         ],
                         "properties": {

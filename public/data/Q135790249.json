@@ -1,0 +1,58 @@
+{
+    "id": "Q135790249",
+    "label": "Robert Henry Gross",
+    "biographyMarkdown": "# Robert Henry Gross\n## Attended Yale Divinity School 1925-1926\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "description": "Attended Yale Divinity School 1925-1926",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Gross"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1920s"
+                }
+            ]
+        }
+    }
+}

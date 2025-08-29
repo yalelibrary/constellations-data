@@ -61,7 +61,53 @@
                             }
                         }
                     },
-                    "text": "Yale College"
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1893"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1895"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

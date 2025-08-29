@@ -217,7 +217,8 @@
                             "college",
                             "liberal arts college",
                             "private not-for-profit educational institution",
-                            "private university"
+                            "private university",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -270,7 +271,8 @@
                             "college",
                             "liberal arts college",
                             "private not-for-profit educational institution",
-                            "private university"
+                            "private university",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -324,7 +326,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -447,7 +450,8 @@
                     "data": {
                         "label": "Federal Theatre Project",
                         "instance_of": [
-                            "government agency"
+                            "government agency",
+                            "theatre company"
                         ]
                     },
                     "text": "Federal Theatre Project"
@@ -460,7 +464,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -549,8 +554,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 5.546111111111111,
-                                        "longitude": -0.20666666666666667
+                                        "latitude": 5.55602,
+                                        "longitude": -0.1969
                                     }
                                 ]
                             }
@@ -661,8 +666,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 5.546111111111111,
-                                        "longitude": -0.20666666666666667
+                                        "latitude": 5.55602,
+                                        "longitude": -0.1969
                                     }
                                 ]
                             }

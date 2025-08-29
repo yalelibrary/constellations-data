@@ -105,6 +105,16 @@
                                         "value-type": "globe-coordinate",
                                         "latitude": 33.756944444444,
                                         "longitude": -84.390277777778
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.74888888888889,
+                                        "longitude": -84.38805555555555
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.754444444444445,
+                                        "longitude": -84.38972222222222
                                     }
                                 ]
                             }
@@ -125,7 +135,8 @@
                         "instance_of": [
                             "university",
                             "historically black college or university",
-                            "public educational institution of the United States"
+                            "public educational institution of the United States",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -148,7 +159,8 @@
                     "data": {
                         "label": "Gammon Theological Seminary",
                         "instance_of": [
-                            "seminary"
+                            "seminary",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {

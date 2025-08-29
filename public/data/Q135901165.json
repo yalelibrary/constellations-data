@@ -1,0 +1,106 @@
+{
+    "id": "Q135901165",
+    "label": "Grace Lucille Fisher",
+    "biographyMarkdown": "# Grace Lucille Fisher\n## Attended Yale School of Music 1922-1925\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n\nImage citation: *Crisis* magazine, August 1938.\n",
+    "description": "Attended Yale School of Music 1922-1925",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581072",
+                    "data": {
+                        "label": "female",
+                        "instance_of": [
+                            "sex of humans",
+                            "gender"
+                        ]
+                    },
+                    "text": "female"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2784420",
+                    "data": {
+                        "label": "Yale School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3099,
+                                        "longitude": -72.9264
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Music",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1922"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1925"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Grace Lucille Fisher",
+                    "image-info": [
+                        {
+                            "url": "/data/Q135901165.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Fisher"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1920s"
+                }
+            ]
+        }
+    }
+}
