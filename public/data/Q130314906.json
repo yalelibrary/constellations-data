@@ -143,7 +143,8 @@
                             "college",
                             "liberal arts college",
                             "private not-for-profit educational institution",
-                            "private university"
+                            "private university",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -211,7 +212,8 @@
                         "instance_of": [
                             "university",
                             "historically black college or university",
-                            "public educational institution of the United States"
+                            "public educational institution of the United States",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {

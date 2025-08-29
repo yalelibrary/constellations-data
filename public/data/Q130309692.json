@@ -1,7 +1,7 @@
 {
     "id": "Q130309692",
     "label": "Leon Pulaski O'Hara",
-    "biographyMarkdown": "# Leon Pulaski O'Hara\n## Graduate of Yale College, 1912\nLeon Pulaski O\u2019Hara was born in 1888 in Louisville, Kentucky to Willis Matchen O\u2019Hara and Bettie Franklin O\u2019Hara. He attended Louisville public schools and the college preparatory department at Fisk University. He graduated from Fisk in 1911. He was an accomplished baritone, singing with groups in Louisville and at Fisk, including the Fisk Jubilee Singers. \n\nO\u2019Hara came to Yale from Fisk and graduated with a bachelor's degree in 1912. While at Yale, he was roommates with fellow Fisk alumni James Stamps and Charles Harris Wesley. He completed a master\u2019s of science degree in 1915 in Chicago and went on to have a long career in scientific research and education. He was head of the science department at Cheyney University, taught at Langston State University, and was a division head at Tuskegee College before being appointed a professor of biology at Talladega College. \n\nHe was married to Annie Mae O\u2019Hara and had two children, Leon Pulaski O\u2019Hara, Jr. and Minnie E. O\u2019Hara.\n\nO\u2019Hara died in 1965.\n\nImage citation: Yale College Class of 1912 class book, Yale University Library\n",
+    "biographyMarkdown": "# Leon Pulaski O'Hara\n## Graduate of Yale College, 1912\nLeon Pulaski O\u2019Hara was born in 1888 in Louisville, Kentucky to Willis Matchen O\u2019Hara and Bettie Franklin O\u2019Hara. He attended Louisville public schools and the college preparatory department at Fisk University. He graduated from Fisk in 1911. He was an accomplished baritone, singing with groups in Louisville and at Fisk, including the Fisk Jubilee Singers. \n\nO\u2019Hara came to Yale from Fisk and graduated with a bachelor's degree in 1912. While at Yale, he was roommates with fellow Fisk alumni James Stamps and Charles Harris Wesley. He completed a master\u2019s of science degree at Yale's Sheffield Scientific School in 1915  and went on to have a long career in scientific research and education. He was head of the science department at Cheyney University, taught at Langston State University, and was a division head at Tuskegee College before being appointed a professor of biology at Talladega College.\n\nHe was married to Annie Mae O\u2019Hara and had two children, Leon Pulaski O\u2019Hara, Jr. and Minnie E. O\u2019Hara.\n\nO\u2019Hara died in 1965.\n\nImage citation: Yale College Class of 1912 class book, Yale University Library\n",
     "description": "Graduate of Yale College, 1912",
     "publicationsMarkdown": "\"Studies On Nitrated Proteins. III. The Conversion of Fibroin into Nitro-Fibroin (Fibroin-Xanthoproetic Acid),\" *Journal of the American Chemical Society 37*, no. 9 (1915).\n\n\"Studies in Proteins. VI. The Solubility of the Nitrogenous Constituents of Certain Seeds in Sodium Chloride Solutions,\" *Journal of the American Chemical Society 59*, no. 2 (1937).\n",
     "properties": {
@@ -50,7 +50,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -66,6 +67,28 @@
                         }
                     },
                     "text": "Fisk University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7492742",
+                    "data": {
+                        "label": "Sheffield Scientific School",
+                        "instance_of": [
+                            "college"
+                        ]
+                    },
+                    "text": "Sheffield Scientific School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1915"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

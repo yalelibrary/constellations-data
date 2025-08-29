@@ -64,7 +64,8 @@
                         "instance_of": [
                             "university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -126,7 +127,8 @@
                     "data": {
                         "label": "Saint Paul's College",
                         "instance_of": [
-                            "academic institution"
+                            "academic institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {

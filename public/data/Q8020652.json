@@ -76,7 +76,8 @@
                         "instance_of": [
                             "historically black college or university",
                             "private not-for-profit educational institution",
-                            "historic district"
+                            "historic district",
+                            "school"
                         ]
                     },
                     "text": "Lane College"
@@ -89,17 +90,13 @@
                         "instance_of": [
                             "university",
                             "private not-for-profit educational institution",
-                            "research institute"
+                            "research institute",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
                                 "label": "coordinate location",
                                 "values": [
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 42.054853,
-                                        "longitude": -87.673945
-                                    },
                                     {
                                         "value-type": "globe-coordinate",
                                         "latitude": 42.05645939999999,
@@ -165,8 +162,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 35.1175,
-                                        "longitude": -89.971111111111
+                                        "latitude": 35.14611111111111,
+                                        "longitude": -90.05194444444444
                                     }
                                 ]
                             }
@@ -185,7 +182,8 @@
                     "data": {
                         "label": "Gammon Theological Seminary",
                         "instance_of": [
-                            "seminary"
+                            "seminary",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -209,7 +207,8 @@
                         "label": "Morris Brown College",
                         "instance_of": [
                             "college",
-                            "historically black college or university"
+                            "historically black college or university",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -234,7 +233,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -351,8 +351,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 35.1175,
-                                        "longitude": -89.971111111111
+                                        "latitude": 35.14611111111111,
+                                        "longitude": -90.05194444444444
                                     }
                                 ]
                             }
@@ -407,6 +407,16 @@
                                         "value-type": "globe-coordinate",
                                         "latitude": 33.756944444444,
                                         "longitude": -84.390277777778
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.74888888888889,
+                                        "longitude": -84.38805555555555
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.754444444444445,
+                                        "longitude": -84.38972222222222
                                     }
                                 ]
                             }

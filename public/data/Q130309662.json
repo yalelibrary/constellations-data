@@ -1,7 +1,7 @@
 {
     "id": "Q130309662",
     "label": "John Henry Lewis",
-    "biographyMarkdown": "# John Henry Lewis\n## Graduate of Yale Divinity School, 1913\nBorn in Oglethorpe, Georgia in 1882, John Henry Lewis received his BA from Morris Brown College in Georgia in 1905 and was ordained in the AME Church in 1907. After graduating from Yale with his bachelor's in divinity, Lewis received an MA from the University of Chicago in 1915. Lewis served as a pastor in Atlanta from 1904 to 1918, in Springfield, Missouri from 1918 to 1919, and in Pasadena, California. In 1920, he was appointed president of Morris Brown College, where he served from 1920 to 1928. He later returned to Morris Brown, serving as president again from 1951 to 1958. In addition, he received a doctor of divinity degree from Wilberforce University in 1921. \n\nOther positions included serving as principal of Dunbar High School and Junior College in Little Rock, Arkansas, as president of Shorter College of North Little Rock from 1943 to 1944, and as dean of Payne Theological Seminary at Wilberforce University from 1943 to 1951. He was part of the group of Black students who reactivated Zeta Chapter of Alpha Phi Alpha Fraternity at Yale. He died in 1958 in Atlanta.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity Library\n",
+    "biographyMarkdown": "# John Henry Lewis\n## Graduate of Yale Divinity School, 1913\nBorn in Ellaville, Georgia in 1882, John Henry Lewis received his B.A. from Morris Brown College in Georgia in 1905 and was ordained in the AME Church in 1907. After graduating from Yale with his bachelor\u2019s degree in divinity, Lewis received an M.A. from the University of Chicago in 1915. Lewis served as a pastor in Atlanta from 1904 to 1918, in Springfield, Missouri from 1918 to 1919, and in Pasadena, California. In 1920, he was appointed president of Morris Brown College, where he served from 1920 to 1928. He later returned to Morris Brown, serving as president again from 1951 to his death in 1958. In addition, he received a doctor of divinity degree from Wilberforce University in 1921.  \n\nOther positions included serving as principal of Dunbar High School and Junior College in Little Rock, Arkansas, as president of Shorter College of North Little Rock from 1943 to 1944, and as dean of Payne Theological Seminary at Wilberforce University from 1943 to 1951. He was part of the group of Black students who reactivated Zeta Chapter of Alpha Phi Alpha Fraternity at Yale. He led efforts for equal pay for Black teachers while living in Little Rock. He died in Atlanta.  \n\nLewis was survived by his second wife, Alice Urnestine Bell-Lewis; four sons, John H., Jr., James, Melton, and David; and a daughter, Anita. His youngest son, David Levering Lewis, is a historian. Among other honors, he was the recipient of the Pulitzer Prize for Biography or Autobiography on two occasions: in 1993, W.E.B. Du Bois: Biography of a Race, 1868\u20131919, and then again in 1993 for the second volume, W.E.B. Du Bois: The Fight for Equality and the American Century, 1919\u20131963. David Levering Lewis credits his father with first introducing him to Du Bois.  \n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity Library\n",
     "description": "Graduate of Yale Divinity School, 1913",
     "publicationsMarkdown": "\"The Dying Girl Unprepared to Meet Her God,\" *Modern Language Notes 28*, no. 1 (1913).\n\n\"Social Services in Negro Churches.\" M.A. thesis, University of Chicago, 1914.\n",
     "properties": {
@@ -50,7 +50,8 @@
                         "instance_of": [
                             "private university",
                             "private not-for-profit educational institution",
-                            "research university"
+                            "research university",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -74,7 +75,8 @@
                         "label": "Morris Brown College",
                         "instance_of": [
                             "college",
-                            "historically black college or university"
+                            "historically black college or university",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -122,7 +124,8 @@
                         "instance_of": [
                             "university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -171,12 +174,11 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1906108",
+                    "id": "Q2404846",
                     "data": {
-                        "label": "Oglethorpe, Georgia, United States",
+                        "label": "Ellaville, Georgia, United States",
                         "instance_of": [
                             "city in the United States",
-                            "county seat",
                             "municipality of Georgia"
                         ],
                         "properties": {
@@ -185,14 +187,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 32.2933,
-                                        "longitude": -84.0625
+                                        "latitude": 32.2389,
+                                        "longitude": -84.3094
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Oglethorpe, Georgia, United States"
+                    "text": "Ellaville, Georgia, United States"
                 }
             ]
         },
@@ -218,6 +220,16 @@
                                         "value-type": "globe-coordinate",
                                         "latitude": 33.756944444444,
                                         "longitude": -84.390277777778
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.74888888888889,
+                                        "longitude": -84.38805555555555
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.754444444444445,
+                                        "longitude": -84.38972222222222
                                     }
                                 ]
                             }

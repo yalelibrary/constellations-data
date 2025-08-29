@@ -73,7 +73,8 @@
                         "label": "Indiana University, Indiana, United States",
                         "instance_of": [
                             "state university system",
-                            "educational institution"
+                            "educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -171,7 +172,8 @@
                         "instance_of": [
                             "university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {

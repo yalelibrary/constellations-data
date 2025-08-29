@@ -208,14 +208,14 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q130314929",
+                    "id": "Q110907605",
                     "data": {
-                        "label": "Joshua H. Jones, Jr.",
+                        "label": "Joshua Henry Jones",
                         "instance_of": [
                             "human"
                         ]
                     },
-                    "text": "Joshua H. Jones, Jr.",
+                    "text": "Joshua Henry Jones",
                     "qualifiers": [
                         {
                             "label": "kinship to subject",

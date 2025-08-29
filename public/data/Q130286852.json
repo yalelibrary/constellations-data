@@ -38,7 +38,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q3306469",
                     "data": {
-                        "label": "Prairie View A&M University",
+                        "label": "Prairie View State College",
                         "instance_of": [
                             "university",
                             "land-grant university",
@@ -58,7 +58,7 @@
                             }
                         }
                     },
-                    "text": "Prairie View A&M University"
+                    "text": "Prairie View State College"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -124,7 +124,8 @@
                         "instance_of": [
                             "university",
                             "historically black college or university",
-                            "public educational institution of the United States"
+                            "public educational institution of the United States",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {

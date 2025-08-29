@@ -1,7 +1,7 @@
 {
     "id": "Q130286795",
     "label": "Viola White Goin",
-    "biographyMarkdown": "# Viola White Goin\n## Attended English classes in Yale Graduate School, 1902-1903\nBorn in 1877, Viola White Goin received her bachelor's degree from Oberlin College in 1901. She studied English at the Yale Graduate School from 1902-1903. In 1902, she married fellow Oberlin and Yale student Edward Franklin Goin. They had two children: Viola Goin Palmer and Edward H. Goin (Yale College, 1924). Viola W. Goin served as acting dean of women at Fisk University in the early 1930s. She spent most of her adult life in New Haven, where her husband served as pastor of the Dixwell Congregational UCC. She died in 1955 and is buried in Evergreen Cemetery, New Haven.\n\nImage citation: Courtesy of Dixwell Avenue Congregational United Church of Christ, New Haven, Connecticut\n",
+    "biographyMarkdown": "# Viola White Goin\n## Attended English classes in Yale Graduate School, 1902-1903\nBorn in 1877, Viola White Goin received her bachelor's degree from Oberlin College in 1901. She studied English at the Yale Graduate School from 1902-1903. In 1902, she married fellow Oberlin and Yale student Edward Franklin Goin. They had two children: Viola Goin Palmer and Edward H. Goin (Yale College, 1924). Viola W. Goin served as acting dean of women at Fisk University in the early 1930s. She spent most of her adult life in New Haven, where her husband served as pastor of the Dixwell Congregational UCC. She died in 1955 and is buried in Evergreen Cemetery, New Haven.\n\nImage citation: Detail of photo taken at Fisk University in 1933 from the James Weldon Johnson and Grace Nail Johnson Papers (JWJ MSS 49), Box 109, folder 969, Beinecke Rare Book and Manuscript Library, Yale University.\n",
     "description": "Attended English classes in Yale Graduate School, 1902-1903",
     "properties": {
         "date of birth": {
@@ -77,7 +77,8 @@
                             "college",
                             "liberal arts college",
                             "private not-for-profit educational institution",
-                            "private university"
+                            "private university",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -107,7 +108,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {

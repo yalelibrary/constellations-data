@@ -75,18 +75,7 @@
                             }
                         }
                     },
-                    "text": "Yale Divinity School",
-                    "qualifiers": [
-                        {
-                            "label": "end time",
-                            "values": [
-                                {
-                                    "value-type": "time",
-                                    "text": "1931"
-                                }
-                            ]
-                        }
-                    ]
+                    "text": "Yale Divinity School"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -96,7 +85,8 @@
                         "instance_of": [
                             "university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -112,6 +102,40 @@
                         }
                     },
                     "text": "Shaw University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1931"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -127,7 +151,8 @@
                             "public university",
                             "historically black college or university",
                             "public educational institution of the United States",
-                            "land-grant university"
+                            "land-grant university",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -148,10 +173,11 @@
                     "value-type": "wikibase-item",
                     "id": "Q941524",
                     "data": {
-                        "label": "Alabama State University",
+                        "label": "Alabama State College",
                         "instance_of": [
                             "public university",
-                            "public educational institution of the United States"
+                            "public educational institution of the United States",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -166,7 +192,7 @@
                             }
                         }
                     },
-                    "text": "Alabama State University"
+                    "text": "Alabama State College"
                 }
             ]
         },

@@ -72,7 +72,8 @@
                     "data": {
                         "label": "Bishop College",
                         "instance_of": [
-                            "higher education institution"
+                            "higher education institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {

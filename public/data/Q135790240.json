@@ -1,0 +1,58 @@
+{
+    "id": "Q135790240",
+    "label": "James Arthur Harley",
+    "biographyMarkdown": "# James Arthur Harley\n## Attended Yale College 1902-1903\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n\nImage citation: Yale College Class of 1906 class book, Yale University Library.\n",
+    "description": "Attended Yale College 1902-1903",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "James Arthur Harley",
+                    "image-info": [
+                        {
+                            "url": "/data/Q135790240.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Harley"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1900s"
+                }
+            ]
+        }
+    }
+}

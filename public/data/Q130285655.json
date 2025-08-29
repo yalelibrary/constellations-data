@@ -1,7 +1,7 @@
 {
     "id": "Q130285655",
     "label": "Henderson Hamilton Donald",
-    "biographyMarkdown": "# Henderson Hamilton Donald\n## Attended Yale Divinity School 1916-1918; Received master's degree, 1920; Received Ph.D., 1926\nBorn in Convent, Louisiana in 1885, Henderson Hamilton Donald received his BA from Howard University in 1915, followed by three years of study at the Yale Divinity School. He received his master's degree from Yale in 1920 and his PhD from the graduate school in 1926. \n\nFrom 1960 until his retirement in 1973, Donald taught at Lane College, a Black college in Jackson, Tennessee, where he was professor of sociology. From 1961 to 1969, he was chair of the division of social science. In earlier years, he had taught at Livingstone College in North Carolina and Howard University, where he was chair of the sociology department, and done scholarly research in New York. Professional memberships included the American Sociological Association and the American Association of University Professors.  \n\nIn 1952, Donald published *The Negro Freedman: Life Conditions of the American Negro in the Early Years*, a work that was controversial for its treatment of Reconstruction and African American life. Other publications included an article, \u201cThe Effects of the Negro Migration on the North.\u201d Donald died in 1980.\n",
+    "biographyMarkdown": "# Henderson Hamilton Donald\n## Attended Yale Divinity School 1916-1918; Received master's degree, 1920; Received Ph.D., 1926\n\nBorn in Convent, Louisiana in 1885, Henderson Hamilton Donald received his BA from Howard University in 1915, followed by three years of study at the Yale Divinity School. He received his master's degree from Yale in 1920 and his PhD from the graduate school in 1926. \n\nFrom 1960 until his retirement in 1973, Donald taught at Lane College, a Black college in Jackson, Tennessee, where he was professor of sociology. From 1961 to 1969, he was chair of the division of social science. In earlier years, he had taught at Livingstone College in North Carolina and Howard University, where he was chair of the sociology department, and done scholarly research in New York. Professional memberships included the American Sociological Association and the American Association of University Professors.  \n\nIn 1952, Donald published *The Negro Freedman: Life Conditions of the American Negro in the Early Years*, a work that was controversial for its treatment of Reconstruction and African American life. Other publications included an article, \u201cThe Effects of the Negro Migration on the North.\u201d Donald died in 1980.\n\nImage citation: Henderson Hamilton Donald, Howard University Yearbooks, *NIKH* 1915, Howard University Archives, Moorland-Springarn Research Center, Washington, D.C. https://msrc.howard.edu/\n",
     "description": "Attended Yale Divinity School 1916-1918; Received master's degree, 1920; Received Ph.D., 1926",
     "publicationsMarkdown": "*The Negro Migration of 1916-1918*. Washington, D.C.: The Association for the Study of Negro Life and History, 1921.\n\n\"The Negro In Industry.\" PhD diss., Yale University, 1926. \n\n*The Negro Freedman: Life Conditions of the American Negro in the Early Years After Emancipation*. New York, NY: H. Schuman, 1952.\n",
     "properties": {
@@ -131,7 +131,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -197,7 +198,8 @@
                         "instance_of": [
                             "historically black college or university",
                             "private not-for-profit educational institution",
-                            "historic district"
+                            "historic district",
+                            "school"
                         ]
                     },
                     "text": "Lane College"
@@ -327,10 +329,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Henderson Hamilton Donald",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q130285655.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

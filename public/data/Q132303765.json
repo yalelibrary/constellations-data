@@ -271,6 +271,82 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q557066",
+                    "data": {
+                        "label": "Frederick D. Gregory",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Frederick D. Gregory",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q11921506",
+                                    "data": {
+                                        "label": "grandson",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "grandson"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q27829445",
+                    "data": {
+                        "label": "James Monroe Gregory",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "James Monroe Gregory",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "father"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16007146",
+                    "data": {
+                        "label": "Thomas Montgomery Gregory",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Thomas Montgomery Gregory",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [

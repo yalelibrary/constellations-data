@@ -24,17 +24,13 @@
                         "instance_of": [
                             "university",
                             "private not-for-profit educational institution",
-                            "research institute"
+                            "research institute",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
                                 "label": "coordinate location",
                                 "values": [
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 42.054853,
-                                        "longitude": -87.673945
-                                    },
                                     {
                                         "value-type": "globe-coordinate",
                                         "latitude": 42.05645939999999,

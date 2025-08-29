@@ -75,7 +75,8 @@
                         "instance_of": [
                             "university",
                             "historically black college or university",
-                            "public educational institution of the United States"
+                            "public educational institution of the United States",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -119,7 +120,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q36262",
                     "data": {
-                        "label": "Saint John's, Saint John, Antigua and Barbuda",
+                        "label": "St. John's, Saint John, Antigua and Barbuda",
                         "instance_of": [
                             "city",
                             "port"
@@ -137,7 +138,7 @@
                             }
                         }
                     },
-                    "text": "Saint John's, Saint John, Antigua and Barbuda"
+                    "text": "St. John's, Saint John, Antigua and Barbuda"
                 }
             ]
         },
@@ -247,7 +248,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q36262",
                     "data": {
-                        "label": "Saint John's, Saint John, Antigua and Barbuda",
+                        "label": "St. John's, Saint John, Antigua and Barbuda",
                         "instance_of": [
                             "city",
                             "port"
@@ -265,7 +266,7 @@
                             }
                         }
                     },
-                    "text": "Saint John's, Saint John, Antigua and Barbuda"
+                    "text": "St. John's, Saint John, Antigua and Barbuda"
                 }
             ]
         },

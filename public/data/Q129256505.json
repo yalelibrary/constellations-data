@@ -1,10 +1,74 @@
 {
-    "id": "Q130309661",
-    "label": "Warner T. Lawson",
-    "biographyMarkdown": "# Warner T. Lawson\n## Graduate of Yale School of Music, 1929\nWarner T. Lawson was a musician and educator born in 1903 in Hartford, Connecticut. His parents were also musicians\u2014his father, Raymond Augustus Lawson, was a pianist, and his mother was a vocalist with the Fisk Jubilee Singers. He attended Fisk University on a Juilliard scholarship before returning to Connecticut to study at the Yale School of Music. He received a BA in music from Yale in 1929. Following his graduation from Yale, he returned to Fisk University and was head of its music department. In 1936, he became head of the music department at North Carolina A&T University in Greensboro, North Carolina, and in 1942 was appointed Dean of the School of Music at Howard University. Lawson died in 1971.\n",
-    "description": "Graduate of Yale School of Music, 1929",
-    "publicationsMarkdown": "\"American Troubadour,\" *The Journal of Negro Education 6*, no. 4 (1937).\n\n\"Review of *Angel Mo' and Her Son, Roland Haynes*,\" *The Journal of Negro Education 12*, no. 2 (1943).\n\n\"Review of *Negro Slave Songs*,\" *The Journal of Negro History 39*, no. 2 (1954).\n\n\"Some Comments by a Choral Conductor,\" *Music Educators Journal 45*, no. 3 (1959).\n",
+    "id": "Q129256505",
+    "label": "Warner Lawson",
     "properties": {
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1903"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1971"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33486",
+                    "data": {
+                        "label": "Hartford, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "municipality seat",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.763333333333,
+                                        "longitude": -72.685
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford, Connecticut, United States"
+                }
+            ]
+        },
         "employer": {
             "label": "employer",
             "values": [
@@ -16,7 +80,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -42,7 +107,8 @@
                             "university",
                             "land-grant university",
                             "historically black college or university",
-                            "public educational institution of the United States"
+                            "public educational institution of the United States",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -67,7 +133,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -97,7 +164,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -147,73 +215,6 @@
                             ]
                         }
                     ]
-                }
-            ]
-        },
-        "date of birth": {
-            "label": "date of birth",
-            "values": [
-                {
-                    "value-type": "time",
-                    "text": "1903"
-                }
-            ]
-        },
-        "place of birth": {
-            "label": "place of birth",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q33486",
-                    "data": {
-                        "label": "Hartford, Connecticut, United States",
-                        "instance_of": [
-                            "city in the United States",
-                            "state or insular area capital of the United States",
-                            "big city",
-                            "municipality seat",
-                            "county seat"
-                        ],
-                        "properties": {
-                            "coordinate location": {
-                                "label": "coordinate location",
-                                "values": [
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 41.763333333333,
-                                        "longitude": -72.685
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "text": "Hartford, Connecticut, United States"
-                }
-            ]
-        },
-        "date of death": {
-            "label": "date of death",
-            "values": [
-                {
-                    "value-type": "time",
-                    "text": "1971"
-                }
-            ]
-        },
-        "sex or gender": {
-            "label": "sex or gender",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q6581097",
-                    "data": {
-                        "label": "male",
-                        "instance_of": [
-                            "gender identity",
-                            "sex of humans"
-                        ]
-                    },
-                    "text": "male"
                 }
             ]
         },
@@ -350,15 +351,6 @@
                 {
                     "value-type": "literal",
                     "text": "Lawson"
-                }
-            ]
-        },
-        "decades": {
-            "label": "decades",
-            "values": [
-                {
-                    "value-type": "literal",
-                    "text": "1920s"
                 }
             ]
         }

@@ -132,11 +132,6 @@
                                         "value-type": "globe-coordinate",
                                         "latitude": 6.805833333333333,
                                         "longitude": -58.15083333333333
-                                    },
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 6.80448,
-                                        "longitude": -58.15527
                                     }
                                 ]
                             }
@@ -214,11 +209,6 @@
                                         "value-type": "globe-coordinate",
                                         "latitude": 6.805833333333333,
                                         "longitude": -58.15083333333333
-                                    },
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 6.80448,
-                                        "longitude": -58.15527
                                     }
                                 ]
                             }
