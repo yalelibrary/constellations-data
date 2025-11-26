@@ -71,7 +71,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -92,12 +93,13 @@
                     "value-type": "wikibase-item",
                     "id": "Q1551044",
                     "data": {
-                        "label": "Alabama Agricultural and Mechanical University",
+                        "label": "Alabama A & M College",
                         "instance_of": [
                             "public university",
                             "land-grant university",
                             "historically black college or university",
-                            "public educational institution of the United States"
+                            "public educational institution of the United States",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -112,7 +114,7 @@
                             }
                         }
                     },
-                    "text": "Alabama Agricultural and Mechanical University"
+                    "text": "Alabama A & M College"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -231,7 +233,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -255,7 +258,8 @@
                         "label": "National Urban League",
                         "instance_of": [
                             "advocacy group",
-                            "nonprofit organization"
+                            "nonprofit organization",
+                            "organization"
                         ]
                     },
                     "text": "National Urban League"
@@ -281,8 +285,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 40.65083,
-                                        "longitude": -73.94972
+                                        "latitude": 40.65083333333333,
+                                        "longitude": -73.94972222222222
                                     }
                                 ]
                             }

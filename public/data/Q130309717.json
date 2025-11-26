@@ -75,7 +75,8 @@
                         "instance_of": [
                             "university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ]
                     },
                     "text": "Johnson C. Smith University"
@@ -114,7 +115,8 @@
                         "instance_of": [
                             "university",
                             "historically black college or university",
-                            "public educational institution of the United States"
+                            "public educational institution of the United States",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {

@@ -48,7 +48,8 @@
                     "data": {
                         "label": "University of South Africa",
                         "instance_of": [
-                            "public university"
+                            "public university",
+                            "university"
                         ],
                         "properties": {
                             "coordinate location": {

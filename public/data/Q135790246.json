@@ -1,0 +1,58 @@
+{
+    "id": "Q135790246",
+    "label": "Miles Remond Gordon",
+    "biographyMarkdown": "# Miles Remond Gordon\n## Graduate of Yale Medical School, 1894\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n\n",
+    "description": "Graduate of Yale Medical School, 1894",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Gordon"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1890s"
+                }
+            ]
+        }
+    }
+}

@@ -48,7 +48,8 @@
                     "data": {
                         "label": "University of Fort Hare",
                         "instance_of": [
-                            "public university"
+                            "public university",
+                            "university"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -95,12 +96,13 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q15721872",
+                    "id": "Q174570",
                     "data": {
-                        "label": "London School of Economics",
+                        "label": "London School of Economics and Political Science",
                         "instance_of": [
-                            "educational organization",
-                            "higher education institution"
+                            "public research university",
+                            "higher education institution",
+                            "educational organization"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -108,14 +110,14 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 51.51388889,
-                                        "longitude": -0.11666667
+                                        "latitude": 51.513888888889,
+                                        "longitude": -0.11666666666667
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "London School of Economics"
+                    "text": "London School of Economics and Political Science"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -266,7 +268,7 @@
                         "label": "Waterloo, Ontario, Canada",
                         "instance_of": [
                             "city",
-                            "lower-tier municipality",
+                            "lower-tier municipality of Ontario",
                             "big city"
                         ],
                         "properties": {

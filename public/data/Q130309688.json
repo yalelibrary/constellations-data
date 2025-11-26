@@ -66,6 +66,40 @@
                         }
                     },
                     "text": "Harvard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1914"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -109,6 +143,16 @@
                                         "value-type": "globe-coordinate",
                                         "latitude": 33.756944444444,
                                         "longitude": -84.390277777778
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.74888888888889,
+                                        "longitude": -84.38805555555555
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.754444444444445,
+                                        "longitude": -84.38972222222222
                                     }
                                 ]
                             }
@@ -213,6 +257,16 @@
                                         "value-type": "globe-coordinate",
                                         "latitude": 33.756944444444,
                                         "longitude": -84.390277777778
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.74888888888889,
+                                        "longitude": -84.38805555555555
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.754444444444445,
+                                        "longitude": -84.38972222222222
                                     }
                                 ]
                             }

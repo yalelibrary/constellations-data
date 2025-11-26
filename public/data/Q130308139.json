@@ -1,7 +1,7 @@
 {
     "id": "Q130308139",
     "label": "Paul Johns",
-    "biographyMarkdown": "# Paul Johns\n## Graduate of Yale Divinity School, 1918\nPaul Johns was born in Bristol, Pennsylvania in 1887. He received a bachelor's degree from Howard University in 1913, then went on to the Yale Divinity School, graduating in 1918. He was ordained the same year in Knoxville, Tennessee, and had a long career as a Congregational minister. He served a number of churches over the course of his career, including the First Congregational Church of Savannah, Georgia. In 1942, when Johns was serving at the Lemuel Haynes Congregational Church in Queens, New York, he joined other ministers and community members to form an organization against racial discrimination. Johns died in New York in 1970.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n\n",
+    "biographyMarkdown": "# Paul Johns\n## Graduate of Yale Divinity School, 1918\nPaul Johns was born in Bristol, Pennsylvania in 1887. He received a bachelor's degree from Howard University in 1913, then went on to the Yale Divinity School, graduating in 1918. He was ordained the same year in Knoxville, Tennessee, and had a long career as a Congregational minister. He served a number of churches over the course of his career, including the First Congregational Church of Savannah, Georgia. He returned to Yale in the 1929-1930 academic year, attending classes in the Divinity School and Graduate School. In 1942, when Johns was serving at the Lemuel Haynes Congregational Church in Queens, New York, he joined other ministers and community members to form an organization against racial discrimination. Johns died in New York in 1970.\n\nImage citation: Yale Divinity School class composite photographs, Yale Divinity School\n\n",
     "description": "Graduate of Yale Divinity School, 1918",
     "properties": {
         "educated at": {
@@ -15,7 +15,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -61,6 +62,49 @@
                                 {
                                     "value-type": "time",
                                     "text": "1918"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1929"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1930"
                                 }
                             ]
                         }

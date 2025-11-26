@@ -1,7 +1,7 @@
 {
     "id": "Q130309674",
     "label": "John Marshall Miles",
-    "biographyMarkdown": "# John Marshall Miles\n## Graduate of Yale Divinity School, 1925\nJohn Marshall Miles was born in Harrisburg, Pennsylvania, in 1887, to Giles Miles and Clara Miles. He completed a bachelor\u2019s degree at Howard University in 1922 before coming to the Yale Divinity School, from which he graduated in 1925.\n\nFrom 1926 to 1927, Miles taught social sciences at Talladega College. He was then pastor of Congregational churches in Anniston, Alabama and Chattanooga, Tennessee. From 1940 to 1950, he led a small, integrated congregation in Detroit, Michigan, where he also worked in the probate court. He was known for his work with young people, including through the Urban League of Detroit and the final church he served, Hartford Avenue Baptist Church in Detroit. He was married to Linnie M. Miles and they had one daughter. Miles died in 1959.\n",
+    "biographyMarkdown": "# John Marshall Miles\n## Graduate of Yale Divinity School, 1925\n\nJohn Marshall Miles was born in Harrisburg, Pennsylvania, in 1887, to Giles Miles and Clara Miles. He completed a bachelor\u2019s degree at Howard University in 1922 before coming to the Yale Divinity School, from which he graduated in 1925.\n\nFrom 1926 to 1927, Miles taught social sciences at Talladega College. He was then pastor of Congregational churches in Anniston, Alabama and Chattanooga, Tennessee. From 1940 to 1950, he led a small, integrated congregation in Detroit, Michigan, where he also worked in the probate court. He was known for his work with young people, including through the Urban League of Detroit and the final church he served, Hartford Avenue Baptist Church in Detroit. He was married to Linnie M. Miles and they had one daughter. Miles died in 1959.\n\nImage citation: John Marshall Miles, Howard University Yearbooks, *Minerva* 1922, Howard University Archives, Moorland-Springarn Research Center, Washington, D.C. https://msrc.howard.edu/\n",
     "description": "Graduate of Yale Divinity School, 1925",
     "publicationsMarkdown": "\"First Congregational Church,\" *Atlanta Daily World*, August 28, 1932.\n\n\"Rev. John M. Miles Claims Race Not Treated Right,\" *Atlanta Daily World*, October 7, 1935.\n\n\"Bapt. Union Battle is Gaining, Civic Federation And Baptist Join In Big Protest Action Sought,\" *Atlanta Daily World*, March 7, 1941.\n",
     "properties": {
@@ -50,7 +50,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -274,10 +275,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "John Marshall Miles",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q130309674.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

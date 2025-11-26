@@ -106,7 +106,8 @@
                         "instance_of": [
                             "private university",
                             "historically black college or university",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -164,7 +165,8 @@
                             "public university",
                             "historically black college or university",
                             "public educational institution of the United States",
-                            "land-grant university"
+                            "land-grant university",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {

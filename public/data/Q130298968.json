@@ -53,7 +53,18 @@
                             }
                         }
                     },
-                    "text": "Yale College"
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1904"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

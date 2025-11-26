@@ -79,7 +79,8 @@
                         "instance_of": [
                             "university",
                             "historically black college or university",
-                            "public educational institution of the United States"
+                            "public educational institution of the United States",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -211,8 +212,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 40.65083,
-                                        "longitude": -73.94972
+                                        "latitude": 40.65083333333333,
+                                        "longitude": -73.94972222222222
                                     }
                                 ]
                             }

@@ -63,7 +63,8 @@
                     "data": {
                         "label": "St. Thomas, United States Virgin Islands",
                         "instance_of": [
-                            "island"
+                            "island",
+                            "human settlement"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -134,7 +135,7 @@
                             "nation",
                             "administrative region",
                             "country",
-                            "country for sports"
+                            "nationality for sports"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -157,7 +158,8 @@
                     "data": {
                         "label": "St. Thomas, United States Virgin Islands",
                         "instance_of": [
-                            "island"
+                            "island",
+                            "human settlement"
                         ],
                         "properties": {
                             "coordinate location": {

@@ -17,7 +17,8 @@
                             "college",
                             "liberal arts college",
                             "private not-for-profit educational institution",
-                            "private university"
+                            "private university",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {

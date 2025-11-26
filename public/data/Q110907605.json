@@ -1,9 +1,24 @@
 {
-    "id": "Q130314929",
-    "label": "Joshua H. Jones, Jr.",
-    "biographyMarkdown": "# Joshua H. Jones, Jr.\n## Attended Yale College 1899-1900\nJoshua Henry Jones Jr. was born in 1876 in Orangeburg, South Carolina, to Joshua Henry Jones, a minister, and Elizabeth Jones. After the death of his mother during childbirth in 1885, his father sent him to be taken care by a relative while the elder Jones pursued a doctorate of divinity degree at Wilberforce University and later became president of the university and a bishop of the African Methodist Episcopal Church.[^1] Jones Jr. later moved to Ohio and attended Columbus High School and then Yale College in 1899. He transferred to Brown in 1900 and graduated from there in 1903, settling locally in Providence as a journalist and marrying Helen Courtney.[^2]  \n\nJones worked for several newspapers in Massachusetts and Rhode Island as a contributor and editor.  He published two books of poetry: *The Heart of the World* (1919) and *Poems of the Four Seas* (1921) and published dozens more in newspapers for decades.[^3] He published his only novel, *By Sanction of Law*, in 1924, which details a tragic love story between a black man and a white woman which mirrored his own interracial marriage. The book gained national acclaim, which was published as a serial and found in installments weekly. However, the controversial themes of the book led to it being banned by Boston\u2019s public library.[^4] \n\nAt some point in the early 1920s, he became secretary to the mayor of Boston, becoming a personal friend to Mayor James Michael Curley, and became active in Boston electoral politics.[^5] He then worked for The City Record, the official publication of the City of Boston, as well as other daily and weekly newspaper. He died in 1955 at the age of 73.[^6]  \n\n[^1]: Melissa Dalton, \u201cFrom Humble Beginnings to Wilberforce University President,\u201d https://www.greenecountyohio.gov/Blog.aspx?IID=228. \n[^2]: Massachusetts State Vital Records, 1841-1925, FamilySearch, Entry for Joshua H. Jones and Helen R. Courtney, 13 Dec 1904.\n[^3]: Robert T. Kerlin, *Negro Poets and Their Poems* (Washington, D.C.: Associated Publishers, 1923).\n[^4]: \u201cAfro\u2019s Serial Is Barred From Library: \u2018By Sanction of Law\u2019 Is Turned Down By the Boston, Mass., Library,\u201d *Afro American* [Baltimore], Sept. 5, 1924.\n[^5]: \u201cUrges Negro To Join Democratic Party: Jones Forecasts Record Curley Administration,\u201d *Daily Boston Globe*, January 13, 1930.\n[^6]: \u201cJoshua H. Jones,\u201d *New York Times*, December 15, 1955. \n\nImage citation: *Negro Poets and Their Poems* by Robert T. Kerlin, 1923\n",
-    "description": "Attended Yale College 1899-1900",
+    "id": "Q110907605",
+    "label": "Joshua Henry Jones",
     "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
         "date of death": {
             "label": "date of death",
             "values": [
@@ -226,23 +241,6 @@
                 }
             ]
         },
-        "sex or gender": {
-            "label": "sex or gender",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q6581097",
-                    "data": {
-                        "label": "male",
-                        "instance_of": [
-                            "gender identity",
-                            "sex of humans"
-                        ]
-                    },
-                    "text": "male"
-                }
-            ]
-        },
         "relative": {
             "label": "relative",
             "values": [
@@ -274,10 +272,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "Joshua H. Jones, Jr.",
+                    "name": "No Image Available",
                     "image-info": [
                         {
-                            "url": "/data/Q130314929.jpg",
+                            "url": "/data/noimage.jpg",
                             "mime": "image/jpeg"
                         }
                     ]
@@ -289,16 +287,7 @@
             "values": [
                 {
                     "value-type": "literal",
-                    "text": "Jones,"
-                }
-            ]
-        },
-        "decades": {
-            "label": "decades",
-            "values": [
-                {
-                    "value-type": "literal",
-                    "text": "1890s; 1900s"
+                    "text": "Jones"
                 }
             ]
         }

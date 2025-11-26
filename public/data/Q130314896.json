@@ -142,12 +142,12 @@
                     "value-type": "wikibase-item",
                     "id": "Q130314895",
                     "data": {
-                        "label": "Jessie Estell Muse",
+                        "label": "Jessie Estelle Muse",
                         "instance_of": [
                             "human"
                         ]
                     },
-                    "text": "Jessie Estell Muse",
+                    "text": "Jessie Estelle Muse",
                     "qualifiers": [
                         {
                             "label": "kinship to subject",
