@@ -156,7 +156,19 @@
                         "label": "Straight University",
                         "instance_of": [
                             "university"
-                        ]
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 29.963,
+                                        "longitude": -90.0849
+                                    }
+                                ]
+                            }
+                        }
                     },
                     "text": "Straight University"
                 }

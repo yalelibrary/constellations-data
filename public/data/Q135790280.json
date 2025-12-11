@@ -1,8 +1,8 @@
 {
     "id": "Q135790280",
     "label": "Arthur Chester Clarke",
-    "biographyMarkdown": "# Arthur Chester Clarke\n## Attended Yale Divinity School 1828-1931\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
-    "description": "Attended Yale Divinity School 1828-1931",
+    "biographyMarkdown": "# Arthur Chester Clarke\n## Attended Yale Divinity School 1828-1930\n\nArthur Chester Clarke was born December 23, 1904, to Walter B. Loving Clarke and Bessie Davis in Atlanta, Georgia. His father, Reverend W. B. L. Clarke was a pastor for the African Methodist Episcopal Church. He attended Morris Brown University in Atlanta. According to his yearbook, he was president of the Phi Beta Sigma fraternity, captain of the football team, editor-in-chief, and president of the College Men\u2019s Club and the YMCA.[^1]\n\nFollowing his graduation from Morris Brown in 1927, he enrolled at Yale Divinity School. At the Divinity School, he won the Mersick Prize Scholarship for his academic achievements during the 1928 term. Alongside his studies at Yale Divinity School, Clarke was an employee at the Dixwell Community House. With the Dixwell Players of New Haven, he put on his own play, \u201cSuds\u201d, at the community house. In 1930, he was discharged from Winchester Sanitarium and returned home to Atlanta. He succumbed to his illness and died on January 14, 1931, of chronic pneumococic septicemia. He is buried in South-View Cemetery in Atlanta.[^2]\n\n[^1]:\u201c_The Aurora Yearbook_, 1927\u201d. Morris Brown College Yearbooks, 1920-1939. Morris Brown College, 1927. Atlanta University Center Robert W. Woodruff Library. http://hdl.handle.net/20.500.12322/auc.007.aurora:1927.\n[^2]:\u201cRecipients of Scholarship Awards In Yale Divinity School Announced,\u201d _The Yale Daily News_, October 30, 1929, 5; \u201cThe Northeast,\u201d _The Crisis_ 36, no. 6 (June 1929); \u201cNew Haven,\u201d _Tattler_, October 11, 1929, 11; \u201cNew Haven,\u201d _Tattler_, June 13, 1930, 13; \"Georgia, Deaths, 1928-1943\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:QJX9-NXCT : Tue Jul 09 16:51:45 UTC 2024), Entry for Arthur Clarke and W B Clarke, 14 Jan 1931; \u201cFuneral Notices,\u201d _The Atlanta Constitution_, January 17, 1931, 20.\n\n",
+    "description": "Attended Yale Divinity School 1828-1930",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -18,6 +18,138 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1904"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23556",
+                    "data": {
+                        "label": "Atlanta, Georgia, United States",
+                        "instance_of": [
+                            "county seat",
+                            "big city",
+                            "city in the United States",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.756944444444,
+                                        "longitude": -84.390277777778
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.74888888888889,
+                                        "longitude": -84.38805555555555
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.754444444444445,
+                                        "longitude": -84.38972222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Atlanta, Georgia, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6913630",
+                    "data": {
+                        "label": "Morris Brown College",
+                        "instance_of": [
+                            "college",
+                            "historically black college or university",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.7548,
+                                        "longitude": -84.4089
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morris Brown College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1928"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1930"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1931"
                 }
             ]
         },

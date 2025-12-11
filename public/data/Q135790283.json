@@ -1,7 +1,7 @@
 {
     "id": "Q135790283",
     "label": "Purvis Sinclair Henderson",
-    "biographyMarkdown": "# Purvis Sinclair Henderson\n## Attended Yale Graduate School 1929-1931\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Purvis Sinclair Henderson\n## Attended Yale Graduate School 1929-1931\n\nPurvis Sinclair Henderson was born on January 22, 1896, to Dr. Pickney Marion Henderson and Huldah A. Jane Hooper. His father, Pickney, was a physician who completed his medical education at Howard University. He attended Massachusetts College of Pharmacy. From 1918 to 1919, Henderson was a part of the medical detachment for the 807th Pioneer Infantry Regiment. From 1920 to 1921, he was a special student at Harvard Medical School. He began his career as a pharmacist in Boston, Mass., Camden, New Jersey, and New York City.[^1] \n\nBetween 1929 and 1931, Henderson began a PhD program at the Yale Graduate School in physiology. He left Yale before completing his PhD program and instead taught at Alabama State Teachers College. He entered New York Medical College and Flower Hospital, graduating in 1937 with a doctor of medicine. According to a yearbook biography, colored patients felt comfortable around him and were proud to be treated by another Black doctor. After graduation, he went to Chicago, Illinois to complete his residency at Provident Hospital. There, he met another residency student, Helen Octavia Dickens, and in 1943, he married Helen at the Woodlawn A.M.E. Church in Chicago. Helen would go on to be successful in healthcare, being the first African American women to join the American College of Surgeons.[^2]\n\nHe worked at Freedmen\u2019s Hospital in Washington, D.C but was forced to resign in 1944 due to an affair he maintained while working there. He practiced in Savannah, Georgia, briefly, before moving to Philadelphia permanently. He was affiliated with the Omega Psi Phi fraternity. In Philadelphia, he worked on neurological research with the University of Pennsylvania Medical School and was a surgeon for the university\u2019s hospital. His research took him abroad, where he was a fellow at the Montreal Neurological Institute, and he completed advanced neurological research in London, England. He died of a cerebral hemorrhage in 1961 and is buried in Arlington National Cemetery.[^3]\n\n[^1]:\"Massachusetts, Town Clerk, Vital and Town Records, 1626-2001\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:F4FL-GB1 : Sun Mar 10 03:18:52 UTC 2024), Entry for Purvis S Henderson and Pinkney Henderson, 22 January 1896; https://baystatebanner.com/2012/04/11/bostons-black-medical-community-thrived-in-the-mid-19th-century; \"United States, Enlisted and Officer Muster Rolls and Rosters, 1916-1939\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:D69M-JX3Z : Wed Apr 23 09:15:00 UTC 2025), Entry for Purvis S Henderson, 30 Sep 1918; _Bulletin of the Massachusetts College of Pharmacy_ (Boston, MA: Massachusetts College of Pharmacy, 1917), 32; _Harvard Alumni Bulletin_ (Cambridge, MA: Harvard Bulletin, Incorporated, 1938), 728. \n[^2]:\u201cNew York Medical To Give 84 Degrees,\u201d _The New York Times_, June 8, 1937, 23; \u201cAlabama State Begins 57th Year,\u201d _New Pittsburgh Courier_, October 3, 1931, 11; _Fleur-O-Scope: Nineteen Hundred Thirty-Seven_ (New York, NY: New York Medical College & Flower Hosptial, 1937), 93; \u201cQuiet Nuptials Join Provident Staff Doctors,\u201d _Chicago Bee_, August 8, 1943, 4. \n[^3]:\u201cDoctor Forced Out: Guard Finds Woman in Medic\u2019s Quarters,\u201d _Afro-American_, September 30, 1944, 1; \u201cProminent Surgeon Dies; Hemorrhage Blamed In Demise,\u201d Philadelphia Tribune, March 7, 1961; \u201cObituaries,\u201d _Delaware County Daily Times_, March 6, 1961, 4; \u201cProminent Surgeon Dies; Hemorrhage Blamed In Demise,\u201d _Philadelphia Tribune_, March 7, 1961, 1; https://www.findagrave.com/memorial/49202155/purvis-sinclair-henderson.\n\n",
     "description": "Attended Yale Graduate School 1929-1931",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,312 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1896"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49121",
+                    "data": {
+                        "label": "Harvard Medical School",
+                        "instance_of": [
+                            "medical school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.33694444444444,
+                                        "longitude": -71.10388888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harvard Medical School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1929"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1931"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4115972",
+                    "data": {
+                        "label": "New York Medical College",
+                        "instance_of": [
+                            "medical school",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.085017,
+                                        "longitude": -73.810041
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York Medical College"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.88194444444444,
+                                        "longitude": -87.62777777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q340",
+                    "data": {
+                        "label": "Montreal, Quebec, Canada",
+                        "instance_of": [
+                            "city or town of Quebec",
+                            "metropolis",
+                            "territory outside RCM in Quebec",
+                            "college town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 45.5033426,
+                                        "longitude": -73.5868411
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Montreal, Quebec, Canada"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q84",
+                    "data": {
+                        "label": "London, Kingdom of Wessex, Roman Empire",
+                        "instance_of": [
+                            "metropolis",
+                            "financial center",
+                            "city",
+                            "global city",
+                            "megacity",
+                            "largest city",
+                            "national capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 51.507222222222,
+                                        "longitude": -0.1275
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "London, Kingdom of Wessex, Roman Empire"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q100",
+                    "data": {
+                        "label": "Boston, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.360277777777775,
+                                        "longitude": -71.05777777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Boston, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q138367",
+                    "data": {
+                        "label": "Camden, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.9368,
+                                        "longitude": -75.1066
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Camden, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port city",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1961"
                 }
             ]
         },

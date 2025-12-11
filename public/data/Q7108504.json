@@ -15,7 +15,7 @@
                         "label": "female",
                         "instance_of": [
                             "sex of humans",
-                            "gender"
+                            "gender identity"
                         ]
                     },
                     "text": "female"
@@ -103,8 +103,7 @@
                             "private university",
                             "research university",
                             "Colonial Colleges",
-                            "private not-for-profit educational institution",
-                            "organization"
+                            "private not-for-profit educational institution"
                         ],
                         "properties": {
                             "coordinate location": {

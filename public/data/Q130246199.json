@@ -108,7 +108,8 @@
                         "label": "Haiti",
                         "instance_of": [
                             "sovereign state",
-                            "island country"
+                            "island country",
+                            "country"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -132,7 +133,7 @@
                         "label": "Bel Air, Maryland, United States",
                         "instance_of": [
                             "county seat",
-                            "Municipality of Maryland"
+                            "municipality of Maryland"
                         ],
                         "properties": {
                             "coordinate location": {

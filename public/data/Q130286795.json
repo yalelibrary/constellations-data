@@ -193,7 +193,7 @@
                         "label": "female",
                         "instance_of": [
                             "sex of humans",
-                            "gender"
+                            "gender identity"
                         ]
                     },
                     "text": "female"

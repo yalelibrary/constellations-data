@@ -1,8 +1,8 @@
 {
     "id": "Q135791210",
     "label": "John William Hudspeth",
-    "biographyMarkdown": "# John William Hudspeth\n## Attended Yale College 1901-1902\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
-    "description": "Attended Yale College 1901-1902",
+    "biographyMarkdown": "# John William Hudspeth\n## Attended Yale Law School 1901-1902\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "description": "Attended Yale Law School 1901-1902",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -18,6 +18,55 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1901"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1902"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

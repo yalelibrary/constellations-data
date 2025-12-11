@@ -1,7 +1,7 @@
 {
     "id": "Q135790278",
     "label": "Robert Charles Martin",
-    "biographyMarkdown": "# Robert Charles Martin\n## Attended Yale Divinity School 1887-1889\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Robert Charles Martin \n## Attended Yale Divinity School 1887-1889\n\nRobert Charles Martin was born in Hanover Court, Virginia in either 1856 or 1858. His family eventually moved to Washington, D.C. He enrolled at Oberlin College in Oberlin, Ohio in 1884 where he was a member of the Phi Delta Literary Society. He graduated from Oberlin College in 1887 and enrolled at the Yale Divinity School the same year.[^1]\n\nDuring his time in New Haven, Martin was an active member of the Colored Republican Club and in 1888, spoke in favor of the Republican Party for the upcoming general election. In the same year, Martin married Emma Skinner, an organist at the Dixwell Avenue Congregational Church where Reverend Albert President Miller, another Black graduate of the divinity school, officiated the marriage. In 1889, Martin left Yale Divinity School and the couple left New Haven for Wheeling, West Virginia. However, according to the Skinner family, Martin abandoned Emma at a boarding house where she died from illness on April 23rd while Martin returned home to Washington, D.C.[^2]\n\nMartin enrolled at Howard Law School, graduating from the school in 1894. He moved to Kansas City, Missouri, where he worked as an attorney. Throughout his life in Kansas City, he worked in city government, first as an assistant prosecuting attorney and then as secretary of the city engineer in 1898, a position he continued to work in until his death. He remained an active partisan in Republican politics and was elected several leadership positions such as chairman of the Colored Republicans of the Ninth Ward, chairman of the Eureka Republican Club, and vice president of the Negro Republican State League. He was later nominated to join a Republican primary delegation in 1900. He died on December 15, 1907 from tuberculosis.[^3]\n\n[^1]:_Register of the Members Both Graduate and Non-Graduate of Phi Delta Literary Society Oberlin College_. (Oberlin, OH: The News Printing Company, 1901), 67. \n[^2]:\u201cColored Republican Club: Parade, Banner Raising and Mass Meeting Last Night\u201d _The Morning Journal-Courier_, July 6, 1888, 2; \u201cNew Haven Happenings,\u201d _The New York Age_, January 12, 1889, 4; \u201cDesertion and Death: The Sad Fate of a Popular Young Colored Bride,\u201d The Journal, May 2, 1889, 5; \"West Virginia, Deaths, 1804-1999,\" , FamilySearch (https://familysearch.org/ark:/61903/1:1:N93K-VMR : 10 March 2018), Emma Martin, 23 Apr 1889; citing Wheeling, Ohio, West Virginia, County Records, p 92, county courthouses, West Virginia; FHL microfilm 857,522.\n[^3]:\u201cHoward Law Students,\u201d _Evening Star_, May 29, 1894, 3; \u201cR. C. Martin\u2019s New Job,\u201d _Kansas City Journal_, October 1, 1898, 12; \u201cCity News In Paragraphs,\u201d _Kansas City Journal_, July 6, 1898, 7; \u201cHarmony In Seventh: Republicans File a Strong Set of Delegates for the Approaching Primary,\u201d _Kansas City Journal_, September 8, 1900, 3; \u201cAttorney Martin Honored,\u201d Kansas City Journal, October 2, 1900, 3; \u201cNecrology,\u201d _The Oberlin Alumni Magazin_e 4, no. 6 (1908).\n\n\n",
     "description": "Attended Yale Divinity School 1887-1889",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,222 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1856",
+                    "qualifiers": [
+                        {
+                            "label": "sourcing circumstances",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q5727902",
+                                    "data": {
+                                        "label": "circa",
+                                        "instance_of": [
+                                            "sourcing circumstance"
+                                        ]
+                                    },
+                                    "text": "circa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q341679",
+                    "data": {
+                        "label": "Hanover County, Virginia, United States",
+                        "instance_of": [
+                            "county of Virginia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.76,
+                                        "longitude": -77.49
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hanover County, Virginia, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q616591",
+                    "data": {
+                        "label": "Oberlin College",
+                        "instance_of": [
+                            "college",
+                            "liberal arts college",
+                            "private not-for-profit educational institution",
+                            "private university",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.293055555555554,
+                                        "longitude": -82.22166666666666
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Oberlin College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1887"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1889"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5921126",
+                    "data": {
+                        "label": "Howard University School of Law",
+                        "instance_of": [
+                            "law school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.94305555555555,
+                                        "longitude": -77.05833333333334
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University School of Law"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q838112",
+                    "data": {
+                        "label": "Wheeling, West Virginia, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.070277777778,
+                                        "longitude": -80.698611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wheeling, West Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q41819",
+                    "data": {
+                        "label": "Kansas City, Missouri, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "LGBT sanctuary city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.05,
+                                        "longitude": -94.583333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kansas City, Missouri, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1907"
                 }
             ]
         },

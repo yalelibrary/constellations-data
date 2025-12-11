@@ -1,7 +1,7 @@
 {
     "id": "Q135790273",
     "label": "Emma May Elliot",
-    "biographyMarkdown": "# Emma May Elliot\n## Attended Yale School of Music 1919-1920\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Emma May Elliot\n## Attended Yale School of Music 1919-1920\n\nEmma May Elliot was born in 1898 to William J. Elliot, a barber, and Mary Kelly Elliot in Fayetteville, North Carolina. She attended the Yale School of Music from 1919 to 1920, living with her uncle and aunt at 103 Country Street and attended St Luke\u2019s Episcopal Church. She returned home and taught at Southside High School. The 1930 census reported that she continued to teach in Fayetteville. According to the 1940 census, the last known record of her, Elliot lodged with a principal and three other teachers in Nashville, North Carolina.[^1]\n\n[^1]:\u201cNew Haven, Conn.,\u201d _The New York Age_, April 10, 1920, 2; \u201cNegro Schools Will Open On Next Monday,\u201d Fayetteville Daily Observer, September 16, 1922, 1;\"United States, Census, 1930\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:X3SX-ZQ1 : Sun Mar 10 00:18:53 UTC 2024), Entry for William Elliott and Mary Elliott, 1930; \"United States, Census, 1940\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:KWQZ-HRR : Sun Jan 19 23:37:38 UTC 2025), Entry for William L Greene and Georgia R Greene, 1940.\n\n",
     "description": "Attended Yale School of Music 1919-1920",
     "properties": {
         "sex or gender": {
@@ -14,10 +14,128 @@
                         "label": "female",
                         "instance_of": [
                             "sex of humans",
-                            "gender"
+                            "gender identity"
                         ]
                     },
                     "text": "female"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1898"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2784420",
+                    "data": {
+                        "label": "Yale School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3099,
+                                        "longitude": -72.9264
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Music",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1919"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1920"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q599186",
+                    "data": {
+                        "label": "Nashville, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "city in North Carolina"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.969444444444,
+                                        "longitude": -77.961388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Nashville, North Carolina, United States"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q331104",
+                    "data": {
+                        "label": "Fayetteville, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "city in North Carolina"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.066666666667,
+                                        "longitude": -78.9175
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fayetteville, North Carolina, United States"
                 }
             ]
         },

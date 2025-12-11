@@ -1,7 +1,7 @@
 {
     "id": "Q130286860",
     "label": "Howard Decker Gregg",
-    "biographyMarkdown": "# Howard Decker Gregg\n## Graduate of Yale Divinity School, 1919\nBorn in Manning, South Carolina in 1894, Howard Decker Gregg received a BA from Lincoln University in 1916 and a BD from Yale in 1919. He studied at Columbia University and earned a PhD from the University of Pennsylvania.\n\nEarly in his career Gregg was the industrial secretary of the New York Urban league, but he spent most of his life in higher education. In addition to being a professor of education at Howard University, he served as dean of Allen, Wilberforce, and Fisk Universities. He was president of Edward Waters College in Jacksonville, Florida; Delaware State College in Dover, Delaware; Daniel Payne College in Birmingham, Alabama; and Morris Brown College in Atlanta, Georgia. In 1954, he was appointed to the US Educational Mission in Afghanistan, under the auspices of the Department of State.\n\nThe recipient of honorary degrees from Lincoln University and Campbell College, Gregg was active in the AME Church and served in several ministerial positions. He was also a general officer of the AME Church and wrote a book, *History of the African Methodist Episcopal Church*. He was a member of the Omega Psi Phi Fraternity. Gregg died at the age of 87 in Atlantic City, New Jersey.\n",
+    "biographyMarkdown": "# Howard Decker Gregg\n## Graduate of Yale Divinity School, 1919\nBorn in Manning, South Carolina in 1894, Howard Decker Gregg received a BA from Lincoln University in 1916 and a BD from Yale in 1919. He studied at Columbia University and earned a PhD from the University of Pennsylvania.\n\nEarly in his career Gregg was the industrial secretary of the New York Urban league, but he spent most of his life in higher education. In addition to being a professor of education at Howard University, he served as dean of Allen, Wilberforce, and Fisk Universities. He was president of Edward Waters College in Jacksonville, Florida; Delaware State College in Dover, Delaware; Daniel Payne College in Birmingham, Alabama; and Morris Brown College in Atlanta, Georgia. In 1954, he was appointed to the US Educational Mission in Afghanistan, under the auspices of the Department of State.\n\nThe recipient of honorary degrees from Lincoln University and Campbell College, Gregg was active in the AME Church and served in several ministerial positions. He was also a general officer of the AME Church and wrote a book, *History of the African Methodist Episcopal Church*. He was a member of the Omega Psi Phi Fraternity. Gregg died at the age of 87 in Atlantic City, New Jersey.\n\nImage citation: Delaware State University _Statesman_ yearbook, 1947. Used with permission from Delaware State University Archives and Special Collections.\n",
     "description": "Graduate of Yale Divinity School, 1919",
     "publicationsMarkdown": "\"Observations: The Trend of Current Thought and Discussion The North Carolina System of Accrediting Schools,\" The Chicago Defender, December 31, 1927. \n\n\"The Teaching Staff,\" *The Journal of Negro Education 1*, no. 2 (1932). \n\n*Informational Test on the Negro For High Schools and Colleges*. Wilberforce, OH: Wilberforce Press, 1935. \n\n\"The Background Study of Negro High School Students in Ohio.\" PhD diss., University of Pennsylvania, 1936. \n\n\"Non-Academic and Academic Interests of Negro High School Students in Mixed and Separate Schools,\" *The Journal of Negro Education 7*, no. 1 (1938). \n\n*The A.M.E. Church and the Current Negro Revolt*. Nashville, TN: A.M.E. Sunday School Union, 1970.\n\n*Richard Allen and Present Day Social Problems. A Socio-Psychological Study of the Background, Principles of the A.M.E. Church in light of Contemporary Thought and Actions*. Nashville, TN: A.M.E. Sunday School Union, 1976. \n\n*History of the African Methodist Episcopal Church*. Nashville, TN: AMEC, 1980.\n",
     "properties": {
@@ -174,8 +174,7 @@
                             "private university",
                             "research university",
                             "Colonial Colleges",
-                            "private not-for-profit educational institution",
-                            "organization"
+                            "private not-for-profit educational institution"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -198,10 +197,9 @@
                     "data": {
                         "label": "Lincoln University",
                         "instance_of": [
-                            "university",
+                            "public university",
                             "historically black college or university",
-                            "public educational institution of the United States",
-                            "school"
+                            "public educational institution of the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -412,7 +410,8 @@
                     "data": {
                         "label": "Wilberforce, Ohio, United States",
                         "instance_of": [
-                            "census-designated place in the United States"
+                            "census-designated place in the United States",
+                            "unincorporated community in the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -545,7 +544,8 @@
                     "data": {
                         "label": "Wilberforce, Ohio, United States",
                         "instance_of": [
-                            "census-designated place in the United States"
+                            "census-designated place in the United States",
+                            "unincorporated community in the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -610,10 +610,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Howard Decker Gregg",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q130286860.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

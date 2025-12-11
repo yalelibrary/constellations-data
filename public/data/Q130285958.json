@@ -22,7 +22,7 @@
                     "data": {
                         "label": "Montserrat",
                         "instance_of": [
-                            "British overseas territories",
+                            "British overseas territory",
                             "island"
                         ],
                         "properties": {
@@ -85,10 +85,9 @@
                     "data": {
                         "label": "Lincoln University",
                         "instance_of": [
-                            "university",
+                            "public university",
                             "historically black college or university",
-                            "public educational institution of the United States",
-                            "school"
+                            "public educational institution of the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -208,7 +207,7 @@
                     "data": {
                         "label": "Montserrat",
                         "instance_of": [
-                            "British overseas territories",
+                            "British overseas territory",
                             "island"
                         ],
                         "properties": {

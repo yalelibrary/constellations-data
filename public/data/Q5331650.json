@@ -216,7 +216,8 @@
                         "label": "Haiti",
                         "instance_of": [
                             "sovereign state",
-                            "island country"
+                            "island country",
+                            "country"
                         ],
                         "properties": {
                             "coordinate location": {

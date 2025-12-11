@@ -1,7 +1,7 @@
 {
     "id": "Q135790289",
     "label": "Baxter Leget Matthews",
-    "biographyMarkdown": "# Baxter Leget Matthews\n## Graduate of Yale Divinity School, 1939\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Baxter Leget Matthews\n## Graduate of Yale Divinity School, 1939\n\nBaxter Leget Matthews was born on April 22, 1895, in Kernersville, North Carolina to Earnest Matthews and Lucy Hairston. His father worked as a day laborer. He attended local students and also attended North Carolina Agricultural and Technical College in Greensboro, NC to study floriculture. He attended Virgina Union University and graduated from the school\u2019s academy in 1919 and received a bachelor\u2019s of divinity in 1922. In that same year, he married Sarah Elizabeth Callaway and began his pastorate career as an assistant pastor of Zion Baptist Church in Phoebus, Virginia. He moved to Stamford, Connecticut, the following year where he pastored for the Union Baptist Church.[^1]\n\nDuring his time in Stamford, he became a community leader for locals. He was an active participant in Stamford City Hall where he spoke on behalf of the Black citizens of the city to the mayor and city council. He would advocate for the passage of the Equal Rights Bill in Connecticut and fought to ensure that it was enforced for Black people. He was also part of many community organizations including the Chamber of Commerce, Needy Children\u2019s Camp and the Community Chest. In Stamford, he was also the first Black candidate to run in the Republican primary for the Board of Education. He received an honorary doctorate of divinity from Virginia Union University in 1936. While in Connecticut, he enrolled at the Yale Divinity School, graduating in 1939. After a seventeen year career at the Zion Baptist Church, he resigned his position to pastor the Union Baptist Church in Baltimore, Maryland.[^2]\n\nHe was recommended by Reverend Adam Clayton Powell, a Yale Divinity graduate, to the position where he believed Matthew was a man \u201csent by god\u201d. His wife, Sarah, died in 1940. He remarried the same year to Anna Mae Wilder. He also took on leadership positions, serving on the Executive Committee of the NAACP\u2019s chapter in Baltimore, a board member of the Visitor\u2019s Board at John Hopkins Hospital, and a member of the Baptist Ministers Conference of Baltimore. He also taught philosophy at Morgan State University. He was affiliated with the Masons and Alpha Phi Alpha.[^3]\n\nIn 1967, after 27 years of pastoring over the Union Baptist Church, he resigned. Matthews died in 1984 at the age of 89.[^4]\n\n\n[^1]:\"North Carolina, County Marriages, 1762-2011 \", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:QP9T-PJWG : Fri Feb 14 06:46:39 UTC 2025), Entry for Earnest Mathis and Bill Mathis, 1 July 1894; \"United States, Census, 1910\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:ML3D-D27 : Wed Aug 13 18:16:39 UTC 2025), Entry for Ernest Matthews and Lucy Matthews, 1910; \"Ohio, County Marriages, 1789-2016\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:X8L1-GFL : Sun Mar 10 06:52:50 UTC 2024), Entry for Baxter Leget Matthews and Sarah Elizabeth Callaway, 1923; \u201cTraveled 36,224 Miles To Secure Training For Christian Ministry,\u201d _New Pittsburgh Courier_, July 22, 1939, 14. \n[^2]:\u201cHonored,\u201d The New York Age, June 27, 1936, 3; \u201cRev. Baxter Matthews, Former Phoebus Pastor, Gets Degree from Yale,\u201d _New Journal and Guide_, July 1, 1939, 4; \u201cBaltimore Church Calls Rev. B. L. Matthews: Union Baptist Selects New England Pastor,\u201d _New Pittsburgh Courier_, January 20, 1940, 14. \n[^3]:Azzie Briscoe Koger, Negro Baptists of Maryland. Baltimore, MD: Clark Press, 1946, 49. \u201cInstall Union Baptist Pastor, The Rev. A. C. Powell Inducts the Rev. Baxter L. Matthews,\u201d _Afro-American_, April 27, 1940, 22; Azzie Briscoe Koger, _The Union Baptist Church of Baltimore and the Ministers Who Made Her Famous_. Baltimore: n.p., 1941. \n[^4]:\u201cBaxter L. Matthews Pastor at Union Baptist,\u201d _The Sun_, June 1, 1984, B7.\n\n",
     "description": "Graduate of Yale Divinity School, 1939",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,253 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1895"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2028144",
+                    "data": {
+                        "label": "Kernersville, North Carolina, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "city in North Carolina"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.116111111111,
+                                        "longitude": -80.081944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kernersville, North Carolina, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1476484",
+                    "data": {
+                        "label": "North Carolina Agricultural and Technical State University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black college or university",
+                            "public educational institution of the United States",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.075352,
+                                        "longitude": -79.773628
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "North Carolina Agricultural and Technical State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1814758",
+                    "data": {
+                        "label": "Virginia Union University",
+                        "instance_of": [
+                            "university",
+                            "campus",
+                            "historically black college or university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.5625,
+                                        "longitude": -77.45111111111112
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Virginia Union University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1939"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1054905",
+                    "data": {
+                        "label": "Morgan State University",
+                        "instance_of": [
+                            "university",
+                            "historically black college or university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.34388888888889,
+                                        "longitude": -76.58472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morgan State University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q845732",
+                    "data": {
+                        "label": "Phoebus, Virginia, United States",
+                        "instance_of": [
+                            "unincorporated community in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.021666666667,
+                                        "longitude": -76.318055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Phoebus, Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49169",
+                    "data": {
+                        "label": "Stamford, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.096666666667,
+                                        "longitude": -73.552222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Stamford, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5092",
+                    "data": {
+                        "label": "Baltimore, Maryland, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.286388888889,
+                                        "longitude": -76.615
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Baltimore, Maryland, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1984"
                 }
             ]
         },

@@ -1,8 +1,8 @@
 {
     "id": "Q135790244",
     "label": "Joseph William Severy",
-    "biographyMarkdown": "# Joseph William Severy\n## Attended Sheffield Scientific School 1911-1912\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
-    "description": "Attended Sheffield Scientific School 1911-1912",
+    "biographyMarkdown": "# Joseph William Severy\n## Attended Sheffield Scientific School 1911\n\nJoseph William Severy, Jr. was born January 7, 1887, in Norwich, Connecticut. His father, Joseph Severy, was a laborer from Louisiana and his mother, Emily Browner, was a laundress from Virginia.[1] \n\nDuring his youth, he enrolled at the Broadway School and McKinley Avenue AME Zion Sunday School.[2] He later attended New Haven High School and graduated from Norwich Free Academy. In 1911, he enrolled at Sheffield Scientific School with a plan to study civil engineering. However, by December The New York Age reported that he had \u201cbroken down in health, due to overstudy, and his parents were advised to give him a rest.\u201d He withdrew from Yale and returned to Norwich.[3] On April 4, 1912, he died at the age of 24 from acute parenchymatous nephritis.[4]\n\n[1] \"Connecticut, Deaths, 1640-1955\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:F773-1P1 : Wed Jan 08 12:55:45 UTC 2025), Entry for Joseph W. Severy and Joseph Severy, 7 January 1887.\n[2] \u201cNorwich,\u201d _The New York Age_, January 3, 1907, 8, https://newscomwc.newspapers.com/image/34493976.\n[3] \u201cNorwich, Conn.,\u201d _The New York Age_, December 14, 1911, 8, https://newscomwc.newspapers.com/image/33460402. \n[4] \u201cObituary,\u201d _The Day_, April 5, 1912, 7, https://newscomwc.newspapers.com/; \"Connecticut, Deaths, 1640-1955\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:F7K2-ZLN : Tue Jan 21 15:04:59 UTC 2025), Entry for Joseph W. Severy and Joseph Severy, 4 Apr 1912.\n\n",
+    "description": "Attended Sheffield Scientific School 1911",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -18,6 +18,88 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1887"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q631402",
+                    "data": {
+                        "label": "Norwich, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.550277777778,
+                                        "longitude": -72.0875
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Norwich, Connecticut, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1912"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7492742",
+                    "data": {
+                        "label": "Sheffield Scientific School",
+                        "instance_of": [
+                            "college"
+                        ]
+                    },
+                    "text": "Sheffield Scientific School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1911"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1911"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

@@ -1,8 +1,8 @@
 {
     "id": "Q98563495",
     "label": "Powell Daniel Lindsay",
-    "biographyMarkdown": "# Powell Daniel Lindsay\n## Attended Yale School of Drama 1935-1936\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n\n",
-    "description": "Attended Yale School of Drama 1935-1936",
+    "biographyMarkdown": "# Powell Daniel Lindsay\n## Attended Yale School of Drama 1935\n\nBorn in 1905 in Philadelphia, Powell Lindsay was a successful Black playwright, actor, and director. Raised in Phoebus, Virginia, he was the son of Henry Lindsay, born in Bluefield, West Virginia, and Addie E. Tower, born in Cape Charles, Virginia. His mother died in 1933. Lindsay trained to be a tailor at the St. Paul Normal School in Lawrenceville, Virginia. He later studied at Virginia Union University but did not receive a degree. In fall 1935, he entered the Yale School of Drama for playwriting, but he stayed only one term and left the program in December 1935. Lindsay had been recommended for admission by another Black student, Randolph Edmonds. In 1937, his troupe of Black performers won first honors in a Yale Drama tournament for their play \u201cMighty Wind A \u2018Blowin.\u201d \n\nHe was active in New York\u2019s Black theater scene before and after his time at Yale. A co-founder of the Harlem Suitcase Theater with Langston Hughes in 1937, Lindsay also co-founded the Negro Playwrights Company. In addition to the stage, he had a successful career in Black film as an actor, writer, and director. He acted in *Love in Syncopation* (1946), and he acted and wrote for *That Man of Mine* (1946), *Jivin\u2019 in Be-Bop* (1947), and *Souls of Sin* (1949). He starred in, directed, and produced plays including \u201cBig White Fog\u201d (1940) and, on Broadway, \u201cTobacco Road\u201d (1950) and \u201cBorn Yesterday\u201d (1953). \n\nLindsay was a member of the National Negro Congress, an executive officer of the New Theater League, and was active in the Works Progress Administration\u2019s Federal Theater Project. He was interested in exploring issues of class and race and was known for his Popular Front and leftist commitments early in his career. Film scholar Ellen C. Scott has called Lindsay \u201cthe last race filmmaker.\u201d[^1]\n\nIn the 1950s, Lindsay moved to Detroit, where he starred in television and produced a study on police brutality for the NAACP that was published in the *New York Times*. In 1965, he started the Research Association for Michigan Negro History. In the 1960s, he moved to Ann Arbor, where he worked at the State Legislative Service Bureau. In 1970s, he established a new Suitcase Theater. It was composed of Michigan young people across racial and economic backgrounds who performed across the world. Lindsay retired in 1979.[^2]\n\nLindsay\u2019s friendship with Langston Hughes dated to 1933, and they continued to work together into the 1960s. Their lengthy correspondence forms part of the Langston Hughes Papers at the Beinecke. Following the death of Hughes in 1967, Lindsay produced a play in his honor in Detroit titled \u201cLangston Hughes Looks at Dark America\u201d and used his role as research analyst in Michigan\u2019s Legislative Service Bureau to celebrate the life of Langston Hughes and his contributions to Black literature. Powell Lindsay died in 1987 at the age of 82 in Ann Arbor, Michigan. [^3]\n\n[^1]: Ellen C. Scott, \u201cUnresolved Subjects: Poverty, Rage, and Abstraction in the Work of the Last Race Filmmaker,\u201d *Black Camera* 10, no. 1: 7-41.\n\n[^2]: \u201cLindsay, Powell\u201d (obituary), *Ann Arbor News*, Sept. 23, 1987; \u201cP. Linsday, theater veteran,\u201d Detroit Free Press, Sept. 26, 1987.\n\n[^3]: \u201c\u2018Tobacco Road\u2019 Star Powell Lindsay Dead at 82,\u201d *Ann Arbor News*, Sept. 24, 1987.\n\nImage citation: Detail from \"Harlem. Powell Lindsay, probably near the Lincoln Theatre,\" October 5, 1940. From the Carl Van Vechten Papers Relating to African American Arts and Letters (JWJ MSS 1050), Beinecke Rare Book and Manuscript Library, Yale University.\n\n",
+    "description": "Attended Yale School of Drama 1935",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -68,7 +68,218 @@
                             }
                         }
                     },
-                    "text": "Yale School of Drama"
+                    "text": "Yale School of Drama",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1935"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1935"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7402014",
+                    "data": {
+                        "label": "Saint Paul's College",
+                        "instance_of": [
+                            "academic institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.760833,
+                                        "longitude": -77.85
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Saint Paul's College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1814758",
+                    "data": {
+                        "label": "Virginia Union University",
+                        "instance_of": [
+                            "university",
+                            "campus",
+                            "historically black college or university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.5625,
+                                        "longitude": -77.45111111111112
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Virginia Union University"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q12439",
+                    "data": {
+                        "label": "Detroit, Michigan, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "border city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.331666666667,
+                                        "longitude": -83.0475
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Detroit, Michigan, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port city",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q845732",
+                    "data": {
+                        "label": "Phoebus, Virginia, United States",
+                        "instance_of": [
+                            "unincorporated community in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.021666666667,
+                                        "longitude": -76.318055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Phoebus, Virginia, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q485172",
+                    "data": {
+                        "label": "Ann Arbor, Michigan, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.28138888888889,
+                                        "longitude": -83.74833333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ann Arbor, Michigan, United States"
                 }
             ]
         },
@@ -77,10 +288,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Powell Daniel Lindsay",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q98563495.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

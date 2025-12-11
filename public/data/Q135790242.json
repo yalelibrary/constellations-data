@@ -1,8 +1,8 @@
 {
     "id": "Q135790242",
     "label": "Jesse Beauregard Colbert",
-    "biographyMarkdown": "# Jesse Beauregard Colbert\n## Attended Yale Divinity School 1926-1927\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
-    "description": "Attended Yale Divinity School 1926-1927",
+    "biographyMarkdown": "# Jesse Beauregard Colbert \n## Attended Yale Divinity School 1890-1891 \n\nJesse Beauregard Colbert, also known as J. B. Colbert, was born on June 28, 1861, in Lancaster County, South Carolina, to Tillman and Sarah Colbert. According to the 1870 census, Colbert lived in a family of farm laborers. According to his African Methodist Episcopal Zion Church biography, he attended Lancaster High School and enrolled at Livingstone College at the age of 21. In 1883, he was a part of the first graduating class of the college and gave the valedictory speech.[^1] He joined the A. M. E. Zion Church and preached across several churches in South Carolina from 1885 to 1890, including at Indian Hill Circuit, Rock Hill, and Fort Lawn. In 1889, he married Margaret A. Davis, a fellow Livingstone College graduate, in Salisbury, North Carolina.[^2] In 1890, he moved to Derby, Connecticut, to oversee Zion Church. While in Derby, he took courses at the Yale Divinity School as a resident licentiate for the 1890-1891 school year.[^3] He continued to work as a secretary to the A. M. E. Church. \n\nIn 1892, Colbert was reassigned to the First and Second African Methodist Episcopal Zion Church in Providence, Rhode Island.[^4] In a congregation in Washington, D.C., he preached against the continued lynchings occurring in the South and the Christian imperative to denounce them.[^5] In 1896, he was made editor of the Varick Christian Endeavor and  president of the Varick Christian Endeavor Society, where, by his second year, he enrolled over 10,000 members and oversaw 250 chapters.[^6] During the 1900s, he became a presiding elder and pastored over the Metropolitan A. M. E. Zion Church in St. Louis, Missouri, before permanently moving to Louisville, Kentucky, by 1911 where he was presiding elder for the city.[^7] \n\nAlongside his role as minister, he passed the bar in Franklin County and practiced law in Louisville.[^8] Initially a Republican, he was disillusioned by the Republican political machine and the party\u2019s antipathy to Black voters. Colbert and other prominent African Americans created the Lincoln Independent Party in 1921. In a statement made to *The Hartford Herald*: \n\n>\u201cWe regard the organization of the Independent Lincoln party as the greatest step taken by the colored people in Louisville for political freedom since their emancipation. In fact it is nothing more or less than our second emancipation, one that is destined to make us free indeed, for it will give us the power of autonomy, which is the right of all free men.\u201d[^9] \n\nHe was nominated for Congress for the Lincoln Independent Party in the 1922 elections.[^10] However, the party disbanded by 1922 after reaching a compromise with the Republican Party. He also was a member of Louisville\u2019s NAACP chapter, where he helped write a historical report on Louisville segregation cases. Alongside his law practice, he was an editor of the *Louisville Columbian*, and worked for the National Employment Bureau and the National Colored Teachers\u2019 Agency.[^11]  \n\nHe died on December 14, 1936, in Louisville, Kentucky, of pneumonia.[^12] The flag at the Jefferson County Courthouse in Louisville was flown at half-mast in commemoration of his passing with eulogies given by local notables.[^13] He is buried in Louisville\u2019s Greenwood Cemetery.  \n\nImage citation: *100 Years of the African Methodist Episcopal Zion Church* by James Walker Hood (1895)\n\n[^1]:Fonvielle, William. *Reminiscences of College Days* (Goldsboro, NC: Edwards & Broughton, 1904), 125.  \n\n[^2]:\"North Carolina, County Marriages, 1762-2011\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:Q28R-7Z6F : Fri May 31 23:17:47 UTC 2024), Entry for Jesse B Colbert and Tillman Colbert, 03 Jul 1888. \n\n[^3]:Divinity School of Yale University, April 1892 (New Haven, CT: Tuttle, Morehouse & Taylor, Printers, 1892), 18. \n\n[^4]:\u201cA. M. E. Zion Appointments.\u201d The Providence News, June 14, 1892, 6. \n\n[^5]:\u201cLynchings in the South.\u201d *The Times*, October 21, 1895, 6. \n\n[^6]:\u201cCity Paragraphs.\u201d *The Colored American*, June 4, 1898, 8.  \n\n[^7]:\u201cEaster Sunday.\u201d *St. Louis Palladium*, April 11, 1903, 1. \n\n[^8]:Johnson, Lewis, *History of Franklin County Bar*, 1786-1932 (Frankfort, KY: Frank K. Kavanaugh, 1932), 130. \n\n[^9]:\u201cNegro Voters Declare For Their Second Emancipation,\u201d *The Hartford Herald,* October 12, 1921, 6. \n\n[^10]:\u201cGeneral News,\u201d *The Oldham Era*, October 6, 1922, 8. \n\n[^11]:\u201cColbert, Jesse B.,\u201d Notable Kentucky African Americans Database, accessed September 29, 2025, https://nkaa.uky.edu/nkaa/items/show/2676.  \n\n[^12]:\"Kentucky, Deaths, 1911-1967\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:N9GS-P5L : Sun Mar 10 10:39:52 UTC 2024), Entry for Jesse B. Colbert and Gillman Colbert, 1936. \n\n[^13]:\u201cCourthouse Flag Flies At Half-Mast for Negro Lawyer in Louisville,\u201d *The Informer*, January 2, 1937, 1. \n",
+    "description": "Attended Yale Divinity School 1890-1891",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -21,15 +21,215 @@
                 }
             ]
         },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1861"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q495090",
+                    "data": {
+                        "label": "Lancaster County, South Carolina, United States",
+                        "instance_of": [
+                            "county of South Carolina"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.69,
+                                        "longitude": -80.7
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lancaster County, South Carolina, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1936"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6659715",
+                    "data": {
+                        "label": "Livingstone College",
+                        "instance_of": [
+                            "school",
+                            "historically black college or university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.6709,
+                                        "longitude": -80.4834
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Livingstone College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1890"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1891"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q38022",
+                    "data": {
+                        "label": "St. Louis, Missouri, United States",
+                        "instance_of": [
+                            "big city",
+                            "independent city in the United States",
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.62638888888889,
+                                        "longitude": -90.19944444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "St. Louis, Missouri, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q43668",
+                    "data": {
+                        "label": "Louisville, Kentucky, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.25611111111111,
+                                        "longitude": -85.75138888888888
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Louisville, Kentucky, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18383",
+                    "data": {
+                        "label": "Providence, Rhode Island, United States",
+                        "instance_of": [
+                            "big city",
+                            "county seat",
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.82399,
+                                        "longitude": -71.41283
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Providence, Rhode Island, United States"
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Jesse Beauregard Colbert",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q135790242.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

@@ -1,7 +1,7 @@
 {
     "id": "Q135790235",
     "label": "Clinton Decatur Hazel",
-    "biographyMarkdown": "# Clinton Decatur Hazel\n## Attended Yale Divinity School 1897-1898\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Clinton Decatur Hazel \n## Attended Yale Divinity School 1897-1898 \n\nClinton Decatur Hazel was born in either 1865 or 1866 in New Bern, North Carolina to William and Margaret Hazel. According to the 1870 census, his father was a house carpenter.[^1] He attended the public schools in New Bern. According to a biographical sketch from the African Methodist Episcopal Zion Church, he began pastoring over Clinton Chapel A.M.E. Zion Church in 1886 and was an ordained elder in Saratoga, New York.[^2] Between 1890 and 1896, he pastored the AME church in Attleboro, Massachusetts and the Second AME Zion Church in Providence, Rhode Island, and the AME church in Cambridge, Massachusetts. During his time in Rhode Island, he briefly enrolled at Brown University between 1893 to 1894.[^3] He moved to Connecticut where he pastored the AME church in Derby, Connecticut. \n\nIn 1897, he enrolled at Yale Divinity School for the 1897-1898 school year as a resident licentiate.[^4] During his time in Connecticut, he also served as president of the New England African Methodist Episcopal Zion Sunday School Conference.[^5] In 1898, he was transferred to pastor for AMEZ in Paterson, New Jersey.[^6] Later in the year, he alongside other colored pastors endorsed the Republican candidate for governor of New York, Theodore Roosevelt.[^7] He received a master of arts degree from Livingstone College in Salisbury, North Carolina and a doctorate of divinity from Barrett\u2019s College in Pee Dee, North Carolina in 1901.[^8] At some point in his life, he married Carrie V. Herring.  \n\nIn 1904, he also took a Jewish Chautauqua course under Rabbi Henry Berkowitz.[^9] He pastored in Atlantic City, New Jersey and eventually became the Presiding Elder of the New Jersey Conference and the dean of the Theological Circle within the AMEZ Church.[^10] He was reassigned as presiding elder of the Washington district before returning to his hometown, New Bern, and pastoring at St. Peter\u2019s Church.[^11] In 1923, he began pastoring at Mount Olive AME Zion Church in Waterbury, Connecticut and in 1925, pastored for the AME Zion church in Portland, Maine.[^12] The following year, he was beset with illness and returned to New Bern where he died June 21st, 1926.[^13] \n\n\n[^1]:\"United States, Census, 1870\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MW8X-HJN : Thu Jan 16 15:12:44 UTC 2025), Entry for Margaret Hazel and William Hazel, 1870. \n\n[^2]:James Harvey Anderson, *Biographical Souvenir Volume of the Twenty-Third Quadrennial Session of the General Conference of the African Methodist Episcopal Church* (Philadelphia, PA: Big Wesley A. M. E. Zion Church, 1908), 72. \n\n[^3]:*Catalogue of the Officers And Students of Brown University, 1893-1894* (Providence, RI: Press of P. S. Remington & Co., 1894), 212. \n\n[^4]:*Catalogue of Yale University, CXCVII Year, 1897-1898* (New Haven, CT: The Tuttle, Morehouse & Taylor Press, 1897), 395. \n\n[^5]:\u201cPersonal,\u201d *Boston Evening Transcript*, August 30, 1897, 7. \n\n[^6]:\u201cCity News,\u201d *The Waterbury Democrat*, May 9, 1898, 1; \u201cA.M.E. Zion Conference,\u201d *Matawan Journal*, September 22, 1898, 1. \n\n[^7]:\u201c15 Colored Clergymen for Roosevelt,\u201d *The New York Times*, October 20, 1898, 2.  \n\n[^8]:Anderson, *Biographical Souvenir Volume*, 72. \n\n[^9]:*The Menorah: A Monthly Magazine for the Jewish Home* 27, 189 (1904). \n\n[^10]:\u201cA.M.E. Meeting,\u201d *Atlantic City Sunday Press - the Sunday Gazette*, April 21, 1912, 2. \n\n[^11]:\u201cA.M.E. Zion Conference In Session,\u201d *The Afro-American*, June 22, 1912, 6; \u201cFiftieth Anniversary of St. Peter\u2019s Church,\u201d *The Daily Journal*, January 16, 1914, 7. \n\n[^12]:\u201cWaterbury, Conn.\u201d *The New York Age*, July 11, 1925, 7; \u201cZion Church To Have New Pastor,\u201d *Evening Express*, June 18, 1925, 14.  \n\n[^13]:\u201cRev. C. D. Hazel Will Take Rest And Recuperate,\u201d *Evening Express*, January 30, 1926, 16; \"North Carolina, Deaths, 1906-1930\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:F3H5-3BW : Fri Jun 21 21:15:40 UTC 2024), Entry for Clinton Decatur Heazel and William Heazel, 21 Jun 1926. \n",
     "description": "Attended Yale Divinity School 1897-1898",
     "properties": {
         "sex or gender": {
@@ -21,15 +21,413 @@
                 }
             ]
         },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1865",
+                    "qualifiers": [
+                        {
+                            "label": "sourcing circumstances",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q5727902",
+                                    "data": {
+                                        "label": "circa",
+                                        "instance_of": [
+                                            "sourcing circumstance"
+                                        ]
+                                    },
+                                    "text": "circa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1002490",
+                    "data": {
+                        "label": "New Bern, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "city in North Carolina"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.108333333333334,
+                                        "longitude": -77.04444444444445
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Bern, North Carolina, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49114",
+                    "data": {
+                        "label": "Brown University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.82611111111111,
+                                        "longitude": -71.40305555555555
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brown University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1897"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1898"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6659715",
+                    "data": {
+                        "label": "Livingstone College",
+                        "instance_of": [
+                            "school",
+                            "historically black college or university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.6709,
+                                        "longitude": -80.4834
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Livingstone College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q137041049",
+                    "data": {
+                        "label": "Collegiate Institute for Negro Youth",
+                        "instance_of": [
+                            "school",
+                            "historically black college or university"
+                        ]
+                    },
+                    "text": "Collegiate Institute for Negro Youth"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q518097",
+                    "data": {
+                        "label": "Saratoga, New York, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "town of New York"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.05,
+                                        "longitude": -73.65
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Saratoga, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1775244",
+                    "data": {
+                        "label": "Attleboro, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.944444444444,
+                                        "longitude": -71.286111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Attleboro, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18383",
+                    "data": {
+                        "label": "Providence, Rhode Island, United States",
+                        "instance_of": [
+                            "big city",
+                            "county seat",
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.82399,
+                                        "longitude": -71.41283
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Providence, Rhode Island, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49111",
+                    "data": {
+                        "label": "Cambridge, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.375,
+                                        "longitude": -71.106111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cambridge, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q139564",
+                    "data": {
+                        "label": "Atlantic City, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.3625,
+                                        "longitude": -74.425
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Atlantic City, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49178",
+                    "data": {
+                        "label": "Waterbury, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.558333333333,
+                                        "longitude": -73.036944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Waterbury, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49201",
+                    "data": {
+                        "label": "Portland, Maine, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.66,
+                                        "longitude": -70.255
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Portland, Maine, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q755197",
+                    "data": {
+                        "label": "Derby, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.326666666667,
+                                        "longitude": -73.082222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Derby, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q138391",
+                    "data": {
+                        "label": "Paterson, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.916666666666664,
+                                        "longitude": -74.17222222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Paterson, New Jersey, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1926"
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Clinton Decatur Hazel",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q135790235.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

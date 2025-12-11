@@ -1,7 +1,7 @@
 {
     "id": "Q135790231",
     "label": "Alfred Louis Jackson",
-    "biographyMarkdown": "# Alfred Louis Jackson\n## Attended Yale College 1904-1907\n\nResearch is currently being conducted on this student. A more complete profile will be available soon.\n\nImage citation: Yale College Class of 1908 class book, Yale University Library.\n",
+    "biographyMarkdown": "# Alfred Louis Jackson\n## Attended Yale College 1904-1907\n\nAlfred Louis Jackson was born on July 3, 1884, in Washington, D.C. His father was John Louis Jackson, a waiter at C. & O. Railroad, and his mother was Lula Dabney. He attended the M Street High School in Washington, D.C. During his time in high school, he assisted in editing an issue of _The Colored American_.[^1] He graduated from the M Street High School in 1904 and enrolled at Yale College.[^2] At Yale, he was a member of the Washington Club at Yale.[^3] He was at Yale from 1904 to 1907 and left in March of 1907 due to poor health. He returned home to Washington D.C. where he died on June 12, 1910.[^4]\n\n[^1]:\u201cAmong The Newspapers And Magazines,\u201d _The Colored American_, January 2, 1904, 8.\n[^2]:\u201cColored Students Good Showing,\u201d _The Colored American_, October 29, 1904, 3.\n[^3]:\u201cCapital Men At Yale,\u201d _Evening Star_, February 13, 1906, 8.\n[^4]:Walter G. Davis, _History of the Class Of 1908 Yale College_ (New Haven, CT: Yale University, 1908), 1:385; Davis, History of the Class, 2:340.\n\nImage citation: Yale College Class of 1908 class book, Yale University Library.\n",
     "description": "Attended Yale College 1904-1907",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,72 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1884"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1910"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1904"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1907"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

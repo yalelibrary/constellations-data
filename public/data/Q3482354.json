@@ -15,7 +15,7 @@
                         "label": "female",
                         "instance_of": [
                             "sex of humans",
-                            "gender"
+                            "gender identity"
                         ]
                     },
                     "text": "female"
@@ -244,7 +244,8 @@
                                     "data": {
                                         "label": "Bachelor of Arts",
                                         "instance_of": [
-                                            "bachelor's degree"
+                                            "arts degree",
+                                            "academic degree"
                                         ]
                                     },
                                     "text": "Bachelor of Arts"

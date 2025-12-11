@@ -91,12 +91,11 @@
                     "value-type": "wikibase-item",
                     "id": "Q1518804",
                     "data": {
-                        "label": "North Carolina College",
+                        "label": "North Carolina Central University",
                         "instance_of": [
                             "university",
                             "historically black college or university",
-                            "public educational institution of the United States",
-                            "school"
+                            "public educational institution of the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -116,7 +115,7 @@
                             }
                         }
                     },
-                    "text": "North Carolina College"
+                    "text": "North Carolina Central University"
                 },
                 {
                     "value-type": "wikibase-item",

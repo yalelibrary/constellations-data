@@ -15,7 +15,8 @@
                         "instance_of": [
                             "public research university",
                             "open-access publisher",
-                            "university in Ontario"
+                            "university in Ontario",
+                            "charitable organization"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -204,7 +205,7 @@
                         "label": "female",
                         "instance_of": [
                             "sex of humans",
-                            "gender"
+                            "gender identity"
                         ]
                     },
                     "text": "female"

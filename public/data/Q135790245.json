@@ -1,7 +1,7 @@
 {
     "id": "Q135790245",
     "label": "Lucille Sarah Baker",
-    "biographyMarkdown": "# Lucille Sarah Baker\n## Attended Yale Graduate School 1938-1939\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Lucille Sarah Baker\n## Attended Yale Graduate School 1938-1939\n\nLucille Sarah Baker was born on October 17, 1912, in Redwood Falls, Minnesota to Charles Clyde Baker and Josephine D. Baker. Baker was also part Senecan Indian. According to the 1920 census, the family moved to Fort Dodge, Iowa, where Charles worked as a firefighter. In the following 1930 census, Lucille reportedly began work as a part-time servant.[^1] She attended Fort Dodge Senior High School and was a member of Sigma Alpha Phi and graduated in 1931 as the only black student in her class.[^2]\nIn 1932 she moved to Des Moines, Iowa to attend Drake University and worked in a law office. In that same year, she helped charter the Beta Gamma Chapter of Alpha Khi Alpha in Des Moines, Iowa.[^3] The following year, she left school to work for the superintendent of Des Moines in the Des Moines public forum office. At the Des Moines public forum office, she pursued an interest in adult education. She also worked as a secretary to Des Moines City Assessor and for the Iowa Emergency Relief Administration. She returned to pursue her degree and graduated from the University of Iowa in 1937. Following graduation, she began her teaching career at the University of Arkansas at Pine Bluff.\n\nIn 1938, Baker won a $1,200 fellowship to attend Yale Graduate School. National news outlets marked her out as the first African American to attend Yale Graduate School\u2019s general studies.[^4] While at Yale, she joined Professor Charles Templeman Loram\u2019s race relations seminar that studied contemporary race relations across the country.[^5] After completing her fellowship, she began teaching at Fort Valley State College from 1939 to 1941. She then attended Smith College, graduating with a masters degree in 1942.[^6]\n\nShe briefly taught at Wilberforce University before moving to Atlanta, Georgia and joined Spelman College\u2019s faculty as a professor in the Education Department from 1943 to 1947.[^7] By the 1950s, she lived in Chicago where she was a member of the Alpha Kappa Alpha Sorority Club of Chicago and taught at the Douglas School. Baker died on August 28th, 1964, in Green Bay, Wisconsin at the age of 51.[^8]\n\n\n[^1]:\"United States, Census, 1920\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MDMY-L4X : Sat Jan 18 15:58:22 UTC 2025), Entry for Charles C Baker and Josephine D Baker, 1920; \"United States, Census, 1930\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:XMK8-V9Y : Mon Jan 13 11:47:06 UTC 2025), Entry for Clyde Baker and Josephine Baker, 1930.\n[^2]:*The Dodger*, 1929 (Fort Dodge, IA: Messenger Printing Co.), 44. \n[^3]:https://www.akaizo.org/chapter-history. \n[^4]:\u201cLucille Baker Wins Yale Award,\u201d *New Pittsburgh Courier*, April 23, 1938, 12.\n[^5]:\u201cYale Postgraduates Visit S. L. In Study of Race Relations,\u201d *The Salt Lake Tribune*, March 25, 1939, 10.\n[^6]:\u201cCollege Instructor Gets Fellowship Award,\u201d *New Pittsburgh Courier*, May 17, 1941, 23.\n[^7]:*Spelman College Bulletin* 20, no. 1 (1947), 13. \n[^8]:*Green Bay Press-Gazette*, August 30, 1964, 36.\n\n",
     "description": "Attended Yale Graduate School 1938-1939",
     "properties": {
         "sex or gender": {
@@ -14,10 +14,390 @@
                         "label": "female",
                         "instance_of": [
                             "sex of humans",
-                            "gender"
+                            "gender identity"
                         ]
                     },
                     "text": "female"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1912"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1924130",
+                    "data": {
+                        "label": "Redwood Falls, Minnesota, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 44.539444444444,
+                                        "longitude": -95.116944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Redwood Falls, Minnesota, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1964"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5305629",
+                    "data": {
+                        "label": "Drake University",
+                        "instance_of": [
+                            "private university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.601111111111,
+                                        "longitude": -93.652222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Drake University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q182973",
+                    "data": {
+                        "label": "University of Iowa",
+                        "instance_of": [
+                            "public research university",
+                            "public educational institution of the United States",
+                            "university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.66166666666667,
+                                        "longitude": -91.5363888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Iowa"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49204",
+                    "data": {
+                        "label": "Smith College",
+                        "instance_of": [
+                            "university",
+                            "private not-for-profit educational institution",
+                            "women's college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.3175,
+                                        "longitude": -72.6375
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Smith College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1938"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1939"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2495825",
+                    "data": {
+                        "label": "University of Arkansas at Pine Bluff",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black college or university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.2423,
+                                        "longitude": -92.0203
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Arkansas at Pine Bluff"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7575916",
+                    "data": {
+                        "label": "Spelman College",
+                        "instance_of": [
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "women's college in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.746,
+                                        "longitude": -84.411
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Spelman College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5472214",
+                    "data": {
+                        "label": "Fort Valley State University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black college or university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.53,
+                                        "longitude": -83.89
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fort Valley State University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.88194444444444,
+                                        "longitude": -87.62777777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q47430",
+                    "data": {
+                        "label": "Green Bay, Wisconsin, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 44.513333333333335,
+                                        "longitude": -88.01333333333334
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Green Bay, Wisconsin, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q39709",
+                    "data": {
+                        "label": "Des Moines, Iowa, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.590833333333,
+                                        "longitude": -93.620833333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Des Moines, Iowa, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q983761",
+                    "data": {
+                        "label": "Fort Dodge, Iowa, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "military base"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.506666666667,
+                                        "longitude": -94.180277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fort Dodge, Iowa, United States"
                 }
             ]
         },
