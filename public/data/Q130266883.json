@@ -123,10 +123,9 @@
                     "data": {
                         "label": "Lincoln University",
                         "instance_of": [
-                            "university",
+                            "public university",
                             "historically black college or university",
-                            "public educational institution of the United States",
-                            "school"
+                            "public educational institution of the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -155,7 +154,6 @@
                         "label": "Oklahoma City, Oklahoma, United States",
                         "instance_of": [
                             "city in the United States",
-                            "state or insular area capital of the United States",
                             "county seat",
                             "big city"
                         ],

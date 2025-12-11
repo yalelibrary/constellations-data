@@ -1,7 +1,7 @@
 {
     "id": "Q135790230",
     "label": "Alfred Henry Johnson",
-    "biographyMarkdown": "# Alfred Henry Johnson\n## Attended Yale School of Music, 1919-1922\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n\n",
+    "biographyMarkdown": "# Alfred Henry Johnson\n## Attended Yale School of Music, 1919-1922\n\nAlfred Henry Johnson was born on January 12, 1890, in Germantown, Pennsylvania. According to his biography, his mother, Carry Cleveland Johnson, and father, Alfred Henry Johnson, Sr., died during his adolescence, and he went to school sporadically. He was later adopted by Louise Howard and eventually graduated from Northeast High School in 1910. After high school, he worked several jobs during the daytime and took night classes at the Drexel Institute to become a teacher. He received private tutoring from Justus Fleck on vocal and violin music.[^1] \n\nIn 1914, Johnson formed a Black male sextet, the Pennsylvania Larks, which played African American melodies and minstrel songs at concerts across the Midwest. After playing with the Pennsylvania Larks, he attended Cheyney Training School for a year and then returned to Philadelphia where he directed community singing efforts with the War Camp Community Service. In 1919, he entered Yale University with the intention of completing a bachelor of music degree on an accelerated path. He funded his education by playing at recitals across the Northeast and the South with his performances advertised in newspapers. In 1920, he won the Yale School of Music\u2019s Lockwood Scholarship for singing. However, he left in 1922 due to \u201cnervous trouble\u201d from the additional work needed to finance his way through school.[^2] \n\nAfter leaving Yale, he became the director of music for Black schools in Winston-Salem, North Carolina. During his tenure, he oversaw the training of teachers and organized choruses for the communities. He also married Thelma C. Hollard, a local, in 1924. From 1924 to 1926, he returned to Cheyney Training School to teach music. He later permanently settled in Washington, D.C., to become the director of music for the city\u2019s public schools. He served the city in different musical education positions until his death.[^3] \n\nJohnson helped establish the Fine Arts Council for Washington, D.C., to encourage Black youths to take up the arts. He was also a member of the National Association of Music Teachers in Colored Schools and the Pennsylvania Music Education Association. He was a member of Alpha Phi Alpha. He died on March 16, 1971, in Washington, D.C., and his obituary was published in Winston-Salem.[^4] \n\n[^1]: \u201cFacts concerning Alfred H. Johnson,\u201d ca. 1926. W. E. B. Du Bois Papers (MS 312). Special Collections and University Archives, University of Massachusetts Amherst Libraries, http://credo.library.umass.edu/view/full/mums312-b173-i054.  \n\n[^2]: \u201cParnell\u2019s Great Chautauqua July 31 to Aug. 5,\u201d *Parnell Sentinel*, July 23, 1914; \u201cA Recital,\u201d Philadelphia Tribune, January 31, 1920; *Report of the President of Yale University and of the Deans and Directors of Its Several Departments for the Academic Year* (New Haven: Yale University, 1920), 359; \u201cFacts concerning Alfred H. Johnson.\u201d  \n\n[^3]: \u201cNorth Carolina, Marriages, 1759-1979,\u201d Alfred H. Johnson, 1924, FamilySearch.  \n\n[^4]: \u201cDeaths and Funerals,\u201d *The Sentinel*, March 18, 1971. \n\n",
     "description": "Attended Yale School of Music, 1919-1922",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,235 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q279890",
+                    "data": {
+                        "label": "Germantown, Philadelphia, United States",
+                        "instance_of": [
+                            "borough of Pennsylvania",
+                            "neighborhood"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.043611111111,
+                                        "longitude": -75.181944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Germantown, Philadelphia, United States"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1890"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1971"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q603034",
+                    "data": {
+                        "label": "Drexel University",
+                        "instance_of": [
+                            "research university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.956441,
+                                        "longitude": -75.188686
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Drexel University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3445541",
+                    "data": {
+                        "label": "Cheyney University of Pennsylvania",
+                        "instance_of": [
+                            "historically black college or university",
+                            "public educational institution of the United States",
+                            "university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.932,
+                                        "longitude": -75.529
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cheyney University of Pennsylvania"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2784420",
+                    "data": {
+                        "label": "Yale School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3099,
+                                        "longitude": -72.9264
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Music",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1919"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1922"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49227",
+                    "data": {
+                        "label": "Winston-Salem, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city",
+                            "city in North Carolina"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1025,
+                                        "longitude": -80.260555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Winston-Salem, North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
                 }
             ]
         },

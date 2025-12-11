@@ -1,23 +1,23 @@
 {
-    "id": "Q18671419",
-    "label": "Henry M. Hudson",
-    "biographyMarkdown": "# Henry M. Hudson\n## Attended Yale School of Art 1936-1937\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
-    "description": "Attended Yale School of Art 1936-1937",
+    "id": "Q137302147",
+    "label": "Cora Edythe Taylor",
+    "biographyMarkdown": "# Cora Edythe Taylor\n## Attended Yale Summer School, 1920s\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n\nImage citation: _Hartford Courant_ 8 September 1929, Hartford Public Library\n",
+    "description": "Attended Yale Summer School, 1920s",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
             "values": [
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q6581097",
+                    "id": "Q6581072",
                     "data": {
-                        "label": "male",
+                        "label": "female",
                         "instance_of": [
-                            "gender identity",
-                            "sex of humans"
+                            "sex of humans",
+                            "gender identity"
                         ]
                     },
-                    "text": "male"
+                    "text": "female"
                 }
             ]
         },
@@ -41,7 +41,7 @@
             "values": [
                 {
                     "value-type": "literal",
-                    "text": "Hudson"
+                    "text": "Taylor"
                 }
             ]
         },
@@ -50,7 +50,7 @@
             "values": [
                 {
                     "value-type": "literal",
-                    "text": "1930s"
+                    "text": "1920s"
                 }
             ]
         }

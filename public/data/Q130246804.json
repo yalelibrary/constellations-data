@@ -22,7 +22,8 @@
                     "data": {
                         "label": "Subic, Philippines",
                         "instance_of": [
-                            "municipality of the Philippines"
+                            "municipality of the Philippines",
+                            "military town"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -205,7 +206,8 @@
                     "data": {
                         "label": "Subic, Philippines",
                         "instance_of": [
-                            "municipality of the Philippines"
+                            "municipality of the Philippines",
+                            "military town"
                         ],
                         "properties": {
                             "coordinate location": {

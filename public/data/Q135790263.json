@@ -1,8 +1,8 @@
 {
     "id": "Q135790263",
     "label": "William H. R. Jackson",
-    "biographyMarkdown": "# William H. R. Jackson\n## Attended Yale School of Art 1880-1883\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
-    "description": "Attended Yale School of Art 1880-1883",
+    "biographyMarkdown": "# William H. R. Jackson\n## Received Certificate of Art, 1883\n\nWilliam H. R. Jackson was born in 1854 or 1855 in Suffolk, Virginia. He was the son of an enslaved mother, Mariah Mingo, and an unknown, enslaver father.  \n\nAccording to an account from the *New York Sun*, his mother saved enough money to buy their freedom and eventually moved to New Haven by 1875, where the family worked under Henry Farnam, an industrialist and railroad builder, at 43 Hillhouse Avenue. There, Jackson became a butler and became so enamored by Farnam\u2019s art gallery that he began painting. With his savings, he eventually enrolled at the Yale School of Fine Arts in 1880 and received a certificate in 1883. He presented some of his artwork at the 1884 World Cotton Centennial in New Orleans, Louisiana, where art critics praised two of his works: \u201cRough at Sea\u201d and \u201cLeft on the Sand.\u201d[^1] \n\nJackson held exhibitions of his art in New Haven at the Loomis Temple of Music, which included oil and watercolor paintings of nature and life. According to the *Morning Journal-Courier*, the exhibit was a success in attracting large crowds of people with Jackson selling many of his works. He was also skillful in charcoal and pencil drawing.[^2]  \n\nIn 1884, he married Riberta (possibly Roberta) Davis in Brooklyn, New York. Lacking any formal education, Jackson sought to learn how to read and write on his own. He succeeded in his self-education and was known to enjoy Shakespeare, Longfellow, and early Victorian poets. He also was known to be a good marksman and built himself a collection of firearms. He continued to work for the Farnam family until he retired due to poor health in 1911.[^3] \n\nOn September 19, 1912, Jackson succumbed to Bright\u2019s disease at the age of 57. According to his will, he owned stocks, collections, and properties. His youngest daughter was placed under the guardianship of Henry W. Farnam. His funeral was held at Lewis & Maycock Chapel where the Reverend Edward Goin, another Black Yale alumnus and minister at Dixwell Avenue Congregational Church, presided over his funeral. Jackson is buried in Evergreen Cemetery in New Haven.[^4] \n\n[^1]: \u201cA Notable Art Collection,\u201d *New York Age*, February 16, 1889; *Catalogue of the Officers and Students of Yale College, With a Statement of the Course of Instruction in the Various Departments, 1880-81* (New Haven, CT: Tuttle, Morehouse & Taylor Printers, 1880), 45; C. R. Gibs, *Black Inventors: From Africa to America, Two Million Years of Invention and Innovation* (Silver Spring, MD: Three Dimensional Publishing, 1995), 102. \n \n[^2]: \u201cPaintings and Drawings,\u201d *The Morning Journal-Courier*, October 15, 1888; \u201cEntertainments,\u201d *The Morning Journal-Courier*, October 16, 1888; \u201cEntertainments,\u201d *The Morning Journal-Courier*, October 19, 1888. \n \n[^3]: \u201cNew York, New York City Marriage Records, 1829-1938,\u201d Entry for William H R Jackson and Reberta Davis, 29 May 1884, FamilySearch; Alumni file of W. H. R. Jackson, Alumni Records Office, Yale University, Records of Alumni from the Classes of 1701-1978 (RU 830), Yale University Library. \n \n[^4]: \u201cWilliam H. R. Jackson,\u201d Probate Estate Files, 1881-1915; Author: Connecticut State Library (Hartford, Connecticut), Ancestry.com; \u201cColored Artist Dead,\u201d *The New York Age*, October 3, 1912; William H. R. Jackson, https://www.findagrave.com/memorial/147382058/william-h._r.-jackson. \n",
+    "description": "Received Certificate of Art, 1883",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -18,6 +18,121 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1854",
+                    "qualifiers": [
+                        {
+                            "label": "earliest date",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1854"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "latest date",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1855"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q342428",
+                    "data": {
+                        "label": "Suffolk, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.7411,
+                                        "longitude": -76.6097
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Suffolk, Virginia, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1912"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047422",
+                    "data": {
+                        "label": "Yale School of Art",
+                        "instance_of": [
+                            "educational institution",
+                            "arts educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3086,
+                                        "longitude": -72.9319
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Art",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1880"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1883"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

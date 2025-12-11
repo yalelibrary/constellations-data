@@ -23,7 +23,7 @@
                         "label": "Worcester Academy",
                         "instance_of": [
                             "school",
-                            "university campus"
+                            "campus"
                         ],
                         "properties": {
                             "coordinate location": {

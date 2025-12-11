@@ -1,7 +1,7 @@
 {
     "id": "Q130309732",
     "label": "Van Sylvester Whitted",
-    "biographyMarkdown": "# Van Sylvester Whitted\n## Attended Yale School of Music 1916-1917\nVan Sylvester Whitted was born in 1894 in Philadelphia. An accomplished musician, he attended the Yale School of Music from 1916-1917. He went on to graduate from Howard University with a degree in music in 1922. In 1926 he married Cora Louise Redmond. He worked as a music teacher and as an organist and choir director, including for the St. Mark\u2019s Methodist Episcopal Church in New York. He was a member of Alpha Phi Alpha Fraternity. He died in New York in 1976.\n",
+    "biographyMarkdown": "# Van Sylvester Whitted\n## Attended Yale School of Music 1916-1917\nVan Sylvester Whitted was born in 1894 in Philadelphia. He was the son of Reverend Calvin S. Whitted, an AME Zion church official and the former pastor of New Haven's Varick AME Zion Church, and Reba Whitted. \n\nAn accomplished musician, he attended the Yale School of Music from 1916-1917. When he registered for the draft in 1917, he listed his occupation as \"janitor and student in Yale University\" and reported that he lived at 276 Division Street in New Haven. \n\nHe went on to graduate from Howard University with a degree in music in 1922, and continued his studies as an organist under the tutelage of T. Tertius Nobel. In 1926 he married Cora Louise Redmond. He worked as a music teacher and as an organist and choir director, including for the St. Mark\u2019s Methodist Episcopal Church in New York. Whitted was a friend and musical associated of famed musician Willam Dawson. He was a member of Alpha Phi Alpha Fraternity. He died in New York in 1976.\n\nImage citation: _Philadelphia Tribune_, 15 March 1928\n",
     "description": "Attended Yale School of Music 1916-1917",
     "properties": {
         "date of birth": {
@@ -211,10 +211,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Van Sylvester Whitted",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q130309732.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

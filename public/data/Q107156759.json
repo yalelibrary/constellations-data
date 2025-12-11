@@ -191,7 +191,19 @@
                         "label": "Straight University",
                         "instance_of": [
                             "university"
-                        ]
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 29.963,
+                                        "longitude": -90.0849
+                                    }
+                                ]
+                            }
+                        }
                     },
                     "text": "Straight University"
                 },
@@ -303,7 +315,8 @@
                     "data": {
                         "label": "Wilberforce, Ohio, United States",
                         "instance_of": [
-                            "census-designated place in the United States"
+                            "census-designated place in the United States",
+                            "unincorporated community in the United States"
                         ],
                         "properties": {
                             "coordinate location": {

@@ -1,7 +1,7 @@
 {
     "id": "Q135790249",
     "label": "Robert Henry Gross",
-    "biographyMarkdown": "# Robert Henry Gross\n## Attended Yale Divinity School 1925-1926\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Robert Henry Gross\n## Attended Yale Divinity School 1925-1926\n\nRobert Henry Gross was born in 1897 in Prince Frederick, Maryland. According to an interview in 1942, he became a ship apprentice before the age of 10 and spent more than a decade at sea, returning to the U.S. when he was aged 21. He attended the Tuskegee Institute following his return abroad for five years before enrolling at Wilberforce University. At Wilberforce, he received a bachelor of divinity degree in 1922 and a bachelor of arts degree in 1924. The following year, he enrolled at Yale Divinity School but only remained during the 1925-26 school year. He also enrolled at Brown University for three semesters. After graduation, he pastored in Worcester, Massachusetts, before being elected to oversee the Bethel A.M.E. Church in Holyoke, Massachusetts. At some point in the 1920s, he married Viola Cordelia Smith.[^1]\n\nIn the early 1930s, Gross moved to Providence, Rhode Island, and pastored at an A.M.E. church there. He later oversaw the Bethel A.M.E. Church in Greenwich, Connecticut. In 1938, on a bus ride from Boston to New York, Gross survived a bus fire. He also helped lead efforts to bus New Englanders to view Black playwrights in Harlem. In 1942, he joined the army as a chaplain for Black soldiers stationed at Fort Sill in Lawton, Oklahoma. During his tenure as the chaplain, he was celebrated for having a record number of soldiers in attendance for Sunday services. In 1943, he was deployed overseas to North Africa to continue serving as chaplain for an engineering battalion. While in Italy, he helped boost morale and reduced the number of court-martials within his units by organizing tours of the country. He also encouraged appreciation for the arts amongst the battalion, eventually building a choir that sang in hospitals, theatres, and radios across North Africa, France, and Italy.[^2] \n  \nGross was discharged from the army in 1946. According to the 1950 U.S. Census, Robert was living with his wife in Brooklyn with two other boarders and was working as custodian at the Board of Education. He died in 1953 and was buried in Baltimore National Ceremony.[^3] \n  \n[^1]: \u201cNegro Higher Education in 1921-22,\u201d *The Crisis* 24, no. 3 (1922); \u201cWilberforce University Commencement,\u201d The St. Louis Argus, July 4, 1924, https://newscomwc.newspapers.com/image/957504299/; *Catalogue of Yale University, 1925-1926*. New Haven, CT: Yale University, 1925, 553; \u201cRev R. H. Gross Is New Pastor Of Bethel A.M.E. Church,\u201d *Transcript-Telegram*, July 22, 1927, 2; https://www-ancestrylibrary-com.yale.idm.oclc.org/search/?name=Viola+Cordelia+_Gross&searchMode=advanced.  \n[^2]: \u201cDriver and 16 Passengers Make Escape as Bus Burns,\u201d *The North Adams Transcript*, September 15, 1938, 1; \u201cNegro Chaplain Spent 10 Years On the High Seas,\u201d *The Lawton Constitution*, September 25, 1942; \u201cNew Chaplain Sets A Record,\u201d *Atlanta Daily World*, February 27, 1943, 3; \u201cChaplain Keeps His Men Out of Trouble,\u201d *Afro-American*, April 15, 1944, 2; \u201cChaplain Robert H. Gross Popular Among Men In Uniform Overseas: Promotes Recreation, Music, and Worship Service,\u201d *The Call*, May 4, 1945, 13.  \n[^3]: \u201cUnited States, Census, 1950,\u201d FamilySearch, Entry for Robert H Gross and Viola C Gross, 5 April 1950; https://www.findagrave.com/memorial/728345/robert-henry-gross; https://www.ancestrylibrary.com/search/collections/2590/records/1851572. \n",
     "description": "Attended Yale Divinity School 1925-1926",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,331 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1897"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1953"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q754567",
+                    "data": {
+                        "label": "Prince Frederick, Maryland, United States",
+                        "instance_of": [
+                            "census-designated place in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.548611111111,
+                                        "longitude": -76.588611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Prince Frederick, Maryland, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1730032",
+                    "data": {
+                        "label": "Wilberforce University",
+                        "instance_of": [
+                            "university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7175,
+                                        "longitude": -83.881944
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Wilberforce University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1925"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1926"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49114",
+                    "data": {
+                        "label": "Brown University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.82611111111111,
+                                        "longitude": -71.40305555555555
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brown University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1682329",
+                    "data": {
+                        "label": "Tuskegee University, Alabama, United States",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school",
+                            "unincorporated community in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.430278,
+                                        "longitude": -85.707778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tuskegee University, Alabama, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49202",
+                    "data": {
+                        "label": "Greenwich, Connecticut, United States",
+                        "instance_of": [
+                            "New England town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.02649,
+                                        "longitude": -73.62846
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Greenwich, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49179",
+                    "data": {
+                        "label": "Worcester, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.271388888889,
+                                        "longitude": -71.798888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Worcester, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q503336",
+                    "data": {
+                        "label": "Lawton, Oklahoma, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.608694444444446,
+                                        "longitude": -98.39033333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lawton, Oklahoma, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1637790",
+                    "data": {
+                        "label": "Holyoke, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.204166666667,
+                                        "longitude": -72.618055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Holyoke, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18383",
+                    "data": {
+                        "label": "Providence, Rhode Island, United States",
+                        "instance_of": [
+                            "big city",
+                            "county seat",
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.82399,
+                                        "longitude": -71.41283
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Providence, Rhode Island, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18419",
+                    "data": {
+                        "label": "Brooklyn, New York City, United States",
+                        "instance_of": [
+                            "borough of New York City",
+                            "city in the United States",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.65083333333333,
+                                        "longitude": -73.94972222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brooklyn, New York City, United States"
                 }
             ]
         },

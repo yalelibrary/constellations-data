@@ -177,7 +177,8 @@
                         "label": "Fort Portal, Uganda",
                         "instance_of": [
                             "town",
-                            "district"
+                            "district",
+                            "city"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -231,7 +232,8 @@
                         "label": "Fort Portal, Uganda",
                         "instance_of": [
                             "town",
-                            "district"
+                            "district",
+                            "city"
                         ],
                         "properties": {
                             "coordinate location": {

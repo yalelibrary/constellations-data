@@ -1,0 +1,182 @@
+{
+    "id": "Q137301948",
+    "label": "Henry M. Hudson",
+    "biographyMarkdown": "# Henry M. Hudson\n## Attended Yale School of Art 1936-1937\n\nHenry Mercier Hudson was born in 1906 in Lumpkin, George but by the 1920 census, he was living in Hartford, Connecticut. He was raised by his single mother, Mary Elizabeth Ford, who worked as a janitress at a telephone board. He attended Howard University where he was the president of the Daubers Art Club and won the \u201cBest Artist\u201d superlative according to Howard\u2019s The Bison. He painted several murals across Washington D.C. with the New Deal\u2019s Public Works of Art Project program, painting \u201cHannibal, the Carthaginian\u201d for Garnet-Patterson School and \u201cThe Pied Piper\u201d for Magruder School for Crippled Children. He also painted several murals for Howard University, including 5 for physical education. He was originally enrolled in the education program but shifted to the art department and graduated in 1935. The General Education Board of New York City provided him with a one-year scholarship to study at the Yale School of Fine Arts during the 1936-1937 school year. He also was a playwright and actor, acting in plays during his time at Howard University and eventually publishing _Phantom of Fern College: A Comedy in 3 Acts_ in 1936. According to his 1940 draft card, Hudson was residing in Philadelphia where he worked at the Philadelphia Recreation Company. In 1942, he enlisted into the United States army. In 1947, he was a chief designer for a mural project in Washington D.C. He died in 1983.[^1]\n\n[^1]:\"United States, Census, 1920\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MCFR-DLZ : Thu Jan 16 13:54:05 UTC 2025), Entry for Mary Ford and Leola Hudson, 1920; _The Bison_: 1933. Washington, D.C.: Howard University, 1933, 46; _The Bison_: 1933. Washington, D.C.: Howard University, 1934, 64; \u201cHoward Prof. Gets Gen. Education Board Scholarship For Study At Yale,\u201d _New Journal and Guide_, June 29, 1935;\u201cHoward University,\u201d _Inter-State Tattler_, April 12, 1929, 18; _Opportunity_ 15, no. 2 (1937), 60. \"Pennsylvania, World War II Draft Registration Cards, 1940-1945\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:Q2QL-752R : Fri Feb 23 22:55:47 UTC 2024), Entry for Henry Mercier Hudson and Mary Elizabeth Hudson, 16 Oct 1940; \"United States, World War II Army Enlistment Records, 1938-1946\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:KMJ5-JTC : Wed Oct 01 03:16:38 UTC 2025), 08 Sep 1942; \u201cMural\u2019s Message Simple, Its Technique Adult,\u201d _The Washington Post_, June 29, 1947, L5; \"United States, Social Security Death Index,\" database, FamilySearch (https://familysearch.org/ark:/61903/1:1:JPQB-G2C : 7 January 2021), Henry Hudson, Nov 1983; citing U.S. Social Security Administration, Death Master File, database (Alexandria, Virginia: National Technical Information Service, ongoing).\n\n",
+    "description": "Attended Yale School of Art 1936-1937",
+    "publicationsMarkdown": "_ Phantom of Fern College: A Comedy in 3 Acts._ Hartford, CT: n. p., 1936.\n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1906"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2734992",
+                    "data": {
+                        "label": "Lumpkin, Georgia, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.0497,
+                                        "longitude": -84.7958
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lumpkin, Georgia, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1983"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047422",
+                    "data": {
+                        "label": "Yale School of Art",
+                        "instance_of": [
+                            "educational institution",
+                            "arts educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3086,
+                                        "longitude": -72.9319
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Art",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1936"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1937"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Hudson"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1930s"
+                }
+            ]
+        }
+    }
+}

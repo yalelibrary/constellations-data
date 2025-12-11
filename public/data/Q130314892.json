@@ -12,17 +12,18 @@
                     "value-type": "wikibase-item",
                     "id": "Q7934591",
                     "data": {
-                        "label": "Virginia State University",
+                        "label": "Virginia State University, Petersburg, United States",
                         "instance_of": [
                             "university",
                             "land-grant university",
                             "historically black college or university",
                             "public educational institution of the United States",
                             "entity",
-                            "school"
+                            "school",
+                            "unincorporated community in the United States"
                         ]
                     },
-                    "text": "Virginia State University"
+                    "text": "Virginia State University, Petersburg, United States"
                 }
             ]
         },

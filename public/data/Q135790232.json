@@ -1,7 +1,7 @@
 {
     "id": "Q135790232",
     "label": "Cato Lafayette Baskervill",
-    "biographyMarkdown": "# Cato Lafayette Baskervill\n## Graduate of Sheffield Scientific School, 1928\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Cato Lafayette Baskervill\n## Graduate of Sheffield Scientific School, 1928\n\nCato Lafayette Baskervill (sometimes spelled Baskerville) was born in 1903 to Erasmus Lafayette and Mary Effie Baskervill in Henderson, North Carolina, but moved to South Carolina during his youth. His father was a clergy member who served in the United States Army for nearly a decade and was stationed in the Philippines. Following his discharge in 1903, Erasmus joined the Episcopal Church where he eventually became an archdeacon and oversaw Black churches and schools across South Carolina.[^1] \n\nAt the age of 16, Cato Lafayette Baskervill joined the United States Army and was a private in Company E of the 317th Engineers, a Black battalion. He was deployed to France in 1918 and returned to the U.S. in 1919. In 1920, he enrolled at St. Augustine College, a Black college in North Carolina, where Charles H. Boyer, an 1896 graduate of Yale College, served on the faculty. The following year, Baskervill went on to win the school\u2019s Barber Prize, which was a $10 award to the student who delivered the best original address. He graduated in 1924 and passed Yale\u2019s examination board, enrolling at the Sheffield Scientific School. Amidst a decline in Black college attendance at Yale in the 1920s, newspapers lavished praise on Baskervill, with the *New York Age* highlighting the honors he received at Yale within all his subjects. He graduated from the Sheffield Scientific School in 1928.[^2] \n\nAccording to the 1930 census, Baskervill returned home and worked as a chemist testing gases. He later moved to New York and worked as an inspector at the Department of Water Supply, Gas, and Electricity. At the same time, he joined the New York National Guard and was assigned to the 369th Infantry Regiment (nicknamed the \u201cHarlem Hellfighters\u201d). In 1935, he married Fannie Palmer who was from New Haven, Connecticut.[^3] \n\nBaskervill had a successful military career like his father. In 1942, he became a major and, in 1944, oversaw Black regiments that manned anti-air guns in New Guinea. In 1945, he was promoted to lieutenant colonel with the unit receiving praise for their service. Following World War II, he became a commanding officer for the 369th regiment and oversaw the regiment\u2019s training with anti-air guns.[^4] \n\nBaskervill died in 1957 in New Rochelle, New York, and was interred with full military honors at Arlington National Cemetery.[^5] \n\n[^1]: \u201cShort Illness Fatal to S. C. Rector-Deacon: The Rev. E. L. Baskervill Dead At 66; Archdeacon Of Diocese,\u201d *Philadelphia Tribune*, 1937.  \n\n[^2]: Records of the Office of the Quartermaster General, 1774-1985; RG 92, roll 507, and RG 92, roll 71, National Archives, College Park, MD; Annual Catalogue of St. Augustine's School, Raleigh, N.C....1916-1917 (Raleigh, N.C.: St. Augustine's School Press), 612; \u201cSt. Augustine Grad Passes Yale Exams,\u201d *New Journal and Guide*, July 26, 1924; \u201cYoung Baskerville Makes Good Record As Student At Yale Sheffield School,\u201d *The New York Age*, July 31, 1926. \n\n[^3]: \u201cUnited States, Census, 1930,\u201d Entry for L Erasmus Baskervill and C Mary Baskervill, 1930, FamilySearch; \u201cCato Baskervill, Formerly of 369th, Now Lt. Colonel,\u201d *Afro-American*, October 6, 1945; \u201cNew York, New York City Marriage Records, 1829-1938,\u201d Entry for Cato L. Baskervill and Edna E. Pierce, 9 May 1935, FamilySearch. \n\n[^4]: \u201cAck-Ack Units Take Up Permanent Guinea Post,\u201d *The Chicago Defender*, January 15, 1944; \u201cThree Lt. Colonels In The Pacific Now,\u201d *Afro-American*, September 15, 1945; \u201cAck Ack Unit Wins Praise,\u201d *The Pittsburgh Courier*, September 1, 1945; \u201c369th, with \u2018New Management\u2019, Plans Summer Training Trip,\u201d *New York Amsterdam News*, June 17, 1950. \n\n[^5]: \u201cObituary,\u201d The Washington Post, October 16, 1957.  \n",
     "description": "Graduate of Sheffield Scientific School, 1928",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,215 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1903"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q12891494",
+                    "data": {
+                        "label": "Henderson, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "city in North Carolina"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.3258743,
+                                        "longitude": -78.4155472
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Henderson, North Carolina, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1957"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7587158",
+                    "data": {
+                        "label": "St. Augustine's University",
+                        "instance_of": [
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "historic district"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.7861,
+                                        "longitude": -78.6204
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "St. Augustine's University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7492742",
+                    "data": {
+                        "label": "Sheffield Scientific School",
+                        "instance_of": [
+                            "college"
+                        ]
+                    },
+                    "text": "Sheffield Scientific School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1928"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port city",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q40285",
+                    "data": {
+                        "label": "New Guinea, Papua, Indonesia",
+                        "instance_of": [
+                            "island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -5,
+                                        "longitude": 140
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -4.1309,
+                                        "longitude": 138.559125
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Guinea, Papua, Indonesia"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q744948",
+                    "data": {
+                        "label": "New Rochelle, New York, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.908611111111,
+                                        "longitude": -73.781944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Rochelle, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1456",
+                    "data": {
+                        "label": "South Carolina, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34,
+                                        "longitude": -81
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "South Carolina, United States"
                 }
             ]
         },

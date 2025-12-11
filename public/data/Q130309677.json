@@ -249,7 +249,8 @@
                     "data": {
                         "label": "Fairfield, Connecticut, United States",
                         "instance_of": [
-                            "town in the United States"
+                            "town in the United States",
+                            "New England town"
                         ],
                         "properties": {
                             "coordinate location": {

@@ -1,7 +1,7 @@
 {
     "id": "Q135790292",
     "label": "John Warren Alexander",
-    "biographyMarkdown": "# John Warren Alexander\n## Received Certificate of Proficiency in the Theory of Music, 1928\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# John Warren Alexander\n## Received Certificate of Proficiency in the Theory of Music, 1928\n\nOn May 14, 1905, John Warren Alexander (also known as Warren Alexander) was born to John G. Alexander, a hostler, and Hattie Williams Harrison, a seamstress in Boston, Massachusetts. He eventually moved to Seymour, Connecticut, where he attended Seymour High School, graduating in 1924. Warren Alexander served as an organist for the A.M.E. Zion Church where he played a piano solo for an Alpha Phi Alpha \u201cGo to High School\u2014Go to College\u201d event. He enrolled at the Yale School of Music in 1924 and received a Certificate of Proficiency in the Theory of Music in 1928. He eventually began working at the American Bass Company in Ansonia and was married to Nettie Elizabeth. He moved to Boston and was married to Matilda Louise Marshall, according to the 1950 census. He died in 1983 and is buried in Blue Hill Cemetery in Braintree, Massachusetts.[^1]\n\n[^1]:\"Massachusetts, Town Clerk, Vital and Town Records, 1626-2001\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:F4GX-5YC : Tue Jul 16 07:50:34 UTC 2024), Entry for John/Alexander and John/Alexander, 14 May 1905; \u201cAnsonia, Conn.,\u201d _The Chicago Defender_, July 5, 1924, 23; \u201cAnsonia, Conn.,\u201d _The Chicago Defender_, June 7, 1924, 21; _Catalogue of Yale University, 1928-1929_. New Haven, CT: Yale University, 1929, 646; \"Connecticut, World War II Draft Registration Cards, 1940-1945\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:Q2CP-8LXN : Fri Apr 04 14:16:41 UTC 2025), Entry for John Warren Alexander and Nettie Elizabeth Alexander, 16 Oct 1940; \"United States, Census, 1950\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6F3S-TYQM : Mon Mar 18 18:59:09 UTC 2024), Entry for John W Alexander and Matilda Alexander, 6 April 1950; https://www.findagrave.com/memorial/239463949/john_w-alexander.\n\n\n",
     "description": "Received Certificate of Proficiency in the Theory of Music, 1928",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,149 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1905"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1983"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2784420",
+                    "data": {
+                        "label": "Yale School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3099,
+                                        "longitude": -72.9264
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Music",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1928"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2275932",
+                    "data": {
+                        "label": "Seymour, Connecticut, United States",
+                        "instance_of": [
+                            "New England town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.384166666667,
+                                        "longitude": -73.086944444444
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.39676,
+                                        "longitude": -73.07594
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Seymour, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q570044",
+                    "data": {
+                        "label": "Ansonia, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.343333333333,
+                                        "longitude": -73.068611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Ansonia, Connecticut, United States"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q100",
+                    "data": {
+                        "label": "Boston, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.360277777777775,
+                                        "longitude": -71.05777777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Boston, Massachusetts, United States"
                 }
             ]
         },

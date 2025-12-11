@@ -299,7 +299,8 @@
                     "data": {
                         "label": "Wilberforce, Ohio, United States",
                         "instance_of": [
-                            "census-designated place in the United States"
+                            "census-designated place in the United States",
+                            "unincorporated community in the United States"
                         ],
                         "properties": {
                             "coordinate location": {

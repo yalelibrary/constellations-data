@@ -21,15 +21,226 @@
                 }
             ]
         },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1991"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1908"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16555",
+                    "data": {
+                        "label": "Houston, Texas, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "port city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 29.762777777778,
+                                        "longitude": -95.383055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Houston, Texas, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047423",
+                    "data": {
+                        "label": "Yale School of Drama",
+                        "instance_of": [
+                            "drama school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3096,
+                                        "longitude": -72.931
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.309638888888884,
+                                        "longitude": -72.93102777777779
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Drama",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1934"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1935"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q174710",
+                    "data": {
+                        "label": "University of California, Los Angeles",
+                        "instance_of": [
+                            "public research university",
+                            "public educational institution of the United States",
+                            "university",
+                            "campus",
+                            "organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.07222222222222,
+                                        "longitude": -118.44277777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of California, Los Angeles"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1054905",
+                    "data": {
+                        "label": "Morgan State University",
+                        "instance_of": [
+                            "university",
+                            "historically black college or university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.34388888888889,
+                                        "longitude": -76.58472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morgan State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q626591",
+                    "data": {
+                        "label": "Texas Southern University",
+                        "instance_of": [
+                            "university",
+                            "historically black college or university",
+                            "public educational institution of the United States",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 29.7222,
+                                        "longitude": -95.3605
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Texas Southern University"
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Ollington Erwin Smith",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q135790247.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

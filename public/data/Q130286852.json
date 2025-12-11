@@ -1,7 +1,7 @@
 {
     "id": "Q130286852",
     "label": "Harry Washington Greene",
-    "biographyMarkdown": "# Harry Washington Greene\n## Attended Yale Divinity School 1919-1920\nHarry Washington Greene was born in New Bern, North Carolina on February 28, 1896, the son of Elvin and Sophia Greene. His parents had been denied access to education and were illiterate. Greene was able to surpass the educational opportunities of his parents, going on to receive numerous degrees and ultimately become a college administrator himself. He graduated as valedictorian of his high school in 1911 and attended Lincoln University in Pennsylvania from 1913 to 1918, where he received both his bachelor's and master's degrees. From 1919 to 1920 Greene attended the Yale Divinity School, where he was secretary of the Alpha Phi Alpha Fraternity. He subsequently received a master\u2019s in education from Columbia University in 1927. While his career as a college administrator drew more on his background in education, he was an active member of the African Methodist Episcopal Church.\n\nGreene married Leola Stanley in 1920, and in 1922 he began his career as a college administrator, taking a position as Dean of Samuel Huston College in Austin, Texas. Throughout his career he worked at two other historically Black colleges, acting as dean of Prairie View State College (1928-1930), also in Texas, and as director of the School of Education at West Virginia State College (1930-1952). Greene held a number of other significant positions in education, becoming the first Black man to head the Central Texas Teachers' Institute in 1925 and acting as a long-time member of the National Society for the Study of Education and the National Advisory Committee on Negro Education, among other institutions. He also wrote several books on the subject of education and Black educational achievements, including *The PhD and the Negro* (1928), *Criteria of Teacher Excellence* (1933), *An Adventure in Experimental Cooperative Teaching* (1938), *Financing Higher Education in West Virginia* (1945), and *Holders of Doctorates Among American Negroes* (1946). \n\nGreene died on February 18, 1952 in West Virginia after a rapid illness.\n",
+    "biographyMarkdown": "# Harry Washington Greene\n## Attended Yale Divinity School 1919-1920\nHarry Washington Greene was born in New Bern, North Carolina on February 28, 1896, the son of Elvin and Sophia Greene. His parents had been denied access to education and were illiterate. Greene was able to surpass the educational opportunities of his parents, going on to receive numerous degrees and ultimately become a college administrator himself. He graduated as valedictorian of his high school in 1911 and attended Lincoln University in Pennsylvania from 1913 to 1918, where he received both his bachelor's and master's degrees. From 1919 to 1920 Greene attended the Yale Divinity School, where he was secretary of the Alpha Phi Alpha Fraternity. He subsequently received a master\u2019s in education from Columbia University in 1927. While his career as a college administrator drew more on his background in education, he was an active member of the African Methodist Episcopal Church.\n\nGreene married Leola Stanley in 1920, and in 1922 he began his career as a college administrator, taking a position as Dean of Samuel Huston College in Austin, Texas. Throughout his career he worked at two other historically Black colleges, acting as dean of Prairie View State College (1928-1930), also in Texas, and as director of the School of Education at West Virginia State College (1930-1952). Greene held a number of other significant positions in education, becoming the first Black man to head the Central Texas Teachers' Institute in 1925 and acting as a long-time member of the National Society for the Study of Education and the National Advisory Committee on Negro Education, among other institutions. He also wrote several books on the subject of education and Black educational achievements, including *The PhD and the Negro* (1928), *Criteria of Teacher Excellence* (1933), *An Adventure in Experimental Cooperative Teaching* (1938), *Financing Higher Education in West Virginia* (1945), and *Holders of Doctorates Among American Negroes* (1946). \n\nGreene died on February 18, 1952 in West Virginia after a rapid illness.\n\nImage citation: West Virginia State College _The Arch_ yearbook, 1948, West Virginia State University Library__\n",
     "description": "Attended Yale Divinity School 1919-1920",
     "publicationsMarkdown": "*A Comparison of Student Ratings, Administrative Ratings, Ratings by Colleagues, and Relative Salaries as Criteria of Teaching Excellence*. Institute, WV: West Virginia State College, 1933.\n\n*Negro Leaders: A Study of Educational and Social Background Factors of Prominent Negroes Whose Life Sketches are Carried in National Directories*. Institute, WV: West Virginia State College, 1936.\n\n*An Adventure in Experimental Co-operative Teaching; A General Account of Recent Work in Progressive Education Conducted Jointly by Members of the Department of Education of the Ohio State University and the West Virginia State College*. Institute, WV: West Virginia State College, 1938.\n\n*Two Decades of Research and Creative Writings at West Virginia State College*. Institute, WV: West Virginia State College, 1939.\n\n*Holders of Doctorates Among American Negroes: An Educational and Social Study of Negroes Who Have Earned Doctoral Degrees in Course, 1876-1943*. Boston, MA: Meador Publishing Company, 1946.\n\n*Educating for Community Participation*. Institute, WV: West Virginia State College, 1948.\n\n*Efforts to Improve a Teacher - Education Program through Studies in Intergroup Relations , 1945-48*. Institute, WV: West Virginia State College, 1949.\n",
     "properties": {
@@ -38,7 +38,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q3306469",
                     "data": {
-                        "label": "Prairie View State College",
+                        "label": "Prairie View A&M University",
                         "instance_of": [
                             "university",
                             "land-grant university",
@@ -58,7 +58,7 @@
                             }
                         }
                     },
-                    "text": "Prairie View State College"
+                    "text": "Prairie View A&M University"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -75,8 +75,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 30.264794,
-                                        "longitude": -97.722447
+                                        "latitude": 30.26457,
+                                        "longitude": -97.72233
                                     }
                                 ]
                             }
@@ -98,8 +98,7 @@
                             "private university",
                             "research university",
                             "Colonial Colleges",
-                            "private not-for-profit educational institution",
-                            "organization"
+                            "private not-for-profit educational institution"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -122,10 +121,9 @@
                     "data": {
                         "label": "Lincoln University",
                         "instance_of": [
-                            "university",
+                            "public university",
                             "historically black college or university",
-                            "public educational institution of the United States",
-                            "school"
+                            "public educational institution of the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -358,10 +356,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Harry Washington Greene",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q130286852.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

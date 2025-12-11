@@ -325,13 +325,14 @@
                     "value-type": "wikibase-item",
                     "id": "Q1682329",
                     "data": {
-                        "label": "Tuskegee University",
+                        "label": "Tuskegee University, Alabama, United States",
                         "instance_of": [
                             "university",
                             "land-grant university",
                             "historically black college or university",
                             "private not-for-profit educational institution",
-                            "school"
+                            "school",
+                            "unincorporated community in the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -346,7 +347,7 @@
                             }
                         }
                     },
-                    "text": "Tuskegee University"
+                    "text": "Tuskegee University, Alabama, United States"
                 },
                 {
                     "value-type": "wikibase-item",

@@ -1,7 +1,7 @@
 {
     "id": "Q135790270",
     "label": "Homer Thomas",
-    "biographyMarkdown": "# Homer Thomas\n## Received master's degree, 1912\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Homer Thomas\n## Received master's degree, 1912\n\nHomer Thomas was born on February 5, 1879, to David Thomas and Eliza Rucker in Fincastle, Virginia. According to the 1880 census, the Thomas family were servants to another family. He graduated from the Hampton Normal and Agricultural Institute in Hampton, Virginia in 1902. He later enrolled at Oberlin College in Oberlin, Ohio, graduating with a bachelor\u2019s degree in 1911. Later in the year, he enrolled at Yale Graduate School and received a master\u2019s in education in 1912. Following his graduation, he began teaching at Florida Agricultural and Mechanical College in Tallahassee, Florida. He would go on to serve as a dean at Lincoln University, Bethune-Cookman College in Daytona Beach, Florida and Edward Waters in Jacksonville, Florida. He began teaching at Albany State College in 1943, where he was a professor of mathematics before retiring in 1954.[^1]\n\nHe died on September 28, 1959, and was buried in Gravel Hill Cemetery in Troutville, Virginia.[^2]\n\n[^1]:\"Bland, Virginia, United States records,\" images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:33S7-9YBG-998Z?view=explore : Oct 15, 2025), image 216 of 394; United States. National Archives and Records Administration.\nImage Group Number: 005162772; \u201cAlumni Notes\u201d, _The Yale Alumni Weekly_ 23, no. 8 (1913), 202; \u201cDean,\u201d _New Pittsburgh Courier_, August 4, 1928, 5, https://newscomwc.newspapers.com/image/40103966; \u201cFlorida Approves Edward Waters College,\u201d _The Pittsburgh Courier_, December 7, 1929; ;\u201cFormer Albany State Teacher Dies At 80,\u201d _Atlanta Daily World_, October 13, 1959, 2. \n[^2]:\"Virginia, Death Certificates, 1912-1987\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:QVYP-MDJD : Tue Mar 11 07:47:48 UTC 2025), Entry for Homer Thomas and David Thomas, 28 Sep 1959.\n\n",
     "description": "Received master's degree, 1912",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,280 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1879"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q527127",
+                    "data": {
+                        "label": "Fincastle, Virginia, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "human settlement",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.4994,
+                                        "longitude": -79.8767
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fincastle, Virginia, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1959"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1797817",
+                    "data": {
+                        "label": "Hampton University",
+                        "instance_of": [
+                            "university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.0225,
+                                        "longitude": -76.33472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hampton University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q616591",
+                    "data": {
+                        "label": "Oberlin College",
+                        "instance_of": [
+                            "college",
+                            "liberal arts college",
+                            "private not-for-profit educational institution",
+                            "private university",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.293055555555554,
+                                        "longitude": -82.22166666666666
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Oberlin College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1912"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1430048",
+                    "data": {
+                        "label": "Florida A&M University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black college or university",
+                            "public educational institution of the United States",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.4178,
+                                        "longitude": -84.2845
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Florida A&M University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "public university",
+                            "historically black college or university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3298457",
+                    "data": {
+                        "label": "Bethune-Cookman University",
+                        "instance_of": [
+                            "private university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 29.2103,
+                                        "longitude": -81.0306
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bethune-Cookman University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5345817",
+                    "data": {
+                        "label": "Edward Waters College",
+                        "instance_of": [
+                            "college",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.344444,
+                                        "longitude": -81.684444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Edward Waters College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4709390",
+                    "data": {
+                        "label": "Albany State University",
+                        "instance_of": [
+                            "historically black college or university",
+                            "public educational institution of the United States",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 31.569,
+                                        "longitude": -84.142
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Albany State University"
                 }
             ]
         },

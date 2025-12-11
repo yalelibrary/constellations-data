@@ -1,7 +1,7 @@
 {
     "id": "Q18631454",
     "label": "Stephen Gill Spottswood",
-    "biographyMarkdown": "# Stephen Gill Spottswood  \n## Attended Yale Divinity School 1922-1923\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Stephen Gill Spottswood  \n## Attended Yale Divinity School 1922-1923\n\nStephen Gill Spottswood was born on July 18, 1897, in Boston, Massachusetts, to Abraham Lincoln and Mary Spottswood. His father worked as a store porter. During his youth, Spottswood attended Cambridge Latin School in Massachusetts and Freeport High School. He later returned to Boston where he graduated from Gordon Bible School in 1919 with a theology degree. Following his graduation, he pastored at Green Memorial African Methodist Episcopal Zion Church in Portland, Maine. During his two years at Green Memorial A. M. E. Z., he doubled membership and improved the finances of the church.[^1] \n\nSpottswood moved to New Haven, Connecticut, where he oversaw the Varick A. M. E. Z. Church. In 1922, he enrolled in a one-year postgraduate resident student at Yale Divinity School. Between 1922 to 1925, outside of school and pastoring, Spottswood was also a leader within the New Haven community. He joined the National Association for the Advancement of Colored People (NAACP) chapter in New Haven and became their recording secretary. He also was a board member involved in the construction of the Dixwell Community House (Q House). He was a council member in the New Haven Council of Churches and the New Haven Council of the Boy Scouts of America.[^2]\n\nSpottswood left New Haven in 1925 to serve as a pastor in Winston-Salem, North Carolina, and continued to hold several pastorships in the late 1920s and early 1930s in Indianapolis, Indiana, and Buffalo, New York. In 1936, he left St. Luke\u2019s A. M. E. Z. Church in Buffalo and moved to Washington, D.C., to pastor at John Wesley A. M. E. Z. Church, where he would continue to serve for 16 years. During his time in Washington, he also served as the president of the District of Columbia Branch of the NAACP and oversaw the NAACP\u2019s convention in the city in 1947, which included an address from President Harry Truman. In the 34th quadrennial session of the A. M. E. Z. General Conference in 1952, Spottswood was elected to a bishopric. In 1954, he was elected to the NAACP\u2019s board of directors.[^3]\n\nIn 1919, Spottswood married Viola Estelle Booker in Boston. Viola started out her work in the Foreign Missionary Society and became a supervisor of missionary societies within the A. M. E. Z. Church. In 1952, the Spottswoods were awakened by a house fire in their Washington home. The two were separated while trying to find their grandchildren. Stephen found the children outside, but Viola died from smoke inhalation. He remarried in 1969 to Mattie Johnson Elliot, a principal at the Charles Young Elementary School. Spottswood was eventually elected as the NAACP\u2019s chairman of the Board of Directors in 1961. He led efforts to garner critical support for the passage of the Civil Rights Act of 1964. Following the passage of the bill, Spottswood continued to fight for civil rights, opposing, for example, President Richard Nixon\u2019s efforts to stop school desegregation. Spottswood died in 1974 in Washington, D. C.[^4]  \n\n[^1]: \u201cUnited States, Census, 1900,\u201d Entry for Lincoln Spottswood and Mary E Spottswood, 1900, FamilySearch; \u201cMassachusetts, Town Clerk, Vital and Town Records, 1626-2001,\u201d Entry for Stephen Gill/Spottswood and Lincoln/Spottswood, 18 Jul 1897, FamilySearch; Nathan Aaseng, African-American Religious Leaders (New York: Facts On File, 2003), 222; \u201cDegrees Conferred At Gordon Bible School,\u201d *The Boston Daily Globe*, May 29, 1919; \u201cChurch Notices,\u201d Portland Evening Express & Advertiser, July 17, 1920; \u201cFarewell Sermon Sunday: Pastor of Zion Church Soon to Leave Portland,\u201d *Portland Press*, June 3, 1922. \n\n[^2]: \u201cLocal Pastor Will Go To New Haven,\u201d *Evening Express*, June 13, 1922; *Bulletin of Yale University: General Catalogue 1922-1923* (New Haven, CT: Yale University, 1923), 543; \u201cRev. Spottswood,\u201d *The Sentinel*, January 1, 1926.\n\n[^3]: \u201cNew York: Buffalo,\u201d *The Chicago Defender*, August 8, 1936; \u201cNAACP Convention to Washington, D. C.,\u201d *The Alabama Tribune*, April 4, 1947; \u201cRobeson Holding In Favored Spot For Zion Bishop,\u201d *The New York Age*, May 17, 1952.\n\n[^4]: \u201cMassachusetts, State Vital Records, 1638-1927,\u201d Entry for Stephen G Spottswood and Viola E Booker, 10 Jun 1919, FamilySearch; \u201cWife of Bishop Dies While Battling Fire,\u201d *New Pittsburgh Courier*, October 31, 1953; \u201cGadabouting U.S.A,\u201d *Afro-American*, December 27, 1969; \u201cBishop S. G. Spottswood Is New NAACP Chairman,\u201d *Alabama Tribune*, April 21, 1961; \u201cNAACP at War with Nixon over Busing, Delegates Told,\u201d Press-Telegram, July 4, 1972; \u201cS. G. Spottswood Dies; Led NAACP,\u201d *The Washington Post*, December 3, 1974.\n\nImage citation: Scurlock Studio Records (NMAH.AC.0618.S04.01), Archives Center, National Museum of American History\n",
     "description": "Attended Yale Divinity School 1922-1923",
     "properties": {
         "sex or gender": {
@@ -216,15 +216,174 @@
                 }
             ]
         },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49201",
+                    "data": {
+                        "label": "Portland, Maine, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.66,
+                                        "longitude": -70.255
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Portland, Maine, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49227",
+                    "data": {
+                        "label": "Winston-Salem, North Carolina, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city",
+                            "city in North Carolina"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1025,
+                                        "longitude": -80.260555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Winston-Salem, North Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6346",
+                    "data": {
+                        "label": "Indianapolis, Indiana, United States",
+                        "instance_of": [
+                            "county seat",
+                            "city in the United States",
+                            "planned community",
+                            "big city",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.768611111111,
+                                        "longitude": -86.158055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Indianapolis, Indiana, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q40435",
+                    "data": {
+                        "label": "Buffalo, New York, United States",
+                        "instance_of": [
+                            "city in the state of New York",
+                            "border city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.88638888888889,
+                                        "longitude": -78.87805555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Buffalo, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Stephen Gill Spottswood",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q18631454.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

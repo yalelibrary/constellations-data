@@ -1,7 +1,7 @@
 {
     "id": "Q135790267",
     "label": "Daniel Joseph Winge",
-    "biographyMarkdown": "# Daniel Joseph Winge\n## Attended Yale Law School 1926-1927\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Daniel Joseph Winge\n## Attended Yale Law School 1926-1927\n\nDaniel Joseph Winge was born on March 8th, 1905, in Darien, Georgia to Daniel H. and Georgia J. Winge.[^1] He enrolled at Rutgers University, majoring in Liberal Arts and was part of the college\u2019s YMCA and debate team.[^2] He was also part of Alpha Phi Alpha. He graduated from Rutgers in 1926, and in the same year, enrolled at Yale Law School. However, he left after only a year. In 1930, he enlisted in the New York National Guard and served in the 369th Infantry Regiment.[^3] He soon moved to New Jersey where he was elected to the vestry of the Church of Epiphany in Orange, New Jersey in 1933.[^4] By 1938, he was an assistant manager of the Douglas-Harrison Apartments, the largest Black housing project at the time, and served as president of the Newark Student Camp. \n\nHe was set to marry Helen L. Hearnes, associate director of the Crispus Attucks Community Center when, in June of 1938, Winge embezzled $2,000 from the apartment office and went on the run. Winge went on the run for seven weeks where he travelled across the country on what he called a \u201cSee America Tour\u201d.[^5] He evaded police under a false pseudonym and stayed with acquaintances and friends he made when working at the YMCA and the army. The heist was elevated to the national spotlight as a manhunt for Winge ensued with handbills of him were sent to police departments across the country.[^6]\n\nThe case also gained attention as the previous manager of the housing project was Roscoe C. Bruce who shared a similar background as a Harvard graduate and a member of Omega Psi Phi.[^7] He contacted his sister and surrendered himself to detectives where he explained a loophole he found in the accounting to supplement his low wage. In July, he was sentenced to two years of hard labor at Trenton State Prison but later reduced to 18 months at Essex County Penitentiary.[^8]\n\nHe moved to Philadelphia in the 1940s and married Inetta M. West. He was employed at the Pennsylvania Forge Company and served as a lay reader at St. Simon\u2019s Church.[^9] He died on June 20th, 1966, and is buried at Eden Cemetery in Collingdale, Pennsylvania.\n\n Image citation: Rutgers College. _Scarlet Letter_, 1926. New Brunswick, NJ: Graduating Class of 1926. Special Collections and University Archives, Rutgers University Libraries.\n __\n[^1]:Pennsylvania Historical and Museum Commission; Harrisburg, PA, USA; Pennsylvania (State). Death Certificates, 1906-1968; Box Number: 2483; Certificate Number: 63338; \"United States, Census, 1930\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:X4LQ-V83 : Sat Jul 13 17:55:45 UTC 2024), Entry for Daniel H Winge and Georgia J Winge, 1930.\n[^2]:\u201cDaniel J. Winge, senior photo from the Scarlet Letter yearbook,\u201d Scarlet and Black Digital Archive, Rutgers University, accessed October 15, 2025, https://scarletandblack.rutgers.edu/archive/items/show/578.\n[^3]:\"New York, Records of the State National Guard, 1906-1954\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:QVJY-LN93 : Mon Jan 20 10:17:12 UTC 2025), Entry for Daniel J Winge, 10 Feb 1930.\n[^4]:\u201cOrange, N. J.,\u201d _The New York Age_, January 28, 1933, 8.\n[^5]:\u201cWinge Confesses: Yale Man Arrested in $2,000 Shortage,\u201d _Afro-American_, July 23, 1938, 1.\n[^6]\u201cFind Missing Auto of Newark Fugitive,\u201d _The Pittsburgh Courier_, July 16, 1938, 2.\n[^7]\u201cYale Man May Join Harvarder in N. J. Pen,\u201d _Afro-American_, July 23, 1938, 12.\n[^8]:\u201cTwo Years Hard Labor for Winge,\u201d _Afro-American_, July 30, 1938, 2.\n[^9]:\u201cDied,\u201d _The Philadelphia Inquirer_, June 24, 1966, 30.\n",
     "description": "Attended Yale Law School 1926-1927",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,128 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1905"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1165884",
+                    "data": {
+                        "label": "Darien, Georgia, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "municipality of Georgia"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 31.3711,
+                                        "longitude": -81.4308
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Darien, Georgia, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1966"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1926"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1927"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q499451",
+                    "data": {
+                        "label": "Rutgers University",
+                        "instance_of": [
+                            "public research university",
+                            "Colonial Colleges",
+                            "land-grant university",
+                            "sea grant institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.501666666667,
+                                        "longitude": -74.448055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Rutgers University"
                 }
             ]
         },
