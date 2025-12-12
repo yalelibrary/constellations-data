@@ -1,6 +1,8 @@
 {
     "id": "Q136232092",
     "label": "Joseph H. Evans",
+    "biographyMarkdown": "# Joseph H. Evans\n## Graduate of Yale Divinity School, 1942\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "description": "Graduate of Yale Divinity School, 1942",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -79,6 +81,15 @@
                 {
                     "value-type": "literal",
                     "text": "Evans"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1930s; 1940s"
                 }
             ]
         }
