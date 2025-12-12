@@ -1,6 +1,8 @@
 {
     "id": "Q136232093",
     "label": "Walter Emory Hatfield",
+    "biographyMarkdown": "# Walter Emory Hatfield\n## Attended Yale Medical School 1892-1893 and 1894-1895\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "description": "Attended Yale Medical School 1892-1893 and 1894-1895",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -89,6 +91,15 @@
                 {
                     "value-type": "literal",
                     "text": "Hatfield"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1890s"
                 }
             ]
         }

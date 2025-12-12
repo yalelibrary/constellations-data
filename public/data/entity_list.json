@@ -12750,6 +12750,7 @@
     {
         "id": "Q136232097",
         "label": "George Dennis Kelsey",
+        "description": "Attended Yale Graduate School circa 1937",
         "properties": {
             "image": {
                 "label": "image",
@@ -22877,6 +22878,7 @@
     {
         "id": "Q136232092",
         "label": "Joseph H. Evans",
+        "description": "Graduate of Yale Divinity School, 1942",
         "properties": {
             "image": {
                 "label": "image",
@@ -25987,7 +25989,8 @@
     },
     {
         "id": "Q7088335",
-        "label": "Ollie Harrington",
+        "label": "Oliver W. \"Ollie\" Harrington",
+        "description": "Graduate of Yale School of Art, 1940",
         "properties": {
             "date of birth": {
                 "label": "date of birth",
@@ -26148,7 +26151,7 @@
     {
         "id": "Q135790247",
         "label": "Ollington Erwin Smith",
-        "description": "Graduate of Yale School of Drama, 1937",
+        "description": "Attended Yale School of Drama 1934-1935",
         "properties": {
             "date of birth": {
                 "label": "date of birth",
@@ -28314,6 +28317,7 @@
     {
         "id": "Q136232095",
         "label": "Richard Ishmael McKinney",
+        "description": "Graduate of Yale Graduate School, 1942",
         "properties": {
             "image": {
                 "label": "image",
@@ -33333,6 +33337,7 @@
     {
         "id": "Q136232093",
         "label": "Walter Emory Hatfield",
+        "description": "Attended Yale Medical School 1892-1893 and 1894-1895",
         "properties": {
             "image": {
                 "label": "image",

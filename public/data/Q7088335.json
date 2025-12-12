@@ -1,6 +1,8 @@
 {
     "id": "Q7088335",
-    "label": "Ollie Harrington",
+    "label": "Oliver W. \"Ollie\" Harrington",
+    "biographyMarkdown": "# Oliver W. \"Ollie\" Harrington\n## Graduate of Yale School of Art, 1940\nOliver \u201cOllie\u201d Wendell Harrington was born in New York City in 1912 to Herbert Harrington and Euzenie Turat Harrington. His father was Black, born in the American South, and his mother was Jewish, an immigrant from Austria-Hungary. He attended Textile High School in Manhattan, where he was known for his art and his interest in newspaper cartoons. Following his graduation from high school in 1931, he attended the National Academy of Design.\n\nIn the 1930s, Harrington began publishing political and satirical cartoons, regularly publishing in the Harlem-based Black newspaper *Amsterdam News* and ultimately joining the paper\u2019s staff in 1935. It was in this period that he began drawing \u201cBootsie\u201d (originally called \u201cDark Laughter\u201d), a cartoon series satirizing American racism, which he would draw for over thirty years.\n\nIn 1936, Harrington enrolled in the Yale School of Art at the encouragement of Edward Morrow, another Black Yale alumnus, and continued to support himself through his \u201cBootsie\u201d cartoons while studying at Yale. He graduated with a BFA in 1940. He returned to New York and in 1942 became the art editor of *People's Voice*, a position which he left briefly from 1943-44 to become a war correspondent, particularly covering the Tuskegee Airmen and other Black soldiers. Following the war he briefly worked in public relations for the NAACP before becoming involved in left-wing political organizing, supporting communists and members of the American labor movement who had been arrested for political agitation. For this, and for his work at the Communist Party USA\u2019s Jefferson School of Social Science, the FBI opened a file on Harrington.\n\nIn 1952 Harrington relocated to France, where he befriended Richard Wright and other Black expatriates and continued to draw cartoons for American newspapers. He continued to live there, with a brief interlude in England, until 1961, when he relocated permanently to East Berlin. He began illustrating for East German publications as well, including *The Daily Worker* (now *People\u2019s Weekly World*). He published two books of illustrations and comics in the 1990s, garnering greater attention for his work in the U.S. \n\nHarrington died in Berlin on November 2, 1995.\n",
+    "description": "Graduate of Yale School of Art, 1940",
     "publicationsMarkdown": "*Terror in Tennessee: the Truth about the Columbia Outrages*. New York, NY: Committee of 100, 1946.\n\n\"Advacement Association Voices Its Appreciation,\" *New Journal and Guide*, September 28, 1946. \n\n\"Negroes Want Justice,\" *Michigan Chronicle*, November 16, 1946. \n\n\"Three Agencies Track Down Lynching Gang,\" *New Journal and Guide*, February 22, 1947.\n\n\"Probe First 1947 Lynching,\" *Cleveland Call and Post*, February 22, 1947.\n\n\"May Halt Flow of Jamaicans to Great Britain: England To Halt Onrush,\" Pittsburg Courier January 8, 1955.\n\n*Bootsie and Others: A Selection of Cartoons by Ollie Harrington*. New York, NY: Dodd, Mead, 1958.\n\n*Soul Shots: Political Cartoons*. New York, NY: Long View Pub., 1972.\n\n*Why I Left America and Other Essays*. Jackson, MS: University Press of Mississippi, 1993.\n",
     "properties": {
         "sex or gender": {
@@ -340,6 +342,15 @@
                 {
                     "value-type": "literal",
                     "text": "Harrington"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1930s; 1940s"
                 }
             ]
         }

@@ -1,6 +1,8 @@
 {
     "id": "Q136232097",
     "label": "George Dennis Kelsey",
+    "biographyMarkdown": "# George Dennis Kelsey\n## Attended Yale Graduate School circa 1937\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "description": "Attended Yale Graduate School circa 1937",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -79,6 +81,15 @@
                 {
                     "value-type": "literal",
                     "text": "Kelsey"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1930s"
                 }
             ]
         }
