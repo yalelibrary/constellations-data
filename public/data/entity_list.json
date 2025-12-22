@@ -9818,29 +9818,6 @@
                             }
                         },
                         "text": "Harvard University"
-                    },
-                    {
-                        "value-type": "wikibase-item",
-                        "id": "Q2599077",
-                        "data": {
-                            "label": "Yale College",
-                            "instance_of": [
-                                "college"
-                            ],
-                            "properties": {
-                                "coordinate location": {
-                                    "label": "coordinate location",
-                                    "values": [
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 41.3117,
-                                            "longitude": -72.9253
-                                        }
-                                    ]
-                                }
-                            }
-                        },
-                        "text": "Yale College"
                     }
                 ]
             }
@@ -24384,7 +24361,7 @@
                                 "comprehensive university",
                                 "University of Excellence",
                                 "public university",
-                                "publishing company"
+                                "publishing house"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -25359,7 +25336,6 @@
                                 "public university",
                                 "open-access publisher",
                                 "ancient university",
-                                "organization",
                                 "nonprofit organization"
                             ],
                             "properties": {
@@ -37363,7 +37339,7 @@
                             "instance_of": [
                                 "public educational institution of the United States",
                                 "public research university",
-                                "publishing company",
+                                "publishing house",
                                 "open-access publisher"
                             ],
                             "properties": {
@@ -37762,9 +37738,9 @@
                         "value-type": "wikibase-item",
                         "id": "Q602783",
                         "data": {
-                            "label": "Ocho Rios",
+                            "label": "Ocho Rios, Jamaica",
                             "instance_of": [
-                                "human settlement"
+                                "city"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -37779,7 +37755,7 @@
                                 }
                             }
                         },
-                        "text": "Ocho Rios"
+                        "text": "Ocho Rios, Jamaica"
                     }
                 ]
             },
