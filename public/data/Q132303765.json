@@ -196,7 +196,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q1089251",
                     "data": {
-                        "label": "Bordentown, New Jersey, United States",
+                        "label": "Bordentown City, New Jersey, United States",
                         "instance_of": [
                             "city in New Jersey"
                         ],
@@ -213,7 +213,7 @@
                             }
                         }
                     },
-                    "text": "Bordentown, New Jersey, United States"
+                    "text": "Bordentown City, New Jersey, United States"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -377,6 +377,19 @@
                 {
                     "value-type": "literal",
                     "text": "1890s; 1900s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "31 East Divinity Hall - 1898-1899",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "32 East Divinity Hall - 1899-1901",
+                    "value-type": "literal"
                 }
             ]
         }

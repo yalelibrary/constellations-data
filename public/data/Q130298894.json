@@ -287,6 +287,19 @@
                     "text": "1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "800 Chapel Street - 1906-1907",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "12 Edgewood Avenue - 1907-1909",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

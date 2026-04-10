@@ -175,6 +175,56 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130266858",
+                    "text": "Earley Emmett Caple",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309701",
+                    "text": "Warren Westmoreland Purdy",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309706",
+                    "text": "Wilmer Tyson Shamborguer",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -205,6 +255,23 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "178 Dixwell Avenue - 1921-1922",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "24 Dickerman Street - 1922-1923",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "24 Dickerman Street - 1924-1925",
+                    "value-type": "literal"
                 }
             ]
         }

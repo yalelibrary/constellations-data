@@ -232,6 +232,56 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q135791215",
+                    "text": "Walter Keene",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q135791212",
+                    "text": "Alphonso Primius Dawkins",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130314905",
+                    "text": "Louis Folsom Pollard",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -262,6 +312,19 @@
                 {
                     "value-type": "literal",
                     "text": "1900s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "72 Edgewood Avenue - 1905-1906",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "152 Lawrance Hall - 1906-1908",
+                    "value-type": "literal"
                 }
             ]
         }

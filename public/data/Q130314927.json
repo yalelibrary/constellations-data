@@ -305,6 +305,15 @@
                     "text": "1920s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "440 Orchard Street - 1925-1926",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

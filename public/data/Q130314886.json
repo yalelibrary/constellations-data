@@ -172,6 +172,41 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130285645",
+                    "text": "John Dillingham",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309674",
+                    "text": "John Marshall Miles",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -202,6 +237,19 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "1149 Edwards Hall - 1925-1927",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "2174 Taylor Hall - 1928-1929",
+                    "value-type": "literal"
                 }
             ]
         }

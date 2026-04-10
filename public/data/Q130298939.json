@@ -15,7 +15,8 @@
                         "instance_of": [
                             "seminary",
                             "university building",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "nonprofit organization"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -49,13 +50,11 @@
                     "data": {
                         "label": "Virginia State University, Petersburg, United States",
                         "instance_of": [
-                            "university",
+                            "public university",
                             "land-grant university",
                             "historically black college or university",
                             "public educational institution of the United States",
-                            "entity",
-                            "school",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ]
                     },
                     "text": "Virginia State University, Petersburg, United States"
@@ -249,6 +248,15 @@
                 {
                     "value-type": "literal",
                     "text": "1890s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "38 East Divinity Hall - 1898-1899",
+                    "value-type": "literal"
                 }
             ]
         }

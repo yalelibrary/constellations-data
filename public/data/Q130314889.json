@@ -130,7 +130,7 @@
                     "data": {
                         "label": "San Francisco, California, United States",
                         "instance_of": [
-                            "charter city and county",
+                            "\u0634\u0631\u0642 \u0627\u0644\u0627\u0648\u0633\u0637",
                             "city in the United States",
                             "big city",
                             "sanctuary city",
@@ -225,8 +225,7 @@
                             "constitutional republic",
                             "nation",
                             "empire",
-                            "empire",
-                            "Next Eleven"
+                            "empire"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -280,7 +279,7 @@
                     "data": {
                         "label": "San Francisco, California, United States",
                         "instance_of": [
-                            "charter city and county",
+                            "\u0634\u0631\u0642 \u0627\u0644\u0627\u0648\u0633\u0637",
                             "city in the United States",
                             "big city",
                             "sanctuary city",
@@ -357,6 +356,27 @@
                 {
                     "value-type": "literal",
                     "text": "1880s; 1890s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "107 York Street - 1888-1889",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "111 York Street  - 1889-1890",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "160 Farnam Hall - 1890-1891",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "379 Crown Street - 1892-1893",
+                    "value-type": "literal"
                 }
             ]
         }

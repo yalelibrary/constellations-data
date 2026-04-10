@@ -338,6 +338,19 @@
                     "text": "1910s; 1930s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "870 Yale Station - 1911-1912",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "870 Yale P.O. - 1912-1914",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

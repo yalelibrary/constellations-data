@@ -160,6 +160,15 @@
                     "text": "1850s; 1860s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "10 West Chapel Street - 1859-1860",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

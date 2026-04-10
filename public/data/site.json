@@ -9,5 +9,7 @@
     "labelOverrides": "constellations-data/wikidata-lists/label_overrides.csv",
     "decadesValues": "constellations-data/wikidata-lists/decades.csv",
     "propertyOverrideUrlPrefix": "constellations-data/property-value-override/",
-    "publicationsUrlPrefix": "constellations-data/publications/"
+    "publicationsUrlPrefix": "constellations-data/publications/",
+    "sameAsAddress": "constellations-data/addresses/save_address_as.csv",
+    "addresses": "constellations-data/addresses/student_addresses.csv"
 }

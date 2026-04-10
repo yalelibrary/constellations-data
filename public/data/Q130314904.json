@@ -212,6 +212,19 @@
                     "text": "1850s; 1860s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "62 West Chapel Street - 1858-1859",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "38 Howe Street - 1859-1860",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

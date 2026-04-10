@@ -214,6 +214,15 @@
                     "text": "1890s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "115 Day Street - 1894-1896",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

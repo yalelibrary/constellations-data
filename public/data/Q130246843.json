@@ -315,6 +315,19 @@
                     "text": "1890s; 1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "82 Bradley Street - 1892-1894",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "403 Berkeley Hall - 1894-1896",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

@@ -262,6 +262,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309664",
+                    "text": "John Wesley Manning",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -292,6 +312,19 @@
                 {
                     "value-type": "literal",
                     "text": "1870s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "45 Goffe Street - 1874-1876",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "20 South College - 1876-1878",
+                    "value-type": "literal"
                 }
             ]
         }

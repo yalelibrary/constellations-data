@@ -424,7 +424,7 @@
                         "label": "Harlem, Manhattan, United States",
                         "instance_of": [
                             "neighborhood of Manhattan",
-                            "unincorporated community in the United States",
+                            "unincorporated community",
                             "village of New York"
                         ],
                         "properties": {
@@ -507,6 +507,21 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q134476406",
+                    "text": "Albert Morris Thomas, Jr.",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -540,6 +555,19 @@
                 {
                     "value-type": "literal",
                     "text": "1880s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "118 West Divinity Hall - 1881-1882",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "111 West Divinity Hall - 1883-1885",
+                    "value-type": "literal"
                 }
             ]
         }

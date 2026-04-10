@@ -53,6 +53,15 @@
                     "text": "1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "35 East Divinity Hall - 1900-1901",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

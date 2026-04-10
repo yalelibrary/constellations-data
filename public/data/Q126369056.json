@@ -299,6 +299,66 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130246781",
+                    "text": "Stephen Alexander Bennett",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q135791210",
+                    "text": "John William Hudspeth",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130286795",
+                    "text": "Viola White Goin",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q126369081",
+                    "text": "Viola Goin Palmer",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -332,6 +392,23 @@
                 {
                     "value-type": "literal",
                     "text": "1900s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "108 Dixwell Avenue - 1901-1902",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "34 Foote Street - 1902-1903",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "1320 Chapel Street - 1903-1904",
+                    "value-type": "literal"
                 }
             ]
         }

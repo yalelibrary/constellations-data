@@ -316,7 +316,7 @@
                         "label": "Wilberforce, Ohio, United States",
                         "instance_of": [
                             "census-designated place in the United States",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -414,6 +414,19 @@
                 {
                     "value-type": "literal",
                     "text": "1880s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "33 East Divinity Hall - 1880-1882",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "17 East Divinity Hall - 1882-1884",
+                    "value-type": "literal"
                 }
             ]
         }

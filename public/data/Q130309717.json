@@ -431,6 +431,15 @@
                     "text": "1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "602 East Divinity Hall - 1901-1903",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

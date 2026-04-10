@@ -21,6 +21,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130285631",
+                    "text": "Everett Frederick Samuel Davies",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -51,6 +71,15 @@
                 {
                     "value-type": "literal",
                     "text": "1920s; 1930s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "2171 Taylor Hall - 1929-1930",
+                    "value-type": "literal"
                 }
             ]
         }

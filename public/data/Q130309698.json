@@ -22,10 +22,9 @@
                     "data": {
                         "label": "Northwestern University",
                         "instance_of": [
-                            "university",
+                            "private university",
                             "private not-for-profit educational institution",
-                            "research institute",
-                            "school"
+                            "research institute"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -209,6 +208,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130314912",
+                    "text": "William Thomas McKnight II",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -239,6 +258,15 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "68 Dixwell Avenue - 1925-1926",
+                    "value-type": "literal"
                 }
             ]
         }

@@ -194,6 +194,15 @@
                     "text": "1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "59 Dixwell Avenue - 1911-1912",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

@@ -23,7 +23,7 @@
                     "data": {
                         "label": "Grove, Virginia, United States",
                         "instance_of": [
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -77,7 +77,35 @@
                             }
                         }
                     },
-                    "text": "Lincoln University"
+                    "text": "Lincoln University",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1911"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "academic degree",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q1765120",
+                                    "data": {
+                                        "label": "Bachelor of Arts",
+                                        "instance_of": [
+                                            "arts degree",
+                                            "academic degree"
+                                        ]
+                                    },
+                                    "text": "Bachelor of Arts"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "value-type": "wikibase-item",
@@ -173,7 +201,7 @@
                     "data": {
                         "label": "Grove, Virginia, United States",
                         "instance_of": [
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -209,6 +237,56 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309655",
+                    "text": "Alexander Henry Jones",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309684",
+                    "text": "Duke Gray Munroe",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309741",
+                    "text": "Nathan Benjamin Young, Jr.",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -239,6 +317,19 @@
                 {
                     "value-type": "literal",
                     "text": "1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "656 Taylor Hall - 1913-1915",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "1156 Taylor Hall - 1915-1916",
+                    "value-type": "literal"
                 }
             ]
         }

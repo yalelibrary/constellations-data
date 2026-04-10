@@ -226,6 +226,21 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309735",
+                    "text": "Gonsalvo Cotobus Williams, Jr.",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -259,6 +274,19 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "9 High Street - 1922-1923",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "100 Park Street - 1924-1926",
+                    "value-type": "literal"
                 }
             ]
         }

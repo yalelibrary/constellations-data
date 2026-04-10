@@ -103,7 +103,7 @@
                         "label": "Western Branch, Virginia, United States",
                         "instance_of": [
                             "human settlement",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -309,6 +309,15 @@
                 {
                     "value-type": "literal",
                     "text": "1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "11 Charles Street - 1911-1912",
+                    "value-type": "literal"
                 }
             ]
         }

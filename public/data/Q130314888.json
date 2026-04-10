@@ -177,7 +177,6 @@
                         "label": "Richmond, Virginia, United States",
                         "instance_of": [
                             "independent city in the United States",
-                            "state or insular area capital of the United States",
                             "city in the United States",
                             "big city"
                         ],
@@ -276,6 +275,15 @@
                 {
                     "value-type": "literal",
                     "text": "1870s; 1880s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "20 Downes Street - 1879-1881",
+                    "value-type": "literal"
                 }
             ]
         }

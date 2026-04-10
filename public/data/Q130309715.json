@@ -300,6 +300,19 @@
                     "text": "1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "739 Sperry Street - 1905-1906",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "65 Edgewood Avenue - 1906-1908",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

@@ -1,7 +1,7 @@
 {
     "id": "Q130286675",
     "label": "William H. Ealbeck",
-    "biographyMarkdown": "# William H. Ealbeck\n## Attended Yale School of Medicine, 1859-1860\nWilliam Henry Ealbeck was born in Liberia. According to an 1863 article in the Buffalo, NY *Advocate*, Ealbeck and Henry Williams Foster applied to the Berkshire Medical Institution (later Berkshire Medical College) in Pittsfield, Massachusetts but were refused admission. The two students were then admitted to the Yale Medical School in 1859, where they roomed together for a time at 63 Goffe St. According to Jill Newmark\u2019s *Without Concealment, Without Compromise: The Courageous Lives of Black Civil War Surgeons*, Ealbeck served as an apprentice to Yale alum Dr. Cortlandt Van Resselaer Creed. In 1860, Ealbeck transferred to Bowdoin College in Brunswick, Maine, where he finished his medical degree. The same year, he married Annie E. Vincent in New Haven, and returned to Liberia on the American Colonization Society\u2019s ship the *Mary Caroline Stevens*. Little has been found about his life before or after his time in the United States, but he may have died in 1863 in Liberia.\n",
+    "biographyMarkdown": "# William H. Ealbeck\n## Attended Yale School of Medicine, 1859-1860\nWilliam Henry Ealbeck was born in Liberia. According to an 1863 article in the Buffalo, NY *Advocate*, Ealbeck and Henry Williams Foster applied to the Berkshire Medical Institution (later Berkshire Medical College) in Pittsfield, Massachusetts but were refused admission. The two students were then admitted to the Yale Medical School in 1859, where they roomed together for a time at 63 Goffe St. According to Jill Newmark\u2019s *Without Concealment, Without Compromise: The Courageous Lives of Black Civil War Surgeons*, Ealbeck served as an apprentice to Yale alum Dr. Cortlandt Van Rensselaer Creed. In 1860, Ealbeck transferred to Bowdoin College in Brunswick, Maine, where he finished his medical degree. The same year, he married Annie E. Vincent in New Haven, and returned to Liberia on the American Colonization Society\u2019s ship the *Mary Caroline Stevens*. Little has been found about his life before or after his time in the United States, but he may have died in 1863 in Liberia.\n",
     "description": "Attended Yale School of Medicine, 1859-1860",
     "properties": {
         "place of birth": {
@@ -154,6 +154,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130286767",
+                    "text": "Henry Williams Foster",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -184,6 +204,15 @@
                 {
                     "value-type": "literal",
                     "text": "1850s; 1860s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "63 Goffe Street - 1859-1860",
+                    "value-type": "literal"
                 }
             ]
         }

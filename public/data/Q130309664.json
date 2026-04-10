@@ -202,6 +202,21 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309703",
+                    "text": "Edward Enoch Reed",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -307,6 +322,15 @@
                 {
                     "value-type": "literal",
                     "text": "1870s; 1880s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "20 South College - 1877-1881",
+                    "value-type": "literal"
                 }
             ]
         }

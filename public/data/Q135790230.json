@@ -282,6 +282,23 @@
                     "text": "1910s; 1920s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "78 Dickerman Street - 1919-1920",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "98 Dixwell Avenue - 1920-1921",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "88 Dixwell Avenue - 1921-1922",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

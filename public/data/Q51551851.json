@@ -233,6 +233,66 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130246785",
+                    "text": "Eli George Biddle",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q65048475",
+                    "text": "George H. Jackson",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309700",
+                    "text": "Isaac Napoleon Porter",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q135790246",
+                    "text": "Miles Remond Gordon",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -266,6 +326,23 @@
                 {
                     "value-type": "literal",
                     "text": "1880s; 1890s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "12 Martin Street - 1888-1889",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "12 Edgewood Avenue - 1889-1890",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "115 Day Street - 1890-1891",
+                    "value-type": "literal"
                 }
             ]
         }

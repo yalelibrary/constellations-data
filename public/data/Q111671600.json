@@ -83,7 +83,8 @@
                     "data": {
                         "label": "Sorbonne University",
                         "instance_of": [
-                            "university in France"
+                            "university in France",
+                            "public university"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -108,7 +109,8 @@
                         "instance_of": [
                             "seminary",
                             "university building",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "nonprofit organization"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -283,8 +285,11 @@
                             "college town",
                             "big city",
                             "primate city",
-                            "department of France",
-                            "national capital"
+                            "national capital",
+                            "financial center",
+                            "commercial capital city",
+                            "cultural capital",
+                            "fashion capital"
                         ],
                         "properties": {
                             "coordinate location": {

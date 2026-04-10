@@ -153,6 +153,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130314885",
+                    "text": "Charles Edward Moss",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -183,6 +203,15 @@
                 {
                     "value-type": "literal",
                     "text": "1920s; 1930s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "2166 Taylor Hall - 1928-1930",
+                    "value-type": "literal"
                 }
             ]
         }

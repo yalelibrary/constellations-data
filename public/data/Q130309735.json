@@ -257,6 +257,21 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q132783211",
+                    "text": "Cecil Bonneau Williams",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -290,6 +305,19 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "9 High Street - 1922-1923",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "100 Park Street - 1924-1926",
+                    "value-type": "literal"
                 }
             ]
         }

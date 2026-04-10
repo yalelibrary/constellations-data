@@ -54,7 +54,7 @@
                             "historically black college or university",
                             "private not-for-profit educational institution",
                             "school",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -269,6 +269,15 @@
                 {
                     "value-type": "literal",
                     "text": "1900s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "666 West Divinity Hall - 1902-1903",
+                    "value-type": "literal"
                 }
             ]
         }

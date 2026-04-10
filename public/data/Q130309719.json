@@ -99,7 +99,6 @@
                         "label": "Richmond, Virginia, United States",
                         "instance_of": [
                             "independent city in the United States",
-                            "state or insular area capital of the United States",
                             "city in the United States",
                             "big city"
                         ],
@@ -209,7 +208,6 @@
                         "label": "Richmond, Virginia, United States",
                         "instance_of": [
                             "independent city in the United States",
-                            "state or insular area capital of the United States",
                             "city in the United States",
                             "big city"
                         ],
@@ -247,6 +245,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q135790258",
+                    "text": "Thomas Boyne Patterson",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -277,6 +295,19 @@
                 {
                     "value-type": "literal",
                     "text": "1890s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "73 Eaton Street - 1890-1891",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "107 Whalley Avenue - 1891-1892",
+                    "value-type": "literal"
                 }
             ]
         }

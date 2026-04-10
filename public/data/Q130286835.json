@@ -322,6 +322,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130236135",
+                    "text": "Edward Francis Barrow",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -352,6 +372,23 @@
                 {
                     "value-type": "literal",
                     "text": "1900s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "653 East Divinity Hall - 1901-1902",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "634 East Divinity Hall - 1902-1903",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "166 Henry Street - 1904-1905",
+                    "value-type": "literal"
                 }
             ]
         }

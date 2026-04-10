@@ -88,10 +88,9 @@
                     "data": {
                         "label": "Northwestern University",
                         "instance_of": [
-                            "university",
+                            "private university",
                             "private not-for-profit educational institution",
-                            "research institute",
-                            "school"
+                            "research institute"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -456,6 +455,19 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "218 W. 130th Street, New York City - 1921-1923",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "125 High Street - 1924-1925",
+                    "value-type": "literal"
                 }
             ]
         }

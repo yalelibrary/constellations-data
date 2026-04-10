@@ -155,6 +155,15 @@
                     "text": "1900s; 1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "43 Foote Street - 1909-1913",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

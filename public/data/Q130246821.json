@@ -249,6 +249,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q116360824",
+                    "text": "Solomon Melvin Coles",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -279,6 +299,23 @@
                 {
                     "value-type": "literal",
                     "text": "1870s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "92 High Street - 1872-1873",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "81 Howe Street - 1875-1876",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "6 East Divinity Hall - 1876-1877",
+                    "value-type": "literal"
                 }
             ]
         }

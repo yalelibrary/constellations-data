@@ -306,6 +306,15 @@
                     "text": "1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "1150 Edwards Hall - 1916-1917",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

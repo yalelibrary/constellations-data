@@ -179,8 +179,8 @@
                     "data": {
                         "label": "University of Paris",
                         "instance_of": [
-                            "university in France",
-                            "former entity"
+                            "former entity",
+                            "university in France"
                         ],
                         "properties": {
                             "coordinate location": {

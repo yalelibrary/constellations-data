@@ -221,6 +221,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309677",
+                    "text": "Albert President Miller",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -251,6 +271,15 @@
                 {
                     "value-type": "literal",
                     "text": "1880s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "111 West Divinity Hall - 1883-1884",
+                    "value-type": "literal"
                 }
             ]
         }

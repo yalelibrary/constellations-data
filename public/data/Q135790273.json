@@ -171,6 +171,15 @@
                     "text": "1910s; 1920s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "103 County Street - 1919-1920",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

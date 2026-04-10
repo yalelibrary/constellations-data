@@ -278,6 +278,15 @@
                     "text": "1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "1119 Edwards Hall - 1918-1919",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

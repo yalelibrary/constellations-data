@@ -121,6 +121,51 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309716",
+                    "text": "Charles William Snyder",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309736",
+                    "text": "William Houston Wright",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309709",
+                    "text": "Cyrus Spottswood Shippen",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -199,6 +244,23 @@
                 {
                     "value-type": "literal",
                     "text": "1890s; 1900s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "37 Eaton Street - 1896-1897",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "1016 Chapel Street - 1897-1899",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "75 Broadway - 1899-1900",
+                    "value-type": "literal"
                 }
             ]
         }

@@ -93,6 +93,15 @@
                                     "text": "1876"
                                 }
                             ]
+                        },
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1874"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -117,7 +126,27 @@
                             }
                         }
                     },
-                    "text": "Hopkins School"
+                    "text": "Hopkins School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1868"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1870"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "value-type": "wikibase-item",
@@ -140,7 +169,27 @@
                             }
                         }
                     },
-                    "text": "Hillhouse High School"
+                    "text": "Hillhouse High School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1866"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1868"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "value-type": "wikibase-item",
@@ -171,6 +220,50 @@
                                 {
                                     "value-type": "time",
                                     "text": "1874"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1870"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5577256",
+                    "data": {
+                        "label": "Goffe Street Special School for Colored Children",
+                        "instance_of": [
+                            "special education school",
+                            "school building"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.315556,
+                                        "longitude": -72.935
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Goffe Street Special School for Colored Children",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1866"
                                 }
                             ]
                         }
@@ -236,47 +329,35 @@
                             "educational institution"
                         ]
                     },
-                    "text": "Institute for Colored Youth"
-                }
-            ]
-        },
-        "residence": {
-            "label": "residence",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q49145",
-                    "data": {
-                        "label": "New Haven, Connecticut, United States",
-                        "instance_of": [
-                            "city in the United States",
-                            "big city"
-                        ],
-                        "properties": {
-                            "coordinate location": {
-                                "label": "coordinate location",
-                                "values": [
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 41.308333333333,
-                                        "longitude": -72.925
-                                    }
-                                ]
-                            }
+                    "text": "Institute for Colored Youth",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1874"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1902"
+                                }
+                            ]
                         }
-                    },
-                    "text": "New Haven, Connecticut, United States"
+                    ]
                 },
                 {
                     "value-type": "wikibase-item",
-                    "id": "Q1345",
+                    "id": "Q7637977",
                     "data": {
-                        "label": "Philadelphia, Pennsylvania, United States",
+                        "label": "Sumner High School",
                         "instance_of": [
-                            "city of Pennsylvania",
-                            "county seat",
-                            "home rule municipality of Pennsylvania",
-                            "consolidated city-county"
+                            "high school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -284,14 +365,153 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 39.952777777778,
-                                        "longitude": -75.163611111111
+                                        "latitude": 38.65972222222222,
+                                        "longitude": -90.23916666666666
                                     }
                                 ]
                             }
                         }
                     },
-                    "text": "Philadelphia, Pennsylvania, United States"
+                    "text": "Sumner High School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1902"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1903"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7402014",
+                    "data": {
+                        "label": "Saint Paul's College",
+                        "instance_of": [
+                            "academic institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.760833,
+                                        "longitude": -77.85
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Saint Paul's College",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1906"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1908"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q138660391",
+                    "data": {
+                        "label": "Gallipolis Lincoln School",
+                        "instance_of": [
+                            "high school"
+                        ]
+                    },
+                    "text": "Gallipolis Lincoln School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1908"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1913"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4917518",
+                    "data": {
+                        "label": "Bishop College",
+                        "instance_of": [
+                            "higher education institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.6781,
+                                        "longitude": -96.7552
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bishop College",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1914"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1916"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -325,6 +545,15 @@
                 {
                     "value-type": "literal",
                     "text": "1870s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "42 Bradley Street - 1870-1876",
+                    "value-type": "literal"
                 }
             ]
         }

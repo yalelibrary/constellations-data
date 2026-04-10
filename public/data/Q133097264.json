@@ -188,6 +188,71 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130266858",
+                    "text": "Earley Emmett Caple",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309691",
+                    "text": "James Austin Norris",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309741",
+                    "text": "Nathan Benjamin Young, Jr.",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q132303771",
+                    "text": "William Lawrence Peppers",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -218,6 +283,23 @@
                 {
                     "value-type": "literal",
                     "text": "1910s; 1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "207 Park Street - 1916-1918",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "65 Edgewood Avenue - 1919-1920",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "35 Dickerman Street - 1920-1921",
+                    "value-type": "literal"
                 }
             ]
         }

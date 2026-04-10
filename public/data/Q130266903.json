@@ -397,6 +397,19 @@
                     "text": "1880s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "50 East Divinity Hall - 1884-1885",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "104 West Divinity Hall - 1885-1886",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

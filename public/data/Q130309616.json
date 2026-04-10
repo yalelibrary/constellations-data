@@ -226,6 +226,15 @@
                     "text": "1890s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "52 East Divinity Hall - 1890-1891",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

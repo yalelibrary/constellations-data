@@ -407,6 +407,15 @@
                     "text": "1920s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "11 Charles Street - 1922-1923",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

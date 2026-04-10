@@ -216,6 +216,19 @@
                     "text": "1910s; 1920s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "33 Spruce Street - 1914-1917",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "8 Garden Street - 1919-1922",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

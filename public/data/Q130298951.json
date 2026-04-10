@@ -66,7 +66,8 @@
                         "instance_of": [
                             "seminary",
                             "university building",
-                            "private not-for-profit educational institution"
+                            "private not-for-profit educational institution",
+                            "nonprofit organization"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -100,13 +101,11 @@
                     "data": {
                         "label": "Virginia State University, Petersburg, United States",
                         "instance_of": [
-                            "university",
+                            "public university",
                             "land-grant university",
                             "historically black college or university",
                             "public educational institution of the United States",
-                            "entity",
-                            "school",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ]
                     },
                     "text": "Virginia State University, Petersburg, United States"
@@ -338,8 +337,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 42.706944444444,
-                                        "longitude": -71.163611111111
+                                        "latitude": 42.706944444444446,
+                                        "longitude": -71.16333333333333
                                     }
                                 ]
                             }
@@ -419,6 +418,15 @@
                 {
                     "value-type": "literal",
                     "text": "1890s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "32 East Divinity Hall - 1894-1895",
+                    "value-type": "literal"
                 }
             ]
         }

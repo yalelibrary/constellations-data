@@ -323,6 +323,15 @@
                     "text": "1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "169 Park Street - 1912-1913",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

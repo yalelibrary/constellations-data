@@ -155,10 +155,7 @@
                         "label": "University of California, Los Angeles",
                         "instance_of": [
                             "public research university",
-                            "public educational institution of the United States",
-                            "university",
-                            "campus",
-                            "organization"
+                            "public educational institution of the United States"
                         ],
                         "properties": {
                             "coordinate location": {

@@ -411,7 +411,7 @@
                         "label": "Wilberforce, Ohio, United States",
                         "instance_of": [
                             "census-designated place in the United States",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -545,7 +545,7 @@
                         "label": "Wilberforce, Ohio, United States",
                         "instance_of": [
                             "census-designated place in the United States",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -605,6 +605,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130314893",
+                    "text": "Aaron Theophilus Peters",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "co-residents"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -635,6 +655,23 @@
                 {
                     "value-type": "literal",
                     "text": "1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "1156 Taylor Hall - 1916-1917",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "1137 Edwards Hall - 1917-1918",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "1134 Edwards Hall - 1918-1919",
+                    "value-type": "literal"
                 }
             ]
         }

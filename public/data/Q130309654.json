@@ -171,7 +171,7 @@
                         "label": "Wilberforce, Ohio, United States",
                         "instance_of": [
                             "census-designated place in the United States",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -237,6 +237,23 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "96 Wall Street - 1926-1927",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "9 Garden Street - 1928-1929",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "318 York Street",
+                    "value-type": "literal"
                 }
             ]
         }
