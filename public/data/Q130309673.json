@@ -286,6 +286,27 @@
                     "text": "1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "28 Gill Street - 1905-1906",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "249 Crown Street - 1906-1907",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "28 Gill Street - 1907-1908",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "16 Gill Street - 1908-1909",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

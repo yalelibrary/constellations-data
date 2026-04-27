@@ -332,7 +332,7 @@
                             "historically black college or university",
                             "private not-for-profit educational institution",
                             "school",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -405,6 +405,15 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "1147 Edwards Hall - 1922-1923",
+                    "value-type": "literal"
                 }
             ]
         }

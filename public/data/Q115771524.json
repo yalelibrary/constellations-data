@@ -106,6 +106,15 @@
                     "text": "1920s; 1930s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "33 Goffe Street - 1929-1930",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

@@ -318,6 +318,15 @@
                     "text": "1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "129 Henry Street - 1912-1913",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

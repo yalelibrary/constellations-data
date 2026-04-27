@@ -194,6 +194,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q135790280",
+                    "text": "Arthur Chester Clarke",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -224,6 +244,15 @@
                 {
                     "value-type": "literal",
                     "text": "1920s; 1930s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "2166 Taylor Hall - 1929-1930",
+                    "value-type": "literal"
                 }
             ]
         }

@@ -293,6 +293,27 @@
                     "text": "1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "175 Goffe Street - 1907-1908",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "396 Berkeley Hall - 1908-1909",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "413 Berkeley Hall - 1909-1910",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "687 Taylor Hall - 1910-1911",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

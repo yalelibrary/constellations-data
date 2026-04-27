@@ -1,7 +1,7 @@
 {
     "id": "Q135790238",
     "label": "Frances Dingwall Corey",
-    "biographyMarkdown": "# Frances Dingwall Corey\n## Graduate of Yale School of Music, 1934\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Frances Dingwall Corey\n## Graduate of Yale School of Music, 1934\n\nFrances White Dingwall was born on May 30, 1908, in New Haven, Connecticut to Joseph Nathaniel Dingwall and Sarah Elizabeth Bradley. Her father was a Jamaican immigrant and worked as a gardener. On her mother's side, she was a grandniece of Richard and Julia Pennington Gibbs Muse and first cousin once removed to two fellow Black graduates of Yale School of Music: Victoria Josephine Muse and Jessie Estell Muse. According to the 1910 US Census, the Dingwall family lived on 169 Bassett Street with the Muse family.[^1] Her mother died in 1914.\n\nFrances won a musical technique contest at The Nutmeg State Federation of Colored Women\u2019s Clubs Convention in 1922. Mary McLeod Bethune, president of the National Association of Colored Women, appointed Frances as state chairman for music in 1928. She periodically attended the Yale School of Music from the mid-1920s until her graduation in 1934. The *Yale Daily News* reported Frances\u2019 participation at several recitals given at Dwight Memorial Chapel and Sprague Memorial Hall. According to the 1940 US Census, she worked as a piano teacher and was married to Norman Winifred Corey. Alongside her teaching role, Frances oversaw the Dixwell Glee Club. In the 1950 Census, Frances is listed as separated, farming, and living with her young daughters Madeline and Myra in Bethany, Connecticut. She died on August 10, 1951, and is buried in Evergreen Cemetery.[^2] \n\n[^1]: Frances Dingwall, entry in Connecticut, U.S., Birth Index, 1897\u20131918, database, Ancestry.com, citing Connecticut State Department of Health, Hartford; \u201cDouble Funeral Services Held For Woman, 80,\u201d *Afro-American*, March 10, 1934, 24; \"United States, Census, 1910\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MK22-2B9 : Wed Aug 13 15:35:09 UTC 2025), Entry for Joseph N Dinzwall and Sarah Dinzwall, 1910. \n\n[^2]: \u201cConnecticut Women\u2019s Federation Meeting,\u201d The New York Age, August 5, 1922, 6; \u201cNew Haven, Conn.,\u201d *New Pittsburgh Courier*, March 17, 1928, 19; \u201cMusic School Students To Give Organ Recital,\u201d *The Yale Daily News*, May 19, 1933,1; \u201cStudents Will Present Recital This Afternoon,\u201d *The Yale Daily News*, April 24, 1934, 1; \u201cMusic School Students Will Give Fifth Recital,\u201d *The Yale Daily News*, May 10, 1934; \u201cMusic School Students Will Play Own Pieces,\u201d *The Yale Daily News*, May 25, 1934, 1; \"United States, Census, 1940\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:KWM3-QMB : Wed Jan 22 14:02:13 UTC 2025), Entry for Joseph Dingwall and Olive Dingwall, 1940; \u201cConnecticut State: New Haven,\u201d *Afro-American*, December 18, 1937, 14; \"United States, Census, 1950\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6FMX-95N3 : Thu Oct 05 22:36:16 UTC 2023), Entry for Frances W Corey and Myra F Corey, 1 April 1950; https://www.findagrave.com/memorial/147371804/frances-corey. \n\n \n",
     "description": "Graduate of Yale School of Music, 1934",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,184 @@
                         ]
                     },
                     "text": "female"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1908"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130314896",
+                    "data": {
+                        "label": "Victoria Josephine Muse",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Victoria Josephine Muse",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q17770960",
+                                    "data": {
+                                        "label": "second aunt",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "second aunt"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130314895",
+                    "data": {
+                        "label": "Jessie Estelle Muse",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Jessie Estelle Muse",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q17770960",
+                                    "data": {
+                                        "label": "second aunt",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "second aunt"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2572268",
+                    "data": {
+                        "label": "Bethany, Connecticut, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.425555555556,
+                                        "longitude": -72.9925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bethany, Connecticut, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1951"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2784420",
+                    "data": {
+                        "label": "Yale School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3099,
+                                        "longitude": -72.9264
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Music",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1934"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

@@ -121,8 +121,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 35.381944444444,
-                                        "longitude": -77.978055555556
+                                        "latitude": 35.38388888888889,
+                                        "longitude": -77.995
                                     }
                                 ]
                             }
@@ -257,8 +257,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 35.381944444444,
-                                        "longitude": -77.978055555556
+                                        "latitude": 35.38388888888889,
+                                        "longitude": -77.995
                                     }
                                 ]
                             }
@@ -345,6 +345,15 @@
                 {
                     "value-type": "literal",
                     "text": "1890s; 1900s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "43 East Divinity Hall - 1899-1900",
+                    "value-type": "literal"
                 }
             ]
         }

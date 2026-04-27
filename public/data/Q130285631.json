@@ -126,13 +126,11 @@
                     "data": {
                         "label": "Virginia State University, Petersburg, United States",
                         "instance_of": [
-                            "university",
+                            "public university",
                             "land-grant university",
                             "historically black college or university",
                             "public educational institution of the United States",
-                            "entity",
-                            "school",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ]
                     },
                     "text": "Virginia State University, Petersburg, United States"
@@ -232,6 +230,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q135791198",
+                    "text": "Norman Lee Bush",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -262,6 +280,15 @@
                 {
                     "value-type": "literal",
                     "text": "1920s; 1930s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "2171 Taylor Hall - 1929-1930",
+                    "value-type": "literal"
                 }
             ]
         }

@@ -299,6 +299,21 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q24436511",
+                    "text": "Orishatukeh Faduma",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -332,6 +347,23 @@
                 {
                     "value-type": "literal",
                     "text": "1890s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "36 East Divinity Hall - 1891-1892",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "46 East Divinity Hall - 1892-1893",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "18 East Divinity Hall - 1893-1894",
+                    "value-type": "literal"
                 }
             ]
         }

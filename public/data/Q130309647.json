@@ -311,6 +311,15 @@
                     "text": "1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "56 Ashmun Street - 1912-1914",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

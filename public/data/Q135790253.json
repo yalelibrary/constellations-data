@@ -53,6 +53,15 @@
                     "text": "1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "679 Chapel Street - 1903-1904",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

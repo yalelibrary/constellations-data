@@ -201,6 +201,15 @@
                     "text": "1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "2 Lincoln Street - 1915-1917",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

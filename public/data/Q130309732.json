@@ -238,6 +238,15 @@
                     "text": "1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "276 Division Street - 1916-1917",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

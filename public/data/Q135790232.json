@@ -262,6 +262,23 @@
                     "text": "1920s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "112 College Street - 1925-1926",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "65 Edgewood Avenue - 1926-1927",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "54 Dixwell Avenue - 1928-1929",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

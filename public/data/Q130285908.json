@@ -22,7 +22,7 @@
                     "data": {
                         "label": "Wainwright, Alabama, United States",
                         "instance_of": [
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -172,7 +172,7 @@
                     "data": {
                         "label": "Wainwright, Alabama, United States",
                         "instance_of": [
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -238,6 +238,19 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "2171 Taylor Hall - 1928-1929",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "2172 Taylor Hall - 1929-1930",
+                    "value-type": "literal"
                 }
             ]
         }

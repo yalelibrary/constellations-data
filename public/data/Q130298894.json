@@ -11,7 +11,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q1144262",
                     "data": {
-                        "label": "Western University",
+                        "label": "University of Western Ontario",
                         "instance_of": [
                             "public research university",
                             "open-access publisher",
@@ -31,7 +31,7 @@
                             }
                         }
                     },
-                    "text": "Western University"
+                    "text": "University of Western Ontario"
                 }
             ]
         },
@@ -285,6 +285,19 @@
                 {
                     "value-type": "literal",
                     "text": "1900s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "800 Chapel Street - 1906-1907",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "12 Edgewood Avenue - 1907-1909",
+                    "value-type": "literal"
                 }
             ]
         }

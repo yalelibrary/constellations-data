@@ -272,6 +272,19 @@
                     "text": "1920s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "73 Hazel Street - 1921-1923",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "73 Hazel Street - 1924-1926",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

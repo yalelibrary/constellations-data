@@ -164,6 +164,21 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130314896",
+                    "text": "Victoria Josephine Muse",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -266,6 +281,15 @@
                 {
                     "value-type": "literal",
                     "text": "1900s; 1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "169 Bassett Street - 1909-1913",
+                    "value-type": "literal"
                 }
             ]
         }

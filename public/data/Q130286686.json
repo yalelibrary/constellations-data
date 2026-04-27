@@ -217,6 +217,19 @@
                     "text": "1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "648 Edwards Hall - 1912-1913",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "639 Edwards Hall - 1913-1915",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

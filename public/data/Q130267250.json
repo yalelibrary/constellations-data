@@ -201,6 +201,15 @@
                     "text": "1850s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "45 West Chapel Street - 1854-1857",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

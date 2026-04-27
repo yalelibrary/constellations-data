@@ -165,7 +165,7 @@
                             "historically black college or university",
                             "private not-for-profit educational institution",
                             "school",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -428,6 +428,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309695",
+                    "text": "Edward Samuel Payton",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -458,6 +478,27 @@
                 {
                     "value-type": "literal",
                     "text": "1900s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "26 Gill Street - 1901-1902",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "364 White Hall - 1902-1903",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "12 Edgewood Avenue - 1903-1904",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "419 Berkeley Hall - 1904-1905",
+                    "value-type": "literal"
                 }
             ]
         }

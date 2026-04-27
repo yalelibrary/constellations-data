@@ -261,6 +261,15 @@
                     "text": "1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "656 Taylor Hall - 1913-1914",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

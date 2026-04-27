@@ -21,6 +21,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q135790296",
+                    "text": "\u00c9douard Alexander  Petrus",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -51,6 +71,15 @@
                 {
                     "value-type": "literal",
                     "text": "1920s; 1930s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "462 Elm Street - 1928-1929",
+                    "value-type": "literal"
                 }
             ]
         }

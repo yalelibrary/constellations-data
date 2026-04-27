@@ -179,7 +179,7 @@
                         "label": "Harlem, Manhattan, United States",
                         "instance_of": [
                             "neighborhood of Manhattan",
-                            "unincorporated community in the United States",
+                            "unincorporated community",
                             "village of New York"
                         ],
                         "properties": {
@@ -270,6 +270,15 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "1148 Edwards Hall - 1921-1923",
+                    "value-type": "literal"
                 }
             ]
         }

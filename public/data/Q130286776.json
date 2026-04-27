@@ -269,6 +269,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130298919",
+                    "text": "Roland T. Heacock",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -299,6 +319,15 @@
                 {
                     "value-type": "literal",
                     "text": "1910s; 1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "1151 Edwards Hall - 1920-1922",
+                    "value-type": "literal"
                 }
             ]
         }

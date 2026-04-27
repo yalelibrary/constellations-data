@@ -215,6 +215,15 @@
                     "text": "1900s; 1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "83 Whalley Avenue - 1906-1912",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

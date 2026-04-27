@@ -253,6 +253,15 @@
                     "text": "1890s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "13 West Divinity Hall - 1891-1892",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

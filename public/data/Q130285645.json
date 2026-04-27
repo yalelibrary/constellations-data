@@ -173,7 +173,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q941524",
                     "data": {
-                        "label": "Alabama State College",
+                        "label": "Alabama State University",
                         "instance_of": [
                             "public university",
                             "public educational institution of the United States",
@@ -192,7 +192,7 @@
                             }
                         }
                     },
-                    "text": "Alabama State College"
+                    "text": "Alabama State University"
                 }
             ]
         },
@@ -305,7 +305,7 @@
                     "data": {
                         "label": "Germantown, Pennsylvania, United States",
                         "instance_of": [
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -416,6 +416,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130314886",
+                    "text": "David Wellington Moss",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -446,6 +466,15 @@
                 {
                     "value-type": "literal",
                     "text": "1920s; 1930s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "1149 Edwards Hall - 1926-1927",
+                    "value-type": "literal"
                 }
             ]
         }

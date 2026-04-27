@@ -1,7 +1,8 @@
 {
     "id": "Q124396194",
     "label": "Ethna Beulah Winston",
-    "biographyMarkdown": "# Ethna Beulah Winston\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n\nImage citation: Ethna Beulah Winston, Howard University Yearbooks, *The Bison*, 1928, Howard University Archives, Moorland-Springarn Research Center, Washington, D.C. https://msrc.howard.edu/\n",
+    "biographyMarkdown": "# Ethna Beulah Winston\n## Attended Yale summer classes, 1930s\n\nEthna Beulah Winston was born in Windsor, Connecticut to Peter H. Winston and Eugenia S. Howard Winston. After graduating from Windsor High School in 1925, she attended Miner Normal School in Washington, D.C. She graduated from Miner in 1925 and matriculated at Howard University shortly after. While attending Howard University she was a member of the English Club and Glee Club. She graduated from Howard University with a bachelor\u2019s in education in 1928. After graduation, she taught at Booker T. Washington High School in Miami, Florida, and later at Union School in Hampton, Virginia.[^1] \n\nAmidst her work, she frequently attended summer school sessions. At some point in the 1930s, she attended Yale Summer School. She received a master\u2019s from Hartford Theological Seminary in 1939 and a doctorate in education from Columbia University in 1944. Winston worked at various educational institutions as a teacher and administrator. She worked at the Tuskegee Institute, Clark College, Tougaloo College, South Carolina State College, Elizabeth City State College, and Howard University. In 1967, she worked at Calvin Coolidge High School in Washington, D.C., before retiring in the 1970s.[^2] \n\nThroughout her life, she was active in the Women\u2019s International Religious Fellowship, the National Council of Negro Women, and Alpha Kappa Alpha Sorority. In 1978, she retired and spent the remainder of her life in Washington. She died on November 9, 1993, and was buried in Palisade Cemetery in Windsor.[^3] \n\nImage citation: Ethna Beulah Winston, Howard University Yearbooks, *The Bison*, 1928, Howard University Archives, Moorland-Springarn Research Center, Washington, D.C. https://msrc.howard.edu/\n\n[^1]:*Who\u2019s Who In Colored America: A Biographical Dictionary of Notable Living Persons of African Descent in America* (Brooklyn: Thomas Yenser, 1942), 578; *The Bison*: 1928 (Washington, D.C: Howard University, 1928), 53; Windsor Historical Society, \u201cOur Mrs. Bethune: Dr. Ethna Beulah Winston, 1903 \u2013 1933,\u201d https://windsorhistoricalsociety.org/our-mrs-bethune-dr-ethna-beulah-winston/.  \n\n[^2]:*Directory of American Scholars: A Biographical Directory*, vol. 2, English, Speech and Drama (New York: R. R. Bowker Company, 1969), 591.  \n\n[^3]:\u201cObituaries,\u201d *The Washington Post*, November 12, 1993, D5; https://www.findagrave.com/memorial/35260107/ethna-beulah-winston. \n",
+    "description": "Attended Yale summer classes, 1930s",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -17,6 +18,183 @@
                         ]
                     },
                     "text": "female"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1787206",
+                    "data": {
+                        "label": "Windsor, Connecticut, United States",
+                        "instance_of": [
+                            "New England town",
+                            "city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.852777777778,
+                                        "longitude": -72.643055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Windsor, Connecticut, United States"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1682329",
+                    "data": {
+                        "label": "Tuskegee University, Alabama, United States",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school",
+                            "unincorporated community"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.430278,
+                                        "longitude": -85.707778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tuskegee University, Alabama, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q63887490",
+                    "data": {
+                        "label": "Clark College",
+                        "instance_of": [
+                            "college",
+                            "school"
+                        ]
+                    },
+                    "text": "Clark College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6603941",
+                    "data": {
+                        "label": "Tougaloo College",
+                        "instance_of": [
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "historic district"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.4029,
+                                        "longitude": -90.1607
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tougaloo College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7566644",
+                    "data": {
+                        "label": "South Carolina State University",
+                        "instance_of": [
+                            "public university",
+                            "land-grant university",
+                            "historically black college or university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.497222222222,
+                                        "longitude": -80.85
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "South Carolina State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5362587",
+                    "data": {
+                        "label": "Elizabeth City State University",
+                        "instance_of": [
+                            "university",
+                            "historically black college or university",
+                            "public educational institution of the United States",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.2812,
+                                        "longitude": -76.21512
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Elizabeth City State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
                 }
             ]
         },

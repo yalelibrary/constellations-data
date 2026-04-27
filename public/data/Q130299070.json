@@ -215,6 +215,23 @@
                     "text": "1910s; 1920s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "125 Edgehill Road - 1916-1918",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "8 Garden Street - 1918-1919",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "1594 Chapel Street - 1919-1920",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

@@ -197,10 +197,8 @@
                     "data": {
                         "label": "Bermuda",
                         "instance_of": [
-                            "island group",
                             "British overseas territory",
-                            "administrative territorial entity",
-                            "archipelago"
+                            "administrative territorial entity"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -459,6 +457,15 @@
                 {
                     "value-type": "literal",
                     "text": "1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "129 Henry Street - 1913-1915",
+                    "value-type": "literal"
                 }
             ]
         }

@@ -119,6 +119,15 @@
                     "text": "1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "102 Eaton Street - 1904-1907",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

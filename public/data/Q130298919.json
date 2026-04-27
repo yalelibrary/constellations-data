@@ -14,7 +14,7 @@
                     "data": {
                         "label": "Boston University",
                         "instance_of": [
-                            "university",
+                            "research university",
                             "private not-for-profit educational institution",
                             "open-access publisher"
                         ],
@@ -249,6 +249,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130286776",
+                    "text": "William Marvin Gibson",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -279,6 +299,19 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "1151 Edwards Hall - 1921-1924",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "1151 Edwards Hall - 1924-1925",
+                    "value-type": "literal"
                 }
             ]
         }

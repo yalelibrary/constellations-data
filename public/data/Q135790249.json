@@ -178,7 +178,7 @@
                             "historically black college or university",
                             "private not-for-profit educational institution",
                             "school",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -376,6 +376,15 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "76 Gregory Street - 1925-1926",
+                    "value-type": "literal"
                 }
             ]
         }

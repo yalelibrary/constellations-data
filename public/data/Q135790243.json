@@ -322,6 +322,15 @@
                     "text": "1890s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "139 Goffe Street - 1890-1891",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

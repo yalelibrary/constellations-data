@@ -277,6 +277,19 @@
                     "text": "1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "362 White Hall - 1903-1904",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "420 Berkeley Hall - 1904-1907",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

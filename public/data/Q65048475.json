@@ -238,8 +238,11 @@
                             "college town",
                             "big city",
                             "primate city",
-                            "department of France",
-                            "national capital"
+                            "national capital",
+                            "financial center",
+                            "commercial capital city",
+                            "cultural capital",
+                            "fashion capital"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -263,13 +266,8 @@
                         "label": "Los Angeles, California, United States",
                         "instance_of": [
                             "charter city",
-                            "city in the United States",
                             "city",
-                            "global city",
                             "metropolis",
-                            "megacity",
-                            "business cluster",
-                            "big city",
                             "LGBT sanctuary city"
                         ],
                         "properties": {
@@ -366,6 +364,19 @@
                 {
                     "value-type": "literal",
                     "text": "1880s; 1890s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "75 Winthrop Avenue - 1888-1890",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "115 Day Street - 1890-1891",
+                    "value-type": "literal"
                 }
             ]
         }

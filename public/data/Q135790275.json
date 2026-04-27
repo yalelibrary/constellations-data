@@ -53,6 +53,15 @@
                     "text": "1880s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "480 Elm Street - 1885-1888",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

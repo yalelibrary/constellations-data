@@ -101,6 +101,19 @@
                     "text": "1920s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "553 Orchard Street - 1922-1923",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "11 Garden Street - 1924-1925",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

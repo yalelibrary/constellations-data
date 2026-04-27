@@ -58,7 +58,7 @@
                         "label": "Valhalla, New York, United States",
                         "instance_of": [
                             "census-designated place in the United States",
-                            "unincorporated community in the United States",
+                            "unincorporated community",
                             "town"
                         ],
                         "properties": {
@@ -242,7 +242,7 @@
                             "city-state",
                             "independent city in Berlin",
                             "largest city",
-                            "big city",
+                            "million city",
                             "federated state of Germany",
                             "federal capital",
                             "Hanseatic city",

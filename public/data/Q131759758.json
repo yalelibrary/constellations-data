@@ -221,13 +221,8 @@
                         "label": "Los Angeles, California, United States",
                         "instance_of": [
                             "charter city",
-                            "city in the United States",
                             "city",
-                            "global city",
                             "metropolis",
-                            "megacity",
-                            "business cluster",
-                            "big city",
                             "LGBT sanctuary city"
                         ],
                         "properties": {
@@ -309,6 +304,15 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "101 Foote Street - 1921-1922",
+                    "value-type": "literal"
                 }
             ]
         }

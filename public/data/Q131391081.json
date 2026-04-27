@@ -191,7 +191,7 @@
                             "historically black college or university",
                             "private not-for-profit educational institution",
                             "school",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -489,7 +489,7 @@
                         "label": "Wilberforce, Ohio, United States",
                         "instance_of": [
                             "census-designated place in the United States",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -620,6 +620,19 @@
                 {
                     "value-type": "literal",
                     "text": "1900s; 1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "369 Orchard Street - 1906-1907",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "88 Dixwell Avenue - 1909-1910",
+                    "value-type": "literal"
                 }
             ]
         }
