@@ -166,6 +166,21 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130314895",
+                    "text": "Jessie Estelle Muse",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -327,6 +342,15 @@
                 {
                     "value-type": "literal",
                     "text": "1900s; 1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "169 Bassett Street - 1909-1918",
+                    "value-type": "literal"
                 }
             ]
         }

@@ -53,6 +53,15 @@
                     "text": "1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "109 Webster Street - 1906-1907",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

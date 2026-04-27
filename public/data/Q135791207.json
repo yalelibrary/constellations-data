@@ -53,6 +53,19 @@
                     "text": "1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "40 Lake Place - 1900-1901",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "58 Whitney Avenue - 1901-1903",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

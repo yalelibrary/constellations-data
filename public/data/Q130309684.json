@@ -200,6 +200,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130228291",
+                    "text": "William Mobile Ashby",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -230,6 +250,15 @@
                 {
                     "value-type": "literal",
                     "text": "1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "656 Taylor Hall - 1914-1915",
+                    "value-type": "literal"
                 }
             ]
         }

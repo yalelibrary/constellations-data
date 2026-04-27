@@ -235,7 +235,9 @@
                     "data": {
                         "label": "Suffolk, Virginia, United States",
                         "instance_of": [
-                            "independent city in the United States"
+                            "independent city in the United States",
+                            "incorporated town",
+                            "human settlement"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -326,6 +328,15 @@
                 {
                     "value-type": "literal",
                     "text": "1890s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "5 Winter Street - 1898-1899",
+                    "value-type": "literal"
                 }
             ]
         }

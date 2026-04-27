@@ -336,6 +336,23 @@
                     "text": "1880s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "69 High Street - 1880-1881",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "458 Chapel Street - 1881-1882",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "464 Chapel Street - 1882-1883",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

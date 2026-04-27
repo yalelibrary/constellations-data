@@ -169,6 +169,36 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q94622916",
+                    "text": "Alexander Joseph Allen",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130229049",
+                    "text": "John Wesley Anderson",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -273,6 +303,19 @@
                 {
                     "value-type": "literal",
                     "text": "1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "649 Edwards Hall - 1912-1913",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "658 Taylor Hall - 1913-1915",
+                    "value-type": "literal"
                 }
             ]
         }

@@ -276,6 +276,15 @@
                     "text": "1890s; 1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "37 Eaton Street - 1897-1901",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

@@ -238,6 +238,41 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q94622916",
+                    "text": "Alexander Joseph Allen",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309688",
+                    "text": "Edward Kingston Nichols",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -268,6 +303,23 @@
                 {
                     "value-type": "literal",
                     "text": "1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "637 Edwards Hall - 1911-1912",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "656 Taylor Hall - 1912-1913",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "635 Edwards Hall - 1913-1914",
+                    "value-type": "literal"
                 }
             ]
         }

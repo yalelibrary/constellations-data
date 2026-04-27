@@ -143,6 +143,15 @@
                     "text": "1890s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "175 Goffe Street - 1895-1896",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

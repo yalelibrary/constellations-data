@@ -104,11 +104,10 @@
                     "data": {
                         "label": "North Carolina Agricultural and Technical State University",
                         "instance_of": [
-                            "university",
+                            "public university",
                             "land-grant university",
                             "historically black college or university",
-                            "public educational institution of the United States",
-                            "school"
+                            "public educational institution of the United States"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -327,6 +326,32 @@
                         }
                     },
                     "text": "Greensboro, North Carolina, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q139437808",
+                    "data": {
+                        "label": "Warner Lawson, Jr.",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Warner Lawson, Jr.",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "child"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

@@ -325,6 +325,15 @@
                     "text": "1880s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "193 Temple Street - 1881-1882",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

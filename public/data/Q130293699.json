@@ -261,6 +261,19 @@
                     "text": "1890s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "52 East Divinity Hall - 1894-1897",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "6 East Divinity Hall - 1896-1897",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

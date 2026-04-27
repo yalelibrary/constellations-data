@@ -68,71 +68,32 @@
                             }
                         }
                     },
-                    "text": "Indianapolis, Indiana, United States",
-                    "qualifiers": [
-                        {
-                            "label": "located in the administrative territorial entity",
-                            "values": [
-                                {
-                                    "value-type": "wikibase-item",
-                                    "id": "Q1415",
-                                    "data": {
-                                        "label": "Indiana, United States",
-                                        "instance_of": [
-                                            "U.S. state"
-                                        ],
-                                        "properties": {
-                                            "coordinate location": {
-                                                "label": "coordinate location",
-                                                "values": [
-                                                    {
-                                                        "value-type": "globe-coordinate",
-                                                        "latitude": 39.933333333333,
-                                                        "longitude": -86.216666666667
-                                                    }
-                                                ]
-                                            }
-                                        }
-                                    },
-                                    "text": "Indiana, United States"
-                                }
-                            ]
-                        },
-                        {
-                            "label": "country",
-                            "values": [
-                                {
-                                    "value-type": "wikibase-item",
-                                    "id": "Q30",
-                                    "data": {
-                                        "label": "United States",
-                                        "instance_of": [
-                                            "sovereign state",
-                                            "constitutional republic",
-                                            "democratic republic",
-                                            "federal republic",
-                                            "superpower",
-                                            "country",
-                                            "historical unrecognized state"
-                                        ],
-                                        "properties": {
-                                            "coordinate location": {
-                                                "label": "coordinate location",
-                                                "values": [
-                                                    {
-                                                        "value-type": "globe-coordinate",
-                                                        "latitude": 39.828175,
-                                                        "longitude": -98.5795
-                                                    }
-                                                ]
-                                            }
-                                        }
-                                    },
-                                    "text": "United States"
-                                }
-                            ]
+                    "text": "Indianapolis, Indiana, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q486459",
+                    "data": {
+                        "label": "Evansville, Indiana, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.974722222222,
+                                        "longitude": -87.555833333333
+                                    }
+                                ]
+                            }
                         }
-                    ]
+                    },
+                    "text": "Evansville, Indiana, United States"
                 }
             ]
         },
@@ -179,8 +140,8 @@
                     "data": {
                         "label": "University of Paris",
                         "instance_of": [
-                            "university in France",
-                            "former entity"
+                            "former entity",
+                            "university in France"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -507,6 +468,80 @@
                         }
                     },
                     "text": "University of Massachusetts Amherst"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1054905",
+                    "data": {
+                        "label": "Morgan State University",
+                        "instance_of": [
+                            "university",
+                            "historically black college or university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.34388888888889,
+                                        "longitude": -76.58472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Morgan State University",
+                    "qualifiers": [
+                        {
+                            "label": "object named as",
+                            "values": [
+                                {
+                                    "value-type": "string",
+                                    "text": "Morgan College"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1782948",
+                    "data": {
+                        "label": "Tennessee State University",
+                        "instance_of": [
+                            "public university",
+                            "historically black college or university",
+                            "public educational institution of the United States",
+                            "land-grant university",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.165874,
+                                        "longitude": -86.830337
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tennessee State University",
+                    "qualifiers": [
+                        {
+                            "label": "object named as",
+                            "values": [
+                                {
+                                    "value-type": "string",
+                                    "text": "Agricultural and Industrial State College"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

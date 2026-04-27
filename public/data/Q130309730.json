@@ -77,7 +77,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q1144262",
                     "data": {
-                        "label": "Western University",
+                        "label": "University of Western Ontario",
                         "instance_of": [
                             "public research university",
                             "open-access publisher",
@@ -97,7 +97,7 @@
                             }
                         }
                     },
-                    "text": "Western University"
+                    "text": "University of Western Ontario"
                 }
             ]
         },
@@ -396,6 +396,23 @@
                 {
                     "value-type": "literal",
                     "text": "1890s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "123 West Divinity Hall - 1890-1891",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "30 East Divinity Hall - 1891-1892",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "33 East Divinity Hall - 1892-1893",
+                    "value-type": "literal"
                 }
             ]
         }

@@ -50,8 +50,7 @@
                         "instance_of": [
                             "private university",
                             "private not-for-profit educational institution",
-                            "research university",
-                            "school"
+                            "research university"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -244,7 +243,8 @@
                         "label": "Springfield, Missouri, United States",
                         "instance_of": [
                             "city in the United States",
-                            "big city"
+                            "big city",
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -344,7 +344,7 @@
                         "label": "Wilberforce, Ohio, United States",
                         "instance_of": [
                             "census-designated place in the United States",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -380,6 +380,41 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130246911",
+                    "text": "Charles W. Burton",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309688",
+                    "text": "Edward Kingston Nichols",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -410,6 +445,19 @@
                 {
                     "value-type": "literal",
                     "text": "1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "649 Edwards Hall - 1910-1912",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "658 Taylor Hall - 1912-1913",
+                    "value-type": "literal"
                 }
             ]
         }

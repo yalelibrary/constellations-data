@@ -343,6 +343,41 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130246821",
+                    "text": "George Christopher Booth",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309679",
+                    "text": "James William Morris",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -373,6 +408,19 @@
                 {
                     "value-type": "literal",
                     "text": "1870s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "92 High Street - 1872-1873",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "35 East Divinity Hall - 1873-1875",
+                    "value-type": "literal"
                 }
             ]
         }

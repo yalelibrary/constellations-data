@@ -293,10 +293,10 @@
                     "value-type": "wikibase-item",
                     "id": "Q5094627",
                     "data": {
-                        "label": "Cheyney, Pennsylvania, United States",
+                        "label": "Cheyney, Pennsylvania, Pennsylvania, United States",
                         "instance_of": [
                             "census-designated place in the United States",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -311,7 +311,42 @@
                             }
                         }
                     },
-                    "text": "Cheyney, Pennsylvania, United States"
+                    "text": "Cheyney, Pennsylvania, Pennsylvania, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309720",
+                    "text": "James E. Stamps",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5078669",
+                    "text": "Charles H. Wesley",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -345,6 +380,15 @@
                 {
                     "value-type": "literal",
                     "text": "1900s; 1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "656 Taylor Hall - 1911-1912",
+                    "value-type": "literal"
                 }
             ]
         }

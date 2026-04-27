@@ -267,7 +267,8 @@
                     "data": {
                         "label": "Institute, West Virginia, United States",
                         "instance_of": [
-                            "unincorporated community in the United States"
+                            "unincorporated community",
+                            "statistical territorial entity"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -381,6 +382,15 @@
                 {
                     "value-type": "literal",
                     "text": "1910s; 1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "1148 Edwards Hall - 1919-1920",
+                    "value-type": "literal"
                 }
             ]
         }

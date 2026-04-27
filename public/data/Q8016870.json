@@ -423,6 +423,19 @@
                     "text": "1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "93 Dixwell Avenue - 1902-1903",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "359 White Hall - 1903-1904",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

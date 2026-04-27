@@ -53,6 +53,23 @@
                     "text": "1890s; 1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "94 Crown Street - 1899-1900",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "20 Little Orange Street - 1900-1901",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "10 Gregson Street - 1901-1902",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

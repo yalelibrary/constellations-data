@@ -259,6 +259,15 @@
                     "text": "1890s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "107 1-2 Day Street - 1898-1899",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

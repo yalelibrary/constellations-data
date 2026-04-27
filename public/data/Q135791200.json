@@ -53,6 +53,15 @@
                     "text": "1880s; 1890s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "34 Webster Street - 1889-1890",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

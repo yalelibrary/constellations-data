@@ -275,6 +275,23 @@
                     "text": "1920s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "291 York Street - 1926-1927",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "678 Wright Hall - 1928-1929",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "1064 Memorial Quadrangle - 1929-1930",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

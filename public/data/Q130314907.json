@@ -95,6 +95,23 @@
                     "text": "1880s; 1890s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "113 York Street - 1887-1888",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "92 York Square - 1888-1889",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "255 Crown Street - 1889-1890",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

@@ -306,6 +306,15 @@
                     "text": "1910s; 1920s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "1212 Taylor Hall - 1920-1921",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

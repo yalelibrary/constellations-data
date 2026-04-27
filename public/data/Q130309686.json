@@ -376,6 +376,15 @@
                     "text": "1920s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "100 Dixwell Avenue - 1928-1929",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

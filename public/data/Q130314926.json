@@ -220,6 +220,19 @@
                     "text": "1890s; 1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "75 Broadway - 1898-1899",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "99 Wall Street - 1899-1900",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

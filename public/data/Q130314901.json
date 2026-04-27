@@ -298,6 +298,23 @@
                     "text": "1880s; 1890s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "12 Martin Street - 1889-1890",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "12 Edgewood Avenue - 1890-1894",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "1241 Chapel Street - 1894-1895",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

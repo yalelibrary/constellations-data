@@ -239,6 +239,27 @@
                     "text": "1880s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "510 Orchard Street - 1881-1882",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "45 Goffe Street - 1882-1883",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "69 Hudson Street - 1883-1884",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "61 South Middle College",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

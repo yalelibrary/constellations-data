@@ -227,13 +227,11 @@
                     "data": {
                         "label": "Virginia State University, Petersburg, United States",
                         "instance_of": [
-                            "university",
+                            "public university",
                             "land-grant university",
                             "historically black college or university",
                             "public educational institution of the United States",
-                            "entity",
-                            "school",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ]
                     },
                     "text": "Virginia State University, Petersburg, United States"
@@ -327,8 +325,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 41.16586,
-                                        "longitude": -73.19109
+                                        "latitude": 41.1648,
+                                        "longitude": -73.1907
                                     }
                                 ]
                             }
@@ -450,7 +448,7 @@
                         "label": "Wilberforce, Ohio, United States",
                         "instance_of": [
                             "census-designated place in the United States",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -642,6 +640,23 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "1149 Edwards Hall - 1922-1923",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "1138 Edwards Hall - 1924-1925",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "1197 Taylor Hall - 1925-1926",
+                    "value-type": "literal"
                 }
             ]
         }

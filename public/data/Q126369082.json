@@ -326,6 +326,15 @@
                     "text": "1920s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "573 Orchard Street - 1920-19224",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

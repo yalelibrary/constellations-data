@@ -259,6 +259,71 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309659",
+                    "text": "Harold Merrybright Kingsley, Sr.",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130314902",
+                    "text": "David Wilder",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309662",
+                    "text": "John Henry Lewis",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309699",
+                    "text": "Aiken Augustus Pope",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -289,6 +354,35 @@
                 {
                     "value-type": "literal",
                     "text": "1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "678 West Divinity Hall - 1908-1909",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "696 Taylor Hall - 1909-1910",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "649 Edwards Hall - 1910-1911",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "637 Edwards Hall - 1911-1912",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "654 Edwards Hall - 1912-1913",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "652 Edwards Hall - 1913-1914",
+                    "value-type": "literal"
                 }
             ]
         }

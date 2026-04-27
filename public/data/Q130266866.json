@@ -131,8 +131,7 @@
                         "instance_of": [
                             "private university",
                             "private not-for-profit educational institution",
-                            "research university",
-                            "school"
+                            "research university"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -258,7 +257,6 @@
                         "label": "Richmond, Virginia, United States",
                         "instance_of": [
                             "independent city in the United States",
-                            "state or insular area capital of the United States",
                             "city in the United States",
                             "big city"
                         ],
@@ -352,6 +350,23 @@
                 {
                     "value-type": "literal",
                     "text": "1900s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "643 East Divinity Hall - 1901-1902",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "618 East Divinity Hall - 1902-1906",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "72 Edgewood Avenue - 1906-1907",
+                    "value-type": "literal"
                 }
             ]
         }

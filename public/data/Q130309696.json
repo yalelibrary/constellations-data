@@ -121,8 +121,7 @@
                     "data": {
                         "label": "St. John's, Saint John, Antigua and Barbuda",
                         "instance_of": [
-                            "city",
-                            "port"
+                            "city"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -249,8 +248,7 @@
                     "data": {
                         "label": "St. John's, Saint John, Antigua and Barbuda",
                         "instance_of": [
-                            "city",
-                            "port"
+                            "city"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -316,6 +314,15 @@
                 {
                     "value-type": "literal",
                     "text": "1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "1150 Edwards Hall - 1917-1918",
+                    "value-type": "literal"
                 }
             ]
         }

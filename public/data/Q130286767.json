@@ -146,6 +146,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130286675",
+                    "text": "William H. Ealbeck",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -176,6 +196,15 @@
                 {
                     "value-type": "literal",
                     "text": "1850s; 1860s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "63 Goffe Street - 1859-1861",
+                    "value-type": "literal"
                 }
             ]
         }
