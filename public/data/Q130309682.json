@@ -298,6 +298,19 @@
                     "text": "1900s; 1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "106 Goffe Street - 1907-1908",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "638 East Divinity Hall - 1908-1910",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

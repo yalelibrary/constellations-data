@@ -232,8 +232,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 40.704166666667,
-                                        "longitude": -73.917777777778
+                                        "latitude": 40.71361111111111,
+                                        "longitude": -73.82805555555555
                                     }
                                 ]
                             }
@@ -318,6 +318,19 @@
                 {
                     "value-type": "literal",
                     "text": "1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "1147 Edwards Hall - 1915-19168",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "317 Dixwell Avenue - 1929-1930",
+                    "value-type": "literal"
                 }
             ]
         }

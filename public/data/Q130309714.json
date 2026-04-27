@@ -170,6 +170,15 @@
                     "text": "1870s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "102 Howe Street - 1874-1875",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

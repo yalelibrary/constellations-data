@@ -305,6 +305,19 @@
                     "text": "1900s; 1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "88 Dixwell Avenue - 1910-1911",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "246 Dixwell Avenue  - 1911-1912",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

@@ -147,7 +147,8 @@
                         "instance_of": [
                             "university",
                             "historically black college or university",
-                            "public university"
+                            "public university",
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -219,7 +220,7 @@
                         "label": "Wilberforce, Ohio, United States",
                         "instance_of": [
                             "census-designated place in the United States",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {

@@ -284,6 +284,15 @@
                     "text": "1920s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "763 George Street - 1924-1926",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

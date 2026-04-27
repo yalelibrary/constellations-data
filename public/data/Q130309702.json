@@ -225,6 +225,15 @@
                     "text": "1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "274 Derby Avenue - 1903-1906",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

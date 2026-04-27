@@ -1,0 +1,455 @@
+{
+    "id": "Q15997872",
+    "label": "Virginia Margaret Alexander",
+    "biographyMarkdown": "# Virginia Margaret Alexander\n## Graduate of Yale School of Public Health, 1941\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n\n",
+    "description": "Graduate of Yale School of Public Health, 1941",
+    "properties": {
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q942326",
+                    "data": {
+                        "label": "United States Department of Health and Human Services",
+                        "instance_of": [
+                            "ministry of health",
+                            "United States federal executive department"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.886711,
+                                        "longitude": -77.014413
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "United States Department of Health and Human Services"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1273145",
+                    "data": {
+                        "label": "Pennsylvania Hospital",
+                        "instance_of": [
+                            "hospital",
+                            "teaching hospital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.9445,
+                                        "longitude": -75.1558
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pennsylvania Hospital"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8030657",
+                    "data": {
+                        "label": "Woman's Medical College of Pennsylvania",
+                        "instance_of": [
+                            "medical school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.0119,
+                                        "longitude": -75.1842
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Woman's Medical College of Pennsylvania"
+                }
+            ]
+        },
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581072",
+                    "data": {
+                        "label": "female",
+                        "instance_of": [
+                            "sex of humans",
+                            "gender identity"
+                        ]
+                    },
+                    "text": "female"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1900"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49117",
+                    "data": {
+                        "label": "University of Pennsylvania",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.95388888888889,
+                                        "longitude": -75.19305555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Pennsylvania"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8030657",
+                    "data": {
+                        "label": "Woman's Medical College of Pennsylvania",
+                        "instance_of": [
+                            "medical school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.0119,
+                                        "longitude": -75.1842
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Woman's Medical College of Pennsylvania"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49112",
+                    "data": {
+                        "label": "Yale University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "academic publisher",
+                            "production company"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311111111111,
+                                        "longitude": -72.926666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale University",
+                    "qualifiers": [
+                        {
+                            "label": "academic major",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q189603",
+                                    "data": {
+                                        "label": "public health",
+                                        "instance_of": [
+                                            "academic discipline",
+                                            "work"
+                                        ]
+                                    },
+                                    "text": "public health"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "academic degree",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q183816",
+                                    "data": {
+                                        "label": "master's degree",
+                                        "instance_of": [
+                                            "qualification",
+                                            "educational stage",
+                                            "degree of difficulty"
+                                        ]
+                                    },
+                                    "text": "master's degree"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "point in time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1937"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047428",
+                    "data": {
+                        "label": "Yale School of Public Health",
+                        "instance_of": [
+                            "school of public health",
+                            "graduate school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.30373648476665,
+                                        "longitude": -72.93211899014433
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Public Health",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1941"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q41819",
+                    "data": {
+                        "label": "Kansas City, Missouri, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat",
+                            "LGBT sanctuary city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.05,
+                                        "longitude": -94.583333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kansas City, Missouri, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1949"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q16007700",
+                    "data": {
+                        "label": "Raymond Pace Alexander",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Raymond Pace Alexander",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "sibling"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Alexander"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1930s; 1940s"
+                }
+            ]
+        }
+    }
+}

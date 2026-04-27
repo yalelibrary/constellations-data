@@ -235,6 +235,15 @@
                     "text": "1870s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "106 Webster Street - 1875-1876",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

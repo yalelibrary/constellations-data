@@ -234,6 +234,15 @@
                     "text": "1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "77 Admiral Street - 1916-1919",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

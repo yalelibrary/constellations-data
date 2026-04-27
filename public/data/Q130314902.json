@@ -234,6 +234,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309688",
+                    "text": "Edward Kingston Nichols",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -264,6 +284,23 @@
                 {
                     "value-type": "literal",
                     "text": "1900s; 1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "106 Goffe Street - 1903-1904",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "678 West Divinity Hall - 1908-1909",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "678 Taylor Hall - 1909-1910",
+                    "value-type": "literal"
                 }
             ]
         }

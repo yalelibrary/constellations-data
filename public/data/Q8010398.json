@@ -291,6 +291,15 @@
                     "text": "1890s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "87 Eaton Street - 1891-1896",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

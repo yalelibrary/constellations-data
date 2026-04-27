@@ -1,8 +1,9 @@
 {
     "id": "Q135791217",
-    "label": "Helen Lou Evelyn James",
-    "biographyMarkdown": "# Helen Lou Evelyn James\n## Attended Yale Summer School 1907-1908\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "label": "Helen Lou Evelyn James Chisholm",
+    "biographyMarkdown": "# Helen Lou Evelyn James Chisholm \n## Attended Yale Summer School 1907-1908 \n\nHelen Lou James was born in Hartford, Connecticut on September 1, 1876, to Willis Samuel James and Anna Estelle Houston. Her father, Willis, was born a slave before moving to Hartford, Connecticut where he worked as a janitor for a public school. She attended Hartford Public School and, later, the Hampton Institute.  She graduated from the Normal Class in 1900. She planned on attending the University of California but decided to teach domestic science at the Kona Orphanage in Hawaii.[^1] \n\nAt the Kona Orphanage, she served as a teacher and assistant administrator before overseeing the school in 1903. She met Frederick Douglass Bonner, a 1901 graduate of Yale College, in Honolulu as he was on his way to teach in the Philippines. She also met Queen Liluokalani in Hawaii. On her way back, she visited Edward Bouchet, another Black Yale graduate, in St. Louis. Upon her return home, she attended Atlanta University before moving to St. Helena Island in South Carolina to teach at the Penn Normal Industrial School in 1906. She later moved to Tallahassee to teach at Florida Agricultural and Mechanical College where she taught grammar. During the summer of 1907, James attended Yale Summer School and resided at 75 Edgewood Avenue. While at Yale, she studied theme writing and American literature. She returned to Hartford after spending two years at the Penn Normal Industrial School.[^2] \n\nIn 1910, she married Frank Pierce Chisholm, who she met while attending Atlanta University. The couple lived in Cambridge, Massachusetts before moving to Old Saybrook, Connecticut. During the 1920s, she was an active participant with New London\u2019s Women\u2019s Christian Temperance Union where she gave talks at the Young Women\u2019s Christian Association. In 1936, she was elected treasurer of the Hampton Institute Alumni Association.[^3] \n\nShe died on March 8, 1971, and is buried in Cypress Cemetery in Old Saybrook.[^4] \n\nImage citation: From CT Insider (https://www.ctinsider.com/opinion/article/Looking-Back-Funding-the-future-Saybrook-man-16957857.php), original source unknown.\n\n\n[^1]:Elisabeth Perry, *Can Anything Beat White?: A Black Family\u2019s Letters* (Jackson: University Press of Mississippi, 2005). \n\n[^2]:Elisabeth Perry, *Can Anything Beat White?: A Black Family\u2019s Letters* (Jackson: University Press of Mississippi, 2005); \u201cSt. Luke\u2019s Church of New Haven Elects New Pastor,\u201d The New York Age, July 25, 1907, 1; Holiday Entertainment,\u201d The New York Age, July 16, 1908, 3. \n\n[^3]:\u201c\u2019Negro Cannot Afford To Be Too Shy,\u2019 Dean of N.Y.U. Declares: Members of Race Must Pay the Price for Getting Up in the World, Dean Payne Tells Hampton Conference,\u201d *The New York Amsterdam News*, May 2, 1936, 5.  \n\n[^4]:https://www.findagrave.com/memorial/136078198/helen-lou-chisholm. \n",
     "description": "Attended Yale Summer School 1907-1908",
+    "publicationsMarkdown": "\u201cIn and About the Kona Orphanage, Hawaii,\u201d *Southern Workman* 32, no. 7 (July 1903).  \n\n\u201cChristian Charity: Vigorous Appeal By a Colored Woman,\u201d *The Hartford Courant*, February 9, 1918, 10.  \n\n\u201cWhy Penn School Is Needed On St. Helena Island,\u201d *Southern Workman* 37, no. 2 (February 1908).  \n\n\u201cAchievements of Negro Women: They Have Won High Honors in Fields of Art, Music, Law, Medicine, Education, Business and the Theater,\u201d *The Hartford Courant*, February 14, 1932, E3. \n\n\u201cA Lynching Story: \u2018Wash,\u2019 We Are Told, Is a Protest Against Mob Violence,\u201d *The Hartford Courant*, February 5, 1934, 6.  \n\n\u201cAn Appreciation,\u201d *The Chicago Defender*, July 6, 1940, 14.  \n",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -21,15 +22,305 @@
                 }
             ]
         },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1876"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33486",
+                    "data": {
+                        "label": "Hartford, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "municipality seat",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.763333333333,
+                                        "longitude": -72.685
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford, Connecticut, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1797817",
+                    "data": {
+                        "label": "Hampton University",
+                        "instance_of": [
+                            "university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.0225,
+                                        "longitude": -76.33472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hampton University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49112",
+                    "data": {
+                        "label": "Yale University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "academic publisher",
+                            "production company"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311111111111,
+                                        "longitude": -72.926666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale University",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1907"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1908"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1971"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49111",
+                    "data": {
+                        "label": "Cambridge, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.375,
+                                        "longitude": -71.106111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cambridge, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2884518",
+                    "data": {
+                        "label": "Saint Helena Island, South Carolina, United States",
+                        "instance_of": [
+                            "island",
+                            "unincorporated community"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.3868607,
+                                        "longitude": -80.5606622
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Saint Helena Island, South Carolina, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1020609",
+                    "data": {
+                        "label": "Old Saybrook, Connecticut, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.293888888889,
+                                        "longitude": -72.3825
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.29177,
+                                        "longitude": -72.3762
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Old Saybrook, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q627970",
+                    "data": {
+                        "label": "Kailua-Kona, Hawaii, United States",
+                        "instance_of": [
+                            "census-designated place in the United States",
+                            "unincorporated community"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 19.65,
+                                        "longitude": -155.99416666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kailua-Kona, Hawaii, United States"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1430048",
+                    "data": {
+                        "label": "Florida A&M University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black college or university",
+                            "public educational institution of the United States",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.4178,
+                                        "longitude": -84.2845
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Florida A&M University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q132444451",
+                    "data": {
+                        "label": "Penn School",
+                        "instance_of": [
+                            "school building"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.203371913833905,
+                                        "longitude": -77.18614246564437
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Penn School"
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Helen Lou Evelyn James Chisholm",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q135791217.jpg",
                             "mime": "image/jpeg"
                         }
                     ]
@@ -41,7 +332,7 @@
             "values": [
                 {
                     "value-type": "literal",
-                    "text": "James"
+                    "text": "Chisholm"
                 }
             ]
         },

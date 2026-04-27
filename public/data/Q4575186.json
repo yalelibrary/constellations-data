@@ -225,6 +225,15 @@
                     "text": "1920s; 1930s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "65 Carmel Street - 1929-1930",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

@@ -53,6 +53,15 @@
                     "text": "1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "356 Crown Street - 1901-1904",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

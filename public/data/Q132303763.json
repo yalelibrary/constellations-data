@@ -329,6 +329,19 @@
                     "text": "1900s; 1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "17 Eaton Street - 1905-1907",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "17 Eaton Street - 1910-1912",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

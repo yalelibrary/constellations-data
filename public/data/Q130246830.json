@@ -242,6 +242,15 @@
                     "text": "1900s; 1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "26 Sperry Street - 1910-1916",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

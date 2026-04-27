@@ -446,6 +446,15 @@
                     "text": "1910s; 1930s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "285 Orchard Street - 1912-1914",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

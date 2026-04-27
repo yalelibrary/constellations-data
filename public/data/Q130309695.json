@@ -120,6 +120,21 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309722",
+                    "text": "Fred Branford Syphax",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -198,6 +213,27 @@
                 {
                     "value-type": "literal",
                     "text": "1900s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "75 Edgewood Avenue - 1901-1902",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "364 White Hall - 1902-1903",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "12 Edgewood Avenue - 1903-1904",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "419 Berkeley Hall - 1904-1906",
+                    "value-type": "literal"
                 }
             ]
         }

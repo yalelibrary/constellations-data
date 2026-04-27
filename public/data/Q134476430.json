@@ -268,6 +268,15 @@
                     "text": "1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "27 Eaton Street - 1900-1902",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

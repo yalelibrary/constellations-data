@@ -196,6 +196,23 @@
                     "text": "1920s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "2 Bissel Place, Seymour - 1925-1926",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "96 Derby Avenue, Seymour - 1926-1927",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "Sodom Lane, Derby - 1928-1929",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

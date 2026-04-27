@@ -327,6 +327,15 @@
                     "text": "1910s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "789 Yale P.O. - 1911-1912",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

@@ -124,7 +124,7 @@
                         "label": "Harlem, Manhattan, United States",
                         "instance_of": [
                             "neighborhood of Manhattan",
-                            "unincorporated community in the United States",
+                            "unincorporated community",
                             "village of New York"
                         ],
                         "properties": {
@@ -295,6 +295,15 @@
                 {
                     "value-type": "literal",
                     "text": "1920s; 1930s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "65 Edgewood Avenue - 1928-1930",
+                    "value-type": "literal"
                 }
             ]
         }

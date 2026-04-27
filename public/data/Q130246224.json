@@ -325,6 +325,19 @@
                     "text": "1890s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "427 Temple Street - 1891-1893",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "1010 Chapel Street - 1893-1895",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

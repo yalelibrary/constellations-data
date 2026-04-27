@@ -53,6 +53,15 @@
                     "text": "1890s; 1900s"
                 }
             ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "1016 Chapel Street - 1899-1900",
+                    "value-type": "literal"
+                }
+            ]
         }
     }
 }

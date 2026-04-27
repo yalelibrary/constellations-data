@@ -23,7 +23,7 @@
                     "data": {
                         "label": "Convent, Louisiana, United States",
                         "instance_of": [
-                            "unincorporated community in the United States",
+                            "unincorporated community",
                             "census-designated place in the United States"
                         ],
                         "properties": {
@@ -244,7 +244,7 @@
                     "data": {
                         "label": "Convent, Louisiana, United States",
                         "instance_of": [
-                            "unincorporated community in the United States",
+                            "unincorporated community",
                             "census-designated place in the United States"
                         ],
                         "properties": {
@@ -336,6 +336,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q105546535",
+                    "text": "Buford F. Gordon",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -366,6 +386,23 @@
                 {
                     "value-type": "literal",
                     "text": "1910s; 1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "1149 Edwards Hall - 1916-1918",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "1151 Edwards Hall - 1918-1920",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "1152 Edwards Hall - 1924-1926",
+                    "value-type": "literal"
                 }
             ]
         }

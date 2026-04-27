@@ -248,6 +248,26 @@
                 }
             ]
         },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130266880",
+                    "text": "Charles A. Chandler",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
@@ -278,6 +298,19 @@
                 {
                     "value-type": "literal",
                     "text": "1920s; 1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "68 Dixwell Avenue - 1919-1920",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "1147 Edwards Hall - 1920-1922",
+                    "value-type": "literal"
                 }
             ]
         }

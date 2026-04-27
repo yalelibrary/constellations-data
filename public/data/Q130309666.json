@@ -174,7 +174,7 @@
                             "historically black college or university",
                             "private not-for-profit educational institution",
                             "school",
-                            "unincorporated community in the United States"
+                            "unincorporated community"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -275,6 +275,36 @@
                                         ]
                                     },
                                     "text": "cousin"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130268030",
+                    "text": "Jefferson Gatherford Ish, Jr.",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130309725",
+                    "text": "Philip Manual Thorne",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "Same Address at Yale"
                                 }
                             ]
                         }
@@ -483,6 +513,19 @@
                 {
                     "value-type": "literal",
                     "text": "1900s; 1910s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "658 West Divinity Hall - 1908-1909",
+                    "value-type": "literal"
+                },
+                {
+                    "text": "400 Berkeley Hall - 1909-1910",
+                    "value-type": "literal"
                 }
             ]
         }

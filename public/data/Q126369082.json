@@ -143,7 +143,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q2073798",
                     "data": {
-                        "label": "Welch, West Virginia, United States",
+                        "label": "Welch, West Virginia, Mozambique",
                         "instance_of": [
                             "city in the United States"
                         ],
@@ -160,7 +160,7 @@
                             }
                         }
                     },
-                    "text": "Welch, West Virginia, United States"
+                    "text": "Welch, West Virginia, Mozambique"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -324,6 +324,15 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
+                }
+            ]
+        },
+        "addresses": {
+            "label": "addresses",
+            "values": [
+                {
+                    "text": "573 Orchard Street - 1920-19224",
+                    "value-type": "literal"
                 }
             ]
         }

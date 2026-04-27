@@ -41,8 +41,7 @@
                         "instance_of": [
                             "private university",
                             "private not-for-profit educational institution",
-                            "research university",
-                            "school"
+                            "research university"
                         ],
                         "properties": {
                             "coordinate location": {
