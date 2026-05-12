@@ -107,6 +107,11 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
+                                        "latitude": 33.754444444444445,
+                                        "longitude": -84.38972222222222
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
                                         "latitude": 33.756944444444,
                                         "longitude": -84.390277777778
                                     },
@@ -114,11 +119,6 @@
                                         "value-type": "globe-coordinate",
                                         "latitude": 33.74888888888889,
                                         "longitude": -84.38805555555555
-                                    },
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 33.754444444444445,
-                                        "longitude": -84.38972222222222
                                     }
                                 ]
                             }
@@ -221,6 +221,11 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
+                                        "latitude": 33.754444444444445,
+                                        "longitude": -84.38972222222222
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
                                         "latitude": 33.756944444444,
                                         "longitude": -84.390277777778
                                     },
@@ -228,11 +233,6 @@
                                         "value-type": "globe-coordinate",
                                         "latitude": 33.74888888888889,
                                         "longitude": -84.38805555555555
-                                    },
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 33.754444444444445,
-                                        "longitude": -84.38972222222222
                                     }
                                 ]
                             }
@@ -271,7 +271,7 @@
                             "label": "kinship to subject",
                             "values": [
                                 {
-                                    "text": "Same Address at Yale"
+                                    "text": "co-residents"
                                 }
                             ]
                         }
@@ -286,7 +286,7 @@
                             "label": "kinship to subject",
                             "values": [
                                 {
-                                    "text": "Same Address at Yale"
+                                    "text": "co-residents"
                                 }
                             ]
                         }
@@ -301,7 +301,7 @@
                             "label": "kinship to subject",
                             "values": [
                                 {
-                                    "text": "Same Address at Yale"
+                                    "text": "co-residents"
                                 }
                             ]
                         }
@@ -316,7 +316,7 @@
                             "label": "kinship to subject",
                             "values": [
                                 {
-                                    "text": "Same Address at Yale"
+                                    "text": "co-residents"
                                 }
                             ]
                         }

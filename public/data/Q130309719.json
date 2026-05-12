@@ -151,7 +151,6 @@
                     "data": {
                         "label": "Liberia",
                         "instance_of": [
-                            "republic",
                             "sovereign state",
                             "country"
                         ],
@@ -257,7 +256,7 @@
                             "label": "kinship to subject",
                             "values": [
                                 {
-                                    "text": "Same Address at Yale"
+                                    "text": "co-residents"
                                 }
                             ]
                         }

@@ -1,7 +1,7 @@
 {
     "id": "Q135791207",
     "label": "Augustus Barnes Tabb",
-    "biographyMarkdown": "# Augustus Barnes Tabb\n## Attended Yale Law School 1900-1903\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Augustus Barnes Tabb\n## Attended Yale Law School 1900-1903\n\nAugustus Barnes Tabb was born in Petersburg, Virginia on June 19, 1870, to Augustus M. Tabb and Sabina Barnes. According to the 1870 U.S. Census, Augustus Sr. worked as a porter while Sabina worked at home. The family eventually moved to Rhode Island. Tabb graduated from Lincoln University in 1900. He attended Yale Law School from 1900 to 1903 but did not receive a degree.. According to *The Yale Shingle*, Tabb had considered working for the government in the Philippines. He married Emily Mae Morgan in New Bedford, Massachusetts. He eventually moved to Jersey City, New Jersey where he passed his civil service examination to work in the city jails in 1913. Tabb would spend most of his career as a barber, becoming the chief barber for Jersey City\u2019s County Penitentiary. In 1922, he was severely beaten after getting into an argument with a prisoner.[^1] \n\nTabb also spent much of his life as a leader for the Elks. He was installed as an officer of the Progressive Lodge, No. 35, of Improved Benevolent and Protective Order of Elks of the World in Jersey City in 1918. One of his responsibilities included organizing efforts to relieve the poor African American population in Jersey City. In 1921, he was elected to the chair of the Progressive Lodge, No. 35. He would also be elected as treasurer of the New Jersey State Association of Elks. Alongside his role as treasurer for the Elks, he also served as Lincoln University\u2019s General Alumni Association\u2019s treasurer. In 1938, he was a speaker at a rally of Elks in Trenton that protested Jim Crow policies in New Jersey.[^2] \n\nHe died in 1963 and was buried in Bayview-New York Bay Cemetery in Jersey City.[^3] \n\nImage citation: *The Yale Shingle*, 1903, Lillian Goldman Law Library, Yale University.\n\n[^1]:Laurence Foster, eds., *The Alumni Directory of Lincoln University* (Lincoln University: Lincoln University, 1946), 110; \"United States, Census, 1870\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MFLR-DR6 : Thu Oct 23 00:38:40 UTC 2025), Entry for Augustus Tabb and Sirannia Tabb, 1870; \u201cLincoln Class Graduates,\u201d *The Philadelphia Inquirer*, June 6, 1900, 4; *The Yale Shingle*, 1903 (New Haven: Ryder\u2019s Printing House, 1903), 80; \"Massachusetts, State Vital Records, 1638-1927\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:N4XK-LSR: Thu May 23 02:12:41 UTC 2024), Entry for Augustus Barnes Tabb and Emily Maie Morgan, 16 Dec 1908; \u201cPass Examination For Court Attendants,\u201d *Hudson Observer*, July 25, 1913; \u201cResentenced To \u2018Pen\u2019 On Day of Release,\u201d *Jersey Observer and Jersey Journal*, September 7, 1922, 1.  \n\n[^2]\u201cJersey City, N.J.,\u201d *The New York Age*, January 25, 1919, 2; \u201cJersey City, N.J.,\u201d *The Chicago Defender*, July 9, 1921, 9; \u201cShouse Elected,\u201d *New Journal and Guide*, July 3, 10; *Catalogue of Lincoln University*, 1932-1933 (Lincoln University: Lincoln University, 1933), 9; \u201cJim Crow In New Jersey Protested: 1,500 Elks Stage Mass Meeting In Trenton, N.J.,\u201d *Atlanta Daily World*, May 4, 1938, 1.  \n\n[^3]:\u201cMr. Tabb Buried In Jersey City,\u201d *New York Amsterdam News*, January 11, 1964, 29; https://www.findagrave.com/memorial/283333500/augustus-barnes-tabb. \n",
     "description": "Attended Yale Law School 1900-1903",
     "properties": {
         "sex or gender": {
@@ -21,15 +21,187 @@
                 }
             ]
         },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1870"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q511964",
+                    "data": {
+                        "label": "Petersburg, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.21295,
+                                        "longitude": -77.400417
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Petersburg, Virginia, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1963"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "public university",
+                            "historically black college or university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1900"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1903"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q26339",
+                    "data": {
+                        "label": "Jersey City, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71,
+                                        "longitude": -74.06
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Jersey City, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1387",
+                    "data": {
+                        "label": "Rhode Island, United States",
+                        "instance_of": [
+                            "U.S. state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.7,
+                                        "longitude": -71.5
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Rhode Island, United States"
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Augustus Barnes Tabb",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q135791207.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

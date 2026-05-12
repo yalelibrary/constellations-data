@@ -372,6 +372,27 @@
             "values": [
                 {
                     "value-type": "wikibase-item",
+                    "id": "Q21595084",
+                    "data": {
+                        "label": "Elizabeth Ross Haynes",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Elizabeth Ross Haynes",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "spouse"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
                     "id": "Q130286025",
                     "text": "Walter Dyson",
                     "qualifiers": [
@@ -379,7 +400,7 @@
                             "label": "kinship to subject",
                             "values": [
                                 {
-                                    "text": "Same Address at Yale"
+                                    "text": "co-residents"
                                 }
                             ]
                         }
@@ -394,7 +415,7 @@
                             "label": "kinship to subject",
                             "values": [
                                 {
-                                    "text": "Same Address at Yale"
+                                    "text": "co-residents"
                                 }
                             ]
                         }
@@ -409,7 +430,7 @@
                             "label": "kinship to subject",
                             "values": [
                                 {
-                                    "text": "Same Address at Yale"
+                                    "text": "co-residents"
                                 }
                             ]
                         }

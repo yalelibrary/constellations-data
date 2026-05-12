@@ -289,7 +289,7 @@
                             "label": "kinship to subject",
                             "values": [
                                 {
-                                    "text": "Same Address at Yale"
+                                    "text": "co-residents"
                                 }
                             ]
                         }
@@ -304,7 +304,7 @@
                             "label": "kinship to subject",
                             "values": [
                                 {
-                                    "text": "Same Address at Yale"
+                                    "text": "co-residents"
                                 }
                             ]
                         }

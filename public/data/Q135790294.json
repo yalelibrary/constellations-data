@@ -1,7 +1,7 @@
 {
     "id": "Q135790294",
-    "label": "Maurice Pierre Laufer",
-    "biographyMarkdown": "# Maurice Pierre Laufer\n## Research Fellow at the Yale School of Medicine circa 1927-1929; received Master's in Public Health, 1931\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "label": "Maurice Pierre Lafleur",
+    "biographyMarkdown": "# Maurice Pierre Lafleur\n## Research Fellow at the Yale School of Medicine circa 1927-1929; received Master's in Public Health, 1931\n\nMaurice Pierre Lafleur was born in Port-au-Prince, Haiti in 1890. He received his bachelor\u2019s degree in 1912 and his medical degree in 1918 from the University of Haiti.  Lafleur taught at the Medical School of Port-au-Prince where he was a professor of semiology and histology. Alongside \u00c9douard Alexander Petrus, he received funding from the Rockefeller Foundation for a research fellowship in the Department of Public Health within the Yale School of Medicine. There, he worked alongside Professor Charles-Edward Amory Winslow and Ira Vaughn Hiscock. In the summer of 1930, he worked with Doctor Walter Clarence Earle. In 1931, he graduated from Yale School of Medicine with a masters of public health, making him the first Black student to receive the degree from Yale.[^1] \n\nHe returned to Port-au-Prince where he was a medical school professor and worked for the Department of Public Hygiene for Port-au-Prince. He had a decades-long career in public health with his last job being a physician for the city airport. He was also active in the Bah\u00e1\u02bc\u00ed faith and, in 1950, was the president of the faith in Port-au-Prince. He died in Port-au-Prince on November 7, 1968.[^2] \n\nImage citation: *Bah\u00e1\u02bc\u00ed News*, July 1959.\n\n[^1]:The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85; Annual Report of the Director General of the Public Health for the Fiscal Year 1926-1927, 17; Annual Report of the Director General of the Public Health for the Fiscal Year, 1930, 28; *Bulletin of Yale University: Graduate School Catalogue Number for the Sessions of 1930-1931* (New Haven, Yale University, 1930), 371; Catalogue of Yale University Alumni, 1925-1954: *Supplement to Catalogue of the Officers and Graduates of Yale University, 1701-1924* (New Haven: Yale University, 1955), 336.  \n\n[^2]:\u201cInstitut Guy-Joseph-Bonnet,\u201d Le Matin, August 2, 1932, 3; \u201dLa Foi Bah\u00e1\u2019\u00ede: La R\u00e9v\u00e9lation divine pour ce Jour,\u201d *Le Nouvelliste*, May 12, 1950, 6; \u201cAu Fil Des Jours\u2026,\u201d *Le Nouvelliste*, November 9, 1968, 4.   \n",
     "description": "Research Fellow at the Yale School of Medicine circa 1927-1929; received Master's in Public Health, 1931",
     "properties": {
         "sex or gender": {
@@ -21,6 +21,133 @@
                 }
             ]
         },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1961140",
+                    "data": {
+                        "label": "Yale School of Medicine",
+                        "instance_of": [
+                            "medical school",
+                            "faculty"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.303245363975,
+                                        "longitude": -72.933871811889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Medicine",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1931"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1205322",
+                    "data": {
+                        "label": null,
+                        "instance_of": [
+                            "public university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 18.54222222222222,
+                                        "longitude": -72.34055555555555
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": null
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1890"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1968"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q34261",
+                    "data": {
+                        "label": "Port-au-Prince, Port-au-Prince Arrondissement, Haiti",
+                        "instance_of": [
+                            "commune of Haiti",
+                            "city or town",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 18.546944444444446,
+                                        "longitude": -72.34027777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Port-au-Prince, Port-au-Prince Arrondissement, Haiti"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q139594781",
+                    "data": {
+                        "label": "Medical School of Port-au-Prince",
+                        "instance_of": [
+                            "medical school"
+                        ]
+                    },
+                    "text": "Medical School of Port-au-Prince"
+                }
+            ]
+        },
         "relative": {
             "label": "relative",
             "values": [
@@ -33,7 +160,7 @@
                             "label": "kinship to subject",
                             "values": [
                                 {
-                                    "text": "Same Address at Yale"
+                                    "text": "co-residents"
                                 }
                             ]
                         }
@@ -46,10 +173,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Maurice Pierre Lafleur",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q135790294.jpg",
                             "mime": "image/jpeg"
                         }
                     ]
@@ -61,7 +188,7 @@
             "values": [
                 {
                     "value-type": "literal",
-                    "text": "Laufer"
+                    "text": "Lafleur"
                 }
             ]
         },

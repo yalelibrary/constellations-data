@@ -92,7 +92,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q4019812",
                     "data": {
-                        "label": "Wiley College",
+                        "label": "Wiley University",
                         "instance_of": [
                             "school",
                             "historically black college or university",
@@ -111,7 +111,7 @@
                             }
                         }
                     },
-                    "text": "Wiley College"
+                    "text": "Wiley University"
                 },
                 {
                     "value-type": "wikibase-item",

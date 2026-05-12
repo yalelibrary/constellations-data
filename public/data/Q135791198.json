@@ -1,8 +1,9 @@
 {
     "id": "Q135791198",
     "label": "Norman Lee Bush",
-    "biographyMarkdown": "# Norman Lee Bush\n## Attended Yale Divinity School 1929-1930\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Norman Lee Bush\n## Attended Yale Divinity School 1929-1930\n\nNorman Lee Bush was born on January 20, 1900, in Aiken, South Carolina to Jacob Bush, a farmer, and Estell Bush. He attended South Carolina State University in Orangeburg where he was a member of the varsity debate team. He graduated from the institution in 1928 and enrolled at Yale Divinity School in the same year. He attended Yale Divinity School from 1928 to 1929 but left without a degree.[^1] \n\nHe served as principal of Batesburg High School in Batesburg, South Carolina from 1934 to 1944. He also served as a dean of Bettis Academy and Junior College. In 1944, he spoke at South Carolina State University\u2019s Founder\u2019s Day celebration. In 1947, he transitioned careers and became a pastor of Friendship Baptist Church in Aiken. He would spend most of his life pastoring the church. In the 1960s, Bush worked with other pastors to organize on behalf of Black workers in Aiken. In 1965, Bush ran in the Democratic primary for Aiken City Council. He was elected as vice president of the city\u2019s Democratic Club.[^2] \n\nIn 1970, he officiated the wedding of Josephus Coan, another early Black Yale graduate from South Carolina. Bush died on October 31, 1981 in Evanston, Illinois and was buried in Aiken. The Friendship Baptist Church renamed their activity building in his honor as N. L. Bush Activity Building.[^3] \n\n[^1]:\"United States, Census, 1900\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:M3R3-6R9: Thu Jan 01 19:35:50 UTC 2026), Entry for Jacob Bush and Estell Bush, 1900; \u201cState College Notes,\u201d *New Pittsburgh Courier*, February 4, 1928, 17; *Catalogue of Yale University, 1929-1930* (New Haven: Yale University, 1929), 625. \n\n[^2]:\u201cWestern Carolina Makes Bid Thru Beauties For Trip to N.Y. and Harlem: School and Business Observation Made in Addition To Beauties Found,\u201d *The Palmetto Leader*, May 25, 1935, 1; \u201cRev. Norman Lee Bush,\u201d *The Index-Journal*, November 2, 1981, 2; \u201c3 Presidents Honored On Founder\u2019s Day,\u201d *The New York Age*, March 18, 1944, 12; \u201cA Special Occasion,\u201d *Aiken Standard*, November 18, 1974, 2; Matthew Christian, \u201cLessie Price shares journey from Barnwell County farm to Aiken City Council, president meetings,\u201d *Aiken Standard*, January 22, 2023; \u201cRepublican Primary Being Held In Aiken,\u201d *Index-Journal*, September 13, 1965, 5; \u201cBrown Won\u2019t Seek Reelection,\u201d *Aiken Standard*, August 12, 1971, 1.  \n\n[^3]:\u201cDr. Joseph Coan Takes A Wife In So. Carolina,\u201d *Atlanta Daily World*, August 17, 1970, 3; \"Illinois, Cook County Deaths, 1871-1998\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:Q2MJ-PTVB: Sat Aug 23 02:38:55 UTC 2025), Entry for Norman Bush and Jacob Bush, 31 Oct 1981; Matthew Christian, \u201cAiken City Council approves Friendship Baptist Church designation changes,\u201d *Aiken Standard*, February 12, 2025. \n",
     "description": "Attended Yale Divinity School 1929-1930",
+    "publicationsMarkdown": "\u201cSupport Asked For Bettis Academy,\u201d Aiken Standard and Review, December 9, 1949, 8.  \n",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -21,6 +22,154 @@
                 }
             ]
         },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1900"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1981"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q404887",
+                    "data": {
+                        "label": "Aiken, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.549444444444,
+                                        "longitude": -81.720555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Aiken, South Carolina, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7566644",
+                    "data": {
+                        "label": "South Carolina State University",
+                        "instance_of": [
+                            "public university",
+                            "land-grant university",
+                            "historically black college or university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.497222222222,
+                                        "longitude": -80.85
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "South Carolina State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1928"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1929"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q404887",
+                    "data": {
+                        "label": "Aiken, South Carolina, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.549444444444,
+                                        "longitude": -81.720555555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Aiken, South Carolina, United States"
+                }
+            ]
+        },
         "relative": {
             "label": "relative",
             "values": [
@@ -33,7 +182,7 @@
                             "label": "kinship to subject",
                             "values": [
                                 {
-                                    "text": "Same Address at Yale"
+                                    "text": "co-residents"
                                 }
                             ]
                         }

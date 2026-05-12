@@ -970,6 +970,53 @@
         "label": "Albert Leroy Skinner",
         "description": "Attended Yale College 1885-1886",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1865"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49145",
+                        "data": {
+                            "label": "New Haven, Connecticut, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "big city"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.308333333333,
+                                            "longitude": -72.925
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "New Haven, Connecticut, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1895"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
@@ -982,6 +1029,57 @@
                                 "mime": "image/jpeg"
                             }
                         ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q2599077",
+                        "data": {
+                            "label": "Yale College",
+                            "instance_of": [
+                                "college"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3117,
+                                            "longitude": -72.9253
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale College"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q14714934",
+                        "data": {
+                            "label": "Hillhouse High School",
+                            "instance_of": [
+                                "high school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.322,
+                                            "longitude": -72.9397
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Hillhouse High School"
                     }
                 ]
             }
@@ -2366,6 +2464,52 @@
         "label": "Alphonso Primius Dawkins",
         "description": "Attended Yale College 1905-1906",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1878"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q742898",
+                        "data": {
+                            "label": "Carlisle, South Carolina, United States",
+                            "instance_of": [
+                                "town in the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 34.591666666667,
+                                            "longitude": -81.464444444444
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Carlisle, South Carolina, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1906"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
@@ -2378,6 +2522,71 @@
                                 "mime": "image/jpeg"
                             }
                         ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1143289",
+                        "data": {
+                            "label": "Yale Law School",
+                            "instance_of": [
+                                "law school",
+                                "academic publisher"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311581,
+                                            "longitude": -72.928147
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Law School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q4570781",
+                        "data": {
+                            "label": "Lincoln University",
+                            "instance_of": [
+                                "public university",
+                                "historically black college or university",
+                                "public educational institution of the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 39.808333333333,
+                                            "longitude": -75.927777777778
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Lincoln University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q139695758",
+                        "data": {
+                            "label": "Harbison College",
+                            "instance_of": [
+                                "school"
+                            ]
+                        },
+                        "text": "Harbison College"
                     }
                 ]
             }
@@ -2682,6 +2891,11 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
+                                            "latitude": 33.754444444444445,
+                                            "longitude": -84.38972222222222
+                                        },
+                                        {
+                                            "value-type": "globe-coordinate",
                                             "latitude": 33.756944444444,
                                             "longitude": -84.390277777778
                                         },
@@ -2689,11 +2903,6 @@
                                             "value-type": "globe-coordinate",
                                             "latitude": 33.74888888888889,
                                             "longitude": -84.38805555555555
-                                        },
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 33.754444444444445,
-                                            "longitude": -84.38972222222222
                                         }
                                     ]
                                 }
@@ -3064,18 +3273,124 @@
         "label": "Arthur Garfield Harrison",
         "description": "Attended Yale Law School 1899-1902",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1877"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q2030863",
+                        "data": {
+                            "label": "Elkin, North Carolina, United States",
+                            "instance_of": [
+                                "town in the United States",
+                                "city in North Carolina"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 36.2578,
+                                            "longitude": -80.8514
+                                        },
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 36.2443,
+                                            "longitude": -80.8484
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Elkin, North Carolina, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1941"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Arthur Garfield Harrison",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q135791203.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q4570781",
+                        "data": {
+                            "label": "Lincoln University",
+                            "instance_of": [
+                                "public university",
+                                "historically black college or university",
+                                "public educational institution of the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 39.808333333333,
+                                            "longitude": -75.927777777778
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Lincoln University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1143289",
+                        "data": {
+                            "label": "Yale Law School",
+                            "instance_of": [
+                                "law school",
+                                "academic publisher"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311581,
+                                            "longitude": -72.928147
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Law School"
                     }
                 ]
             }
@@ -3345,18 +3660,118 @@
         "label": "Augustus Barnes Tabb",
         "description": "Attended Yale Law School 1900-1903",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1870"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q511964",
+                        "data": {
+                            "label": "Petersburg, Virginia, United States",
+                            "instance_of": [
+                                "independent city in the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 37.21295,
+                                            "longitude": -77.400417
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Petersburg, Virginia, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1963"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Augustus Barnes Tabb",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q135791207.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q4570781",
+                        "data": {
+                            "label": "Lincoln University",
+                            "instance_of": [
+                                "public university",
+                                "historically black college or university",
+                                "public educational institution of the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 39.808333333333,
+                                            "longitude": -75.927777777778
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Lincoln University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1143289",
+                        "data": {
+                            "label": "Yale Law School",
+                            "instance_of": [
+                                "law school",
+                                "academic publisher"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311581,
+                                            "longitude": -72.928147
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Law School"
                     }
                 ]
             }
@@ -5433,9 +5848,55 @@
     },
     {
         "id": "Q135790275",
-        "label": "Charles Hegamin",
+        "label": "Charles Hegemen, Jr.",
         "description": "Attended Yale College 1885-1888",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1865"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q600301",
+                        "data": {
+                            "label": "Troy, New York, United States",
+                            "instance_of": [
+                                "city in the state of New York"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 42.731666666667,
+                                            "longitude": -73.6925
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Troy, New York, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1921"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
@@ -5448,6 +5909,39 @@
                                 "mime": "image/jpeg"
                             }
                         ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49112",
+                        "data": {
+                            "label": "Yale University",
+                            "instance_of": [
+                                "private university",
+                                "research university",
+                                "Colonial Colleges",
+                                "private not-for-profit educational institution",
+                                "academic publisher",
+                                "production company"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311111111111,
+                                            "longitude": -72.926666666667
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale University"
                     }
                 ]
             }
@@ -6734,18 +7228,127 @@
         "label": "Clifton Monroe Mason",
         "description": "Attended Yale Law School 1903-1904",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1878"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q60",
+                        "data": {
+                            "label": "New York City, New York, United States",
+                            "instance_of": [
+                                "global city",
+                                "port city",
+                                "city in the United States",
+                                "city",
+                                "big city",
+                                "largest city",
+                                "city in the state of New York",
+                                "metropolis",
+                                "megacity"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 40.71277777777778,
+                                            "longitude": -74.00611111111111
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "New York City, New York, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1973"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Clifton Monroe Mason",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q135791204.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1068752",
+                        "data": {
+                            "label": "Howard University",
+                            "instance_of": [
+                                "private university",
+                                "historically black college or university",
+                                "private not-for-profit educational institution",
+                                "school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 38.921666666667,
+                                            "longitude": -77.02
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Howard University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1143289",
+                        "data": {
+                            "label": "Yale Law School",
+                            "instance_of": [
+                                "law school",
+                                "academic publisher"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311581,
+                                            "longitude": -72.928147
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Law School"
                     }
                 ]
             }
@@ -9824,6 +10427,11 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
+                                            "latitude": 33.754444444444445,
+                                            "longitude": -84.38972222222222
+                                        },
+                                        {
+                                            "value-type": "globe-coordinate",
                                             "latitude": 33.756944444444,
                                             "longitude": -84.390277777778
                                         },
@@ -9831,11 +10439,6 @@
                                             "value-type": "globe-coordinate",
                                             "latitude": 33.74888888888889,
                                             "longitude": -84.38805555555555
-                                        },
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 33.754444444444445,
-                                            "longitude": -84.38972222222222
                                         }
                                     ]
                                 }
@@ -10473,10 +11076,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Ellis Alvin Christian",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q130266883.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -10996,6 +11599,113 @@
                             }
                         },
                         "text": "Talladega College"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q139587418",
+        "label": "Fannin Saffore Belcher",
+        "description": "Received PhD, 1946",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1909"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1967"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Fannin Saffore Belcher",
+                        "image-info": [
+                            {
+                                "url": "/data/Q139587418.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q59741148",
+                        "data": {
+                            "label": "Yale University Graduate School",
+                            "instance_of": [
+                                "scholarly article"
+                            ]
+                        },
+                        "text": "Yale University Graduate School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q4570781",
+                        "data": {
+                            "label": "Lincoln University",
+                            "instance_of": [
+                                "public university",
+                                "historically black college or university",
+                                "public educational institution of the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 39.808333333333,
+                                            "longitude": -75.927777777778
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Lincoln University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49117",
+                        "data": {
+                            "label": "University of Pennsylvania",
+                            "instance_of": [
+                                "private university",
+                                "research university",
+                                "Colonial Colleges",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 39.95388888888889,
+                                            "longitude": -75.19305555555556
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "University of Pennsylvania"
                     }
                 ]
             }
@@ -12355,6 +13065,52 @@
         "label": "Frederick Ellis Bass",
         "description": "Attended Yale School of Medicine 1889-1890",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1867"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q316390",
+                        "data": {
+                            "label": "Antigua, Antigua and Barbuda",
+                            "instance_of": [
+                                "island"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 17.085,
+                                            "longitude": -61.8
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Antigua, Antigua and Barbuda"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1939"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
@@ -12367,6 +13123,109 @@
                                 "mime": "image/jpeg"
                             }
                         ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q4026847",
+                        "data": {
+                            "label": "Meharry Medical College",
+                            "instance_of": [
+                                "medical school",
+                                "historically black college or university",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 36.167,
+                                            "longitude": -86.807
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Meharry Medical College"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1961140",
+                        "data": {
+                            "label": "Yale School of Medicine",
+                            "instance_of": [
+                                "medical school",
+                                "faculty"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.303245363975,
+                                            "longitude": -72.933871811889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale School of Medicine"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1124228",
+                        "data": {
+                            "label": "Royal College of Surgeons in Ireland",
+                            "instance_of": [
+                                "higher education institution",
+                                "regulatory college",
+                                "nonprofit organization"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 53.33896388888889,
+                                            "longitude": -6.261813888888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Royal College of Surgeons in Ireland"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q6672675",
+                        "data": {
+                            "label": "Long Island College Hospital",
+                            "instance_of": [
+                                "hospital",
+                                "former hospital"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 40.6897,
+                                            "longitude": -73.9967
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Long Island College Hospital"
                     }
                 ]
             }
@@ -13657,10 +14516,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "George Mainard Evans",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q130286691.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -14582,8 +15441,55 @@
     {
         "id": "Q135901165",
         "label": "Grace Lucille Fisher",
-        "description": "Attended Yale School of Music 1922-1925",
+        "description": "Attended Yale School of Music 1922-1924",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1902"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49145",
+                        "data": {
+                            "label": "New Haven, Connecticut, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "big city"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.308333333333,
+                                            "longitude": -72.925
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "New Haven, Connecticut, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1968"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
@@ -14624,6 +15530,55 @@
                             }
                         },
                         "text": "Yale School of Music"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q681025",
+                        "data": {
+                            "label": "University at Buffalo, New York, United States",
+                            "instance_of": [
+                                "public research university",
+                                "public educational institution of the United States",
+                                "open-access publisher",
+                                "census-designated place in the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 43,
+                                            "longitude": -78.78916666666667
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "University at Buffalo, New York, United States"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q14714934",
+                        "data": {
+                            "label": "Hillhouse High School",
+                            "instance_of": [
+                                "high school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.322,
+                                            "longitude": -72.9397
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Hillhouse High School"
                     }
                 ]
             }
@@ -16812,7 +17767,6 @@
                         "data": {
                             "label": "Liberia",
                             "instance_of": [
-                                "republic",
                                 "sovereign state",
                                 "country"
                             ],
@@ -18213,20 +19167,123 @@
     {
         "id": "Q135790470",
         "label": "Isaac Thomas Gillam, Jr.",
-        "description": "Attended Yale Graduate School 1899-1900",
+        "description": "Attended Yale Graduate School 1898-1900",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1875"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q33405",
+                        "data": {
+                            "label": "Little Rock, Arkansas, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "county seat",
+                                "state or insular area capital of the United States",
+                                "big city"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 34.74444444444445,
+                                            "longitude": -92.28805555555556
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Little Rock, Arkansas, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1953"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Isaac Thomas Gillam, Jr.",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q135790470.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1068752",
+                        "data": {
+                            "label": "Howard University",
+                            "instance_of": [
+                                "private university",
+                                "historically black college or university",
+                                "private not-for-profit educational institution",
+                                "school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 38.921666666667,
+                                            "longitude": -77.02
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Howard University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q8047384",
+                        "data": {
+                            "label": "Yale Graduate School of Arts and Sciences",
+                            "instance_of": [
+                                "academic institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3123,
+                                            "longitude": -72.9291
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Graduate School of Arts and Sciences"
                     }
                 ]
             }
@@ -18413,6 +19470,52 @@
         "label": "James Arthur Harley",
         "description": "Attended Yale College 1902-1903",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1873"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q316390",
+                        "data": {
+                            "label": "Antigua, Antigua and Barbuda",
+                            "instance_of": [
+                                "island"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 17.085,
+                                            "longitude": -61.8
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Antigua, Antigua and Barbuda"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1943"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
@@ -18425,6 +19528,147 @@
                                 "mime": "image/jpeg"
                             }
                         ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1068752",
+                        "data": {
+                            "label": "Howard University",
+                            "instance_of": [
+                                "private university",
+                                "historically black college or university",
+                                "private not-for-profit educational institution",
+                                "school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 38.921666666667,
+                                            "longitude": -77.02
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Howard University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q5921126",
+                        "data": {
+                            "label": "Howard University School of Law",
+                            "instance_of": [
+                                "law school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 38.94305555555555,
+                                            "longitude": -77.05833333333334
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Howard University School of Law"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q2599077",
+                        "data": {
+                            "label": "Yale College",
+                            "instance_of": [
+                                "college"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3117,
+                                            "longitude": -72.9253
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale College"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q13371",
+                        "data": {
+                            "label": "Harvard University",
+                            "instance_of": [
+                                "private university",
+                                "research university",
+                                "Colonial Colleges",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 42.374443888889,
+                                            "longitude": -71.116943888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Harvard University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q34433",
+                        "data": {
+                            "label": "University of Oxford",
+                            "instance_of": [
+                                "collegiate university",
+                                "exempt charity",
+                                "public university",
+                                "higher education institution",
+                                "educational organization"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 51.755,
+                                            "longitude": -1.255
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "University of Oxford"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q139582314",
+                        "data": {
+                            "label": "Episcopal Theological School",
+                            "instance_of": [
+                                "higher education institution"
+                            ]
+                        },
+                        "text": "Episcopal Theological School"
                     }
                 ]
             }
@@ -20533,6 +21777,11 @@
                                     "values": [
                                         {
                                             "value-type": "globe-coordinate",
+                                            "latitude": 33.754444444444445,
+                                            "longitude": -84.38972222222222
+                                        },
+                                        {
+                                            "value-type": "globe-coordinate",
                                             "latitude": 33.756944444444,
                                             "longitude": -84.390277777778
                                         },
@@ -20540,11 +21789,6 @@
                                             "value-type": "globe-coordinate",
                                             "latitude": 33.74888888888889,
                                             "longitude": -84.38805555555555
-                                        },
-                                        {
-                                            "value-type": "globe-coordinate",
-                                            "latitude": 33.754444444444445,
-                                            "longitude": -84.38972222222222
                                         }
                                     ]
                                 }
@@ -22785,15 +24029,61 @@
         "label": "John William Hudspeth",
         "description": "Attended Yale Law School 1901-1902",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1872"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1778943",
+                        "data": {
+                            "label": "Franklin, Kentucky, United States",
+                            "instance_of": [
+                                "city in the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 36.7225,
+                                            "longitude": -86.5775
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Franklin, Kentucky, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1934"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "John William Hudspeth",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q135791210.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -22826,6 +24116,32 @@
                             }
                         },
                         "text": "Yale Law School"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1187623",
+                        "data": {
+                            "label": "Kentucky State University",
+                            "instance_of": [
+                                "public university",
+                                "land-grant university",
+                                "historically black college or university",
+                                "public educational institution of the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 38.1998,
+                                            "longitude": -84.858
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Kentucky State University"
                     }
                 ]
             }
@@ -24837,6 +26153,179 @@
         }
     },
     {
+        "id": "Q6680701",
+        "label": "Lorenzo Dow Turner",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1890"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1018467",
+                        "data": {
+                            "label": "Elizabeth City, North Carolina, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "city in North Carolina"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 36.295555555556,
+                                            "longitude": -76.225
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Elizabeth City, North Carolina, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1972"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Lorenzo Dow Turner",
+                        "image-info": [
+                            {
+                                "url": "/data/Q6680701.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q13371",
+                        "data": {
+                            "label": "Harvard University",
+                            "instance_of": [
+                                "private university",
+                                "research university",
+                                "Colonial Colleges",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 42.374443888889,
+                                            "longitude": -71.116943888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Harvard University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q131252",
+                        "data": {
+                            "label": "University of Chicago",
+                            "instance_of": [
+                                "private university",
+                                "private not-for-profit educational institution",
+                                "research university"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.789722222222,
+                                            "longitude": -87.599722222222
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "University of Chicago"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49087",
+                        "data": {
+                            "label": "Fisk University",
+                            "instance_of": [
+                                "private university",
+                                "historically black college or university",
+                                "private not-for-profit educational institution",
+                                "school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 36.1688,
+                                            "longitude": -86.8047
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Fisk University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q8047384",
+                        "data": {
+                            "label": "Yale Graduate School of Arts and Sciences",
+                            "instance_of": [
+                                "academic institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3123,
+                                            "longitude": -72.9291
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Graduate School of Arts and Sciences"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130314905",
         "label": "Louis Folsom Pollard",
         "description": "Attended Yale College 1906-1907",
@@ -25104,11 +26593,39 @@
                 "values": [
                     {
                         "value-type": "time",
-                        "text": "1899"
+                        "text": "1896"
                     },
                     {
                         "value-type": "time",
                         "text": "1898"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q753959",
+                        "data": {
+                            "label": "Port Tobacco Village, Maryland, United States",
+                            "instance_of": [
+                                "town in the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 38.5104802,
+                                            "longitude": -77.0195611
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Port Tobacco Village, Maryland, United States"
                     }
                 ]
             },
@@ -25153,6 +26670,80 @@
                             }
                         },
                         "text": "Yale School of Art"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49124",
+                        "data": {
+                            "label": "Radcliffe College",
+                            "instance_of": [
+                                "college"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 42.38194444444444,
+                                            "longitude": -71.12472222222222
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Radcliffe College"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q239303",
+                        "data": {
+                            "label": "Art Institute of Chicago",
+                            "instance_of": [
+                                "art museum",
+                                "educational institution",
+                                "nonprofit organization"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.879444444444445,
+                                            "longitude": -87.62388888888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Art Institute of Chicago"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1952033",
+                        "data": {
+                            "label": "Pennsylvania Academy of the Fine Arts",
+                            "instance_of": [
+                                "art museum",
+                                "art academy",
+                                "private not-for-profit educational institution",
+                                "museum"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 39.955683,
+                                            "longitude": -75.163217
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Pennsylvania Academy of the Fine Arts"
                     }
                 ]
             }
@@ -25487,10 +27078,10 @@
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Matthew Anderson",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q130314906.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -25727,21 +27318,121 @@
     },
     {
         "id": "Q135790294",
-        "label": "Maurice Pierre Laufer",
+        "label": "Maurice Pierre Lafleur",
         "description": "Research Fellow at the Yale School of Medicine circa 1927-1929; received Master's in Public Health, 1931",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1890"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q34261",
+                        "data": {
+                            "label": "Port-au-Prince, Port-au-Prince Arrondissement, Haiti",
+                            "instance_of": [
+                                "commune of Haiti",
+                                "city or town",
+                                "big city"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 18.546944444444446,
+                                            "longitude": -72.34027777777777
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Port-au-Prince, Port-au-Prince Arrondissement, Haiti"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1968"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Maurice Pierre Lafleur",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q135790294.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1961140",
+                        "data": {
+                            "label": "Yale School of Medicine",
+                            "instance_of": [
+                                "medical school",
+                                "faculty"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.303245363975,
+                                            "longitude": -72.933871811889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale School of Medicine"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1205322",
+                        "data": {
+                            "label": null,
+                            "instance_of": [
+                                "public university"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 18.54222222222222,
+                                            "longitude": -72.34055555555555
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": null
                     }
                 ]
             }
@@ -26521,6 +28212,52 @@
         "label": "Norman Lee Bush",
         "description": "Attended Yale Divinity School 1929-1930",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1900"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q404887",
+                        "data": {
+                            "label": "Aiken, South Carolina, United States",
+                            "instance_of": [
+                                "city in the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 33.549444444444,
+                                            "longitude": -81.720555555556
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Aiken, South Carolina, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1981"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
@@ -26533,6 +28270,60 @@
                                 "mime": "image/jpeg"
                             }
                         ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q7566644",
+                        "data": {
+                            "label": "South Carolina State University",
+                            "instance_of": [
+                                "public university",
+                                "land-grant university",
+                                "historically black college or university",
+                                "public educational institution of the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 33.497222222222,
+                                            "longitude": -80.85
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "South Carolina State University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q10723329",
+                        "data": {
+                            "label": "Yale Divinity School",
+                            "instance_of": [
+                                "seminary"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.32380555555556,
+                                            "longitude": -72.9233888888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Divinity School"
                     }
                 ]
             }
@@ -28457,7 +30248,7 @@
                         "value-type": "wikibase-item",
                         "id": "Q4019812",
                         "data": {
-                            "label": "Wiley College",
+                            "label": "Wiley University",
                             "instance_of": [
                                 "school",
                                 "historically black college or university",
@@ -28476,7 +30267,7 @@
                                 }
                             }
                         },
-                        "text": "Wiley College"
+                        "text": "Wiley University"
                     },
                     {
                         "value-type": "wikibase-item",
@@ -31266,7 +33057,8 @@
                             "label": "University of Paris",
                             "instance_of": [
                                 "former entity",
-                                "university in France"
+                                "university in France",
+                                "academic institution"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -31276,6 +33068,11 @@
                                             "value-type": "globe-coordinate",
                                             "latitude": 48.84861111111111,
                                             "longitude": 2.343611111111111
+                                        },
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 48.8486,
+                                            "longitude": 2.34333
                                         }
                                     ]
                                 }
@@ -31425,6 +33222,52 @@
         "label": "Sidney Albert Smith",
         "description": "Attended Yale College 1903-1904",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1871"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q951753",
+                        "data": {
+                            "label": "Pittsboro",
+                            "instance_of": [
+                                "village in the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 33.9386,
+                                            "longitude": -89.3386
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Pittsboro"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1913"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
@@ -31437,6 +33280,53 @@
                                 "mime": "image/jpeg"
                             }
                         ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q6485360",
+                        "data": {
+                            "label": "Lane College",
+                            "instance_of": [
+                                "historically black college or university",
+                                "private not-for-profit educational institution",
+                                "historic district",
+                                "school"
+                            ]
+                        },
+                        "text": "Lane College"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49112",
+                        "data": {
+                            "label": "Yale University",
+                            "instance_of": [
+                                "private university",
+                                "research university",
+                                "Colonial Colleges",
+                                "private not-for-profit educational institution",
+                                "academic publisher",
+                                "production company"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311111111111,
+                                            "longitude": -72.926666666667
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale University"
                     }
                 ]
             }
@@ -32138,6 +34028,53 @@
         "label": "Thomas Boyne Patterson",
         "description": "Attended Yale School of Medicine 1891-1892",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1866"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q38453",
+                        "data": {
+                            "label": "Columbia, South Carolina, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "county seat"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 34.000555555556,
+                                            "longitude": -81.044166666667
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Columbia, South Carolina, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1943"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
@@ -32150,6 +34087,61 @@
                                 "mime": "image/jpeg"
                             }
                         ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1797817",
+                        "data": {
+                            "label": "Hampton University",
+                            "instance_of": [
+                                "university",
+                                "historically black college or university",
+                                "private not-for-profit educational institution",
+                                "school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 37.0225,
+                                            "longitude": -76.33472222222223
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Hampton University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1961140",
+                        "data": {
+                            "label": "Yale School of Medicine",
+                            "instance_of": [
+                                "medical school",
+                                "faculty"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.303245363975,
+                                            "longitude": -72.933871811889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale School of Medicine"
                     }
                 ]
             }
@@ -32198,15 +34190,24 @@
                     }
                 ]
             },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1964"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
                     {
                         "value-type": "commonsMedia",
-                        "name": "No Image Available",
+                        "name": "Thomas Desire Pawley",
                         "image-info": [
                             {
-                                "url": "/data/noimage.jpg",
+                                "url": "/data/Q135790260.jpg",
                                 "mime": "image/jpeg"
                             }
                         ]
@@ -33495,7 +35496,8 @@
                             "label": "University of Paris",
                             "instance_of": [
                                 "former entity",
-                                "university in France"
+                                "university in France",
+                                "academic institution"
                             ],
                             "properties": {
                                 "coordinate location": {
@@ -33505,6 +35507,11 @@
                                             "value-type": "globe-coordinate",
                                             "latitude": 48.84861111111111,
                                             "longitude": 2.343611111111111
+                                        },
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 48.8486,
+                                            "longitude": 2.34333
                                         }
                                     ]
                                 }
@@ -34510,6 +36517,43 @@
         "label": "Walter Keene",
         "description": "Attended Yale College 1905-1906",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1877"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q511922",
+                        "data": {
+                            "label": "Danville, Virginia, United States",
+                            "instance_of": [
+                                "independent city in the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 36.587238,
+                                            "longitude": -79.404404
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Danville, Virginia, United States"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
@@ -34522,6 +36566,83 @@
                                 "mime": "image/jpeg"
                             }
                         ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q4570781",
+                        "data": {
+                            "label": "Lincoln University",
+                            "instance_of": [
+                                "public university",
+                                "historically black college or university",
+                                "public educational institution of the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 39.808333333333,
+                                            "longitude": -75.927777777778
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Lincoln University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q2599077",
+                        "data": {
+                            "label": "Yale College",
+                            "instance_of": [
+                                "college"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3117,
+                                            "longitude": -72.9253
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale College"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q23933851",
+                        "data": {
+                            "label": "Hampton Institute",
+                            "instance_of": [
+                                "campus",
+                                "historic district"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 37.0203,
+                                            "longitude": -76.5945
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Hampton Institute"
                     }
                 ]
             }
@@ -36197,7 +38318,6 @@
                         "data": {
                             "label": "Liberia",
                             "instance_of": [
-                                "republic",
                                 "sovereign state",
                                 "country"
                             ],
@@ -38514,9 +40634,55 @@
     },
     {
         "id": "Q135790265",
-        "label": "William Washington Noland",
+        "label": "William Washington Nolen",
         "description": "Attended Yale Law School 1906-1907",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1881"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1004374",
+                        "data": {
+                            "label": "Houston, Mississippi, United States",
+                            "instance_of": [
+                                "town in the United States"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 33.8981,
+                                            "longitude": -89.0017
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Houston, Mississippi, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1952"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
@@ -38531,13 +40697,93 @@
                         ]
                     }
                 ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1682329",
+                        "data": {
+                            "label": "Tuskegee University, Alabama, United States",
+                            "instance_of": [
+                                "university",
+                                "land-grant university",
+                                "historically black college or university",
+                                "private not-for-profit educational institution",
+                                "school",
+                                "unincorporated community"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 32.430278,
+                                            "longitude": -85.707778
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Tuskegee University, Alabama, United States"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q7961485",
+                        "data": {
+                            "label": "Walden University",
+                            "instance_of": [
+                                "university"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 36.151,
+                                            "longitude": -86.769
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Walden University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1143289",
+                        "data": {
+                            "label": "Yale Law School",
+                            "instance_of": [
+                                "law school",
+                                "academic publisher"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.311581,
+                                            "longitude": -72.928147
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Law School"
+                    }
+                ]
             }
         }
     },
     {
         "id": "Q8020652",
         "label": "William Yancy Bell",
-        "description": "Received Ph.D. in Philosophy, 1924",
+        "description": "Received Ph.D. in Semitic and Biblical Languages, 1924",
         "properties": {
             "date of birth": {
                 "label": "date of birth",
@@ -39127,9 +41373,57 @@
     },
     {
         "id": "Q135790296",
-        "label": "\u00c9douard Alexander  Petrus",
+        "label": "\u00c9douard Alexander P\u00e9trus",
         "description": "Research Fellow at Yale School of Medicine circa 1927-1929",
         "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1895"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q34261",
+                        "data": {
+                            "label": "Port-au-Prince, Port-au-Prince Arrondissement, Haiti",
+                            "instance_of": [
+                                "commune of Haiti",
+                                "city or town",
+                                "big city"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 18.546944444444446,
+                                            "longitude": -72.34027777777777
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Port-au-Prince, Port-au-Prince Arrondissement, Haiti"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1959"
+                    }
+                ]
+            },
             "image": {
                 "label": "image",
                 "values": [
@@ -39142,6 +41436,35 @@
                                 "mime": "image/jpeg"
                             }
                         ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1961140",
+                        "data": {
+                            "label": "Yale School of Medicine",
+                            "instance_of": [
+                                "medical school",
+                                "faculty"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.303245363975,
+                                            "longitude": -72.933871811889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale School of Medicine"
                     }
                 ]
             }
