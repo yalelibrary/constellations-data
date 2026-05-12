@@ -297,15 +297,6 @@
                     "text": "1920s; 1930s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "65 Edgewood Avenue - 1928-1930",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

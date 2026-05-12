@@ -128,15 +128,6 @@
                     "text": "1910s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "647 Edwards Hall - 1914-1915",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

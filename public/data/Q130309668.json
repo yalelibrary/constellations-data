@@ -248,19 +248,6 @@
                     "text": "1880s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "87 Star Street - 1885-1886",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "12 Martin Street - 1886-1887",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

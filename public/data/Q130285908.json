@@ -240,19 +240,6 @@
                     "text": "1920s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "2171 Taylor Hall - 1928-1929",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "2172 Taylor Hall - 1929-1930",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

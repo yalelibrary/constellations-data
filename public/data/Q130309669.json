@@ -642,23 +642,6 @@
                     "text": "1920s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "1149 Edwards Hall - 1922-1923",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "1138 Edwards Hall - 1924-1925",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "1197 Taylor Hall - 1925-1926",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

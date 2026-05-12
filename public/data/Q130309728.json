@@ -254,15 +254,6 @@
                     "text": "1910s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "24 Foote Street - 1911-1916",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

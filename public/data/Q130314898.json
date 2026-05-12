@@ -284,15 +284,6 @@
                     "text": "1890s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "80 Webster Street - 1894-1898",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

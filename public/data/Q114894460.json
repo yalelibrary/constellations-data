@@ -265,23 +265,6 @@
                     "text": "1850s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "87 York Street - 1857-1858",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "4 Atwater Street - 1858-1859",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "25 College Street - 1859-1860",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

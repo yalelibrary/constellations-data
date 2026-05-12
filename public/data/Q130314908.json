@@ -285,26 +285,6 @@
                 }
             ]
         },
-        "relative": {
-            "label": "relative",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q130266858",
-                    "text": "Earley Emmett Caple",
-                    "qualifiers": [
-                        {
-                            "label": "kinship to subject",
-                            "values": [
-                                {
-                                    "text": "co-residents"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
         "image": {
             "label": "image",
             "values": [
@@ -335,15 +315,6 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
-                }
-            ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "24 Dickerman Street - 1921-1922",
-                    "value-type": "literal"
                 }
             ]
         }

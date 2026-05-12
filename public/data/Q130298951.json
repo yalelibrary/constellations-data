@@ -420,15 +420,6 @@
                     "text": "1890s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "32 East Divinity Hall - 1894-1895",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

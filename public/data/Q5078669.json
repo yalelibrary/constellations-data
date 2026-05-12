@@ -351,21 +351,6 @@
                             ]
                         }
                     ]
-                },
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q130309692",
-                    "text": "Leon Pulaski O'Hara",
-                    "qualifiers": [
-                        {
-                            "label": "kinship to subject",
-                            "values": [
-                                {
-                                    "text": "co-residents"
-                                }
-                            ]
-                        }
-                    ]
                 }
             ]
         },
@@ -399,19 +384,6 @@
                 {
                     "value-type": "literal",
                     "text": "1910s"
-                }
-            ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "656 Taylor Hall - 1911-1912",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "59 Dixwell Avenue - 1912-1913",
-                    "value-type": "literal"
                 }
             ]
         }

@@ -255,15 +255,6 @@
                     "text": "1900s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "638 East Divinity Hall - 1901-1902",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

@@ -237,26 +237,6 @@
                 }
             ]
         },
-        "relative": {
-            "label": "relative",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q130285655",
-                    "text": "Henderson Hamilton Donald",
-                    "qualifiers": [
-                        {
-                            "label": "kinship to subject",
-                            "values": [
-                                {
-                                    "text": "co-residents"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
         "image": {
             "label": "image",
             "values": [
@@ -287,15 +267,6 @@
                 {
                     "value-type": "literal",
                     "text": "1910s"
-                }
-            ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "1149 Edwards Hall - 1917-1918",
-                    "value-type": "literal"
                 }
             ]
         }

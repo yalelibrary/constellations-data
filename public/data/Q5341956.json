@@ -547,15 +547,6 @@
                     "text": "1870s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "42 Bradley Street - 1870-1876",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

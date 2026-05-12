@@ -416,19 +416,6 @@
                     "text": "1880s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "33 East Divinity Hall - 1880-1882",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "17 East Divinity Hall - 1882-1884",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

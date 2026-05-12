@@ -135,26 +135,6 @@
                 }
             ]
         },
-        "relative": {
-            "label": "relative",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q135790294",
-                    "text": "Maurice Pierre Lafleur",
-                    "qualifiers": [
-                        {
-                            "label": "kinship to subject",
-                            "values": [
-                                {
-                                    "text": "co-residents"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
         "image": {
             "label": "image",
             "values": [
@@ -185,15 +165,6 @@
                 {
                     "value-type": "literal",
                     "text": "1920s"
-                }
-            ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "462 Elm Street - 1928-1929",
-                    "value-type": "literal"
                 }
             ]
         }

@@ -271,15 +271,6 @@
                     "text": "1900s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "666 West Divinity Hall - 1902-1903",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

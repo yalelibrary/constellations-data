@@ -269,15 +269,6 @@
                     "text": "1880s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "51 East Divinity Hall - 1887-1889",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

@@ -426,41 +426,6 @@
                 }
             ]
         },
-        "relative": {
-            "label": "relative",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q130309688",
-                    "text": "Edward Kingston Nichols",
-                    "qualifiers": [
-                        {
-                            "label": "kinship to subject",
-                            "values": [
-                                {
-                                    "text": "co-residents"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q130246911",
-                    "text": "Charles W. Burton",
-                    "qualifiers": [
-                        {
-                            "label": "kinship to subject",
-                            "values": [
-                                {
-                                    "text": "co-residents"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
         "image": {
             "label": "image",
             "values": [
@@ -491,23 +456,6 @@
                 {
                     "value-type": "literal",
                     "text": "1900s; 1910s"
-                }
-            ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "106 Goffe Street - 1908-1909",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "696 Taylor Hall - 1909-1910",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "658 Taylor Hall - 1910-1911",
-                    "value-type": "literal"
                 }
             ]
         }

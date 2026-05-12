@@ -306,15 +306,6 @@
                     "text": "1920s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "101 Foote Street - 1921-1922",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

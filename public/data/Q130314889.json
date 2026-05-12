@@ -353,27 +353,6 @@
                     "text": "1880s; 1890s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "107 York Street - 1888-1889",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "111 York Street  - 1889-1890",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "160 Farnam Hall - 1890-1891",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "379 Crown Street - 1892-1893",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

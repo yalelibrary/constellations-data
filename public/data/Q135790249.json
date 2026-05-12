@@ -378,15 +378,6 @@
                     "text": "1920s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "76 Gregory Street - 1925-1926",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

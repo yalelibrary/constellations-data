@@ -93,26 +93,6 @@
                 }
             ]
         },
-        "relative": {
-            "label": "relative",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q56281812",
-                    "text": "Edwin Archer Randolph",
-                    "qualifiers": [
-                        {
-                            "label": "kinship to subject",
-                            "values": [
-                                {
-                                    "text": "co-residents"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
         "image": {
             "label": "image",
             "values": [
@@ -143,15 +123,6 @@
                 {
                     "value-type": "literal",
                     "text": "1870s; 1880s"
-                }
-            ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "39 Sperry Street - 1878-1880",
-                    "value-type": "literal"
                 }
             ]
         }

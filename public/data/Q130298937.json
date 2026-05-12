@@ -272,15 +272,6 @@
                     "text": "1920s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "1148 Edwards Hall - 1921-1923",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

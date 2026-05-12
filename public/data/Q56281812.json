@@ -151,26 +151,6 @@
                 }
             ]
         },
-        "relative": {
-            "label": "relative",
-            "values": [
-                {
-                    "value-type": "wikibase-item",
-                    "id": "Q135790239",
-                    "text": "George Lafayette Camm",
-                    "qualifiers": [
-                        {
-                            "label": "kinship to subject",
-                            "values": [
-                                {
-                                    "text": "co-residents"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
         "image": {
             "label": "image",
             "values": [
@@ -201,19 +181,6 @@
                 {
                     "value-type": "literal",
                     "text": "1870s; 1880s"
-                }
-            ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "39 Sperry Street - 1878-1879",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "52 East Divinity Hall - 1879-1880",
-                    "value-type": "literal"
                 }
             ]
         }

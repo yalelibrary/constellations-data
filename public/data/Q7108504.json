@@ -305,19 +305,6 @@
                     "text": "1920s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "65 Edgewood Avenue - 1921-1923",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "125 High Street - 1926-1927",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

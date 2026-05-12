@@ -320,19 +320,6 @@
                     "text": "1910s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "1147 Edwards Hall - 1915-19168",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "317 Dixwell Avenue - 1929-1930",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

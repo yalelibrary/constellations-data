@@ -237,15 +237,6 @@
                     "text": "1900s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "74 Edgewood Avenue - 1903-1904",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

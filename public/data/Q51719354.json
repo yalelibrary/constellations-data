@@ -353,31 +353,6 @@
                     "text": "1890s; 1900s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "50 East Divinity Hall - 1893-1894",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "22 East Divinity Hall - 1894-1895",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "14 East Divinity Hall - 1895-1896",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "20 East Divinity Hall - 1896-1897",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "35 Foote Street - 1897-1901",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

@@ -239,23 +239,6 @@
                     "text": "1920s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "96 Wall Street - 1926-1927",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "9 Garden Street - 1928-1929",
-                    "value-type": "literal"
-                },
-                {
-                    "text": "318 York Street",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }

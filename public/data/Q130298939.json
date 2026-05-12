@@ -250,15 +250,6 @@
                     "text": "1890s"
                 }
             ]
-        },
-        "addresses": {
-            "label": "addresses",
-            "values": [
-                {
-                    "text": "38 East Divinity Hall - 1898-1899",
-                    "value-type": "literal"
-                }
-            ]
         }
     }
 }
