@@ -1,0 +1,390 @@
+{
+    "id": "Q139571968",
+    "label": "William Henry Burrell",
+    "biographyMarkdown": "# William Henry Burrell  \n## Attended Yale Divinity School 1902-1903 \n\nWilliam Henry Burrell (also known as Rev. W. H. Burrell) was born in Richmond, Virginia to Robert Burrell and Louisa Winston on July 4, 1869. According to the 1870 U.S. Census, Robert worked as a farm laborer. Burrell attended Virginia Union University and began teaching at public schools in Virginia. He soon joined the African Methodist Episcopal (AME) Church and was assigned to the New Jersey Conference, where he served churches in Swedesboro and Camden.[^1] \n\nSt. Paul\u2019s AME Church of Cambridge, Massachusetts removed their previous pastor for his political activities, and in 1897, Burrell was sent from the New Jersey Conference to pastor the church. While a pastor in Cambridge, he led efforts to construct a new church building and construction was complete by 1900. Burrell was sent to New Haven to pastor the Bethel AME Church in the early 1900s. He helped organize a statewide picnic of A.M.E. churches at Hanover Park in Meriden. While in New Haven, he enrolled at Yale Divinity School for the 1902-1903 school year as a resident licentiate.[^2]  \n\nIn 1906, he was made a presiding elder within the New England Conference of the AME Church. While in the New England Conference, Burrell would pastor churches in Providence, Rhode Island; Chelsea, Massachusetts; Newport, Rhode Island; and Greenwich, Connecticut. In 1910, he married Elizabeth Nichols, who was known for being the only female hotel chef in North Adams, Massachusetts. In 1913, he was reassigned from Greenwich and the New England Conference to the New Jersey Conference, where Burrell pastored Bethel AME Church in Jersey City, New Jersey. He was eventually made presiding elder and pastored in different cities in New Jersey. He died in 1949 in New Jersey.[^3] \n\n[^1]:\"Virginia, Bureau of Vital Statistics, Birth Records, 1853-1896\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:627Q-RZL1: Mon Jan 20 17:50:48 UTC 2025), Entry for Wm G Burwell and Louisa Winston, 4 Jul 1869; \"United States, Census, 1870\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MFG3-43G: Sun Jan 12 00:31:50 UTC 2025), Entry for Robert Burwell and Louisa Burwell, 1870; *The Encyclopeaedia of the African Methodist Episcopal Church* (Philadelphia: Book Concern of the A.M.E. Church, 1947), 58.  \n\n[^2]:\u201cNew Pastor in the Pulpit,\u201d *The Cambridge Chronicle*, January 23, 1897, 10; \u201cReal Estate,\u201d *The Cambridge Chronicle*, July 17, 1897, 3; \u201cMeriden\u2019s Union Church Picnic,\u201d *The Morning Journal-Courier*, July 17, 1902, 2; *Catalogue of Yale University, 1902-1903* (New Haven: The Tuttle, Morehouse & Taylor Company, 1902), 645. \n\n[^3]:\u201cA.M.E. Appointments: Rev. W.A. Lynch Named for New Haven by Bishop Turner,\u201d *The Morning Journal-Courier*, July 10, 1906, 1; *The Encyclopeaedia of the African Methodist Episcopal Church* (Philadelphia: Book Concern of the A.M.E. Church, 1947), 58; \"Massachusetts, State Vital Records, 1638-1927\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:N4DX-XJ8: Thu May 23 02:05:50 UTC 2024), Entry for William H Burrell and Elizabeth Nichols, 24 Sep 1910; \u201cOnly Woman Hotel Chef In County Will Retire: Mrs. W. H. Burrell Who Has Had Entire Charge of Kitchen and Culinery Department of Berkshire Hotel is Going to Greenwich N.Y.\u2014Has Made North Adams Her Home For 22 Years,\u201d *North Adams Transcript*, July 31, 1912, 3; \u201cJersey City Church Welcomes New Pastor,\u201d *The New York Age*, December 18, 1913, 1; \u201cWilliam H. Burrell,\u201d *Asbury Park Press*, March 3, 1949, 2. \n\n \n",
+    "description": "Attended Yale Divinity School 1902-1903",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1869"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q43421",
+                    "data": {
+                        "label": "Richmond, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States",
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.54083333333333,
+                                        "longitude": -77.43666666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Richmond, Virginia, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1814758",
+                    "data": {
+                        "label": "Virginia Union University",
+                        "instance_of": [
+                            "university",
+                            "campus",
+                            "historically black college or university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.5625,
+                                        "longitude": -77.45111111111112
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Virginia Union University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1902"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1903"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1088764",
+                    "data": {
+                        "label": "Swedesboro, New Jersey, United States",
+                        "instance_of": [
+                            "borough of New Jersey"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.7459,
+                                        "longitude": -75.3109
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Swedesboro, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q138367",
+                    "data": {
+                        "label": "Camden, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.9368,
+                                        "longitude": -75.1066
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Camden, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49111",
+                    "data": {
+                        "label": "Cambridge, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.375,
+                                        "longitude": -71.106111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cambridge, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18383",
+                    "data": {
+                        "label": "Providence, Rhode Island, United States",
+                        "instance_of": [
+                            "big city",
+                            "county seat",
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.82399,
+                                        "longitude": -71.41283
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Providence, Rhode Island, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q54156",
+                    "data": {
+                        "label": "Chelsea, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.391666666667,
+                                        "longitude": -71.033333333333
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chelsea, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q54264",
+                    "data": {
+                        "label": "Newport, Rhode Island, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.488002,
+                                        "longitude": -71.312622
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Newport, Rhode Island, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49202",
+                    "data": {
+                        "label": "Greenwich, Connecticut, United States",
+                        "instance_of": [
+                            "New England town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.02649,
+                                        "longitude": -73.62846
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Greenwich, Connecticut, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q26339",
+                    "data": {
+                        "label": "Jersey City, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71,
+                                        "longitude": -74.06
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Jersey City, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Burrell"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1900s"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,278 @@
+{
+    "id": "Q139571957",
+    "label": "Lois Gwendolyn Morton Turner",
+    "biographyMarkdown": "# Lois Gwendolyn Morton Turner \n## Attended Yale School of Art, 1938-1939 \n\nLois Gwendolyn Morton was born on February 4, 1918, in Crawfordsville, Arkansas to Clifford M. Harrison Morton and Myrtle Audre White. Her parents, both 1916 graduates of Fisk, were educators. She moved around as her parents taught at different schools before settling down in Bloomington, Indiana, where Clifford pursued a master\u2019s degree and Myrtle pursued a bachelor\u2019s at Indiana University. Lois attended Bloomington High School before moving to Louisville, Kentucky. There, she attended Central High School and graduated in 1933. She then attended Louisville Municipal College, receiving the president\u2019s prize for citizenship and an award for excellence in short writing. She graduated in 1937 and began pursuing her master\u2019s at Fisk. At Fisk, she was active in their drama program as well as Mozart society. For her master\u2019s thesis, she wrote on illustrations found in Black novels.[^1] \n\nWhile a student at Fisk, she met Professor Lorenzo D. Turner and took English classes with him. Turner hired her as a student-worker where she graded papers and did research. After Lois graduated in 1938, the two were married. The couple moved to New Haven to attend Yale. According to Lorenzo Turner\u2019s biography, *Lorenzo Dow Turner: Father of Gullah Studies*, the couple lived together at Turner\u2019s address at 482 Shelton Avenue, but Yale\u2019s records indicated Lois lived on 445 Orchard Street. At Yale, Lois took coursework in pictorial art, painting, pictorial composition, and drawing. While taking a class with Professor Richard Adams Rathbone, Lois recounted how she initially was humiliated by the ranking system Rathbone employed, where Rathbone displayed work from best to worst. Lois eventually had her painting ranked the best in the class. After a semester at Yale, the couple returned to Fisk University. In 1945, Lois joined the Tennessee State University faculty as an English professor. After Lois and Lorenzo moved to Chicago, Lois worked as a public school teacher in Chicago. After Lorenzo Dow Turner's death, she remarried and went by Lois Turner Williams. She continued to reside in Chicago and preserved the legacy of her late husband. According to an online record, she died in 2016.[^2] \n\n[^1]:\u201c20-Year-Old Girl Receives Masters Degree from Fisk: Excels in English and Short Story Writing\u2014Miss Lois Morton Was Honor Student in Louisville (Ky.) Public Schools,\u201d *The Pittsburgh Courier*, July 9, 1938, 5; Margaret Wade-Lewis, *Lorenzo Dow Turner: Father of Gullah Studies* (University of South Carolina Press, 2007), 115. \n\n[^2]:Margaret Wade-Lewis, *Lorenzo Dow Turner: Father of Gullah Studies* (University of South Carolina Press, 2007), 120-123; Margaret Wade-Lewis, *Lorenzo Dow Turner: Father of Gullah Studies* (University of South Carolina Press, 2007), 142; Margaret Wade-Lewis, *Lorenzo Dow Turner: Father of Gullah Studies* (University of South Carolina Press, 2007), 197; https://www.fastpeoplesearch.com/lois-williams_id_G-946214123712436879.  \n",
+    "description": "Attended Yale School of Art, 1938-1939",
+    "publicationsMarkdown": "\u201cIllustrations in Recent Novels of Negro Life and Character,\u201d MA thesis, Fisk University, 1938. \n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581072",
+                    "data": {
+                        "label": "female",
+                        "instance_of": [
+                            "sex of humans",
+                            "gender identity"
+                        ]
+                    },
+                    "text": "female"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047422",
+                    "data": {
+                        "label": "Yale School of Art",
+                        "instance_of": [
+                            "educational institution",
+                            "arts educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3086,
+                                        "longitude": -72.9319
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Art",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1938"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1939"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130466106",
+                    "data": {
+                        "label": "Louisville Municipal College",
+                        "instance_of": [
+                            "university"
+                        ]
+                    },
+                    "text": "Louisville Municipal College"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1782948",
+                    "data": {
+                        "label": "Tennessee State University",
+                        "instance_of": [
+                            "public university",
+                            "historically black college or university",
+                            "public educational institution of the United States",
+                            "land-grant university",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.165874,
+                                        "longitude": -86.830337
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tennessee State University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.88194444444444,
+                                        "longitude": -87.62777777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q490385",
+                    "data": {
+                        "label": "Bloomington, Indiana, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.166666666666664,
+                                        "longitude": -86.53472222222223
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bloomington, Indiana, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "2016"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1918"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2661262",
+                    "data": {
+                        "label": "Crawfordsville, Arkansas, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "human settlement"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.225833333333,
+                                        "longitude": -90.326388888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Crawfordsville, Arkansas, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Turner"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1930s"
+                }
+            ]
+        }
+    }
+}

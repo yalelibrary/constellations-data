@@ -1,0 +1,290 @@
+{
+    "id": "Q139571964",
+    "label": "Kofi Attoh Amartey",
+    "biographyMarkdown": "# Kofi Attoh Amartey \n## Attended Yale Graduate School 1938-1939 \n\nKofi Attoh Amartey was born on November 29, 1894, in Accra, Gold Coast (now Ghana). He eventually moved to Montreal, Canada and immigrated to the United States in 1923. In 1932, he graduated from Lane College with a bachelor of arts. He then attended Northwestern University where he received his master's degree in 1935. He wrote his thesis on African marriage customs. In 1938, he attended Yale Graduate School for a year where he studied anthropology.[^1] \n\nBy 1942, he was residing in Chicago, Illinois and was employed by the Pullman Company. He later worked as a porter in San Antonio. According to the 1950 U.S. Census, Amartey lived in Orlando, Florida where he worked as a history and geography teacher. He died on January 5, 1961, in Colbert Nursing Home in Gresham, Oregon. He was buried in Forest Lawn Cemetery in the city.[^2]  \n\n[^1]:The National Archives At Fort Worth, Forth Worth, TX, Declarations of Intention For Citizenship, 1906-1974, Record Group Title: Records of District Courts of the United States, 1685-2009, Record Group Number: 21, No. 9441. \u201c20 to Graduate at Lane College,\u201d *The Chicago Defender*, August 13, 1932; *Catalogue of Yale University Alumni, 1925-1954: Supplement to Catalogue of the Officers and Graduates of Yale University, 1701-1924* (New Haven: Yale University, 1955), 306.  \n\n[^2]:\"United States, World War II Draft Registration Cards, 1942\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:V1VP-RYV: Sun Mar 29 23:26:29 UTC 2026), Entry for Kofi Attoh Amartey, 1942; \"United States, Census, 1950\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6X2M-2H4Y: Tue Mar 18 03:16:18 UTC 2025), Entry for Eunice D Jones and Kafi A Amartey, April 14, 1950; \"Oregon, Death Index, 1903-1998\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:VZ4L-1KG: Wed Feb 19 07:47:04 UTC 2025), Entry for Kofi Amortey, 05 Jan 1961; https://www.findagrave.com/memorial/159899391/kofi-amortey. \n\n \n\n \n",
+    "description": "Attended Yale Graduate School 1938-1939",
+    "publicationsMarkdown": "\"Acquisition of Wives in West Africa\u2014A Study of Social Attitudes.\" M.A. thesis, Northwestern University, 1934. \n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1894"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q3761",
+                    "data": {
+                        "label": "Accra, Ghana",
+                        "instance_of": [
+                            "city",
+                            "port city",
+                            "big city",
+                            "national capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 5.55602,
+                                        "longitude": -0.1969
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Accra, Ghana"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q340",
+                    "data": {
+                        "label": "Montreal, Quebec, Canada",
+                        "instance_of": [
+                            "city or town of Quebec",
+                            "metropolis",
+                            "territory outside RCM in Quebec",
+                            "college town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 45.5033426,
+                                        "longitude": -73.5868411
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Montreal, Quebec, Canada"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.88194444444444,
+                                        "longitude": -87.62777777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q81844",
+                    "data": {
+                        "label": "Gresham, Oregon, United States",
+                        "instance_of": [
+                            "city of Oregon",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 45.503611111111,
+                                        "longitude": -122.43944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Gresham, Oregon, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49233",
+                    "data": {
+                        "label": "Orlando, Florida, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 28.533611111111,
+                                        "longitude": -81.386666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Orlando, Florida, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6485360",
+                    "data": {
+                        "label": "Lane College",
+                        "instance_of": [
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "historic district",
+                            "school"
+                        ]
+                    },
+                    "text": "Lane College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q309350",
+                    "data": {
+                        "label": "Northwestern University",
+                        "instance_of": [
+                            "private university",
+                            "private not-for-profit educational institution",
+                            "research institute"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.05645939999999,
+                                        "longitude": -87.67526699999999
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Northwestern University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1938"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1939"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Amartey"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1930s"
+                }
+            ]
+        }
+    }
+}

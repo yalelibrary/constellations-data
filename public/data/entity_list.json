@@ -2460,6 +2460,161 @@
         }
     },
     {
+        "id": "Q139571945",
+        "label": "Alonzo Joseph Davis",
+        "description": "Attended Yale Graduate School 1939-1940",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1909"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q61",
+                        "data": {
+                            "label": "Washington, D.C., United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "big city",
+                                "human settlement",
+                                "planned national capital",
+                                "political city",
+                                "federal capital"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 38.895,
+                                            "longitude": -77.036666666667
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Washington, D.C., United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "2001"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q8047384",
+                        "data": {
+                            "label": "Yale Graduate School of Arts and Sciences",
+                            "instance_of": [
+                                "academic institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3123,
+                                            "longitude": -72.9291
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Graduate School of Arts and Sciences"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1068752",
+                        "data": {
+                            "label": "Howard University",
+                            "instance_of": [
+                                "private university",
+                                "historically black college or university",
+                                "private not-for-profit educational institution",
+                                "school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 38.921666666667,
+                                            "longitude": -77.02
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Howard University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q238101",
+                        "data": {
+                            "label": "University of Minnesota",
+                            "instance_of": [
+                                "public research university",
+                                "land-grant university",
+                                "public educational institution of the United States",
+                                "open-access publisher",
+                                "production company",
+                                "school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 44.975,
+                                            "longitude": -93.23527777777778
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "University of Minnesota"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q135791212",
         "label": "Alphonso Primius Dawkins",
         "description": "Attended Yale College 1905-1906",
@@ -2739,6 +2894,176 @@
                             }
                         },
                         "text": "Yale Law School"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q139571963",
+        "label": "Andrew McLean Spaulding",
+        "description": "Attended Yale Divinity School 1939-1940",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1913"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q2276252",
+                        "data": {
+                            "label": "Lancaster, South Carolina, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "county seat"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 34.721111111111,
+                                            "longitude": -80.773333333333
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Lancaster, South Carolina, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "2009"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Andrew McLean Spaulding",
+                        "image-info": [
+                            {
+                                "url": "/data/Q139571963.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49087",
+                        "data": {
+                            "label": "Fisk University",
+                            "instance_of": [
+                                "private university",
+                                "historically black college or university",
+                                "private not-for-profit educational institution",
+                                "school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 36.1688,
+                                            "longitude": -86.8047
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Fisk University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q5095808",
+                        "data": {
+                            "label": "Chicago Theological Seminary",
+                            "instance_of": [
+                                "seminary",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.7898,
+                                            "longitude": -87.5976
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Chicago Theological Seminary"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q4948187",
+                        "data": {
+                            "label": "Boston University School of Theology",
+                            "instance_of": [
+                                "seminary"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 42.35,
+                                            "longitude": -71.107
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Boston University School of Theology"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q10723329",
+                        "data": {
+                            "label": "Yale Divinity School",
+                            "instance_of": [
+                                "seminary"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.32380555555556,
+                                            "longitude": -72.9233888888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Divinity School"
                     }
                 ]
             }
@@ -19290,6 +19615,118 @@
         }
     },
     {
+        "id": "Q139571952",
+        "label": "Jack Herman Robinson",
+        "description": "Graduate of Yale Divinity School, 1941",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1915"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q990985",
+                        "data": {
+                            "label": "Culpeper, Virginia, United States",
+                            "instance_of": [
+                                "town of Virginia",
+                                "county seat"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 38.471944444444,
+                                            "longitude": -77.999166666667
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Culpeper, Virginia, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "2000"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Jack Herman Robinson",
+                        "image-info": [
+                            {
+                                "url": "/data/Q139571952.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q7934591",
+                        "data": {
+                            "label": "Virginia State University, Petersburg, United States",
+                            "instance_of": [
+                                "public university",
+                                "land-grant university",
+                                "historically black college or university",
+                                "public educational institution of the United States",
+                                "unincorporated community"
+                            ]
+                        },
+                        "text": "Virginia State University, Petersburg, United States"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q10723329",
+                        "data": {
+                            "label": "Yale Divinity School",
+                            "instance_of": [
+                                "seminary"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.32380555555556,
+                                            "longitude": -72.9233888888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Divinity School"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130314927",
         "label": "James Alan Carew",
         "description": "Attended Yale Law School 1925-1926",
@@ -25395,6 +25832,135 @@
         }
     },
     {
+        "id": "Q139571964",
+        "label": "Kofi Attoh Amartey",
+        "description": "Attended Yale Graduate School 1938-1939",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1894"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q3761",
+                        "data": {
+                            "label": "Accra, Ghana",
+                            "instance_of": [
+                                "city",
+                                "port city",
+                                "big city",
+                                "national capital"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 5.55602,
+                                            "longitude": -0.1969
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Accra, Ghana"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q6485360",
+                        "data": {
+                            "label": "Lane College",
+                            "instance_of": [
+                                "historically black college or university",
+                                "private not-for-profit educational institution",
+                                "historic district",
+                                "school"
+                            ]
+                        },
+                        "text": "Lane College"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q309350",
+                        "data": {
+                            "label": "Northwestern University",
+                            "instance_of": [
+                                "private university",
+                                "private not-for-profit educational institution",
+                                "research institute"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 42.05645939999999,
+                                            "longitude": -87.67526699999999
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Northwestern University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q8047384",
+                        "data": {
+                            "label": "Yale Graduate School of Arts and Sciences",
+                            "instance_of": [
+                                "academic institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3123,
+                                            "longitude": -72.9291
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Graduate School of Arts and Sciences"
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130309710",
         "label": "Lawrence Abraham Simmons",
         "description": "Graduate of Sheffield Scientific School, 1906",
@@ -26147,6 +26713,141 @@
                             }
                         },
                         "text": "Benedict College"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q139571957",
+        "label": "Lois Gwendolyn Morton Turner",
+        "description": "Attended Yale School of Art, 1938-1939",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1918"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q2661262",
+                        "data": {
+                            "label": "Crawfordsville, Arkansas, United States",
+                            "instance_of": [
+                                "town in the United States",
+                                "human settlement"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 35.225833333333,
+                                            "longitude": -90.326388888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Crawfordsville, Arkansas, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "2016"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q8047422",
+                        "data": {
+                            "label": "Yale School of Art",
+                            "instance_of": [
+                                "educational institution",
+                                "arts educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3086,
+                                            "longitude": -72.9319
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale School of Art"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49087",
+                        "data": {
+                            "label": "Fisk University",
+                            "instance_of": [
+                                "private university",
+                                "historically black college or university",
+                                "private not-for-profit educational institution",
+                                "school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 36.1688,
+                                            "longitude": -86.8047
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Fisk University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q130466106",
+                        "data": {
+                            "label": "Louisville Municipal College",
+                            "instance_of": [
+                                "university"
+                            ]
+                        },
+                        "text": "Louisville Municipal College"
                     }
                 ]
             }
@@ -27557,6 +28258,96 @@
                             }
                         },
                         "text": "Yale Law School"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q139571970",
+        "label": "McKerrow Biddle Johnson",
+        "description": "Attended Yale School of Fine Arts (1906-1907)",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1888"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49192",
+                        "data": {
+                            "label": "Middletown, Connecticut, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "county seat",
+                                "city"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.562222222222,
+                                            "longitude": -72.651111111111
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Middletown, Connecticut, United States"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q8047422",
+                        "data": {
+                            "label": "Yale School of Art",
+                            "instance_of": [
+                                "educational institution",
+                                "arts educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3086,
+                                            "longitude": -72.9319
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale School of Art"
                     }
                 ]
             }
@@ -31778,6 +32569,152 @@
         }
     },
     {
+        "id": "Q139571954",
+        "label": "Roger Edmond Dreyfuss",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1905"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q34261",
+                        "data": {
+                            "label": "Port-au-Prince, Port-au-Prince Arrondissement, Haiti",
+                            "instance_of": [
+                                "commune of Haiti",
+                                "city or town",
+                                "big city"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 18.546944444444446,
+                                            "longitude": -72.34027777777777
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Port-au-Prince, Port-au-Prince Arrondissement, Haiti"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1985"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Roger Edmond Dreyfuss",
+                        "image-info": [
+                            {
+                                "url": "/data/Q139571954.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49088",
+                        "data": {
+                            "label": "Columbia University",
+                            "instance_of": [
+                                "private university",
+                                "research university",
+                                "Colonial Colleges",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 40.8075,
+                                            "longitude": -73.961944444444
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Columbia University"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q8047384",
+                        "data": {
+                            "label": "Yale Graduate School of Arts and Sciences",
+                            "instance_of": [
+                                "academic institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3123,
+                                            "longitude": -72.9291
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Graduate School of Arts and Sciences"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1205322",
+                        "data": {
+                            "label": null,
+                            "instance_of": [
+                                "public university"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 18.54222222222222,
+                                            "longitude": -72.34055555555555
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": null
+                    }
+                ]
+            }
+        }
+    },
+    {
         "id": "Q130298919",
         "label": "Roland T. Heacock",
         "description": "Graduate of Yale Divinity School, 1924",
@@ -34018,6 +34955,132 @@
                             }
                         },
                         "text": "Yale College"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q139571960",
+        "label": "Thomas Bennett Taylor",
+        "description": "Graduate of Yale School of Music, 1941",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1915"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q33486",
+                        "data": {
+                            "label": "Hartford, Connecticut, United States",
+                            "instance_of": [
+                                "city in the United States",
+                                "state or insular area capital of the United States",
+                                "big city",
+                                "municipality seat",
+                                "county seat"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.763333333333,
+                                            "longitude": -72.685
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Hartford, Connecticut, United States"
+                    }
+                ]
+            },
+            "date of death": {
+                "label": "date of death",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1980"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "Thomas Bennett Taylor",
+                        "image-info": [
+                            {
+                                "url": "/data/Q139571960.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q2784420",
+                        "data": {
+                            "label": "Yale School of Music",
+                            "instance_of": [
+                                "conservatory"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.3099,
+                                            "longitude": -72.9264
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale School of Music"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q49087",
+                        "data": {
+                            "label": "Fisk University",
+                            "instance_of": [
+                                "private university",
+                                "historically black college or university",
+                                "private not-for-profit educational institution",
+                                "school"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 36.1688,
+                                            "longitude": -86.8047
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Fisk University"
                     }
                 ]
             }
@@ -38893,6 +39956,121 @@
                             }
                         },
                         "text": "Talladega College"
+                    },
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q10723329",
+                        "data": {
+                            "label": "Yale Divinity School",
+                            "instance_of": [
+                                "seminary"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 41.32380555555556,
+                                            "longitude": -72.9233888888889
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Yale Divinity School"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "Q139571968",
+        "label": "William Henry Burrell",
+        "description": "Attended Yale Divinity School 1902-1903",
+        "properties": {
+            "date of birth": {
+                "label": "date of birth",
+                "values": [
+                    {
+                        "value-type": "time",
+                        "text": "1869"
+                    }
+                ]
+            },
+            "place of birth": {
+                "label": "place of birth",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q43421",
+                        "data": {
+                            "label": "Richmond, Virginia, United States",
+                            "instance_of": [
+                                "independent city in the United States",
+                                "city in the United States",
+                                "big city"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 37.54083333333333,
+                                            "longitude": -77.43666666666667
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Richmond, Virginia, United States"
+                    }
+                ]
+            },
+            "image": {
+                "label": "image",
+                "values": [
+                    {
+                        "value-type": "commonsMedia",
+                        "name": "No Image Available",
+                        "image-info": [
+                            {
+                                "url": "/data/noimage.jpg",
+                                "mime": "image/jpeg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "educated at": {
+                "label": "educated at",
+                "values": [
+                    {
+                        "value-type": "wikibase-item",
+                        "id": "Q1814758",
+                        "data": {
+                            "label": "Virginia Union University",
+                            "instance_of": [
+                                "university",
+                                "campus",
+                                "historically black college or university",
+                                "private not-for-profit educational institution"
+                            ],
+                            "properties": {
+                                "coordinate location": {
+                                    "label": "coordinate location",
+                                    "values": [
+                                        {
+                                            "value-type": "globe-coordinate",
+                                            "latitude": 37.5625,
+                                            "longitude": -77.45111111111112
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "text": "Virginia Union University"
                     },
                     {
                         "value-type": "wikibase-item",

@@ -1,0 +1,235 @@
+{
+    "id": "Q139571960",
+    "label": "Thomas Bennett Taylor",
+    "biographyMarkdown": "# Thomas Bennett Taylor \n## Graduate of Yale School of Music, 1941 \n\nThomas Bennett Taylor was born on June 6, 1915, to George Byron Taylor and Cecelia Ann McQuaide in Hartford, Connecticut. According to the 1920 U.S. Census, the Taylor family lived in Hartford where George Taylor worked as a mailman. While in Hartford, he attended Bulkeley High School, graduating in 1933 and playing a piano solo at his class night. He attended Fisk University and graduated in 1937. In the same year, he enrolled at Yale School of Music. He received a certificate in theory of music in 1939 and continued to attend Yale, receiving a bachelor of music in 1941. While a student at Yale, Taylor played music in Hartford.[1] \n\nAfter graduating from Yale, he enlisted in the United States Army in September 1941. He attended the Tuskegee Army Flying School in Tuskegee, Alabama and then the Officer Candidate School at Fort Francis E. Warren in Cheyenne, Wyoming. He became a quartermaster and served under the Ninth Army Air Forces with the 1516th Quartermaster Truck Battalion. The battalion assisted in trucking bombs from arsenals to air bases in France, Belgium, and Germany. By the end of the war, Taylor received a Bronze Star Medal. He also received a commission as a major in the army.[^2] \n\nAfter the war, Taylor continued to serve as a major within the United States Army Transportation Corps. He married Eva Mae Williams in 1946 in Washington, D.C. In 1948, Taylor was stationed at Baton Rouge, Louisiana where he served as a professor of military science and tactics and oversaw the Reserve Officer\u2019s Training Corps at Southern University. He entered active service again in the Korean War, where he served as lieutenant colonel and commanded a transportation battalion: 8058th Army Unit, Quartermaster Battalion. Taylor, alongside three captains that served under him, were accused of fraternizing with enlisted men at a Busan club. After an army investigation, Taylor received a reprimand and a fine.[^3] \n\nTaylor was in active duty in 1964 and served during the Vietnam War. He was discharged from the military in 1968. He resided in Honolulu, Hawaii where he died on October 1, 1980. He was buried at the National Memorial Cemetery of the Pacific in the city.[^4] \n\nImage citation: _Hartford Courant_, 24 November 1945.\n\n[^1]:\"United States, Census, 1920\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MCFT-SQH: Sun Jan 19 05:37:51 UTC 2025), Entry for George B Taylor and Cecelia A Taylor, 1920; \u201cGraduating Class at Bulkeley Will Hold Exercises: Events to Take Place Tonight\u2014Senior Reception on Friday,\u201d *The Hartford Courant*, January 25, 1933, 6; \u201cHartford Student Wins $500 Yale Fellowship,\u201d *The Hartford Courant*, June 10, 1939, 4; \u201cEntertainment Given by Negro Musicians,\u201d *The Hartford Courant*, April 25, 1938, 16.  \n\n[^2]:\u201cTuskegee Sends 2 Sergeants to Officer School,\u201d *Afro-American*, April 18, 1942, 5; \u201cPart Played by All-Negro Group Told: Major Thomas B. Taylor Served with Air Force Truck Battalion,\u201d *The Hartford Courant*, November 24, 1945, 11; \u201cMajor Taylor Asks Corrections in News Story,\u201d *The Hartford Courant*, November 25, 1945, B4.  \n\n[^3]:Marriage Records. District of Columbia Marriages. Clerk of the Superior Court, Records Office, Washington D.C; \u201cInspection of ROTC Unit at Southern,\u201d *The Louisiana Weekly*, January 29, 1949, 15; \u201cCol. Robinson Inspects SU ROTC,\u201d *The Louisiana Weekly*, June 10, 1950, 8; \u201cWashington Pipeline,\u201d *Courier*, November 27, 1954; \u201cInside Korea Story: Colonel, major, 3 captains accused,\u201d *Afro-American*, August 6, 1955, 5.  \n\n[^4]:U.S., Department of Veterans Affairs Birls Death File, 1850-2022; *Honolulu Star-Advertiser*, October 4, 1980, 4; https://www.findagrave.com/memorial/3794273/thomas-bennett-taylor.  \n",
+    "description": "Graduate of Yale School of Music, 1941",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2784420",
+                    "data": {
+                        "label": "Yale School of Music",
+                        "instance_of": [
+                            "conservatory"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3099,
+                                        "longitude": -72.9264
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Music",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1941"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49087",
+                    "data": {
+                        "label": "Fisk University",
+                        "instance_of": [
+                            "private university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.1688,
+                                        "longitude": -86.8047
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Fisk University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1915"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1980"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q33486",
+                    "data": {
+                        "label": "Hartford, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "state or insular area capital of the United States",
+                            "big city",
+                            "municipality seat",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.763333333333,
+                                        "longitude": -72.685
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford, Connecticut, United States"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q627271",
+                    "data": {
+                        "label": "Southern University",
+                        "instance_of": [
+                            "public university",
+                            "land-grant university",
+                            "historically black college or university",
+                            "public educational institution of the United States",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.5247,
+                                        "longitude": -91.19
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Southern University"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18094",
+                    "data": {
+                        "label": "Honolulu, Kingdom of Hawai\u02bbi, United States",
+                        "instance_of": [
+                            "county seat",
+                            "big city",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 21.30472222222222,
+                                        "longitude": -157.85722222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Honolulu, Kingdom of Hawai\u02bbi, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Thomas Bennett Taylor",
+                    "image-info": [
+                        {
+                            "url": "/data/Q139571960.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Taylor"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1930s; 1940s"
+                }
+            ]
+        }
+    }
+}

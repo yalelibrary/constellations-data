@@ -1,0 +1,210 @@
+{
+    "id": "Q139571954",
+    "label": "Roger Edmond Dreyfuss",
+    "biographyMarkdown": "# Roger Edmond Dreyfuss  \n# Received master\u2019s degree, 1940 \n\nRoger Edmond Dreyfuss was born on April 28, 1905, in Port-au-Prince, Haiti to Emmanuel Abraham Dreyfuss and Marie Blanche Mangones. His father was a French Jew who served in the French Army in Indochina and later moved to Haiti. There, he married Marie, whose family was of South American and French origin. According to the 1950 U.S. Census, he was classified as a \u201cNegro.\u201d[^1] \n\nIn Port-au-Prince, he attended Institution Saint-Louis de Gonzague for his early education, and later attended \u00c9cole des Sciences Appliqu\u00e9es, graduating in 1926. In 1931, he married Yvonne Goldman. Furthering his education, he went to the United States and received a master\u2019s degree from Columbia University in 1932. After Columbia, he returned to Haiti where he worked as a civil engineer. He returned to the United States and attended the Yale Graduate School in 1938. He studied race relations with Professor Charles Templeman Loram and received his master\u2019s in 1940.[^2] \n\nAfter graduating from Yale, Dreyfuss returned to Haiti. He was made chief of professional urban instruction of Haiti and was a contributor to Haiti\u2019s newspaper, *La Democratie*. Dreyfuss married his second wife, Anne Marie Timoth\u00e9e, in 1944. He soon moved to the United States where he was naturalized as a United States citizen in 1948. He briefly taught in the United States where he was a French professor and head of the Department of Romance Languages at Louisville Municipal College in Louisville, Kentucky. In 1951, he left Kentucky and returned to Haiti after being invited by the President of Haiti to conduct an educational survey. He travelled to Liberia where he worked with UNESCO and helped draft a report on vocational education in the country.[^3] \n\nDreyfuss later worked in the United States as a second secretary at the Haitian embassy in Washington D.C. In 1958, he was present when a Haitian embassy aide killed a Haitian diplomat in the embassy. In 1960, he taught at Long Branch High School in Long Branch, New Jersey. Dreyfuss later died in New York City in 1985. His son, Joel Dreyfuss, is a prominent journalist who co-founded the National Association of Black Journalists.[^4] \n\nImage citation: Long Branch High School yearbook, 1961.\n\n[^1]:\"Ha\u00efti, \u00e9tat civil, 1794-2018\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6FP7-578B: Mon Mar 11 01:29:23 UTC 2024), Entry for Marie Roger Edmond Dre and Emmanuel Dre*, 11 May 1905; Joel Dreyfuss, \u201cThe Invisible Immigrants,\u201d *The New York Times*, May 23, 1993, 20; \"United States, Census, 1950\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6F7W-ZL4J: Tue Mar 19 04:21:35 UTC 2024), Entry for Roger Dreyfuss and Anna Marie Dreyfuss, 10 April 1950. \n\n[^2]:*Le Nouvelliste*, September 12, 1931, 4; \u201c5,042 Degrees to Be Bestowed at Columbia University Graduation Ceremonies,\u201d *The New York Times*, June 6, 1933, 27; \u201cVive L\u2019Incapacite!,\u201d Le Nouvelliste, May 8, 1937, 6.  \n\n[^3]:\u201cShake-up in Haitian School System Threatens Dantes Bellagarde\u2019s Post,\u201d *Afro-American*, October 25, 1941, 2; *Haiti Sun*, May 11, 1952, 13; The National Archives at Atlanta, Atlanta, GA, Declarations of Intention For Citizenship, Compiled 1906-1976; NAI: 1287129, Record Group Title: Records of District Courts of the United States, Record Group Number: 21; \u201cHaiti Editor Sees Victory For Magloire,\u201d The Miami News, September 14, 1950, 12; \u201cMunicipal College Notes,\u201d *The Louisville Defender*, March 3, 1951, 8.; \u201cL\u2019U.N.E.S.C.O. En Action Au Lib\u00e9ria,\u201d *Le Monde*, September 4, 1952, 4.  \n\n[^4]:\u201cHaiti Official Slain By Aide in Embassy; Principals in Haitian Shooting Haitian Diplomat Slain In Embassy,\u201d *The New York Times*, April 15, 1958; \"United States, Social Security Death Index,\" database, FamilySearch (https://familysearch.org/ark:/61903/1:1:JP4W-H2P: 7 January 2021), Roger Dreyfuss, Nov 1985; citing U.S. Social Security Administration, Death Master File, database (Alexandria, Virginia: National Technical Information Service, ongoing); https://joeldreyfuss.com/bio. \n",
+    "publicationsMarkdown": "*Exploratory Survey of Vocational Education Opportunities in Liberia*. Monrovia: 1951.  \n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1905"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1985"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q34261",
+                    "data": {
+                        "label": "Port-au-Prince, Port-au-Prince Arrondissement, Haiti",
+                        "instance_of": [
+                            "commune of Haiti",
+                            "city or town",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 18.546944444444446,
+                                        "longitude": -72.34027777777777
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Port-au-Prince, Port-au-Prince Arrondissement, Haiti"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49088",
+                    "data": {
+                        "label": "Columbia University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.8075,
+                                        "longitude": -73.961944444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbia University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1940"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1205322",
+                    "data": {
+                        "label": null,
+                        "instance_of": [
+                            "public university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 18.54222222222222,
+                                        "longitude": -72.34055555555555
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": null
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q130466106",
+                    "data": {
+                        "label": "Louisville Municipal College",
+                        "instance_of": [
+                            "university"
+                        ]
+                    },
+                    "text": "Louisville Municipal College"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Roger Edmond Dreyfuss",
+                    "image-info": [
+                        {
+                            "url": "/data/Q139571954.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Dreyfuss"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1930s; 1940s"
+                }
+            ]
+        }
+    }
+}

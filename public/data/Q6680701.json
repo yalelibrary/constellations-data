@@ -114,7 +114,27 @@
                             }
                         }
                     },
-                    "text": "Yale Graduate School of Arts and Sciences"
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1938"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1939"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -198,6 +218,56 @@
                         }
                     },
                     "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7566644",
+                    "data": {
+                        "label": "South Carolina State University",
+                        "instance_of": [
+                            "public university",
+                            "land-grant university",
+                            "historically black college or university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.497222222222,
+                                        "longitude": -80.85
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "South Carolina State University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2124886",
+                    "data": {
+                        "label": "Roosevelt University",
+                        "instance_of": [
+                            "university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.8760026,
+                                        "longitude": -87.6251806
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Roosevelt University"
                 }
             ]
         },
@@ -243,6 +313,27 @@
                         ]
                     },
                     "text": "Geneva Townes Turner",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "spouse"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q139571957",
+                    "data": {
+                        "label": "Lois Gwendolyn Morton Turner",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Lois Gwendolyn Morton Turner",
                     "qualifiers": [
                         {
                             "label": "kinship to subject",
