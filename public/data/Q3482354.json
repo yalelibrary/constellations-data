@@ -141,7 +141,8 @@
                         "label": "University of Paris",
                         "instance_of": [
                             "former entity",
-                            "university in France"
+                            "university in France",
+                            "academic institution"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -151,6 +152,11 @@
                                         "value-type": "globe-coordinate",
                                         "latitude": 48.84861111111111,
                                         "longitude": 2.343611111111111
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 48.8486,
+                                        "longitude": 2.34333
                                     }
                                 ]
                             }

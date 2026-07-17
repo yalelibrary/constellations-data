@@ -377,10 +377,10 @@
                     "value-type": "wikibase-item",
                     "id": "Q994719",
                     "data": {
-                        "label": "Christiansted, Saint Croix, United States",
+                        "label": "Christiansted, United States Virgin Islands, United States",
                         "instance_of": [
                             "town in the United States",
-                            "sub-district of the United States Virgin Islands"
+                            "subdistrict of the United States Virgin Islands"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -395,7 +395,7 @@
                             }
                         }
                     },
-                    "text": "Christiansted, Saint Croix, United States"
+                    "text": "Christiansted, United States Virgin Islands, United States"
                 },
                 {
                     "value-type": "wikibase-item",

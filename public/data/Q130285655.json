@@ -212,7 +212,19 @@
                             "private not-for-profit educational institution",
                             "historic district",
                             "school"
-                        ]
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.62769,
+                                        "longitude": -88.80671
+                                    }
+                                ]
+                            }
+                        }
                     },
                     "text": "Lane College"
                 }

@@ -104,8 +104,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 40,
-                                        "longitude": -83.0125
+                                        "latitude": 40.00577175,
+                                        "longitude": -83.02781955
                                     }
                                 ]
                             }
@@ -205,10 +205,9 @@
                     "data": {
                         "label": "Columbus, Ohio, United States",
                         "instance_of": [
-                            "city in the United States",
+                            "city of Ohio",
                             "big city",
-                            "county seat",
-                            "city of Ohio"
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -301,10 +300,9 @@
                     "data": {
                         "label": "Raleigh, North Carolina, United States",
                         "instance_of": [
-                            "city in the United States",
+                            "city in North Carolina",
                             "big city",
-                            "county seat",
-                            "city in North Carolina"
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {

@@ -1,0 +1,306 @@
+{
+    "id": "Q139571945",
+    "label": "Alonzo Joseph Davis",
+    "biographyMarkdown": "# Alonzo Joseph Davis\n## Attended Yale Graduate School 1939-1940 \n\nAlonzo Joseph Davis was born on July 18, 1909 to Julius Johnston Davis and Mary Beatrice Wilson in Washington, D.C. According to the 1910 U.S. Census, the family lived in D.C. where Julius worked as a waiter. He attended Dunbar High School in the city. He later attended Howard University, graduating with a bachelor\u2019s in 1931 and a master of science in 1932. At Howard, he was a member of the Omega Psi Phi fraternity and the Sabre Club. Davis was also a first lieutenant in Howard\u2019s Reserve Officers' Training Corps. In 1934, he joined the Tuskegee University faculty as a psychology professor.[^1] \n\nHe enrolled at Yale Graduate School for the 1939-1940 school year where he was a Julius Rosenwald Fellow. At Yale, he studied psychology, particularly studying the factors influencing mechanical ability. In 1940, he married Agnes Lewis Moses, a schoolteacher, in Birmingham, Alabama. He eventually received a Ph.D. from the University of Minnesota in child psychology. He returned to Tuskegee where he eventually became a dean of Tuskegee\u2019s School of Education. In 1948, he co-wrote an encyclopedia on vocational education. He contributed a section dedicated towards the vocational training of African Americans.[^2] \n\nIn 1957, he was sent on a two-year mission to Indonesia. He assisted their ministry of education in developing a vocational education system. He later taught at North Carolina Central University where he was the chairman of their psychology department. He died on April 4, 2001, in Columbia, Maryland. His two sons, Alonzo J. Davis Jr. and Dale Brockman Davis, became famous for organizing Black artists and for establishing the Brockman Gallery, providing Black artists an opportunity to showcase their art in Los Angeles.[^3] \n\n[^1]:\"United States, Census, 1910\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MKLN-NM4: Wed Aug 13 15:39:39 UTC 2025), Entry for George F Davis and Beatrice M Davis, 1910; \"Illinois, World War II Draft Registration Cards, 1940-1945\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:QPWD-9V7T: Tue Apr 08 02:14:23 UTC 2025), Entry for Alonzo Joseph Davis and Tuskegee Permanent Institute, 16 Oct 1940; *The Bison*, 1931 (Washington, D.C.: Howard University, 1931), 34; \u201cNew Members Arrive on Tuskegee Faculty,\u201d *The Call*, October 5, 1934, b7. Alonzo J. Davis Jr., \u201cInterview of Alonzo Davis: Tape Number: I, Side Two October 26, 1990,\u201d UCLA Library Center for Oral History Research \n\n[^2]:*The Negro Handbook*, ed. Florence Murray (New York: Wendell Malliet and Company, 1942),120; \u201cMoses-Davis Wedding in Birmingham Pretty,\u201d *New Pittsburgh Courier*, October 5, 1940, 10; \u201cEncyclopedia\u2019s Co-Author,\u201d *The New York Age*, April 24, 1948, 2.  \n\n[^3]:\u201cFrom Djakarta, Indonesia,\u201d *The Chicago Defender*, September 19, 1959, 9; \u201cCongratulate Scholar,\u201d *Afro-American*, March 30, 1963, 17; \"United States, GenealogyBank Obituaries, Births, and Marriages, 1980-2015\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:QK5K-S1R8: Mon Jun 03 20:24:25 UTC 2024), Entry for Mr. Alonzo J Davis and Dale Davis, 12 Apr 2001; \u201cAlonzo Davis, 82, Whose L.A. Gallery Became a Hub for Black Art, Dies,\u201d *The New York Times*, February 4, 2025. \n",
+    "description": "Attended Yale Graduate School 1939-1940",
+    "publicationsMarkdown": "*Encyclopedia of Vocational Guidance*. New York: Philosophical Library, Inc., 1948. \n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q8047384",
+                    "data": {
+                        "label": "Yale Graduate School of Arts and Sciences",
+                        "instance_of": [
+                            "academic institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3123,
+                                        "longitude": -72.9291
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Graduate School of Arts and Sciences",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1939"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1940"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q238101",
+                    "data": {
+                        "label": "University of Minnesota",
+                        "instance_of": [
+                            "public research university",
+                            "land-grant university",
+                            "public educational institution of the United States",
+                            "open-access publisher",
+                            "production company",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 44.975,
+                                        "longitude": -93.23527777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Minnesota"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1909"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "2001"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q61",
+                    "data": {
+                        "label": "Washington, D.C., United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "human settlement",
+                            "planned national capital",
+                            "political city",
+                            "federal capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.895,
+                                        "longitude": -77.036666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Washington, D.C., United States"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1518804",
+                    "data": {
+                        "label": "North Carolina Central University",
+                        "instance_of": [
+                            "university",
+                            "historically black college or university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.97645,
+                                        "longitude": -78.90092
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.974167,
+                                        "longitude": -78.898611
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "North Carolina Central University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1682329",
+                    "data": {
+                        "label": "Tuskegee University, Alabama, United States",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school",
+                            "unincorporated community"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.430278,
+                                        "longitude": -85.707778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tuskegee University, Alabama, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q397905",
+                    "data": {
+                        "label": "Columbia, Maryland, United States",
+                        "instance_of": [
+                            "planned community",
+                            "census-designated place in the United States",
+                            "town",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.2156213,
+                                        "longitude": -76.8582049
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Columbia, Maryland, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "No Image Available",
+                    "image-info": [
+                        {
+                            "url": "/data/noimage.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Davis"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1930s; 1940s"
+                }
+            ]
+        }
+    }
+}

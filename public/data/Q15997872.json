@@ -1,7 +1,7 @@
 {
     "id": "Q15997872",
     "label": "Virginia Margaret Alexander",
-    "biographyMarkdown": "# Virginia Margaret Alexander\n## Graduate of Yale School of Public Health, 1941\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n\n",
+    "biographyMarkdown": "# Virginia Margaret Alexander\n## Graduate of Yale School of Public Health, 1941\n\nVirginia Margaret Alexander was born on February 4, 1899, to Hilliard Boone Alexander and Virginia Pace in Philadelphia, Pennsylvania. Her brother was Raymond Pace Alexander, a notable Philadelphia lawyer. Her mother died when she was young and her father lost his business as a riding master, which forced her to work while she attended school to help support her family. Despite the setback, she continued her education and graduated from William Penn High School for Girls in 1917. She won a scholarship to attend the University of Pennsylvania and graduated from the institution in 1920 with a bachelor of science in education. She then attended Women\u2019s Medical College of Pennsylvania and graduated in 1925. After her graduation, she secured an internship at Kansas City General Hospital in Kansas City, Missouri, where she, alongside another intern, were the first women graduates from medical school to intern at the hospital.[^1] \n\nShe returned to Philadelphia where she maintained admitting privileges at Woman\u2019s Medical College Hospital, Pennsylvania Hospital, and Douglass Hospital. She was a Quaker and a member of the Friends\u2019 Germantown Monthly Meeting. She was also the chairman of the Southwest Branch of the Young Women\u2019s Christian Association. Alexander was also a member of the Delta Sigma Theta sorority. Alexander was also an important health care provider for African Americans in North Philadelphia. Alongside working in hospitals, Alexander established her own private practice from her home in Philadelphia. Her clinic, called the \u201cAspiranto Health Home,\u201d focused on delivering babies and providing post-natal care, including teaching physicians and mothers of newborns the best practices for newborn care. She became interested in replicating the model and considered pursuing a degree in public health. Alongside her job as a doctor, she compiled research on the public health affairs of Black residents of North Philadelphia. Her report found that racial discrimination contributed to health disparities in North Philadelphia and surmised that the establishment of a public health center could help ensure equitable access.[^2] \n\nIn 1937, she became ill with lupus and spent some time at New Haven Hospital before returning to Philadelphia for further treatment. She later moved to Washington D.C. joined Howard University\u2019s faculty as a director of health for women students. In 1941, she received a master's of public health from Yale School of Public Health. In 1943, Alexander and her sister-in-law, Sadie T. M. Alexander, sued the Southern Railway Company after they were denied service in a dining car because of their race. During the Second World War, Alexander worked for the United States Public Health Service as a Public Health Service Officer at Slossfield Health Center in Birmingham, Alabama. During her time in Alabama, she gave lectures regarding public health and worked with coal miners. While in Alabama, she met William Henry Childs of Marion, Alabama; they married in 1945. After the war, she returned to her general practice in Philadelphia. She died on July 24, 1949 and was buried in Mount Lawn Cemetery.[^3] \n\nImage citation: W. E. B. Du Bois Papers (MS 312). Special Collections and University Archives, University of Massachusetts Amherst Libraries.\n\n[^1]:Ella Wagner, \u201cDr. Virginia Alexander,\u201d National Park Service, https://www.nps.gov/people/dr-virginia-alexander.htm; _University of Pennsylvania Bulletin_ 21, no. 6 (1920), 30; \u201cDr. Virginia M. Alexander,\u201d _The Philadelphia Tribune_, June 27, 1925, 1; \u201cPioneers at Old City Hospital,\u201d _Kansas City Call_, July 3, 1925, 1.  \n\n[^2]:\u201cDr Alexander Gives Dinner For Secretary of Girls Reserves,\u201d _Philadelphia Tribune_, November 10, 1932, 4; \u201cDr. Alexander Speaker At Virginia \u2018U\u2019,\u201d _Philadelphia Tribune_, May 12, 1938, 8; \u201cCan a Colored Woman be a Physician,\u201d _The Crisis_ 40, no. 2 (February 1933), 33-34; Marcie Addy, \u201cThe Life of Martin Luther King, Jr. Remembered by Yale School of Public Health, \u201cYale School of Public Health, January 27, 2008.  \n\n[^3]:Association of Business and Professional Women of Philadelphia. Letter from Association of Business and Professional Women of Philadelphia to W. E. B. Du Bois, March 27, 1937. W. E. B. Du Bois Papers (MS 312). Special Collections and University Archives, University of Massachusetts Amherst Libraries; \u201cMake Changes In Howard University\u2019s Personnel,\u201d _The Chicago Defender_, October 16, 1937, 5; _Catalogue of Yale University Alumni 1925-1954: Supplement to Catalogue of The Officers and Graduates of Yale University 1701-1924_ (New Haven: Yale University, 1955), 336; \u201cAlexanders Sue Railroad For $40,000,\u201d New Journal and Guide, January 9, 1943, 1; \u201cDr. Virginia Alexander Speaks To Public Health Nurses,\u201d _The Weekly Review_, February 12, 1944, 3; Childs, Virginia Alexander. Letter from Virginia Alexander Childs to W. E. B. Du Bois, July 9, 1945. W. E. B. Du Bois Papers (MS 312). Special Collections and University Archives, University of Massachusetts Amherst Libraries; \u201cVirginia Alexander, Doctor, Dies at 47,\u201d _Philadelphia Tribune_, July 26, 1949; https://www.findagrave.com/memorial/139840801/virginia_margaret-alexander. \n\n \n\n",
     "description": "Graduate of Yale School of Public Health, 1941",
     "properties": {
         "employer": {
@@ -128,7 +128,7 @@
             "values": [
                 {
                     "value-type": "time",
-                    "text": "1900"
+                    "text": "1899"
                 }
             ]
         },
@@ -183,8 +183,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 39.95388888888889,
-                                        "longitude": -75.19305555555556
+                                        "latitude": 39.95194444444444,
+                                        "longitude": -75.19361111111111
                                     }
                                 ]
                             }
@@ -279,11 +279,11 @@
                             ]
                         },
                         {
-                            "label": "point in time",
+                            "label": "end time",
                             "values": [
                                 {
                                     "value-type": "time",
-                                    "text": "1937"
+                                    "text": "1941"
                                 }
                             ]
                         }
@@ -423,10 +423,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Virginia Margaret Alexander",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q15997872.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

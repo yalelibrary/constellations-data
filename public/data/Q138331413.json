@@ -1,8 +1,9 @@
 {
     "id": "Q138331413",
     "label": "William Arthur Clark",
-    "biographyMarkdown": "# William Arthur Clark\n## Received master's degree, 1942\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n\nImage citation: _Who's Who in Colored America_, Seventh Edition, 1950\n",
+    "biographyMarkdown": "# William Arthur Clark\n## Received master's degree, 1942\n\nWilliam Arthur Clark was born in Rockwood, Tennessee on September 16, 1891, to Joseph P. Clark and Sarah Powell. According to the 1910 U.S. Census, Clark lived with his parents and worked in an iron mine. He joined the United States Army and served in the 368th Infantry Regiment. In June 1918, he departed for France and fought in the First World War. He had an accomplished military service while fighting in France. According to _The Chattanooga News_, Clark was wounded severely during the war. Alongside the 368th, he was detached with the Army Intelligence Service. He fought in the Meuse-Argonne offensive and was recognized for his valor with the Silver Star. At some point in the 1910s, he married Luella Davidson who worked as corresponding secretary for a church.  Sadly, Luella died in October of 1918 while Clark was in France.[^1]  \n\nAfter the war, he attended the Hampton Institute and graduated with a bachelor of arts degree in education. After his graduation, he worked as a principal for a high school in Upper Marlboro, Maryland and worked as an associate professor at Prairie View College. He then began teaching at the Tuskegee Institute before temporarily leaving to attend Harvard University. He graduated from Harvard with a master of education in 1928 and returned to teaching at the Tuskegee Institute at the school\u2019s education department. He eventually became the head of Tuskegee\u2019s Department of Education. In 1925, he married Olivia S. White of Norfolk, Virginia.[^2] \n\nHe would spend more than a decade teaching at the Tuskegee Institute. In 1934, he took leave from Tuskegee to begin his studies at Yale Graduate School as a Carnegie Scholar. In 1936, Clark was promoted to director of Tuskegee\u2019s School of Education and the Summer School. He received a masters from Yale in 1942, although Clark claimed to finish his requirements for a doctorate at Yale.[^3] \n\nHe took another period of leave from Tuskegee in 1942 to work for the United States Army during the Second World War. He rejoined the army as a captain in the United States Army Specialist Corps, Education Branch. Clark was tasked with assisting the United States government in developing educational programs for African American soldiers. He established a camp educational program for Camp Gordon Johnston in Florida that provided a high school and college course of study. In 1946, he received an Army Commendation Ribbon for his service. He left at the end of the war with the rank of lieutenant colonel. He was then appointed as chief of retraining at the Tuskegee Veterans Administration.[^4] \n\nThroughout his lifetime, Clark was affiliated with Sigma Pi Phi, Phi Beta Sigma, and Order of the Public Heart. He died on June 11, 1973 in Tuskegee and was buried there in Greenwood Cemetery. One of his sons, Gerald Clark, was a prominent New Haven businessman.[^5] \n\nImage citation: _Who's Who in Colored America_, Seventh Edition, 1950\n\n[^1]:_Who's Who in Colored America: An Illustrated Biographical Dictionary of Notable Living Persons of African Descent in America _(Yonkers-on-Hudson: Christian E. Burckel & Associates, 1950), 104; \"United States, Census, 1910\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MGNM-DQS : Wed Aug 13 17:17:37 UTC 2025), Entry for Joseph P Clark and Sarah J Clark, 1910; The National Archives at College Park; College Park, Maryland; Record Group Title: Records of the Office of the Quartermaster General, 1774-1985; Record Group Number: 92; Roll or Box Number: 442; \u201cSunday\u2019s Casaulty List,\u201d _The Chattanooga News_, December 16, 1918, 2; \u201cTuskegee Institute Attache Loaned to U.S. Armed Forces,\u201d _The New York Age_, November 7, 1942, 12; \u201cColored Baptist Women Name Officers for Year,\u201d _The Chattanooga News_, August 19, 1918, 6; Tennessee State Library and Archives; Nashville, Tennessee; Tennessee Death Records, 1908-1959; Roll #: M-21.  \n\n[^2]:\u201cHampton Commencement on June 4th,\u201d _The Philadelphia Tribune_, May 31, 1924, 9; \u201cAround The Hub,\u201d _The Chicago Defender_, August 16, 1924, 14; _Harvard Alumni Directory A Catalogue of All Graduates and Holders of Honorary Degrees, Now Living, and of All Men Now Living who Were Former Students But Non-graduates_ (Cambridge: Harvard University, 1929), 168; \u201cTuskegee Opens 48th Session: Largest Registration In Its History Marks Opening Day,\u201d _New Pittsburg Courier_, September 29, 1928, 5.   \n\n[^3]:\u201cNew Members Arrive on Tuskegee Faculty,\u201d _The Call_, October 5, 1934, 7; \u201cTuskegee\u2019s 56th Session to Open: New Students Required to be On Campus on Saturday, Sept. 5,\u201d _The New York Age_, September 5, 1936, 3; \u201cDirector Tuskegee School of Education, on Leave,\u201d _The Call_, July 7, 1939, a1.  \n\n[^4]:\u201cTuskegee Institute Attache Loaned To U.S. Armed Forces,\u201d _The New York Age_, November 7, 1942, 12; \u201cCaptain Builds Educational Program At Florida Post,\u201d _New Journal and Guide_, October 2, 1943, 20; \u201cArmy Citation Honors Clark Morale Work,\u201d _The Chicago Defender_, June 22, 1946, 5; \u201cWilliam Clark Appointed to Veterans Facility,\u201d _The Mobile Beacon and Alabama Citizen_, September 14, 1946, 10. \n\n[^5]:_The Montgomery Advertiser_, June 14, 1973, 64; https://www.findagrave.com/memorial/261447463/william-arthur-clark; \u201cObituaries: Gerald Clark, 93\u201d _New Haven Independent_, September 5, 2022, https://www.newhavenindependent.org/2022/09/05/gerald_clark_93/. \n\n \n\n",
     "description": "Received master's degree, 1942",
+    "publicationsMarkdown": "\u201cDoes Negro Education Pay?\u201d *The Journal of Educational Sociology* 7, no. 3 (1933).   \n\n\u201cSanctification in Negro Religion.\u201d *Social Forces* 15, no. 4 (1937): 544\u201351.  \n\n  \n\n \n\n \n",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -186,6 +187,34 @@
                         }
                     },
                     "text": "Tuskegee University, Alabama, United States"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q979056",
+                    "data": {
+                        "label": "Rockwood, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.869166666667,
+                                        "longitude": -84.675277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Rockwood, Tennessee, United States"
                 }
             ]
         },

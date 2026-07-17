@@ -1,7 +1,7 @@
 {
     "id": "Q135791200",
     "label": "Frederick Ellis Bass",
-    "biographyMarkdown": "# Frederick Ellis Bass\n## Attended Yale School of Medicine 1889-1890\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Frederick Ellis Bass \n## Attended Yale School of Medicine 1889-1890 \n\nFrederick Ellis Bass was born in Antigua in 1867. Bass eventually moved to Brooklyn, New York where he enrolled at Long Island Medical College in 1888. He left the school and enrolled at Yale Medical School as a junior. However, he only attended Yale for the 1889-1890 school year, then transferred to Meharry Medical College in Nashville, Tennessee. He graduated from Meharry in 1893 and later returned to Brooklyn where he practiced medicine. In 1895, he was invited to join the Medical Society of the County of Kings.[^1]  \n\nHe later moved to Ireland to receive a qualification to practice medicine in Trinidad. He attended the Royal College of Surgeons in Ireland where he received a licentiate of Apothecaries\u2019 Hall in 1900. He joined Henry Sylvester Williams\u2019 African Association and attended their first gathering at Exeter Hall, London on January 11, 1898. Bass eventually became a prominent member of the African Association upon his arrival in Trinidad in 1900.[^2] \n\nOn May 19, 1900, Bass was admitted to the Medical Board of Trinidad and was licensed to practice medicine, surgery, and midwifery on the island. Bass would remain active in Trinidad\u2019s leadership, eventually serving in the Port of Spain City Council where he served as a council member. In 1925, Bass was elected to a one-year term as mayor of the city of Port of Spain. According to *The New York Age*, Bass maintained cocoa plantations in Trinidad and visited his friends in Brooklyn in 1927.[^3] \n\nHe eventually retired from his practice and specialized in skin diseases. He died on February 1, 1939 in Port of Spain. His friends and peers back in the United States observed a mass in his honor at St. Phillips Episcopal Church in New Jersey. He was buried in Lapeyrouse Cemetery in Port of Spain.[^4] \n\n[^1]:\"New York, Passenger Arrival Lists (Ellis Island), 1892-1925\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:JNBX-DZR : Sun Aug 31 22:48:43 UTC 2025), Entry for Fredrick Bass and Mrs M Bass, 11 October 1913; \u201cBrooklyn Briefs,\u201d *The New York Age*, October 20, 1888, 3; *Catalogue of Yale University, CXCth Year, 1889-1890* (New Haven: Tuttle, Morehouse & Taylor, Printers, 1889), 216; *The Brooklyn Medical Journal* 9, no. 91 (July 1895), 430. \n\n[^2]:*The Medical Press and Circular* 120, no. 9 (February 28, 1900), 231; *Owen Charles Mathurin, Henry Sylvester Williams and the Origins of the Pan-African Movement* (Westport: Greenwood Press, 1976), 44; Mathurin, Henry Sylvester Williams, 93.  \n\n[^3]:\u201cMedical Board of Trinidad,\u201d *Trinidad Royal Gazette* 22, no. 69 (May 24, 1900), 630; *The Trinidad Royal Gazette* 84, no. 53 (December 2, 1915), 2921; *The Trinidad and Tobago Year Book*, 1927 (Port of Spain: Franklin\u2019s Electric Printery, 1927), 81; \u201cTrinidad Mayor and Family To Visit N.Y.,\u201d *The New York Age*, March 19, 1927, 1.  \n\n[^4]:\u201cDr. Frederick Bass Dies In Trinidad; Offer Masses Here,\u201d *The New York Age*, February 11, 1939, 10; https://www.findagrave.com/memorial/242813119/fred-e-bass. \n",
     "description": "Attended Yale School of Medicine 1889-1890",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,230 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1867"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q316390",
+                    "data": {
+                        "label": "Antigua, Antigua and Barbuda",
+                        "instance_of": [
+                            "island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 17.085,
+                                        "longitude": -61.8
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Antigua, Antigua and Barbuda"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1939"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4026847",
+                    "data": {
+                        "label": "Meharry Medical College",
+                        "instance_of": [
+                            "medical school",
+                            "historically black college or university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.167,
+                                        "longitude": -86.807
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Meharry Medical College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1961140",
+                    "data": {
+                        "label": "Yale School of Medicine",
+                        "instance_of": [
+                            "medical school",
+                            "faculty"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.303245363975,
+                                        "longitude": -72.933871811889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale School of Medicine",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1889"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1890"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1124228",
+                    "data": {
+                        "label": "Royal College of Surgeons in Ireland",
+                        "instance_of": [
+                            "higher education institution",
+                            "regulatory college",
+                            "nonprofit organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 53.33896388888889,
+                                        "longitude": -6.261813888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Royal College of Surgeons in Ireland"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6672675",
+                    "data": {
+                        "label": "Long Island College Hospital",
+                        "instance_of": [
+                            "hospital",
+                            "former hospital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.6897,
+                                        "longitude": -73.9967
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Long Island College Hospital"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q18419",
+                    "data": {
+                        "label": "Brooklyn, New York City, United States",
+                        "instance_of": [
+                            "borough of New York City",
+                            "city in the United States",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.65083333333333,
+                                        "longitude": -73.94972222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brooklyn, New York City, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q39178",
+                    "data": {
+                        "label": "Port of Spain, Trinidad and Tobago",
+                        "instance_of": [
+                            "city",
+                            "political territorial entity",
+                            "regional corporation or municipality of Trinidad and Tobago"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 10.666666666667,
+                                        "longitude": -61.516666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Port of Spain, Trinidad and Tobago"
                 }
             ]
         },

@@ -1,8 +1,9 @@
 {
     "id": "Q135791203",
     "label": "Arthur Garfield Harrison",
-    "biographyMarkdown": "# Arthur Garfield Harrison  \n## Attended Yale Law School 1899-1902\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Arthur Garfield Harrison  \n## Attended Yale Law School 1899-1902\n\nArthur Garfield Harrison was born on April 2, 1877, in Elkin, North Carolina, to Saunders Harrison and Martha Harrison. He attended Albion Academy in Franklinton, North Carolina, where he graduated as valedictorian. He then attended Lincoln University where he graduated in 1899 with rhetorical honors and addressed his class at commencement. He enrolled at Yale Law School the same year.[^1] \n\nAt Yale, he was a member of the Kent Club. In March 1903, he argued the negative position at the Kent Club on the United States\u2019 ratification of the Hay-Pauncefote Treaty. Nicknamed \u201cDiogenes,\u201d according to the Yale Law School yearbook, he was in the running for his class year\u2019s \u201cmost to be admired\u201d superlative. Despite his enrollment as a senior in 1902, he left Yale Law School without receiving his degree. He married Lyda S. Milburn in Delaware, Pennsylvania on October 24, 1905. He then moved to Seattle, Washington. He was invited to speak at the Emancipation Proclamation Jubilee in January 1907. Harrison was also admitted to practice as an attorney in the State of Washington in the same year.[^2] \n\nIn Seattle, Harrison was known as a \u201clearned and skillful colored lawyer.\u201d He was retained by Mrs. Esther Campbell of Vancouver to help with an estate settlement in the United Kingdom. Campbell laid claim to the Crawford Estates, valued at $6,500,000 at the time. Harrison believed that the case was strong and decided to receive his compensation through a contingent fee where he would be entitled to a share of Campbell\u2019s inheritance. The two left for Ireland in 1909 to make inquiries and stake their claim. He accompanied Mrs. Campbell again in 1911 to England to argue at the Chancery for the distribution. However, the case seemed to fail, and by 1917, according to an application he made at a U.S. consulate in England, Harrison was working as a packer for Pickles & Rae in Bradford.[^3]  \n\nAccording to the consul, Harrison had moved to England for an estate settlement assignment but exhausted his money while fighting the case and struggled to make a living in England. Amid the First World War, Harrison expressed his desire to return to the United States when \u201cthe war is over and ocean travel is safer.\u201d However, according to the 1921 England Census, Harrison continued to live in Liverpool, England as a shopkeeper. He later moved to Bradford. He became an astrologer, writing *The Infallible Guide to Future Events* in 1928. The book examined how astrology could predict horse-racing events. The 1939 England and Wales Register reported that Harrison and his wife were living in Bradford where Harrison worked as a master shopkeeper.[^4]  \n\nThe England & Wales, Civil Registration Death Index and *The Obituary Record of Graduates of Yale University* indicated that Harrison died on March 26, 1941, in Bradford, England.[^5] \n\nImage citation: _The Yale Shingle_, 1902, Lillian Goldman Law Library, Yale University.\n\n[^1]:*The Yale Shingle*, 1902 (New Haven: Ryder\u2019s Printing House, 1902), 82; \u201cAfternoon Exercises: The Class of 1899 Graduates With High Honors,\u201d *Daily Local News* [West Chester, Pennsylvania] June 7, 1899, 4. \n\n[^2]:\u201cKent Club,\u201d *Yale Daily News*, March 13, 1900, 1; *The Yale Shingle*, 82; \"Pennsylvania, County Marriages, 1775-1991\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:VF9C-HC3: Mon Jul 22 17:03:48 UTC 2024), Entry for Arthur G. Harrison and Lida S. Milburn, 24 Oct 1905; \u201cEmancipation Proclamation Celebrated,\u201d *The Seattle Republican*, January 4, 1907, 4. \n\n[^3]:\u201cVancouver Woman Seeks Fortune In Ireland: Mrs. Esther Campbell Returns to City After Visit to British Isles,\u201d *The Vancouver Daily Province*, November 2, 1910, 8; \u201cThe Courts,\u201d *The Crisis* 1, no. 6 (April 1911), 5; Consular Registration Applications, 1916-1925. NAID: 1251970, No. 11848, Record Group 59, General Records of the Department of State, 1763 - 2002. National Archives at College Park, College Park, MD. \n\n[^4]:Consular Registration Applications, 1916-1925. NAID: 1251970, No. 11848, Record Group 59, General Records of the Department of State, 1763 - 2002. National Archives at College Park, College Park, MD; Modern Astrology 25, no. 10 (October 1928), 313; The National Archives; Kew, London, England; 1939 Register; Reference: RG 101/3366D. \n\n[^5]:\"England and Wales, Death Registration Index 1837-2007\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:QVHT-XF49: Sat Mar 01 07:53:43 UTC 2025), Entry for Arthur G Harrison, 1941.; *Obituary Record of Graduates of Yale University Deceased During the Year 1942-1943* (New Haven: Yale University, 1944), 305. \n\n \n",
     "description": "Attended Yale Law School 1899-1902",
+    "publicationsMarkdown": "*The Infallible Guide to Future Events*. Bradford: A. Mittchell & Co. Limited, Printers, 1928.   \n",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -21,15 +22,220 @@
                 }
             ]
         },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1877"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1941"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q24826",
+                    "data": {
+                        "label": "Liverpool, United Kingdom",
+                        "instance_of": [
+                            "city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 53.407222222222224,
+                                        "longitude": -2.9916666666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Liverpool, United Kingdom"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q22905",
+                    "data": {
+                        "label": "Bradford, United Kingdom",
+                        "instance_of": [
+                            "unparished area",
+                            "city of United Kingdom",
+                            "city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 53.794,
+                                        "longitude": -1.751
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bradford, United Kingdom"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5083",
+                    "data": {
+                        "label": "Seattle, Washington, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 47.605,
+                                        "longitude": -122.33
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Seattle, Washington, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "public university",
+                            "historically black college or university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1899"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1902"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2030863",
+                    "data": {
+                        "label": "Elkin, North Carolina, United States",
+                        "instance_of": [
+                            "town in the United States",
+                            "city in North Carolina"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.2578,
+                                        "longitude": -80.8514
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.2443,
+                                        "longitude": -80.8484
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Elkin, North Carolina, United States"
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Arthur Garfield Harrison",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q135791203.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

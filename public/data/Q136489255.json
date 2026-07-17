@@ -1,7 +1,7 @@
 {
     "id": "Q136489255",
     "label": "David Allen Woodroe",
-    "biographyMarkdown": "# David Allen Woodroe\n## Attended Yale Law School 1908-1909\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# David Allen Woodroe \n## Attended Yale Law School 1908-1909 \n\nDavid Allen Woodroe was born in Saratoga Springs, New York in November 1885 to William O. Woodroe, who worked as a mason, and Rosanna Woodroe. In high school, Woodroe was elected as a trustee and secretary of Dyer Phelps Memorial AME Zion Church. He was also elected as a financial secretary for the Saratoga Emergency Benefit Association. After graduating from high school, Woodroe enrolled at Brown University as a member of the college class of 1911. However, he only attended Brown for the 1907-1908 school year. He transferred to Yale, where he enrolled as a special student at Yale Law School. On April 3, 1909, he served as an usher at a recital by Effie Grant at Warner Hall, alongside other early Black Yale students. In the same month, *The New York Age* reported that Woodroe had returned home to Saratoga Springs from Yale. He remained in Saratoga Springs where he died on September 9, 1910, at the age of 24. He was buried in Greenridge Cemetery in Saratoga Springs.[^1] \n\n[^1]:\"United States, Census, 1900\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MSG7-Q7Q: Tue Oct 21 20:55:49 UTC 2025), Entry for William Woodroe and Rosanna Woodroe, 1900.; \u201cOut-Of-Town Correspondence,\u201d *The New York Age*, July 12, 1906, 8; \u201cSaratoga Notes,\u201d *The New York Age*, January 10, 1907, 2; The Catalogue of Brown University: One Hundred and Forty-Fourth Year, 1907-1908 (Providence: Brown University, 1907), 201; \u201cProgress In Musical Art: Tunes of Old Time Melodies Caught In the Air\u2014Miss Effie E. Grant of New Haven, Conn., Destined to Rank High In Music World,\u201d *The Afro-American*, April 3, 1909, 3; \"New York, State Death Index, 1880-1956\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:QPW5-87RP : Fri Mar 08 04:57:36 UTC 2024), Entry for David A Woodroe, 9 Sep 1910; \u201cNotes of Saratoga Springs,\u201d *The New York Age*, April 8, 1909, 3. \n",
     "description": "Attended Yale Law School 1908-1909",
     "properties": {
         "sex or gender": {
@@ -67,6 +67,79 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49114",
+                    "data": {
+                        "label": "Brown University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.82611111111111,
+                                        "longitude": -71.40305555555555
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Brown University"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1885"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1910"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1144357",
+                    "data": {
+                        "label": "Saratoga Springs, New York, United States",
+                        "instance_of": [
+                            "city in the state of New York"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.075277777778,
+                                        "longitude": -73.7825
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Saratoga Springs, New York, United States"
                 }
             ]
         },

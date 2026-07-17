@@ -1,8 +1,7 @@
 {
     "id": "Q136432306",
     "label": "Benjamin M. Fernanders",
-    "biographyMarkdown": "# Benjamin M. Fernanders\n## Attended Yale Divinity School 1898-1900\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
-    "description": "Attended Yale Divinity School 1898-1900",
+    "biographyMarkdown": "# Benjamin M. Fernanders \n# Attended Yale Divinity School 1898-1900 \n\nBenjamin M. Fernanders was born in Camden, New Jersey on December 9, 1874. According to the 1880 U.S. Census, his father, Benjamin Fernanders, was a laborer and his mother, Alice Fernanders, kept house. He attended the Institute for Colored Youth and graduated with a diploma in stenography and typewriting in 1894. In 1899, he married Laura Ellen Saddler in Camden.[^1] \n\nFernanders joined the Union American Methodist Episcopal Church and would spend his life serving the church. In 1898, he was assigned to Union AME Church in New Haven, Connecticut on Foote Street. He spoke at a barbecue in Schuetzen Park along with other pastors of Black churches in New Haven on the \u201cNegro\u2019s Place in American Politics.\u201d He was also enrolled at Yale Divinity School as a resident licentiate between 1898 and 1900. He later returned to Camden and worked for the National Benefit Association, a life insurance organization for African Americans.[^2] \n\nHe later joined the New Jersey Conference of the Union AME Church in 1916. The church later transferred him to the New York Conference, where he returned to New Haven and pastored St. Paul\u2019s UAME Church from 1918 to 1923. He went back to the New Jersey Conference in 1923 and pastored Union AME Church on Chestnut Street in Camden. In 1926, at the 28th General Conference of the Union AME Church, he was elected as assistant general secretary. His congregation celebrated Fernanders in 1933, recognizing his achievements and contributions to the community. He was credited with expanding church membership and improving the church\u2019s finances amidst the Great Depression. He briefly returned to New Haven for St. Paul\u2019s UAME Church Annual Picnic at Lighthouse Point Park. By 1935, he became the general secretary of education for the conference. In 1940, Fernanders was elected to serve as the presiding bishop of the First Episcopal District. As bishop, he focused on expanding the church.[^3]   \n\nIn 1950, he prematurely retired from his role as bishop after suffering a stroke. His wife had died sometime before 1945, and, according to the 1950 U.S. Census, Fernanders was remarried to Sadie Harris, a teacher in the Philadelphia city schools. He died on March 13, 1954, in Camden, and was buried in Camden\u2019s Mount Peace Cemetery.[^4]     \n\nImage citation: *Philadelphia Tribune*, June 15, 1933.\n\n\n[^1]:\"New Jersey, Births and Christenings, 1660-1980\", FamilySearch (https://familysearch.org/ark:/61903/1:1:Q2SZ-KM91: 14 February 2020), Benjamin Fernandez, 1874; \"United States, Census, 1880\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MNZ5-WVG: Tue Jan 07 18:04:44 UTC 2025), Entry for Ben J. Fernandes and Alice Fernandes, 1880; \u201cGraduating Exercises: Diplomas Awarded to Students of the Institute for Colored Youth,\u201d *The Philadelphia Inquirer*, June 28, 1894, 4; \"New Jersey, Marriages, 1678-1985\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:FZL8-XY5: 27 August 2020), Benj. M. Fernanders, 1899. \n\n[^2]:\u201cColored Conference: A.M.E. Preachers Are To Meet In New Haven,\u201d *The Journal*, April 29, 1899, 7; \u201cSchuetzen Park Barbecue,\u201d *The Morning Journal-Courier*, September 1, 1898, 2; *Eighth General Catalogue of the Yale Divinity School: Centennial Issue, 1822-1922* (New Haven: Yale University, 1922), 363; \u201cCamden Briefs,\u201d *The Philadelphia Tribune*, December 11, 1915, 7.  \n\n[^3]:\u201cUnion Church In Annual Meeting: 28th General Conference Draws Adherents to Philadelphia,\u201d The Chicago Defender*, November 6, 1926, 5; \u201cCamden Honors The Pastor Of UAME Church: Rev. B. M. Fernanders Has Been a Splendid Community Leader,\u201d *The Philadelphia Tribune*, June 15, 1933, 9; \u201cSt. Paul\u2019s Union A.M.E. Church,\u201d *The New York Age*, August 11, 1934, 9; \u201cNew Haven, Conn.,\u201d *The New York Age*, June 8, 1935, 11; \u201c\u2018Invisible\u2019 Strands in African Methodism: A History of the African Union Methodist Protestant and Union American Methodist Episcopal Churches, 1805-1980,\u201d Ph.D. diss., Northwestern University, 1980, 246.  \n\n[^4]:\"United States, Census, 1950\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6XB2-W1RS: Tue Mar 19 08:48:39 UTC 2024), Entry for Benjamin Fernanders and Sadie Fernanders, 20 April 1950; \u201cRt. Rev. Fernanders, UAME Church, Dies,\u201d *Courier-Post*, March 15, 1954, 4; https://www.findagrave.com/memorial/243820891/benjamin-m-fernanders. \n",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -109,15 +108,44 @@
                 }
             ]
         },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Benjamin M. Fernanders",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q136432306.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

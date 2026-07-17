@@ -190,7 +190,8 @@
                             "city or town of Quebec",
                             "metropolis",
                             "territory outside RCM in Quebec",
-                            "college town"
+                            "college town",
+                            "city"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -219,7 +220,8 @@
                             "global city",
                             "megacity",
                             "largest city",
-                            "national capital"
+                            "national capital",
+                            "political territorial entity"
                         ],
                         "properties": {
                             "coordinate location": {

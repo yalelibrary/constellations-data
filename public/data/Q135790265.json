@@ -1,7 +1,7 @@
 {
     "id": "Q135790265",
-    "label": "William Washington Noland",
-    "biographyMarkdown": "# William Washington Noland\n## Attended Yale Law School 1906-1907\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "label": "William Washington Nolen",
+    "biographyMarkdown": "# William Washington Nolen\n## Attended Yale Law School 1906-1907\n\nWilliam Washington Nolen was born in Houston, Mississippi to Wesley Nolen and Georgia Smith on September 9, 1881. His uncle on his mom\u2019s side was Sidney Albert Smith, who attended Yale College. The family later moved to Nashville, Tennessee. Nolen received his early education at the Tuskegee Institute.[^1] \n\nHe attended Walden University in Nashville, graduating from Walden University\u2019s law department in 1903 with a bachelor of laws. He moved to Pittsburgh where he studied German and Hebrew at Carnegie Tech. He was also active in the community, overseeing an oratorical contest at the Trinity AME Church. In 1906, he began attending Yale Law School and was enrolled as a second-year law student.  He was a member of the Kent Club where he judged a debate among Yale law students regarding the expulsion of Senator Reed Smoot. He would only attend Yale Law School for the 1906-1907 school year. After leaving Yale, Nolen spent some time in New York where he was an active member of the Black intellectual scene, receiving praise for an oration he made at St. Mark\u2019s Lyceum. According to the 1910 U.S. Census, Nolen returned home to Nashville where he was a lawyer.[^2] \n\nHe married Florence Elizabeth Seymour in New York in 1911. By 1929, he was widowed and married to Clara Llewellyn of Jersey City. However, a 1932 article from *The New York Age* claimed that Nolen used Llewellyn for her money to run a school in the Bronx and that Llewellyn planned for divorce.[^3] Nolen was developing a school in the Bronx, incorporated as the New York Industrial School of Master Mechanics, which would provide African American men an education in mechanical arts. \n\nBy the 1930 U.S. Census, he was living in Bayonne, New Jersey where he worked as a contractor. He was elected to the presidency of Bayonne\u2019s United Educational Forum in 1935. Nolen remained an active alumnus of Yale, attending a Yale Law School Association dinner in 1949. He retired in The Bronx, New York and died in 1952.[^4] \n\n\n[^1]:\"United States, World War I Draft Registration Cards, 1917-1918\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:KZJV-TL9: Sat Nov 01 03:16:12 UTC 2025), Entry for William Washington Nolen, from 1917 to 1918; \u201cBrillian Man Dies From Mob Violence,\u201d *The New York Age*, December 11, 1913, 2; \u201cAttorney William Nolen Marries Young Widow,\u201d The *New York Age*, December 21, 1929, 10. \n\n[^2]:\u201cDiplomas Given At Walden: Twelve Graduates of Law Department Including One Japanese,\u201d *Nashville Banner*, May 13, 1903, 2; \u201cNotes for the Afro-Americans,\u201d *The Pittsburgh Press*, September 30, 1906, 37; \u201cAfro\u2026American Notes,\u201d *The Pittsburgh Press*, May 21, 1905, 42; \u201cYale Kent Club: Debate Question of Seating of Senator Reed Smoot,\u201d The Morning Journal-Courier, March 6, 1907, 6; \u201cSt. Mark\u2019s Lyceum,\u201d *The New York Age*, May 19, 1910, 3; \"United States, Census, 1910\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MGX5-1ZK : Wed Aug 13 17:14:49 UTC 2025), Entry for William W Nolen and Sophia Nolen, 1910. \n\n[^3]:New York City Department of Health, Marriage Certificate, certificate no. M-M-1911-0021931 (1911), New York, New York; \u201cAttorney William Nolen Marries Young Widow,\u201d *The New York Age*, December 21, 1929, 10; New York City Department of Health, Marriage Certificate, certificate no. M-M-1930-0000911 (1930), New York, New York; \u201cInstitute of Mechanics Incorporated in State,\u201d *The New York Amsterdam News*, September 18, 1929, 11; \u201cJersey City Woman Seeks Information About School Alleged Located in Bronx,\u201d *The New York Age, April 16, 1932*, 6.  \n\n[^4]:\"United States, Census, 1930\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:X466-Q58 : Fri Mar 08 00:36:23 UTC 2024), Entry for William Nolan and Grace Nolan, 1930; \u201cBayonne, N. J.,\u201d *The New York Amsterdam News*, July 6, 1935, 18; \u201cSocially Yours,\u201d *The New York Age*, May 7, 1949, 5; \u201cw,\u201d *The New York Times*, September 14, 1952, 86. \n",
     "description": "Attended Yale Law School 1906-1907",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,271 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1004374",
+                    "data": {
+                        "label": "Houston, Mississippi, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.8981,
+                                        "longitude": -89.0017
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Houston, Mississippi, United States"
+                }
+            ]
+        },
+        "relative": {
+            "label": "relative",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q135790253",
+                    "data": {
+                        "label": "Sidney Albert Smith",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Sidney Albert Smith",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q76557",
+                                    "data": {
+                                        "label": "uncle",
+                                        "instance_of": [
+                                            "kinship"
+                                        ]
+                                    },
+                                    "text": "uncle"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1682329",
+                    "data": {
+                        "label": "Tuskegee University, Alabama, United States",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school",
+                            "unincorporated community"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 32.430278,
+                                        "longitude": -85.707778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tuskegee University, Alabama, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7961485",
+                    "data": {
+                        "label": "Walden University",
+                        "instance_of": [
+                            "university"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.151,
+                                        "longitude": -86.769
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Walden University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1906"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1907"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23197",
+                    "data": {
+                        "label": "Nashville, Tennessee, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "consolidated city-county",
+                            "county seat",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.16222222222222,
+                                        "longitude": -86.77444444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Nashville, Tennessee, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port city",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q812589",
+                    "data": {
+                        "label": "Bayonne, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.6624,
+                                        "longitude": -74.1102
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bayonne, New Jersey, United States"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1881"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1952"
                 }
             ]
         },
@@ -41,7 +306,7 @@
             "values": [
                 {
                     "value-type": "literal",
-                    "text": "Noland"
+                    "text": "Nolen"
                 }
             ]
         },

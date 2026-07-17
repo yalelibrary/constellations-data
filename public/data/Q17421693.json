@@ -115,10 +115,9 @@
                     "data": {
                         "label": "Raleigh, North Carolina, United States",
                         "instance_of": [
-                            "city in the United States",
+                            "city in North Carolina",
                             "big city",
-                            "county seat",
-                            "city in North Carolina"
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -204,7 +203,8 @@
                             "city or town of Quebec",
                             "metropolis",
                             "territory outside RCM in Quebec",
-                            "college town"
+                            "college town",
+                            "city"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -251,10 +251,9 @@
                     "data": {
                         "label": "Raleigh, North Carolina, United States",
                         "instance_of": [
-                            "city in the United States",
+                            "city in North Carolina",
                             "big city",
-                            "county seat",
-                            "city in North Carolina"
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {

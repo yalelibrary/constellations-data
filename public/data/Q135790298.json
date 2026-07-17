@@ -1,7 +1,7 @@
 {
     "id": "Q135790298",
     "label": "Albert Leroy Skinner",
-    "biographyMarkdown": "# Albert Leroy Skinner\n## Attended Yale College 1885-1886\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Albert Leroy Skinner\n## Attended Yale College 1885-1886\n\nAlbert Leroy Skinner was born in New Haven, Connecticut, in 1865 to Edward Leroy Skinner and Mary L. Hassell. According to the 1870 U.S. Census, his father, Edward, worked as a carriage painter. He was related to the McLinns and Skinners, prominent Black families from the south in 19th century New Haven. He attended Hillhouse High School where he was known for his oratory abilities. He provided a declamation of Rienzi\u2019s speech to the Romans at Hillhouse and served as orator at Hillhouse\u2019s commencement. He graduated from Hillhouse High School in 1885 and began attending Yale College.[^1] \n\nHe would only attend Yale College for the 1885-1886 school year, withdrawing after his first year. In 1888, he was one of the secretaries for the New Haven Republican\u2019s Black chapter. He was present at Frederick Douglass\u2019 address in support of Benjamin Harrison\u2019s presidential campaign at the Hyperion Theater. Skinner was also active in the New Haven Black church community. He provided several orations at Zion Church. After the death of President Ulysses S. Grant, he provided a eulogy at Zion Church. He also spoke at the church on \u201cTwenty-four years of freedom and citizenship.\u201d In 1889, he was a committee member of a picnic that consisted of the AME churches in New Haven.[^2] \n\nAfter leaving Yale, he began teaching at Livingstone College in Salisbury, North Carolina. He also taught at grammar schools in Jonesboro, North Carolina and Tyaskin, Maryland. He returned to New Haven to care for his mother. He began to take an interest in art, taking art courses in New York City in the summer of 1890. He returned to New Haven and continued to pursue painting and drawing. He became ill and died in New Haven on June 26, 1895.[^3]  \n\n[^1]:\"United States, Census, 1870\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MN7F-9MN : Tue Oct 28 19:48:04 UTC 2025), Entry for Edward L Skinner and Mary Skinner, 1870; \u201cAt The Schools,\u201d *The Morning Journal-Courier*, February 21, 1885, 2; \u201cClass of \u201985,\u201d *The Morning Journal-Courier*, January 20, 1885, 4.  \n\n[^2]:Douglass To-Night,\u201dThe Morning Journal-Courier, October 25, 1888, 2; \u201cMemorial\u2014Excursions,\u201d *The New York Freeman*, August 15, 1885, 1; \u201cNew Haven Happenings: A Young Graduate\u2019s Lecture \u2013 Religious and Personal Notes,\u201d *The New York Age*, October 19, 1889; \u201cThe Colored Picnic Postponed,\u201d *The Morning Journal Courier*, April 15, 1889, 2.  \n\n[^3]:*Class of \u201989 Quindecennial* (New Haven: The Tuttle, Morehouse & Taylor Company, 1904), 184. \n\n \n",
     "description": "Attended Yale College 1885-1886",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,154 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1865"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49145",
+                    "data": {
+                        "label": "New Haven, Connecticut, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.308333333333,
+                                        "longitude": -72.925
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New Haven, Connecticut, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1895"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1885"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1886"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q14714934",
+                    "data": {
+                        "label": "Hillhouse High School",
+                        "instance_of": [
+                            "high school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.322,
+                                        "longitude": -72.9397
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hillhouse High School"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6659715",
+                    "data": {
+                        "label": "Livingstone College",
+                        "instance_of": [
+                            "school",
+                            "historically black college or university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 35.6709,
+                                        "longitude": -80.4834
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Livingstone College"
                 }
             ]
         },

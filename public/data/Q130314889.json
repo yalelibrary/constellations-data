@@ -144,13 +144,13 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 37.7775,
-                                        "longitude": -122.41638888888889
+                                        "latitude": 37.775,
+                                        "longitude": -122.41944444444445
                                     },
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 37.775,
-                                        "longitude": -122.41944444444445
+                                        "latitude": 37.7775,
+                                        "longitude": -122.41638888888889
                                     }
                                 ]
                             }
@@ -288,13 +288,13 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 37.7775,
-                                        "longitude": -122.41638888888889
+                                        "latitude": 37.775,
+                                        "longitude": -122.41944444444445
                                     },
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 37.775,
-                                        "longitude": -122.41944444444445
+                                        "latitude": 37.7775,
+                                        "longitude": -122.41638888888889
                                     }
                                 ]
                             }

@@ -87,7 +87,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q5345817",
                     "data": {
-                        "label": "Edward Waters College",
+                        "label": "Edward Waters University",
                         "instance_of": [
                             "college",
                             "historically black college or university",
@@ -107,7 +107,7 @@
                             }
                         }
                     },
-                    "text": "Edward Waters College"
+                    "text": "Edward Waters University"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -233,8 +233,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 39.95388888888889,
-                                        "longitude": -75.19305555555556
+                                        "latitude": 39.95194444444444,
+                                        "longitude": -75.19361111111111
                                     }
                                 ]
                             }
@@ -445,6 +445,11 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
+                                        "latitude": 33.754444444444445,
+                                        "longitude": -84.38972222222222
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
                                         "latitude": 33.756944444444,
                                         "longitude": -84.390277777778
                                     },
@@ -452,11 +457,6 @@
                                         "value-type": "globe-coordinate",
                                         "latitude": 33.74888888888889,
                                         "longitude": -84.38805555555555
-                                    },
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 33.754444444444445,
-                                        "longitude": -84.38972222222222
                                     }
                                 ]
                             }
@@ -496,7 +496,8 @@
                         "instance_of": [
                             "city in the United States",
                             "state or insular area capital of the United States",
-                            "county seat"
+                            "county seat",
+                            "city"
                         ],
                         "properties": {
                             "coordinate location": {

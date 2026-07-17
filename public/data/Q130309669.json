@@ -58,8 +58,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 40,
-                                        "longitude": -83.0125
+                                        "latitude": 40.00577175,
+                                        "longitude": -83.02781955
                                     }
                                 ]
                             }
@@ -84,8 +84,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 39.95388888888889,
-                                        "longitude": -75.19305555555556
+                                        "latitude": 39.95194444444444,
+                                        "longitude": -75.19361111111111
                                     }
                                 ]
                             }
@@ -471,10 +471,9 @@
                     "data": {
                         "label": "Raleigh, North Carolina, United States",
                         "instance_of": [
-                            "city in the United States",
+                            "city in North Carolina",
                             "big city",
-                            "county seat",
-                            "city in North Carolina"
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {

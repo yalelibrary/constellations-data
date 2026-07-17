@@ -1,7 +1,7 @@
 {
     "id": "Q135790240",
     "label": "James Arthur Harley",
-    "biographyMarkdown": "# James Arthur Harley\n## Attended Yale College 1902-1903\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n\nImage citation: Yale College Class of 1906 class book, Yale University Library.\n",
+    "biographyMarkdown": "# James Arthur Harley\n## Attended Yale College 1902-1903\n\nHarley was born on May 15, 1873, in Antigua to Henry James Harley and Eleanora Josephine Lake. He left Antigua and began studying at Howard University\u2019s preparatory department. While at Howard University, he was active with St. Luke\u2019s Episcopal Church in Washington, D.C. At the church, he served as their organist and choirmaster. In 1902, Harley graduated from Howard University\u2019s law school and enrolled at Yale College in the same year.[^1] \n\nAt Yale, Harley was a member of the Freshman Union. On November 25, 1902, he debated \"in the affirmative that immigration should be further restricted by the law.\u201d He also expressed an interest in joining the Chapel Choir as a tenor. While he resided in New Haven, Harley was renowned as an organist. He was a congregant of St. Luke\u2019s Episcopal Church in New Haven where he became an assistant choirmaster. Harley was also invited to be an accompanist for Immanuel Baptist Church\u2019s John Brown Concert on May 20, 1903. However, Harley did not return to Yale and expressed his interest in furthering his \u201coratorical ambitions\u201d elsewhere.[^2] \n\nHe instead enrolled at Harvard College. At Harvard, he specialized in Semitic languages and history and won prizes in English composition. Harley was also a member of Harvard\u2019s debate team. While a student at Harvard, Harley returned to New Haven and assisted the rector of St. Luke, Eugene L. Henderson (another early Black Yale student) in Easter Services in 1905. Harley graduated magna cum laude from Harvard in 1906. He remained in Cambridge and enrolled at Episcopal Theological School in Cambridge, Massachusetts, before leaving for England to study at Oxford, where he graduated in 1909. He married Josephine Maritcha Lawson, a teacher from Washington, DC., in 1910 but the two divorced in 1918.[^3]  \n\nIn 1909, Harley was ordained and served as a curate for St. Botolph\u2019s Church in Shepshed, Marshside, and Deal in England. Later, returning to Oxford, he received a master\u2019s in 1914. Harley left the clergy in 1916 and worked at a munitions factory at Faversham, England, during the First World War. After the war he became active in local politics in Shepshed. He would be elected to Leicestershire County Council in 1937 and served as councilor until his death on May 12, 1943.[^4]    \n\n \n[^1]:\u201cEaster Music,\u201d *The Evening Star*, March 29, 1902, 11; Secretary\u2019s Third Report: Harvard College Class of 1906 (Cambridge: Crimson Printing Company, 1916),178; \u201cHoward\u2019s Lawyers: Twenty Lawyers Turned Out\u2014A Brilliant Scene at the Congregational Church Ex Senator Thurston Speaks,\u201d *The Washington Bee*, May 31, 1902, 1.   \n\n[^2]:\u201cFreshman Union,\u201d *The Yale Daily News*, November 20, 1902, 1; \u201cChoir Trials,\u201d *The Yale Daily News*, September 30, 1902, 1; \u201cJapanese Favor Yale: Twenty of Them Studying There This Year\u2014Other Foreign Students,\u201d *The Sun*, October 26, 1902; \u201cSt. Luke\u2019s Song Recital,\u201d *The Morning Journal Courier*, October 27, 1902, 7; \u201cJohn Brown\u2019s Birthday: To be Observed With Fitting Honors at Immanuel Baptist Church Tonight,\u201d *The Morning Journal Courier*, May 20, 1903, 5; Pamela Roberts, *The Adventures of a Black Edwardian Intellectual: The Story of James Arthur Harley* (Oxford: Signal Books, 2022), 275. \n\n[^3]:\u201cChurch Fair In Elm City: Fine Entertainments On Four Evenings Net $250,\u201d The New York Age, April 7, 1905, 1; History of the Class of 1906, Yale College, vol 1. (New Haven; Yale University, 1906), 370; \u201cIts Fortieth Matriculation: Rev. Anson Phelps Stokes, Jr., Preaches to Entering Class of Episcopal Theological School,\u201d *Boston Evening Transcript*, November 1, 1906, 16; \u201cNews From The Capital City: Home for Friendless Girls To Have Building\u2014Midsummer Chautauqua,\u201d *The New York Age*, August 19, 1909; \u201cMarried,\u201d *The Evening Star*, August 4, 1910, 7; Virginia Department of Health; Richmond, VA, USA; Virginia Divorce Records, 1918-2014, 18-000431.  \n\n[^4]:*Ten-Year Sketch Book, Class of 1906, Yale College* (New Haven: Yale University, 1917), 167; Secretary\u2019s Third Report: Harvard College Class of 1906 (Cambridge: Crimson Printing Company, 1916), 179; \u201cA Well-Documented Life,\u201d University of Oxford Pitt Rivers Museum, https://www.prm.ox.ac.uk/event/well-documented-life. \n\nImage citation: Yale College Class of 1906 class book, Yale University Library.\n",
     "description": "Attended Yale College 1902-1903",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,267 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1873"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1943"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1068752",
+                    "data": {
+                        "label": "Howard University",
+                        "instance_of": [
+                            "private university",
+                            "historically black college or university",
+                            "private not-for-profit educational institution",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.921666666667,
+                                        "longitude": -77.02
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5921126",
+                    "data": {
+                        "label": "Howard University School of Law",
+                        "instance_of": [
+                            "law school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.94305555555555,
+                                        "longitude": -77.05833333333334
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Howard University School of Law"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1902"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1903"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q13371",
+                    "data": {
+                        "label": "Harvard University",
+                        "instance_of": [
+                            "private university",
+                            "research university",
+                            "Colonial Colleges",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.374443888889,
+                                        "longitude": -71.116943888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Harvard University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q34433",
+                    "data": {
+                        "label": "University of Oxford",
+                        "instance_of": [
+                            "collegiate university",
+                            "exempt charity",
+                            "public university",
+                            "higher education institution",
+                            "educational organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 51.755,
+                                        "longitude": -1.255
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "University of Oxford"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q139582314",
+                    "data": {
+                        "label": "Episcopal Theological School",
+                        "instance_of": [
+                            "higher education institution"
+                        ]
+                    },
+                    "text": "Episcopal Theological School"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q316390",
+                    "data": {
+                        "label": "Antigua, Antigua and Barbuda",
+                        "instance_of": [
+                            "island"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 17.085,
+                                        "longitude": -61.8
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Antigua, Antigua and Barbuda"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2449792",
+                    "data": {
+                        "label": "Shepshed, Charnwood, United Kingdom",
+                        "instance_of": [
+                            "town",
+                            "civil parish"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 52.7711,
+                                        "longitude": -1.2951
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Shepshed, Charnwood, United Kingdom"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1000115",
+                    "data": {
+                        "label": "Faversham, Swale, United Kingdom",
+                        "instance_of": [
+                            "town",
+                            "civil parish",
+                            "market town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 51.3177,
+                                        "longitude": 0.8928
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Faversham, Swale, United Kingdom"
                 }
             ]
         },

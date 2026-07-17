@@ -1,7 +1,7 @@
 {
     "id": "Q138014007",
     "label": "Grady Willis Johnson",
-    "biographyMarkdown": "# Grady Willis Johnson\n## Attended Yale Divinity School 1927-1928\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Grady Willis Johnson\n## Attended Yale Divinity School 1927-1928\n\nGrady Willis \u201cWillie\u201d Johnson was born on December 10, 1899, in Nichols, South Carolina to Willis and Lucy Johnson. He began attending Shaw University\u2019s academy in 1918. While a student at Shaw Academy, he was inducted into the Student Army Training Corps (SATC) as a private. He graduated from Shaw Academy in 1922 and began attending Shaw University the same year. Johnson was a member of the Iota chapter of Phi Beta Sigma fraternity at Shaw University. In 1924, he served as parliamentarian of the chapter. He also was a member of the school\u2019s debating team and _Shaw Journal_\u2019s business manager. In his senior year, Shaw\u2019s catalogue reported that Johnson worked as a student assistant in English. He graduated from Shaw in 1926 with a bachelor of science. During his lifetime, he was also a member of the Kings Mountain Student Council and the Council of Christian Associations.[^1] \n\nFollowing his graduation from Shaw University, he enrolled at Yale Divinity School in 1927. However, Johnson developed tuberculosis soon after and was admitted to William Wirth Winchester Hospital in West Haven, Connecticut. While there, he was visited by his professor from Shaw University, Benajamin Brawley. He died on August 21, 1928. The American Legion learned of his death and provided him with a military funeral in West Haven. In 1929, he was eulogized on Memorial Day at Yale\u2019s Battell Chapel amongst other Yale veterans who died during the school year. He was buried in Oak Grove Cemetery.[^2] \n\n[^1]:\"United States, Census, 1900\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:M3R3-2NB: Wed Jun 25 23:08:21 UTC 2025), Entry for Willis Johnson and Lucy Johnson, 1900; _Forty-fifth Annual Catalogue of the Officers and Students Of Shaw University, Raleigh, N. C.; For the Academic Year Ending May Thirty-first Nineteen Hundred and Nineteen_ (Raleigh: Edwards & Broughton Printing Co., 1919), 50; \"North Carolina, World War I Service Cards, 1917-1919\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:Q2H2-NSD1: Fri Mar 13 16:41:32 UTC 2026), Entry for Grady W Johnson, 31 Oct 1918; _Shaw University Bulletin_, Raleigh, N. C.; _Catalog For the Session of 1922-1923_ (Raleigh: Shaw University, 1923), 53; \u201cPhi Beta Sigma Fraternity,\u201d _Norfolk Journal and Guide_, February 16, 1924, 9; \u201cShaw Students Are Planning New Activities,\u201d _Norfolk Journal and Guide_, November 15, 1924, 8; \u201cShaw Debaters Win Over Team From Virginia Union,\u201d The New York Age, May 1, 1926;  _Catalog and Announcements of Shaw University, Raleigh, N. C.; Founded 1865; Session of 1926-1927, Opens September 21, 1926_ (Raleigh: Commercial Printing Company, 1926), 10; _Catalog and Announcements of Shaw University, Raleigh, N. C.; Founded 1865; Session of 1927-1928, Opens September 20, 1927_ (Raleigh: Commercial Printing Company, 1927), 50; \u201cThe Wayfarer,\u201d _The Intercollegian_ 46, no. 2 (November 1928), 63.  \n\n[^2]:_Catalogue of Yale University: 1928-1929_ (New Haven: Yale University, 1928), 609; John W. Parker, \u201cPhylon Profile, XIX: Benjamin Brawley\u2014Teacher and Scholar,\u201d _Phylon_ 10, no. 1, 19; \u201cFriendless Veteran Gets American Legion Funeral,\u201d _New Britain Herald_, August 23, 1928, 17; \u201cYale Men Who Gave Their Lives on Field of Battle and Members of University Who Have Died During Year Eulogized in Memorial Service,\u201d _Yale Daily News_, May 31, 1929; https://www.findagrave.com/memorial/152153163/grady-willie-johnson. \n",
     "description": "Attended Yale Divinity School 1927-1928",
     "properties": {
         "sex or gender": {
@@ -110,6 +110,34 @@
                 {
                     "value-type": "time",
                     "text": "1899"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2071041",
+                    "data": {
+                        "label": "Nichols, South Carolina, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.232777777778,
+                                        "longitude": -79.148611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Nichols, South Carolina, United States"
                 }
             ]
         },

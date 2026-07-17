@@ -103,6 +103,11 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
+                                        "latitude": 33.754444444444445,
+                                        "longitude": -84.38972222222222
+                                    },
+                                    {
+                                        "value-type": "globe-coordinate",
                                         "latitude": 33.756944444444,
                                         "longitude": -84.390277777778
                                     },
@@ -110,11 +115,6 @@
                                         "value-type": "globe-coordinate",
                                         "latitude": 33.74888888888889,
                                         "longitude": -84.38805555555555
-                                    },
-                                    {
-                                        "value-type": "globe-coordinate",
-                                        "latitude": 33.754444444444445,
-                                        "longitude": -84.38972222222222
                                     }
                                 ]
                             }
@@ -275,7 +275,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q675576",
                     "data": {
-                        "label": "Pueblo, Colorado, United States",
+                        "label": "Pueblo, Pueblo metropolitan area, United States",
                         "instance_of": [
                             "city in the United States",
                             "county seat",
@@ -294,7 +294,7 @@
                             }
                         }
                     },
-                    "text": "Pueblo, Colorado, United States"
+                    "text": "Pueblo, Pueblo metropolitan area, United States"
                 },
                 {
                     "value-type": "wikibase-item",

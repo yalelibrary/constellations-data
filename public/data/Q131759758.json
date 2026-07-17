@@ -103,8 +103,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 40,
-                                        "longitude": -83.0125
+                                        "latitude": 40.00577175,
+                                        "longitude": -83.02781955
                                     }
                                 ]
                             }
@@ -279,10 +279,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Frederick Wilson Wells",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q131759758.jpg",
                             "mime": "image/jpeg"
                         }
                     ]
