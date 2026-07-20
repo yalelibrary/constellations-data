@@ -1,15 +1,16 @@
 {
     "id": "Q115771524",
     "label": "Mabel Randolph Brooks",
-    "biographyMarkdown": "# Mabel Randolph Brooks\n## Graduate of Yale School of Art, 1930\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n\nImage citation: *Opportunity* magazine, August 1926.\n",
+    "biographyMarkdown": "# Mabel Randolph Brooks\n## Graduate of Yale School of Art, 1930\n\nMabel Randolph Brooks was born on March 21, 1896, in Port Tobacco, Maryland to Reverend John Randolph Brooks of the Episcopal Church and Elizabeth Branch Wallace. Her mother died at an early age, leaving Brooks to raise her younger siblings. The family constantly moved around as her father oversaw different congregations. She attended school in Cairo, Illinois, and Philadelphia, Pennsylvania, where she graduated from high school in 1915. She received a scholarship to attend the Pennsylvania Academy of the Fine Arts, and later, studied at the Art Institute of Chicago where she received the Barnhardt Scholarship for her work. She began teaching art at Florida Agricultural and Mechanical University as well as other summer schools. In 1922, she began teaching at Atlanta University. While in Atlanta, she worked with the Alpha Kappa Alpha Sorority to host an exhibition of paintings from New York\u2019s Metropolitan Museum of Fine Arts that was visited by both white and Black Atlantans.[^1] \n\nBrooks decided to pursue painting as a career after one of her paintings, dedicated to her mother, was exhibited at the Waldorf-Astoria Hotel in New York. She studied under Ivan Olinsky, and later, at Radcliffe College where she studied the history of the Fine Arts. She began attending Yale School of Fine Arts in 1927 and studied mural painting. She also took graduate coursework at Yale in Buddhist Art and the history and philosophy of the Buddha. Describing her time at Yale as \u201cyears of hell,\u201d she graduated in 1930 with a Bachelor of Fine Arts, making her the first Black person to receive the degree. For her thesis, she created a triptych and wrote on Greco-Buddhist Art in China. Shortly after her graduation, she went to Florence, Italy to study medieval painting and paint an altar piece. While residing at the Convent of the Sacred Heart, she converted to Catholicism. She returned to the United States and, in 1933, won $3,000 from the Carnegie Corporation and the American Federation of Arts to promote arts education in black institutions and schools. With the fellowship, she was a guest lecturer at Fisk University, Atlanta University, Hampton Institute, and Howard University.[^2] \n\nAccording to *The Call*, the Haitian government invited Brooks to establish an art school in Port-au-Prince. Brooks shared her intentions of moving to Haiti to teach as well as paint for the Connecticut State Tuberculosis Association, but it is unclear if she did go to Haiti. Brooks continued to pursue art up until the 1950s with her life after remaining a mystery.[^3] \n\n[^1]:\u201cBrooklyn,\u201d The New York Age, October 14, 1922, 8; \"United States, Census, 1900\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:M329-GD8: Tue Aug 06 21:48:39 UTC 2024), Entry for John R Brook and Elizabeth B Brook, 1900; Mabel Brooks, \u201cThe Autobiography of an Artist,\u201d *The Crisis* 39, no. 2 (February 1932), 48. \n\n[^2]:\u201cAtlanta Uni. Teacher Has Painting At Independent Artists Exhibit in N.Y.,\u201d *The New York Age*, March 27, 1926, 7; Mabel Brooks, \u201cThe Autobiography of an Artist,\u201d *The Crisis* 39, no. 2 (February 1932), 48; \u201cExhibit At College,\u201d *The Brooklyn Tablet*, December 21, 1935; \u201cAwards,\u201d *The Crisis* 40, no. 2, (February 1933) 42.  \n\n[^3]:\u201cPainter to Open Studio in Haiti,\u201d *The Call*, October 9, 1942; Carl A. Wade, \"Brooks, Mabel Randolph.\" Oxford African American Studies Center. May 15, 2025, https://oxfordaasc.com/view/10.1093/acref/9780195301731.001.0001/acref-9780195301731-e-79485. \n\nImage citation: *Opportunity* magazine, August 1926.\n",
     "description": "Graduate of Yale School of Art, 1930",
+    "publicationsMarkdown": "\u201cThe Autobiography of an Artist,\u201d *The Crisis* 39, no. 2 (February 1932).  \n",
     "properties": {
         "date of birth": {
             "label": "date of birth",
             "values": [
                 {
                     "value-type": "time",
-                    "text": "1899"
+                    "text": "1896"
                 },
                 {
                     "value-type": "time",
@@ -54,6 +55,80 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49124",
+                    "data": {
+                        "label": "Radcliffe College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.38194444444444,
+                                        "longitude": -71.12472222222222
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Radcliffe College"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q239303",
+                    "data": {
+                        "label": "Art Institute of Chicago",
+                        "instance_of": [
+                            "art museum",
+                            "educational institution",
+                            "nonprofit organization"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.879444444444445,
+                                        "longitude": -87.62388888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Art Institute of Chicago"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1952033",
+                    "data": {
+                        "label": "Pennsylvania Academy of the Fine Arts",
+                        "instance_of": [
+                            "art museum",
+                            "art academy",
+                            "private not-for-profit educational institution",
+                            "museum"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.955683,
+                                        "longitude": -75.163217
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Pennsylvania Academy of the Fine Arts"
                 }
             ]
         },
@@ -71,6 +146,171 @@
                         ]
                     },
                     "text": "female"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q753959",
+                    "data": {
+                        "label": "Port Tobacco Village, Maryland, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.5104802,
+                                        "longitude": -77.0195611
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Port Tobacco Village, Maryland, United States"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q575306",
+                    "data": {
+                        "label": "Cairo, Illinois, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.013055555556,
+                                        "longitude": -89.180277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Cairo, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2044",
+                    "data": {
+                        "label": "Florence, Province of Florence, Kingdom of Italy",
+                        "instance_of": [
+                            "comune of Italy",
+                            "big city",
+                            "capital city",
+                            "Italian city-state"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 43.771388888889,
+                                        "longitude": 11.254166666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Florence, Province of Florence, Kingdom of Italy"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1430048",
+                    "data": {
+                        "label": "Florida A&M University",
+                        "instance_of": [
+                            "university",
+                            "land-grant university",
+                            "historically black college or university",
+                            "public educational institution of the United States",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 30.4178,
+                                        "longitude": -84.2845
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Florida A&M University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q63887403",
+                    "data": {
+                        "label": "Atlanta University",
+                        "instance_of": [
+                            "university",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.75224200134005,
+                                        "longitude": -84.41132526895626
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Atlanta University"
                 }
             ]
         },

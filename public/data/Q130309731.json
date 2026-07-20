@@ -151,7 +151,7 @@
                     "data": {
                         "label": "Cheyenne, Wyoming, United States",
                         "instance_of": [
-                            "city",
+                            "city in the United States",
                             "county seat",
                             "state or insular area capital of the United States"
                         ],
@@ -228,7 +228,8 @@
                         "instance_of": [
                             "consolidated city-county",
                             "big city",
-                            "city in the United States"
+                            "city in the United States",
+                            "municipality of Colorado"
                         ],
                         "properties": {
                             "coordinate location": {

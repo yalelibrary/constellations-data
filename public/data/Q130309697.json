@@ -197,7 +197,21 @@
                     "id": "Q12897644",
                     "data": {
                         "label": "Tarboro, Georgia",
-                        "instance_of": []
+                        "instance_of": [
+                            "unincorporated community"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 31.0177303,
+                                        "longitude": -81.8053873
+                                    }
+                                ]
+                            }
+                        }
                     },
                     "text": "Tarboro, Georgia"
                 },

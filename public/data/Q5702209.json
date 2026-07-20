@@ -126,7 +126,27 @@
                             }
                         }
                     },
-                    "text": "Schola Cantorum de Paris"
+                    "text": "Schola Cantorum de Paris",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1912"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1914"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -180,6 +200,49 @@
                         }
                     },
                     "text": "Portsmouth, New Hampshire, United States"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1782948",
+                    "data": {
+                        "label": "Tennessee State University",
+                        "instance_of": [
+                            "public university",
+                            "historically black college or university",
+                            "public educational institution of the United States",
+                            "land-grant university",
+                            "school"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.165874,
+                                        "longitude": -86.830337
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Tennessee State University",
+                    "qualifiers": [
+                        {
+                            "label": "object named as",
+                            "values": [
+                                {
+                                    "value-type": "string",
+                                    "text": "Tennessee Agricultural and Industrial State College"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },

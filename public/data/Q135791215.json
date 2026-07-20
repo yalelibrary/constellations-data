@@ -1,7 +1,7 @@
 {
     "id": "Q135791215",
     "label": "Walter Keene",
-    "biographyMarkdown": "# Walter Keene\n## Attended Yale College 1905-1906\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Walter Keene\n## Attended Yale College 1905-1906\n\nWalter Keene was born in Danville, Virginia in November 1877 to John Keene, a farmer, and Jennie Keene. Keene graduated from the Hampton Institute in 1900 and from Lincoln University in 1905. He enrolled at Yale College in 1905 as a sophomore. He lived at 72 Edgewood Avenue with fellow 1905 graduates of Lincoln University Alphonso Primius Dawkins and Wiliam Emmanuel Henrdickson. He also lived with Stephen Alexander Bennett who was enrolled as a graduate student at Yale. Under the Sophomore Tutorial System, he and Dawkins were under the supervision of Assistant Professor Charles Upson Clark. In November 1905, Keene worked as an usher for the Yale-Princeton football game. Keene was only enrolled at Yale College for the 1905-1906 school year. Little record of Keene's life after Yale has been found. According to Lincoln University, Keene had been a teacher and had died by the time they published their alumni directory in 1912.[^1] \n\n[^1]:\"Virginia, Vital Records, 1715-1912\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6V7Q-BZVP : Thu Jul 18 09:37:24 UTC 2024), Entry for Walter Keen and John Keen, 27 Dec 1876; *The Southern Workman* 35, no. 1 (January 1906), 61; *Catalogue of Yale University*, 1905-06 (New Haven: The Tuttle, Morehouse & Taylor Company, 1905), 653; \u201cSophomore Tutorial System: List of Members of 1908 Assigned to the Sixteen Supervisors,\u201d *Yale Daily News*, November 10, 1905, 1; \u201cUshers For November 18th: List of Men Who Will Serve In This Capacity In the Yale-Princeton Game,\u201d *Yale Daily News*, November 15, 1905, 1; *Statistical Catalogue of the Students of the Collegiate and Theological Departments of Lincoln University*, 1912 (Lincoln University, 1912), https://www.lincoln.edu/_files/langston-hughes-memorial-library/Library%20Alumni%20Directories/1912.pdf, 101. \n\n \n",
     "description": "Attended Yale College 1905-1906",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,140 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1877"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q511922",
+                    "data": {
+                        "label": "Danville, Virginia, United States",
+                        "instance_of": [
+                            "independent city in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 36.587238,
+                                        "longitude": -79.404404
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Danville, Virginia, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "public university",
+                            "historically black college or university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q2599077",
+                    "data": {
+                        "label": "Yale College",
+                        "instance_of": [
+                            "college"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.3117,
+                                        "longitude": -72.9253
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale College",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1905"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1906"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q23933851",
+                    "data": {
+                        "label": "Hampton Institute",
+                        "instance_of": [
+                            "campus",
+                            "historic district"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 37.0203,
+                                        "longitude": -76.5945
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hampton Institute"
                 }
             ]
         },

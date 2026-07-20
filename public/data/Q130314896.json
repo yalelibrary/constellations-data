@@ -158,7 +158,7 @@
                                     "data": {
                                         "label": "sister",
                                         "instance_of": [
-                                            "kinship"
+                                            "type of sibling"
                                         ]
                                     },
                                     "text": "sister"

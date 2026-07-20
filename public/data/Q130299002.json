@@ -222,10 +222,9 @@
                     "data": {
                         "label": "Columbus, Ohio, United States",
                         "instance_of": [
-                            "city in the United States",
+                            "city of Ohio",
                             "big city",
-                            "county seat",
-                            "city of Ohio"
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {

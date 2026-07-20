@@ -57,8 +57,8 @@
                                 "values": [
                                     {
                                         "value-type": "globe-coordinate",
-                                        "latitude": 40,
-                                        "longitude": -83.0125
+                                        "latitude": 40.00577175,
+                                        "longitude": -83.02781955
                                     }
                                 ]
                             }

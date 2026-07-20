@@ -248,7 +248,8 @@
                         "label": "Silver Spring, Maryland, United States",
                         "instance_of": [
                             "census-designated place in the United States",
-                            "unincorporated community"
+                            "unincorporated community",
+                            "human settlement"
                         ],
                         "properties": {
                             "coordinate location": {

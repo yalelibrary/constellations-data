@@ -231,8 +231,7 @@
                             "university",
                             "historically black college or university",
                             "private not-for-profit educational institution",
-                            "school",
-                            "entity"
+                            "school"
                         ],
                         "properties": {
                             "coordinate location": {

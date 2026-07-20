@@ -1,7 +1,7 @@
 {
     "id": "Q136232092",
-    "label": "Joseph H. Evans",
-    "biographyMarkdown": "# Joseph H. Evans\n## Graduate of Yale Divinity School, 1942\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "label": "Joseph Henry Evans",
+    "biographyMarkdown": "# Joseph Henry Evans\n## Graduate of Yale Divinity School, 1942\n\nJoseph Henry Evans was born in Kalamazoo, Michigan to Charles Alfred Evans and Etta Hill Evans. By the time of the 1930 U.S. Census, Evans\u2019 family lived in Chicago where Charles worked as a postman and Etta worked as a public school teacher on the South Side. As a child, he attended the Church of the Good Shepherd. The pastor was Harold Merrybright Kingsley, a 1911 graduate of Yale Divinity School. According to Evans, Kingsley left a powerful impression as a pastor and invited him to assist in church duties.[^1]  \n\nHe attended Carter Elementary School and Englewood High School in Chicago before enrolling at Lewis Institute. He later transferred to Western Michigan University in Kalamazoo. At Western Michigan, he was a member of the Interracial Student Group and during the summers, he assisted Kinglsey with church duties in Chicago. He graduated from Western Michigan University in 1939 and enrolled at Yale Divinity School in the same year. At some point during his education, he joined Kappa Alpha Psi fraternity. [^2] \n\nAs a student at the Divinity School, he was expected to do fieldwork in New Haven. He was assigned to work at the Dixwell Avenue Congregational Church under Edward Franklin Goin, also a Black graduate of Yale. When Goin became ill, Evans took on additional responsibilities that he credited with helping him learn on how to become a pastor. During this time, he came into conflict with George Williamson Crawford, another early Black Yale graduate, who refused to allow him in the pulpit because he was not yet ordained. At Dixwell Church, Evans served as the director for Christian Education and Sunday School superintendent. Reflecting on his time at the Divinity School, Evans recalled that in the aftermath of Pearl Harbor in December 1941, three Japanese students were forcibly removed from Yale Divinity School without the school's knowledge. In his senior year at the Divinity School, he was elected president of the student body. He graduated in 1942 and served as marshal at the graduation.[^3] \n\nAfter graduation, Evans began his career overseeing a mission at Rockaway Avenue Congregational Church on behalf of the New York City Missionary Society and then became the minister for Grace Congregational Church in Harlem. He married Harriette E. Clark, a teacher at the Little Brown School House, in 1944 in New York City. In 1946, he succeeded James Oscar Lee, another Black Yale graduate, as associate secretary of the Connecticut Council of Churches. He resigned from the position to pastor at Mount Zion Congregational Church in Cleveland, Ohio. He returned to Chicago in 1954 and pastored at the Church of the Good Shepherd, his childhood church, for thirteen years. He was named president of the Chicago Urban League in 1959. As president, he assisted in integrating African Americans migrating to Chicago. He was also affiliated with the Provident Hospital, the Chicago Community Fund, the Chicago City Missionary Society, and the Welfare Council of Chicago.[^4] \n\nIn 1967, Evans was elected as National Secretary of the United Church of Christ and moved to New York City. In 1976, he was elected president of the church, the first African American to oversee a predominantly white mainline Christian denomination. He retired from his leadership positions in the church in 1983, but continued to pastor at several different churches and taught at Hartford Theological Seminary. He later moved to Sarasota, Florida, where remained active in church affairs at First Congregational United Church of Christ. He died on April 12, 2008 at the age of 92.[^5] \n\n[^1]:\"United States, Census, 1930\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:XSTH-42Q: Fri Jan 17 02:02:25 UTC 2025), Entry for Charles A Evans and Etta Evans, 1930; Reverend Joseph Evans (The HistoryMakers A2005.195), interviewed by Robert Hayden, August 10, 2005, The HistoryMakers Digital Archive. Session 1, tape 2, story 1, Reverend Joseph Evans remembers joining the Church of the Good Shepherd. \n\n[^2]:\u201cRev. Joseph H. Evans, New Minister, To Be At Grace Congregational Church, Oct. 4,\u201d *The New York Age*, October 3, 1942, 9.  \n\n[^3]:Reverend Joseph Evans (The HistoryMakers A2005.195), interviewed by Robert Hayden, August 10, 2005, The HistoryMakers Digital Archive. Session 1, tape 1, story 3, Reverend Joseph Evans describes his career path; Reverend Joseph Evans (The HistoryMakers A2005.195), interviewed by Robert Hayden, August 10, 2005, The HistoryMakers Digital Archive. Session 1, tape 2, story 4, Reverend Joseph Evans remembers attending Yale Divinity School.  \n\n[^4]:\u201cRev. Joseph H. Evans, New Minister, To Be At Grace Congregational Church, Oct. 4,\u201d *The New York Age*, October 3, 1942, 9; \u201cMiss Harriet E. Clarke Weds New York Minister,\u201d Afro-American, October 28, 1944; \u201cStarts Duties in May,\u201d *The Hartford Courant*, January 29, 1946, 14; \u201cRev. Joseph H. Evans Called To Mount Zion Congregational,\u201d Cleveland Call and Post, October 18, 1947, 10; \u201cSeat Pastor of South Side Church Today,\u201d *Chicago Daily Tribune*, February 28, 1954, s1; \u201cRev. Joseph Evans Name Board Head Of Urban League,\u201d *Chicago Daily Tribune*, December 23, 1959, 7; \u201cPastor Seeks to Aid Newcomers to City,\u201d *Chicago Daily Tribune*, March 13, 1960, 4; \u201cRev. Evans On Mission Board,\u201d *Chicago Daily Defender*, January 4, 1961, 2.  \n\n[^5]:\u201cChurch of Christ Elects Negro,\u201d The Sun, June 27, 1967, 5; \u201cChurch elects 1st black leader,\u201d *Chicago Tribune*, October 31, 1976, 3; \u201cDr. Evans to retire in fall,\u201d *Chicago Defender*, July 2, 1983, 37; \u201cRev. Joseph H. Evans | 1915 \u2013 2008, Pastor also led Urban League: 1st black president of his denomination,\u201d *Chicago Tribune*, April 18, 2008, C11. \n\n Image citation: Western State Teachers College [Western Michigan University] yearbook, 1939.\n",
     "description": "Graduate of Yale Divinity School, 1942",
     "properties": {
         "sex or gender": {
@@ -57,6 +57,205 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1546191",
+                    "data": {
+                        "label": "Western Michigan University",
+                        "instance_of": [
+                            "public university",
+                            "public educational institution of the United States",
+                            "open-access publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.283178,
+                                        "longitude": -85.615219
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Western Michigan University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q100556228",
+                    "data": {
+                        "label": "Lewis Institute",
+                        "instance_of": [
+                            "educational institution"
+                        ]
+                    },
+                    "text": "Lewis Institute"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1915"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q167155",
+                    "data": {
+                        "label": "Kalamazoo, Michigan, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "human settlement",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.29,
+                                        "longitude": -85.59
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Kalamazoo, Michigan, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "2008"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1297",
+                    "data": {
+                        "label": "Chicago, Illinois, United States",
+                        "instance_of": [
+                            "city of Illinois",
+                            "global city",
+                            "big city"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.88194444444444,
+                                        "longitude": -87.62777777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Chicago, Illinois, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port city",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q491540",
+                    "data": {
+                        "label": "Sarasota, Florida, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 27.337222222222,
+                                        "longitude": -82.535277777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Sarasota, Florida, United States"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4496116",
+                    "data": {
+                        "label": "Hartford International University for Religion and Peace",
+                        "instance_of": [
+                            "university",
+                            "private not-for-profit educational institution",
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.7699,
+                                        "longitude": -72.7076
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Hartford International University for Religion and Peace"
                 }
             ]
         },
@@ -65,10 +264,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Joseph Henry Evans",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q136232092.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

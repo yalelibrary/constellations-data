@@ -113,7 +113,7 @@
                                     "data": {
                                         "label": "brother",
                                         "instance_of": [
-                                            "kinship"
+                                            "type of sibling"
                                         ]
                                     },
                                     "text": "brother"

@@ -1,7 +1,7 @@
 {
     "id": "Q136542420",
     "label": "James Edward Foster",
-    "biographyMarkdown": "# James Edward Foster\n## Attended Yale School of Medicine 1900-1901\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# James Edward Foster\n## Attended Yale School of Medicine 1900-1901\n\nJames Edward Foster was born in 1880 to James Foster and Jade Jones in Florence, Alabama. At some point in his childhood, Foster moved to Springfield, Massachusetts and he graduated from Springfield High School. He then enrolled at the Yale School of Medicine, studying there for the 1900-1901 school year before transferring to Howard University. He graduated from Howard University\u2019s medical department in 1904. He stayed in D.C. to complete his medical internship at Freedmen\u2019s Hospital. He eventually moved to Pennsylvania where he spent more than three decades leading his own medical practice.[^1] \n\nAccording to the Black Scranton Project, Foster was the first black physician for the city. He was renowned for his medical expertise, treating white and Black patients through the devastating influenza pandemic of 1918-1919. According to _The New York Age_, Foster was recognized for having the lowest death rate of any doctor. In April of 1923, Foster oversaw Scranton\u2019s observation of Negro Health Week. He worked alongside Scranton\u2019s Public Health office and The Embroidery Club, a Black women\u2019s branch of the Red Cross. Topics of discussion included contagious childhood diseases and home hygiene. While practicing medicine, Foster also assisted in surveying the social conditions of the Black population of Scranton. He faced racial prejudice firsthand when in 1917, he was charged by the city for \u201cbeing in the company of a white girl,\u201d but a jury decided not to move forward.[^2] \n\nFoster maintained many leadership roles within Scranton. He was a founding member of the Colored Citizens\u2019 Republican Club of Scranton in 1921 and served as its vice president. He was also a president of the Tuxedo Club and a medical examiner for the Grand United Order of Odd Fellows\u2019 Sosthenes Lodge. He was the Chancellor Commander, the presiding officer, for Scranton\u2019s Colored Knights of Pythias Lodge 57. In 1922, he oversaw the Colored Knights of Pythias State Convention in Pennsylvania. Despite receiving a warm reception from the white mayor of Scranton, Foster had to arrange tents for the nearly thousand attendees because most hotels in the area refused to house the Black delegates.[^3] \n\nFoster was also credited with starting Scranton\u2019s first Black community center, the Progressive Recreation and Social Service Association. In 1944, he married Mabel M. Menegus. Foster died on August 29, 1949, and was buried in Scranton Cathedral Cemetery.[^4] \n\nImage citation: _The Scranton Republican,_ 24 July, 1922.\n\n[^1]:*Catalogue of Yale University: 1900-1901* (New Haven: The Tuttle Morehouse & Taylor Co., 1900), 537; \u201cDiplomas For Medicos At Howard University,\u201d *The Washington Times*, May 11, 1904; *Pennsylvania Negro Business Directory, 1910*: *Industrial and Material Growth of the Negroes of Pennsylvania* (Harrisburg: Jas. H. W. Howard & Son, 1910), 81-82.  \n\n[^2]:\u201cScranton, PA.,\u201d *The New York Age*, March 13, 1920, 5; \u201cNegro Census of Scranton: Pine Street Baptist Church To Make Survey of Colored Conditions,\u201d *The Scranton Times*, August 13, 1924, 5; \u201cNegro Census of Scranton: Pine Street Baptist Church To Make Survey of Colored Conditions,\u201d *The Scranton Times*, August 13, 1924, 5; \u201cJury Ignores Bill Against Dr. Foster,\u201d *The Scranton Republican*, March 12, 1917, 11; \u201cScranton\u2019s First Black Doctor,\u201d Black Scranton Project, https://www.blackscranton.org/blog/scrantons-first-black-doctor.  \n\n[^3]:\u201cNegro Republicans Organize,\u201d *The Scranton Times*, September 5, 1921, 17; \u201cTuxedo Club Hears Interesting Speeches,\u201d *The Scranton Republican*, June 12, 1916, 11; \u201cSosthenes Lodge, G.U.O.O.F., Holds Its Annual Election,\u201d *The Scranton Times*, December 18, 1918; \u201cColored Knights of Pythias Open State Convention Today; Uniform Rank Goes Into Camp,\u201d *The Scranton Republican*, July 24, 1922, 10; \u201cPythian Order Is Growing In State, Officers Assert,\u201d _The Scranton Times_, July 25, 1922, 20. \n\n[^4]:\u201cThis Day In Local History: Sept. 29 1957 \u2013 Community Center is \u2018Democracy in Action,\u2019\u201d Black Scranton Project, https://www.blackscranton.org/blog/progressive-center-history; \"Pennsylvania, County Marriages, 1775-1991\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:VF7K-2P9 : Sat Mar 09 15:05:58 UTC 2024), Entry for James Edward Foster and Mabel M. Menegus, 02 Dec; Pennsylvania Historical and Museum Commission; Harrisburg, PA, USA; Pennsylvania (State). Death Certificates, 1906-1968; Certificate Number Range: 067501-070050. \n",
     "description": "Attended Yale School of Medicine 1900-1901",
     "properties": {
         "sex or gender": {
@@ -93,15 +93,117 @@
                 }
             ]
         },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1880"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q79743",
+                    "data": {
+                        "label": "Florence, Alabama, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.820277777778,
+                                        "longitude": -87.662777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Florence, Alabama, United States"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1949"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q49158",
+                    "data": {
+                        "label": "Springfield, Massachusetts, United States",
+                        "instance_of": [
+                            "city in the United States",
+                            "big city",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 42.112411,
+                                        "longitude": -72.547455
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Springfield, Massachusetts, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q271395",
+                    "data": {
+                        "label": "Scranton, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.408969,
+                                        "longitude": -75.6624122
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Scranton, Pennsylvania, United States"
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "James Edward Foster",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q136542420.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

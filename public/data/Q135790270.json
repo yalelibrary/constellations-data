@@ -246,7 +246,7 @@
                     "value-type": "wikibase-item",
                     "id": "Q5345817",
                     "data": {
-                        "label": "Edward Waters College",
+                        "label": "Edward Waters University",
                         "instance_of": [
                             "college",
                             "historically black college or university",
@@ -266,7 +266,7 @@
                             }
                         }
                     },
-                    "text": "Edward Waters College"
+                    "text": "Edward Waters University"
                 },
                 {
                     "value-type": "wikibase-item",
@@ -275,8 +275,7 @@
                         "label": "Albany State University",
                         "instance_of": [
                             "historically black college or university",
-                            "public educational institution of the United States",
-                            "school"
+                            "public educational institution of the United States"
                         ],
                         "properties": {
                             "coordinate location": {

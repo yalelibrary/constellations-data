@@ -326,6 +326,27 @@
                 },
                 {
                     "value-type": "wikibase-item",
+                    "id": "Q140306698",
+                    "data": {
+                        "label": "Francis Anderson Gregory",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Francis Anderson Gregory",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "child"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
                     "id": "Q16007146",
                     "data": {
                         "label": "Thomas Montgomery Gregory",

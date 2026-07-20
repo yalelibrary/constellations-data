@@ -1,0 +1,239 @@
+{
+    "id": "Q139571952",
+    "label": "Jack Herman Robinson",
+    "biographyMarkdown": "# Jack Herman Robinson \n## Graduate of Yale Divinity School, 1941 \n\nJack Herman Robinson was born on November 11, 1915, in Culpeper, Virginia to Jack Cerlester Robinson and Josephine Wells. He attended Central High School in Philadelphia where he showed interest in a legal career. In 1934, he received a Federal Emergency Relief Administration scholarship. At Virginia State, he was admitted to the Iota Sigma Lambda academic fraternity and was an honor roll student. He graduated from Virginia State College in 1938 and began attending Yale Divinity School in the same year.[^1] \n\nHe graduated from Yale Divinity School in 1941 and shared his interest in pursuing a Ph.D. at Yale with the *Philadelphia Tribune*. He was ordained as a Baptist minister by the Connecticut Council of Baptist Ministers. According to the 1950 U.S. Census, he was living in Philadelphia where he worked as a teacher and was married to Willie Beatrice Hamlet. He eventually moved to Camden, New Jersey where he served as an associate pastor for Kaighn Avenue Baptist Church. He died on October 21, 2000, in Woodbury, New Jersey and was buried in Eglington Cemetery in Clarksboro, New Jersey.[^2] \n\nImage citation: _Philadelphia Tribune_, 4 October, 1934.\n\n[^1]:\u201cFERA Scholarship,\u201d *Philadelphia Tribune*, October 4, 1934, 2; \u201c72 Virginia Staters Earn Spot on Roll,\u201d *Atlanta Daily World*, February 10, 1935, 8; \u201c5 Va. Seniors To Scholarship Frat,\u201d *The Chicago Defender*, May 28, 1938, 10; \u201cVirginia State Gives Four M.A. Degrees: Honor Rev. J. A. Russell, Miss Virginia Randolph,\u201d *New Journal and Guide*, June 11, 1938, 10.  \n\n[^2]:\u201cYale Graduate Plans Work on Ph.D. Degree,\u201d *Philadelphia Tribune*, June 26, 1941, 13; \"United States, Census, 1950\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6X17-N8FM : Fri Oct 06 20:49:34 UTC 2023), Entry for Jack H Robinson and Willie B Robinson, 1 April 1950; \u201cRev. Jack H. Robinson,\u201d *Courier-Post*, October 26, 2000.  \n",
+    "description": "Graduate of Yale Divinity School, 1941",
+    "publicationsMarkdown": "\u201cA Stickful Of Verse,\u201d *Philadelphia Tribune*, April 23, 1931, 16.  \n",
+    "properties": {
+        "sex or gender": {
+            "label": "sex or gender",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6581097",
+                    "data": {
+                        "label": "male",
+                        "instance_of": [
+                            "gender identity",
+                            "sex of humans"
+                        ]
+                    },
+                    "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1915"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "2000"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q990985",
+                    "data": {
+                        "label": "Culpeper, Virginia, United States",
+                        "instance_of": [
+                            "town of Virginia",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 38.471944444444,
+                                        "longitude": -77.999166666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Culpeper, Virginia, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7934591",
+                    "data": {
+                        "label": "Virginia State University, Petersburg, United States",
+                        "instance_of": [
+                            "public university",
+                            "land-grant university",
+                            "historically black college or university",
+                            "public educational institution of the United States",
+                            "unincorporated community"
+                        ]
+                    },
+                    "text": "Virginia State University, Petersburg, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q10723329",
+                    "data": {
+                        "label": "Yale Divinity School",
+                        "instance_of": [
+                            "seminary"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.32380555555556,
+                                        "longitude": -72.9233888888889
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Divinity School",
+                    "qualifiers": [
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1941"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q138367",
+                    "data": {
+                        "label": "Camden, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.9368,
+                                        "longitude": -75.1066
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Camden, New Jersey, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1345",
+                    "data": {
+                        "label": "Philadelphia, Pennsylvania, United States",
+                        "instance_of": [
+                            "city of Pennsylvania",
+                            "county seat",
+                            "home rule municipality of Pennsylvania",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.952777777778,
+                                        "longitude": -75.163611111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Philadelphia, Pennsylvania, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1027105",
+                    "data": {
+                        "label": "Woodbury, New Jersey, United States",
+                        "instance_of": [
+                            "city in New Jersey",
+                            "county seat"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.838055555555556,
+                                        "longitude": -75.15305555555555
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Woodbury, New Jersey, United States"
+                }
+            ]
+        },
+        "image": {
+            "label": "image",
+            "values": [
+                {
+                    "value-type": "commonsMedia",
+                    "name": "Jack Herman Robinson",
+                    "image-info": [
+                        {
+                            "url": "/data/Q139571952.jpg",
+                            "mime": "image/jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "family name": {
+            "label": "family name",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "Robinson"
+                }
+            ]
+        },
+        "decades": {
+            "label": "decades",
+            "values": [
+                {
+                    "value-type": "literal",
+                    "text": "1930s; 1940s"
+                }
+            ]
+        }
+    }
+}

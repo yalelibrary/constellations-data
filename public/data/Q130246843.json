@@ -22,7 +22,7 @@
                     "data": {
                         "label": "Elkton, Maryland, United States",
                         "instance_of": [
-                            "town in the United States",
+                            "town of Maryland",
                             "county seat"
                         ],
                         "properties": {
@@ -220,10 +220,9 @@
                     "data": {
                         "label": "Raleigh, North Carolina, United States",
                         "instance_of": [
-                            "city in the United States",
+                            "city in North Carolina",
                             "big city",
-                            "county seat",
-                            "city in North Carolina"
+                            "county seat"
                         ],
                         "properties": {
                             "coordinate location": {
@@ -246,7 +245,7 @@
                     "data": {
                         "label": "Elkton, Maryland, United States",
                         "instance_of": [
-                            "town in the United States",
+                            "town of Maryland",
                             "county seat"
                         ],
                         "properties": {

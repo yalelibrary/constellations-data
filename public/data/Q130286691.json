@@ -1,7 +1,7 @@
 {
     "id": "Q130286691",
     "label": "George Mainard Evans",
-    "biographyMarkdown": "# George Mainard Evans\n## Attended Yale Divinity School 1903\nBorn in 1876 in Charlotte, North Carolina, George Mainard (or Maynard) Evans graduated from Lincoln University in 1898. In 1903, he attended the Yale Divinity School. He then went to medical school at Meharry Medical College in Nashville, Tennessee, graduating in 1906.  He later moved to Philadelphia where he set up a practice as a physician. In 1928, he married Leonora Evans, a dressmaker. He died in 1949 in Pleasantville, New Jersey.\n",
+    "biographyMarkdown": "# George Mainard Evans\n## Attended Yale Divinity School 1903\nBorn in 1876 in Charlotte, North Carolina, George Mainard (or Maynard) Evans graduated from Lincoln University in 1898. In 1903, he attended the Yale Divinity School. He then went to medical school at Meharry Medical College in Nashville, Tennessee, graduating in 1906.  He later moved to Philadelphia where he set up a practice as a physician. In 1928, he married Leonora Evans, a dressmaker. He died in 1949 in Pleasantville, New Jersey.\n\nImage citation: *Who's Who in Colored America*, 1944\n",
     "description": "Attended Yale Divinity School 1903",
     "properties": {
         "date of birth": {
@@ -228,10 +228,10 @@
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "George Mainard Evans",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q130286691.jpg",
                             "mime": "image/jpeg"
                         }
                     ]

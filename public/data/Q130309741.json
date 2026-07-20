@@ -78,6 +78,28 @@
                 {
                     "value-type": "time",
                     "text": "1894"
+                },
+                {
+                    "value-type": "time",
+                    "text": "1894",
+                    "qualifiers": [
+                        {
+                            "label": "reason for preferred rank",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q71536040",
+                                    "data": {
+                                        "label": "most precise value",
+                                        "instance_of": [
+                                            "Wikibase reason for preferred rank"
+                                        ]
+                                    },
+                                    "text": "most precise value"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -87,6 +109,28 @@
                 {
                     "value-type": "time",
                     "text": "1993"
+                },
+                {
+                    "value-type": "time",
+                    "text": "1993",
+                    "qualifiers": [
+                        {
+                            "label": "reason for preferred rank",
+                            "values": [
+                                {
+                                    "value-type": "wikibase-item",
+                                    "id": "Q71536040",
+                                    "data": {
+                                        "label": "most precise value",
+                                        "instance_of": [
+                                            "Wikibase reason for preferred rank"
+                                        ]
+                                    },
+                                    "text": "most precise value"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -217,6 +261,27 @@
         "relative": {
             "label": "relative",
             "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q24284463",
+                    "data": {
+                        "label": "Nathan B. Young",
+                        "instance_of": [
+                            "human"
+                        ]
+                    },
+                    "text": "Nathan B. Young",
+                    "qualifiers": [
+                        {
+                            "label": "kinship to subject",
+                            "values": [
+                                {
+                                    "text": "father"
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
                     "value-type": "wikibase-item",
                     "id": "Q130228291",

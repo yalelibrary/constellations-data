@@ -1,8 +1,8 @@
 {
     "id": "Q138331379",
     "label": "Plummer David Jacobs",
-    "biographyMarkdown": "# Plummer David Jacobs\n## Attended Yale Divinity School 1927-1928\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n\nImage citation: Baltimore _Afro-American_, 14 January 1928.\n",
-    "description": "Attended Yale Divinity School 1927-1928",
+    "biographyMarkdown": "# Plummer David Jacobs\n## Attended Yale Divinity School 1926-1927 \n\nPlummer David Jacobs was born on May 10, 1897, to Solomon and Elizabeth Jacobs in Dudley, North Carolina. During the First World War, Jacobs served in the 151st Depot Brigade and the 63rd Pioneer Infantry Regiment. He was discharged from the army in December 1918. After the war, according to the 1920 U.S. Census, Jacobs lived with his widowed mother and siblings while working at a machine shop. He soon attended Talladega College where he was a member of the Alpha Beta Chapter of Alpha Phi Alpha. He graduated from Talladega College in 1926 where he spoke at commencement.[^1] \n\nAfter his graduation from Talladega, Jacobs attended Yale Divinity School for the 1926-1927 school year. While in New Haven, he was an assistant minister for the Dixwell Avenue Congregational Church. He moved to New York City where he attended Renouard Training School for Embalmers, graduating in 1928. He later settled in Indianapolis, Indiana, where he began pastoring at Jones Tabernacle Church with Stephen Gill Spotswood, another early Black Yale student. In 1929, he became director of the J.T.V. Hill Memorial Settlement, a community center for Black residents of Indianapolis. In 1930, he supported the establishment of the Iota Lambda chapter of Alpha Phi Alpha.[^2]   \n\nTogether with his brother, Cary Duval Jacobs, they opened Jacobs Brother Funeral Home in Indianapolis. In 1971, he was recognized as funeral director of the year. Jacobs also began serving as associate pastor at Mount Paran Baptist Church in 1930 and would serve the church for 49 years. He also taught at Fox Lake Sunday School. Throughout his lifetime, Jacobs was affiliated with several organizations. He was a mason, affiliated with Waterford Lodge 13 of Prince Hall Grand Lodge of Indiana. He was a member of the Indianapolis branch of the NAACP and served on their advisory board. He was also a member of the Indiana Funeral Directors Association, Hoosier State Funeral Directors Association, and National Funeral Directors Association. He died on April 12, 1980, and was buried in First Congregational Church Cemetery in Dudley.[^3] \n\nImage citation: Baltimore _Afro-American_, 14 January 1928.\n\n[^1]:\"North Carolina, Department of Archives and History, Index to Vital Records, 1800-2000\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:7FS9-W6PZ: Sat Jun 01 00:44:45 UTC 2024), Entry for Plummer David Jacobs and Solomon Jacobs, 10 May 1897; \"North Carolina, World War I Service Cards, 1917-1919\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:Q2H2-FBBT: Fri Mar 13 16:41:39 UTC 2026), Entry for Plummer D Jacobs, 01 Sep 1918; \"United States, Census, 1920\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MZJC-PVB: Wed Jan 15 06:29:17 UTC 2025), Entry for Lizzie Jacobs and Lou Jacobs, 1920; \u201cAlpha Beta Chapter,\u201d _The Sphinx_ 11, no. 2 (1925), 32; \u201c59th Anniversary At Talladega College,\u201d _The New York Age_, June 12, 1926, 3.  \n\n[^2]:\u201cRenouard Awards Diplomas,\u201d The Casket and Sunnyside 58, no. 2 (1928), 5; \u201cNegro Artist Of City Wins Exhibit Honor: \u2018Fighting Bob\u2019 Bradby to Speak Here Sunday; Other News of Negro Circles,\u201d _The Indianapolis Times_, January 11, 1929, 30; \u201cF.L. Mack New Head At Brookside Shops,\u201d Indianapolis Star, January 25, 1929, 22; \u201cIota Lambda Starts With Renewed Efforts,\u201d _The Sphinx_ 16, no. 1 (1930), 43.  \n\n[^3]:\u201cFormal Opening and Dedication of\u2014Jacobs Bros. Funeral Home,\u201d _The Indianapolis Recorder_, October 29, 1938, 8; \u201cPrograms Honor Anniversary Of Rev. A.D. Devashir,\u201d _The Anderson Herald_, August 20, 1939, 18; \u201cPrograms Honor Anniversary Of Rev. A.D. Devashir,\u201d _The Anderson Herald_, August 20, 1939, 18; \u201cRites close Rev. Jacobs\u2019 50-year affiliation with Mt. Paran Church,\u201d _The Indianapolis Recorder_, April 19, 1980, 1; https://www.findagrave.com/memorial/245160203/plummer-d-jacobs. \n",
+    "description": "Attended Yale Divinity School 1926-1927",
     "properties": {
         "sex or gender": {
             "label": "sex or gender",
@@ -84,6 +84,94 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q7680006",
+                    "data": {
+                        "label": "Talladega College",
+                        "instance_of": [
+                            "school",
+                            "historically black college or university",
+                            "private not-for-profit educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 33.4321,
+                                        "longitude": -86.1133
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Talladega College"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6346",
+                    "data": {
+                        "label": "Indianapolis, Indiana, United States",
+                        "instance_of": [
+                            "county seat",
+                            "city in the United States",
+                            "planned community",
+                            "big city",
+                            "consolidated city-county"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.768611111111,
+                                        "longitude": -86.158055555556
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Indianapolis, Indiana, United States"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q60",
+                    "data": {
+                        "label": "New York City, New York, United States",
+                        "instance_of": [
+                            "global city",
+                            "port city",
+                            "city in the United States",
+                            "city",
+                            "big city",
+                            "largest city",
+                            "city in the state of New York",
+                            "metropolis",
+                            "megacity"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 40.71277777777778,
+                                        "longitude": -74.00611111111111
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "New York City, New York, United States"
                 }
             ]
         },

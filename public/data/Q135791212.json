@@ -1,7 +1,7 @@
 {
     "id": "Q135791212",
     "label": "Alphonso Primius Dawkins",
-    "biographyMarkdown": "# Alphonso Primius Dawkins\n## Attended Yale College 1905-1906\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n",
+    "biographyMarkdown": "# Alphonso Primius Dawkins\n## Attended Yale College 1905-1906\n\nAlphonso Primius Dawkins was born on July 2, 1878, in Carlisle, South Carolina to Charner Dawkins and Laura Ann Cannon. He attended Ferguson Academy and Harbison College in Abbeville, South Carolina before enrolling at Lincoln University.  He competed in a junior oration contest at Lincoln University in 1904. He graduated from Lincoln University in 1905 where he spoke at commencement on the Civil War. He enrolled at Yale University as a sophomore in the same year.[^1] \n\nHe lived at 72 Edgewood Avenue in New Haven with fellow 1905 graduates of Lincoln University Walter Keene and Wiliam Emmanuel Hendrickson. He also lived with Stephen Alexander Bennett, who was enrolled as a graduate student at Yale. Under the Sophomore Tutorial System, he and Keene were under the supervision of Assistant Professor Charles Upson Clark. Dawkins worked as an usher for the Yale-Princeton football game on November 18, 1905. He returned home to Carlisle after the 1905-1906 school year and died on July 21, 1906. He was buried in Paradise AME Church Cemetery in Union, South Carolina.[^2]  \n\n[^1]: \u201cClosing Scenes: Commencement Exercises of Ferguson Academy,\u201d *The Abbeville Press and Banner*, 5; \u201cJubilee Commencement: Lincoln University Celebrates and Also Graduates\u2014Addresses by Alumni\u2014Distinguished Guests,\u201d *The Oxford Press*, May 19, 1904, 5; \u201cCollegiate Commencement,\u201d *Lincoln University Herald* 10, no. 1, 4. \"United States, Census, 1900\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:M3TR-44N: Tue Jun 10 21:31:47 UTC 2025), Entry for Charner Dawkins and Laurann Dawkins, 1900. \n\n[^2]: \u201cSophomore Tutorial System: List of Members of 1908 Assigned to the Sixteen Supervisors,\u201d *Yale Daily News*, November 10, 1905, 1; \u201cUshers For November 18th: List of Men Who Will Serve In This Capacity In the Yale-Princeton Game,\u201d *Yale Daily News*, November 15, 1905, 1; *History of the Class of 1908: Yale College*, vol. 2 (New Haven: Yale University, 1914), 335; https://www.findagrave.com/memorial/209865532/alphonso-p.-dawkins\n\n",
     "description": "Attended Yale College 1905-1906",
     "properties": {
         "sex or gender": {
@@ -18,6 +18,137 @@
                         ]
                     },
                     "text": "male"
+                }
+            ]
+        },
+        "date of birth": {
+            "label": "date of birth",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1878"
+                }
+            ]
+        },
+        "date of death": {
+            "label": "date of death",
+            "values": [
+                {
+                    "value-type": "time",
+                    "text": "1906"
+                }
+            ]
+        },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q742898",
+                    "data": {
+                        "label": "Carlisle, South Carolina, United States",
+                        "instance_of": [
+                            "town in the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 34.591666666667,
+                                        "longitude": -81.464444444444
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Carlisle, South Carolina, United States"
+                }
+            ]
+        },
+        "educated at": {
+            "label": "educated at",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1143289",
+                    "data": {
+                        "label": "Yale Law School",
+                        "instance_of": [
+                            "law school",
+                            "academic publisher"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 41.311581,
+                                        "longitude": -72.928147
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Yale Law School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1905"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1906"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q4570781",
+                    "data": {
+                        "label": "Lincoln University",
+                        "instance_of": [
+                            "public university",
+                            "historically black college or university",
+                            "public educational institution of the United States"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": 39.808333333333,
+                                        "longitude": -75.927777777778
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lincoln University"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q139695758",
+                    "data": {
+                        "label": "Harbison College",
+                        "instance_of": [
+                            "school"
+                        ]
+                    },
+                    "text": "Harbison College"
                 }
             ]
         },

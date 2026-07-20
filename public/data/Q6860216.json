@@ -1,7 +1,7 @@
 {
     "id": "Q6860216",
     "label": "Milner Langa Kabane",
-    "biographyMarkdown": "# Milner Langa Kabane\n## Attended Yale Graduate School\n\nResearch is currently being conducted about this student. A more complete profile will be available soon.\n\n",
+    "biographyMarkdown": "# Milner Langa Kabane\n## Attended Yale Graduate School\n\nMilner Lagna Kabane was born on June 18, 1900, near Gcuwa (also known as Butterworth), South Africa. His father was William Kabane, a Wesleyan minister. He received a pupil-teacher qualification from Healdtown Methodist Training School before matriculating to Fort Hare. In 1925, he graduated from the University of Fort Hare with a bachelors degree. In 1929, he married Helena Villa Mgudlwa, a fellow teacher. Prior to his admission to at Yale, Kabane was the head of Lovedale College. He was met with resistance from his white colleagues but continued to lead the school, which played a significant role in cultivating Black leaders in South Africa.[^1] \n\nKabane studied at Yale Graduate School for the 1934-1935 school year after receiving a Carnegie Fellowship. After attending Yale, he moved to the Orange Free State (a precursor to the Free State province of South Africa) and taught at the Bloemfontein Bantu High School. Kabane would later become the president of the Orange Free State African Teachers\u2019 Association. He participated in the All-African Convention, held in Bloemfontein. He, along with other members of the African National Congress, wrote a bill of rights and Black South African response to the Atlantic Charter. The sub-committee that authored the report included other South African students who attended Yale, namely Zachariah Keodirelang Matthews and Selby Bangani Ngcabo. The document expressed the desire of Black South Africans for rights and connected their claims to the aspirations of the Atlantic Charter.[^2] \n\nKabane died in 1945 in Bloemfontein. In 2017, the South African Government posthumously awarded Kabane the Order of the Baobab. The government recognized his \u201ccontribution to the field of education and the upliftment of the black community during the struggle for liberation.\u201d[^3] \n\nImage citation: From the program for the Presentation of National Orders, 28 April 2017 (https://www.presidency.gov.za/sites/default/files/2022-07/National%20Orders%20Booklet%202017_0.pdf); original source unknown.\n\n[^1]:Alexander Kerr, Fort Hare, 1915-48: The Evolution of an African College (New York: Humanities Press, 1968), 133; \"South Africa, Civil Marriage Records, 1801-1974\", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6ZHR-KNV4 : Sun Mar 10 03:27:26 UTC 2024), Entry for Milne Langa Kabane and Helena Villa Mgudlwa, 9 Jan 1929; Simthandile Ford, \u201cOrders honours for Eastern Cape recipients,\u201d The Herald, May 1, 2017.  \n\n[^2]:Francis Wilson and Dominique Perrot, eds., *Outlook on a Century: South Africa, 1870-1970* (Braamfontein: Lovedale Press, 1972), 578; https://www.anc1912.org.za/africans-claims-in-south-africa/.  \n\n[^3]:\u201cMr Milner Langa Kabane (Posthumous),\u201d www.presidency.gov.za/mr-milner-langa-kabane-posthumous-0. \n\n \n\n",
     "description": "Attended Yale Graduate School",
     "properties": {
         "sex or gender": {
@@ -56,6 +56,58 @@
                         }
                     },
                     "text": "University of Fort Hare"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q5690204",
+                    "data": {
+                        "label": "Healdtown Comprehensive School",
+                        "instance_of": [],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -32.731944444444444,
+                                        "longitude": 26.705
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Healdtown Comprehensive School"
+                },
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q59724352",
+                    "data": {
+                        "label": "Yale University Graduate School",
+                        "instance_of": [
+                            "scholarly article"
+                        ]
+                    },
+                    "text": "Yale University Graduate School",
+                    "qualifiers": [
+                        {
+                            "label": "start time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1934"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "end time",
+                            "values": [
+                                {
+                                    "value-type": "time",
+                                    "text": "1935"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -68,15 +120,103 @@
                 }
             ]
         },
+        "place of birth": {
+            "label": "place of birth",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q1018158",
+                    "data": {
+                        "label": "Butterworth, Eastern Cape, Mnquma Local Municipality, South Africa",
+                        "instance_of": [
+                            "town"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -32.333333333333,
+                                        "longitude": 28.15
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Butterworth, Eastern Cape, Mnquma Local Municipality, South Africa"
+                }
+            ]
+        },
+        "residence": {
+            "label": "residence",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q37701",
+                    "data": {
+                        "label": "Bloemfontein, Mangaung Metropolitan Municipality, South Africa",
+                        "instance_of": [
+                            "city",
+                            "big city",
+                            "judicial capital"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -29.1,
+                                        "longitude": 26.216666666667
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Bloemfontein, Mangaung Metropolitan Municipality, South Africa"
+                }
+            ]
+        },
+        "employer": {
+            "label": "employer",
+            "values": [
+                {
+                    "value-type": "wikibase-item",
+                    "id": "Q6692063",
+                    "data": {
+                        "label": "Lovedale",
+                        "instance_of": [
+                            "Christian mission",
+                            "human settlement",
+                            "educational institution"
+                        ],
+                        "properties": {
+                            "coordinate location": {
+                                "label": "coordinate location",
+                                "values": [
+                                    {
+                                        "value-type": "globe-coordinate",
+                                        "latitude": -32.775,
+                                        "longitude": 26.839
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "text": "Lovedale"
+                }
+            ]
+        },
         "image": {
             "label": "image",
             "values": [
                 {
                     "value-type": "commonsMedia",
-                    "name": "No Image Available",
+                    "name": "Milner Langa Kabane",
                     "image-info": [
                         {
-                            "url": "/data/noimage.jpg",
+                            "url": "/data/Q6860216.jpg",
                             "mime": "image/jpeg"
                         }
                     ]
